@@ -1,0 +1,72 @@
+//번호	파일명	위치좌표				
+texture_index	file_name	x	y	width	height	FieldEnd
+1	Data\Interface\sword.tga	0	0	128	256	
+//Soul ultimate nation						
+2	Data\Interface\soul_0002.dds	0	0	512	128	
+3	Data\Interface\soul_0003.dds	0	0	512	128	
+4	Data\Interface\soul_0004.dds	0	0	512	128	
+5	Data\Interface\soul_0005.dds	0	0	512	128	
+6	Data\Interface\soul_0006.dds	0	0	512	128	
+7	Data\Interface\soul_0007.dds	0	0	512	128	
+8	Data\Interface\soul_0008.dds	0	0	512	128	
+9	Data\Interface\soul_0009.dds	0	0	512	128	
+10	Data\Interface\soul_0010.dds	0	0	512	128	
+11	Data\Interface\soul_0011.dds	0	0	512	128	
+12	Data\Interface\soul_0012.dds	0	0	512	128	
+13	Data\Interface\soul_0013.dds	0	0	512	128	
+14	Data\Interface\soul_0014.dds	0	0	512	128	
+15	Data\Interface\soul_0015.dds	0	0	512	128	
+16	Data\Interface\soul_0016.dds	0	0	512	128	
+17	Data\Interface\soul_0017.dds	0	0	512	128	
+18	Data\Interface\soul_0018.dds	0	0	512	128	
+19	Data\Interface\soul_0019.dds	0	0	512	128	
+20	Data\Interface\soul_0020.dds	0	0	512	128	
+// 에피소드						
+30	Data\Interface\reborn_0000.tga	0	0	512	64	
+31	Data\Interface\reborn_0001.tga	0	0	512	64	
+32	Data\Interface\reborn_0002.tga	0	0	512	64	
+33	Data\Interface\reborn_0003.tga	0	0	512	64	
+34	Data\Interface\reborn_0004.tga	0	0	512	64	
+35	Data\Interface\reborn_0005.tga	0	0	512	64	
+36	Data\Interface\reborn_0006.tga	0	0	512	64	
+37	Data\Interface\reborn_0007.tga	0	0	512	64	
+38	Data\Interface\reborn_0008.tga	0	0	512	64	
+39	Data\Interface\reborn_0009.tga	0	0	512	64	
+40	Data\Interface\reborn_0010.tga	0	0	512	64	
+41	Data\Interface\reborn_0011.tga	0	0	512	64	
+50	Data\Interface\reborn_add_0000.tga	0	0	256	64	
+51	Data\Interface\reborn_add_0001.tga	0	0	256	64	
+52	Data\Interface\reborn_add_0002.tga	0	0	256	64	
+53	Data\Interface\reborn_add_0003.tga	0	0	256	64	
+54	Data\Interface\reborn_add_0004.tga	0	0	256	64	
+55	Data\Interface\reborn_add_0005.tga	0	0	256	64	
+56	Data\Interface\reborn_add_0006.tga	0	0	256	64	
+57	Data\Interface\reborn_add_0007.tga	0	0	256	64	
+58	Data\Interface\reborn_add_0008.tga	0	0	256	64	
+59	Data\Interface\reborn_add_0009.tga	0	0	256	64	
+60	Data\Interface\reborn_add_0010.tga	0	0	256	64	
+61	Data\Interface\reborn_add_0011.tga	0	0	256	64	
+62	Data\Interface\reborn_add_0012.tga	0	0	256	64	
+63	Data\Interface\reborn_add_0013.tga	0	0	256	64	
+64	Data\Interface\reborn_add_0014.tga	0	0	256	64	
+65	Data\Interface\reborn_add_0015.tga	0	0	256	64	
+66	Data\Interface\reborn_add_0016.tga	0	0	256	64	
+67	Data\Interface\reborn_add_0017.tga	0	0	256	64	
+68	Data\Interface\reborn_add_0018.tga	0	0	256	64	
+69	Data\Interface\reborn_add_0019.tga	0	0	256	64	
+70	Data\Interface\reborn_add_0020.tga	0	0	256	64	
+// 트리메뉴 아이콘은 10000 부터 시작	
+10000	Data\Interface\Tree_Icon.tga	0	0	20	20		// 큰 체크버튼 Off
+10001	Data\Interface\Tree_Icon.tga	20	0	20	20		// 큰 체크버튼 On
+10002	Data\Interface\Tree_Icon.tga	40	0	20	20		// 폴더 +
+10003	Data\Interface\Tree_Icon.tga	60	0	20	20		// 폴더 -
+10004	Data\Interface\Tree_Icon.tga	80	0	20	20		// 없음
+10005	Data\Interface\Tree_Icon.tga	100	0	20	20		// 작은 체크크버튼 Off
+10006	Data\Interface\Tree_Icon.tga	120	0	20	20		// 작음 체크버튼 On
+10007	Data\Interface\Tree_Icon.tga	140	0	20	20		// disable 자물쇄
+10008	Data\Interface\Tree_Icon.tga	0	20	160	20		// 선택 커서
+// 명예시스템
+10021	Data\Interface\40_6_List_popup.tga	0	0	462	32		// 명성/평판수치 - 기본
+10022	Data\Interface\40_6_List_popup.tga	0	32	462	32		// 명성/평판수치 - 오버
+10023	Data\Interface\40_6_List_popup.tga	0	64	462	32		// 명성/평판수치 - 선택
+10024	Data\Interface\40_6_List_popup.tga	0	96	166	16		// 명성/평판수치 - 게이지

@@ -1,0 +1,348 @@
+//번호	파일명	위치좌표					
+texture_index	file_name	x	y	width	height	FieldEnd	
+1	Data\Interface\sword.tga	0	0	128	256		
+//Soul ultimate nation							
+2	Data\Interface\soul_0002.dds	0	0	512	128		
+3	Data\Interface\soul_0003.dds	0	0	512	128		
+4	Data\Interface\soul_0004.dds	0	0	512	128		
+5	Data\Interface\soul_0005.dds	0	0	512	128		
+6	Data\Interface\soul_0006.dds	0	0	512	128		
+7	Data\Interface\soul_0007.dds	0	0	512	128		
+8	Data\Interface\soul_0008.dds	0	0	512	128		
+9	Data\Interface\soul_0009.dds	0	0	512	128		
+10	Data\Interface\soul_0010.dds	0	0	512	128		
+11	Data\Interface\soul_0011.dds	0	0	512	128		
+12	Data\Interface\soul_0012.dds	0	0	512	128		
+13	Data\Interface\soul_0013.dds	0	0	512	128		
+14	Data\Interface\soul_0014.dds	0	0	512	128		
+15	Data\Interface\soul_0015.dds	0	0	512	128		
+16	Data\Interface\soul_0016.dds	0	0	512	128		
+17	Data\Interface\soul_0017.dds	0	0	512	128		
+18	Data\Interface\soul_0018.dds	0	0	512	128		
+19	Data\Interface\soul_0019.dds	0	0	512	128		
+20	Data\Interface\soul_0020.dds	0	0	512	128		
+// 에피소드							
+30	Data\Interface\reborn_0000.tga	0	0	512	64		
+31	Data\Interface\reborn_0001.tga	0	0	512	64		
+32	Data\Interface\reborn_0002.tga	0	0	512	64		
+33	Data\Interface\reborn_0003.tga	0	0	512	64		
+34	Data\Interface\reborn_0004.tga	0	0	512	64		
+35	Data\Interface\reborn_0005.tga	0	0	512	64		
+36	Data\Interface\reborn_0006.tga	0	0	512	64		
+37	Data\Interface\reborn_0007.tga	0	0	512	64		
+38	Data\Interface\reborn_0008.tga	0	0	512	64		
+39	Data\Interface\reborn_0009.tga	0	0	512	64		
+40	Data\Interface\reborn_0010.tga	0	0	512	64		
+41	Data\Interface\reborn_0011.tga	0	0	512	64		
+							
+50	Data\Interface\reborn_add_0000.tga	0	0	256	64		
+51	Data\Interface\reborn_add_0001.tga	0	0	256	64		
+52	Data\Interface\reborn_add_0002.tga	0	0	256	64		
+53	Data\Interface\reborn_add_0003.tga	0	0	256	64		
+54	Data\Interface\reborn_add_0004.tga	0	0	256	64		
+55	Data\Interface\reborn_add_0005.tga	0	0	256	64		
+56	Data\Interface\reborn_add_0006.tga	0	0	256	64		
+57	Data\Interface\reborn_add_0007.tga	0	0	256	64		
+58	Data\Interface\reborn_add_0008.tga	0	0	256	64		
+59	Data\Interface\reborn_add_0009.tga	0	0	256	64		
+60	Data\Interface\reborn_add_0010.tga	0	0	256	64		
+61	Data\Interface\reborn_add_0011.tga	0	0	256	64		
+62	Data\Interface\reborn_add_0012.tga	0	0	256	64		
+63	Data\Interface\reborn_add_0013.tga	0	0	256	64		
+64	Data\Interface\reborn_add_0014.tga	0	0	256	64		
+65	Data\Interface\reborn_add_0015.tga	0	0	256	64		
+66	Data\Interface\reborn_add_0016.tga	0	0	256	64		
+67	Data\Interface\reborn_add_0017.tga	0	0	256	64		
+68	Data\Interface\reborn_add_0018.tga	0	0	256	64		
+69	Data\Interface\reborn_add_0019.tga	0	0	256	64		
+70	Data\Interface\reborn_add_0020.tga	0	0	256	64		
+							
+// 트리메뉴 아이콘은 10000 부터 시작							
+10000	Data\Interface\Tree_Icon.tga	0	0	20	20		// 큰 체크버튼 Off
+10001	Data\Interface\Tree_Icon.tga	20	0	20	20		// 큰 체크버튼 On
+10002	Data\Interface\Tree_Icon.tga	40	0	20	20		// 폴더 +
+10003	Data\Interface\Tree_Icon.tga	60	0	20	20		// 폴더 -
+10004	Data\Interface\Tree_Icon.tga	80	0	20	20		// 없음
+10005	Data\Interface\Tree_Icon.tga	100	0	20	20		// 작은 체크크버튼 Off
+10006	Data\Interface\Tree_Icon.tga	120	0	20	20		// 작음 체크버튼 On
+10007	Data\Interface\Tree_Icon.tga	140	0	20	20		// disable 자물쇄
+10008	Data\Interface\Tree_Icon.tga	80	40	72	20		// 선택 커서
+10009	Data\Interface\Tree_Icon.tga	0	62	112	11		// 옵션 아이템 게이지
+10010	Data\Interface\Tree_Icon.tga	80	40	72	20		// 옵션 카테고리 배경
+// 명예시스템							
+10021	Data\Interface\40_6_List_popup.tga	0	0	462	32		// 명성/평판수치 - 기본
+10022	Data\Interface\40_6_List_popup.tga	0	32	462	32		// 명성/평판수치 - 오버
+10023	Data\Interface\40_6_List_popup.tga	0	64	462	32		// 명성/평판수치 - 선택
+10024	Data\Interface\40_6_List_popup.tga	0	96	166	16		// 명성/평판수치 - 게이지
+//트리메뉴아이콘2							
+10030	Data\Interface\Common_bg02.tga	0	709	237	32		//base background
+10031	Data\Interface\Common_bg02.tga	0	741	237	32		//over background
+10032	Data\Interface\Common_bg02.tga	0	773	237	32		//select background
+10033	Data\Interface\Common_bg02.tga	237	691	221	16		//gauge1
+10034	Data\Interface\Common_bg02.tga	237	707	221	16		//gauge2
+10035	Data\Interface\Common_bg02.tga	0	684	42	20		//gauge2
+//몬스터북							
+6100	Data\Icon\MonsterBook\1004.tga	0	0	48	48		
+6101	Data\Icon\MonsterBook\1016.tga	0	0	48	48		
+6102	Data\Icon\MonsterBook\1036.tga	0	0	48	48		
+6103	Data\Icon\MonsterBook\1167.tga	0	0	48	48		
+6104	Data\Icon\MonsterBook\34702.tga	0	0	48	48		
+6105	Data\Icon\MonsterBook\38301.tga	0	0	48	48		
+6106	Data\Icon\MonsterBook\38306.tga	0	0	48	48		
+6107	Data\Icon\MonsterBook\25701.tga	0	0	48	48		
+6108	Data\Icon\MonsterBook\64169.tga	0	0	48	48		
+6109	Data\Icon\MonsterBook\2004.tga	0	0	48	48		
+6110	Data\Icon\MonsterBook\2001.tga	0	0	48	48		
+6111	Data\Icon\MonsterBook\2132.tga	0	0	48	48		
+6112	Data\Icon\MonsterBook\2141.tga	0	0	48	48		
+6113	Data\Icon\MonsterBook\1254.tga	0	0	48	48		
+6114	Data\Icon\MonsterBook\1258.tga	0	0	48	48		
+6115	Data\Icon\MonsterBook\1263.tga	0	0	48	48		
+6116	Data\Icon\MonsterBook\1272.tga	0	0	48	48		
+6117	Data\Icon\MonsterBook\1454.tga	0	0	48	48		
+6118	Data\Icon\MonsterBook\1459.tga	0	0	48	48		
+6119	Data\Icon\MonsterBook\1513.tga	0	0	48	48		
+6120	Data\Icon\MonsterBook\36551.tga	0	0	48	48		
+6121	Data\Icon\MonsterBook\38326.tga	0	0	48	48		
+6122	Data\Icon\MonsterBook\38316.tga	0	0	48	48		
+6123	Data\Icon\MonsterBook\1455.tga	0	0	48	48		
+6124	Data\Icon\MonsterBook\36532.tga	0	0	48	48		
+6125	Data\Icon\MonsterBook\36533.tga	0	0	48	48		
+6126	Data\Icon\MonsterBook\36534.tga	0	0	48	48		
+6127	Data\Icon\MonsterBook\36535.tga	0	0	48	48		
+6128	Data\Icon\MonsterBook\25111.tga	0	0	48	48		
+6129	Data\Icon\MonsterBook\25112.tga	0	0	48	48		
+6130	Data\Icon\MonsterBook\25721.tga	0	0	48	48		
+6131	Data\Icon\MonsterBook\36681.tga	0	0	48	48		
+6132	Data\Icon\MonsterBook\36684.tga	0	0	48	48		
+6133	Data\Icon\MonsterBook\2007.tga	0	0	48	48		
+6134	Data\Icon\MonsterBook\2006.tga	0	0	48	48		
+6135	Data\Icon\MonsterBook\1604.tga	0	0	48	48		
+6136	Data\Icon\MonsterBook\2111.tga	0	0	48	48		
+6137	Data\Icon\MonsterBook\2112.tga	0	0	48	48		
+6138	Data\Icon\MonsterBook\1612.tga	0	0	48	48		
+6139	Data\Icon\MonsterBook\1616.tga	0	0	48	48		
+6140	Data\Icon\MonsterBook\1808.tga	0	0	48	48		
+6141	Data\Icon\MonsterBook\38331.tga	0	0	48	48		
+6142	Data\Icon\MonsterBook\34761.tga	0	0	48	48		
+6143	Data\Icon\MonsterBook\38335.tga	0	0	48	48		
+6144	Data\Icon\MonsterBook\32100.tga	0	0	48	48		
+6145	Data\Icon\MonsterBook\38337.tga	0	0	48	48		
+6146	Data\Icon\MonsterBook\34774.tga	0	0	48	48		
+6147	Data\Icon\MonsterBook\34775.tga	0	0	48	48		
+6148	Data\Icon\MonsterBook\34776.tga	0	0	48	48		
+6149	Data\Icon\MonsterBook\34777.tga	0	0	48	48		
+6150	Data\Icon\MonsterBook\34780.tga	0	0	48	48		
+6151	Data\Icon\MonsterBook\34787.tga	0	0	48	48		
+6152	Data\Icon\MonsterBook\34789.tga	0	0	48	48		
+6153	Data\Icon\MonsterBook\32126.tga	0	0	48	48		
+6154	Data\Icon\MonsterBook\26829.tga	0	0	48	48		
+6155	Data\Icon\MonsterBook\25711.tga	0	0	48	48		
+6156	Data\Icon\MonsterBook\2008.tga	0	0	48	48		
+6157	Data\Icon\MonsterBook\2009.tga	0	0	48	48		
+6158	Data\Icon\MonsterBook\2172.tga	0	0	48	48		
+6159	Data\Icon\MonsterBook\2003.tga	0	0	48	48		
+6160	Data\Icon\MonsterBook\26890.tga	0	0	48	48		
+6161	Data\Icon\MonsterBook\36602.tga	0	0	48	48		
+6162	Data\Icon\MonsterBook\36604.tga	0	0	48	48		
+6163	Data\Icon\MonsterBook\36605.tga	0	0	48	48		
+6164	Data\Icon\MonsterBook\38356.tga	0	0	48	48		
+6165	Data\Icon\MonsterBook\38357.tga	0	0	48	48		
+6166	Data\Icon\MonsterBook\963.tga	0	0	48	48		
+6167	Data\Icon\MonsterBook\964.tga	0	0	48	48		
+6168	Data\Icon\MonsterBook\25137.tga	0	0	48	48		
+6169	Data\Icon\MonsterBook\25138.tga	0	0	48	48		
+6170	Data\Icon\MonsterBook\25717.tga	0	0	48	48		
+6171	Data\Icon\MonsterBook\2010.tga	0	0	48	48		
+6172	Data\Icon\MonsterBook\2011.tga	0	0	48	48		
+6173	Data\Icon\MonsterBook\361.tga	0	0	48	48		
+6174	Data\Icon\MonsterBook\363.tga	0	0	48	48		
+6175	Data\Icon\MonsterBook\365.tga	0	0	48	48		
+6176	Data\Icon\MonsterBook\350.tga	0	0	48	48		
+6177	Data\Icon\MonsterBook\36631.tga	0	0	48	48		
+6178	Data\Icon\MonsterBook\36633.tga	0	0	48	48		
+6179	Data\Icon\MonsterBook\36635.tga	0	0	48	48		
+6180	Data\Icon\MonsterBook\36643.tga	0	0	48	48		
+6181	Data\Icon\MonsterBook\36649.tga	0	0	48	48		
+6182	Data\Icon\MonsterBook\36650.tga	0	0	48	48		
+6183	Data\Icon\MonsterBook\38374.tga	0	0	48	48		
+6184	Data\Icon\MonsterBook\34843.tga	0	0	48	48		
+6185	Data\Icon\MonsterBook\34841.tga	0	0	48	48		
+6186	Data\Icon\MonsterBook\530.tga	0	0	48	48		
+6187	Data\Icon\MonsterBook\532.tga	0	0	48	48		
+6188	Data\Icon\MonsterBook\528.tga	0	0	48	48		
+6189	Data\Icon\MonsterBook\555.tga	0	0	48	48		
+6190	Data\Icon\MonsterBook\2013.tga	0	0	48	48		
+6191	Data\Icon\MonsterBook\2014.tga	0	0	48	48		
+6192	Data\Icon\MonsterBook\1859.tga	0	0	48	48		
+6193	Data\Icon\MonsterBook\1864.tga	0	0	48	48		
+6194	Data\Icon\MonsterBook\1880.tga	0	0	48	48		
+6195	Data\Icon\MonsterBook\1884.tga	0	0	48	48		
+6196	Data\Icon\MonsterBook\2506.tga	0	0	48	48		
+6197	Data\Icon\MonsterBook\708.tga	0	0	48	48		
+6198	Data\Icon\MonsterBook\684.tga	0	0	48	48		
+6199	Data\Icon\MonsterBook\686.tga	0	0	48	48		
+6200	Data\Icon\MonsterBook\689.tga	0	0	48	48		
+6201	Data\Icon\MonsterBook\692.tga	0	0	48	48		
+6202	Data\Icon\MonsterBook\753.tga	0	0	48	48		
+6203	Data\Icon\MonsterBook\755.tga	0	0	48	48		
+6204	Data\Icon\MonsterBook\756.tga	0	0	48	48		
+6205	Data\Icon\MonsterBook\715.tga	0	0	48	48		
+6206	Data\Icon\MonsterBook\724.tga	0	0	48	48		
+6207	Data\Icon\MonsterBook\727.tga	0	0	48	48		
+6208	Data\Icon\MonsterBook\728.tga	0	0	48	48		
+6209	Data\Icon\MonsterBook\826.tga	0	0	48	48		
+6210	Data\Icon\MonsterBook\830.tga	0	0	48	48		
+6211	Data\Icon\MonsterBook\847.tga	0	0	48	48		
+6212	Data\Icon\MonsterBook\848.tga	0	0	48	48		
+6213	Data\Icon\MonsterBook\849.tga	0	0	48	48		
+6214	Data\Icon\MonsterBook\850.tga	0	0	48	48		
+6215	Data\Icon\MonsterBook\851.tga	0	0	48	48		
+6216	Data\Icon\MonsterBook\852.tga	0	0	48	48		
+6217	Data\Icon\MonsterBook\853.tga	0	0	48	48		
+6218	Data\Icon\MonsterBook\855.tga	0	0	48	48		
+6219	Data\Icon\MonsterBook\2016.tga	0	0	48	48		
+6220	Data\Icon\MonsterBook\2216.tga	0	0	48	48		
+6221	Data\Icon\MonsterBook\2018.tga	0	0	48	48		
+6222	Data\Icon\MonsterBook\1893.tga	0	0	48	48		
+6223	Data\Icon\MonsterBook\1905.tga	0	0	48	48		
+6224	Data\Icon\MonsterBook\1908.tga	0	0	48	48		
+6225	Data\Icon\MonsterBook\1898.tga	0	0	48	48		
+6226	Data\Icon\MonsterBook\1984.tga	0	0	48	48		
+6227	Data\Icon\MonsterBook\1989.tga	0	0	48	48		
+6228	Data\Icon\MonsterBook\1994.tga	0	0	48	48		
+6229	Data\Icon\MonsterBook\3007.tga	0	0	48	48		
+6230	Data\Icon\MonsterBook\3018.tga	0	0	48	48		
+6231	Data\Icon\MonsterBook\1928.tga	0	0	48	48		
+6232	Data\Icon\MonsterBook\894.tga	0	0	48	48		
+6233	Data\Icon\MonsterBook\916.tga	0	0	48	48		
+6234	Data\Icon\MonsterBook\4018.tga	0	0	48	48		
+6235	Data\Icon\MonsterBook\2030.tga	0	0	48	48		
+6236	Data\Icon\MonsterBook\2031.tga	0	0	48	48		
+6237	Data\Icon\MonsterBook\2402.tga	0	0	48	48		
+6238	Data\Icon\MonsterBook\2412.tga	0	0	48	48		
+6239	Data\Icon\MonsterBook\2019.tga	0	0	48	48		
+6240	Data\Icon\MonsterBook\3040.tga	0	0	48	48		
+6241	Data\Icon\MonsterBook\3045.tga	0	0	48	48		
+6242	Data\Icon\MonsterBook\4101.tga	0	0	48	48		
+6243	Data\Icon\MonsterBook\4106.tga	0	0	48	48		
+6244	Data\Icon\MonsterBook\4109.tga	0	0	48	48		
+6245	Data\Icon\MonsterBook\4234.tga	0	0	48	48		
+6246	Data\Icon\MonsterBook\4239.tga	0	0	48	48		
+6247	Data\Icon\MonsterBook\4244.tga	0	0	48	48		
+6248	Data\Icon\MonsterBook\4061.tga	0	0	48	48		
+6249	Data\Icon\MonsterBook\4062.tga	0	0	48	48		
+6250	Data\Icon\MonsterBook\4135.tga	0	0	48	48		
+6251	Data\Icon\MonsterBook\4149.tga	0	0	48	48		
+6252	Data\Icon\MonsterBook\4294.tga	0	0	48	48		
+6253	Data\Icon\MonsterBook\4298.tga	0	0	48	48		
+6254	Data\Icon\MonsterBook\2032.tga	0	0	48	48		
+6255	Data\Icon\MonsterBook\2033.tga	0	0	48	48		
+6256	Data\Icon\MonsterBook\2413.tga	0	0	48	48		
+6257	Data\Icon\MonsterBook\4418.tga	0	0	48	48		
+6258	Data\Icon\MonsterBook\4427.tga	0	0	48	48		
+6259	Data\Icon\MonsterBook\4356.tga	0	0	48	48		
+6260	Data\Icon\MonsterBook\4357.tga	0	0	48	48		
+6261	Data\Icon\MonsterBook\4358.tga	0	0	48	48		
+6262	Data\Icon\MonsterBook\4359.tga	0	0	48	48		
+6263	Data\Icon\MonsterBook\6438.tga	0	0	48	48		
+6264	Data\Icon\MonsterBook\6499.tga	0	0	48	48		
+6265	Data\Icon\MonsterBook\6500.tga	0	0	48	48		
+6266	Data\Icon\MonsterBook\6501.tga	0	0	48	48		
+6267	Data\Icon\MonsterBook\6506.tga	0	0	48	48		
+6268	Data\Icon\MonsterBook\6504.tga	0	0	48	48		
+6269	Data\Icon\MonsterBook\6505.tga	0	0	48	48		
+6270	Data\Icon\MonsterBook\6503.tga	0	0	48	48		
+6271	Data\Icon\MonsterBook\64170.tga	0	0	48	48		
+6272	Data\Icon\MonsterBook\64171.tga	0	0	48	48		
+6273	Data\Icon\MonsterBook\64172.tga	0	0	48	48		
+6274	Data\Icon\MonsterBook\64173.tga	0	0	48	48		
+6275	Data\Icon\MonsterBook\64174.tga	0	0	48	48		
+6276	Data\Icon\MonsterBook\64175.tga	0	0	48	48		
+6277	Data\Icon\MonsterBook\64176.tga	0	0	48	48		
+6278	Data\Icon\MonsterBook\64177.tga	0	0	48	48		
+6279	Data\Icon\MonsterBook\64178.tga	0	0	48	48		
+6280	Data\Icon\MonsterBook\64179.tga	0	0	48	48		
+6281	Data\Icon\MonsterBook\64183.tga	0	0	48	48		
+6282	Data\Icon\MonsterBook\64184.tga	0	0	48	48		
+6283	Data\Icon\MonsterBook\868.tga	0	0	48	48		
+6508	Data\Icon\MonsterBook\869.tga	0	0	48	48		
+6534	Data\Icon\MonsterBook\870.tga	0	0	48	48		
+6534	Data\Icon\MonsterBook\871.tga	0	0	48	48		
+6535	Data\Icon\MonsterBook\872.tga	0	0	48	48		
+6536	Data\Icon\MonsterBook\873.tga	0	0	48	48		
+6536	Data\Icon\MonsterBook\873.tga	0	0	48	48		
+6537	Data\Icon\MonsterBook\6774.tga	0	0	48	48		
+6538	Data\Icon\MonsterBook\6775.tga	0	0	48	48		
+6539	Data\Icon\MonsterBook\6776.tga	0	0	48	48		
+6540	Data\Icon\MonsterBook\6777.tga	0	0	48	48		
+6541	Data\Icon\MonsterBook\6778.tga	0	0	48	48		
+6542	Data\Icon\MonsterBook\6779.tga	0	0	48	48		
+6543	Data\Icon\MonsterBook\6780.tga	0	0	48	48		
+6544	Data\Icon\MonsterBook\6428.tga	0	0	48	48		
+6545	Data\Icon\MonsterBook\6435.tga	0	0	48	48		
+6546	Data\Icon\MonsterBook\6436.tga	0	0	48	48		
+6547	Data\Icon\MonsterBook\6437.tga	0	0	48	48		
+6548	Data\Icon\MonsterBook\6431.tga	0	0	48	48		
+6549	Data\Icon\MonsterBook\60050.tga	0	0	48	48		
+6550	Data\Icon\MonsterBook\60051.tga	0	0	48	48		
+6551	Data\Icon\MonsterBook\60052.tga	0	0	48	48		
+6552	Data\Icon\MonsterBook\60053.tga	0	0	48	48		
+6553	Data\Icon\MonsterBook\60054.tga	0	0	48	48		
+6554	Data\Icon\MonsterBook\60055.tga	0	0	48	48		
+6555	Data\Icon\MonsterBook\60069.tga	0	0	48	48		
+6556	Data\Icon\MonsterBook\407.tga	0	0	48	48		
+6557	Data\Icon\MonsterBook\65211.tga	0	0	48	48		
+6558	Data\Icon\MonsterBook\7215.tga	0	0	48	48		
+6559	Data\Icon\MonsterBook\7220.tga	0	0	48	48		
+6560	Data\Icon\MonsterBook\7242.tga	0	0	48	48		
+6561	Data\Icon\MonsterBook\6429.tga	0	0	48	48		
+6562	Data\Icon\MonsterBook\60075.tga	0	0	48	48		
+6563	Data\Icon\MonsterBook\4376.tga	0	0	48	48		
+6564	Data\Icon\MonsterBook\4377.tga	0	0	48	48		
+//SUN랭킹							
+6565	Data\Interface\Common_bg01.tga	614	411	40	40		// 버서커 클래스 이미지
+6566	Data\Interface\Common_bg01.tga	654	411	40	40		// 드래곤나이트 클래스 이미지
+6567	Data\Interface\Common_bg01.tga	694	411	40	40		// 섀도우 클래스 이미지
+6568	Data\Interface\Common_bg01.tga	734	411	40	40		// 발키리 클래스 이미지
+6569	Data\Interface\Common_bg01.tga	774	411	40	40		// 엘리멘탈리스트 클래스 이미지
+6570	Data\Interface\Common_bg01.tga	814	411	40	40		// 미스틱 클래스 이미지
+6571	Data\Interface\Common_bg01.tga	947	748	40	40		// 헬로이드 클래스 이미지
+6572	Data\Interface\Common_bg02.tga	788	280	40	40		// 위치블레이드 클래스 이미지
+6573	Data\Interface\Common_bg03.tga	5	5	472	51		// 내 랭킹 슬롯 배경
+6574	Data\Interface\Common_bg03.tga	5	62	457	51		// 랭킹 슬롯 배경
+//빙고볼							
+6575	Data\Icon\element\Events\Bingo_01.dds	0	0	32	32		
+6576	Data\Icon\element\Events\Bingo_02.dds	0	0	32	32		
+6577	Data\Icon\element\Events\Bingo_03.dds	0	0	32	32		
+6578	Data\Icon\element\Events\Bingo_04.dds	0	0	32	32		
+6579	Data\Icon\element\Events\Bingo_05.dds	0	0	32	32		
+6580	Data\Icon\element\Events\Bingo_06.dds	0	0	32	32		
+6581	Data\Icon\element\Events\Bingo_07.dds	0	0	32	32		
+6582	Data\Icon\element\Events\Bingo_08.dds	0	0	32	32		
+6583	Data\Icon\element\Events\Bingo_09.dds	0	0	32	32		
+6584	Data\Icon\element\Events\Bingo_10.dds	0	0	32	32		
+6585	Data\Icon\element\Events\Bingo_11.dds	0	0	32	32		
+6586	Data\Icon\element\Events\Bingo_12.dds	0	0	32	32		
+6587	Data\Icon\element\Events\Bingo_13.dds	0	0	32	32		
+6588	Data\Icon\element\Events\Bingo_14.dds	0	0	32	32		
+6589	Data\Icon\element\Events\Bingo_15.dds	0	0	32	32		
+6590	Data\Icon\element\Events\Bingo_16.dds	0	0	32	32		
+6591	Data\Icon\element\Events\Bingo_17.dds	0	0	32	32		
+6592	Data\Icon\element\Events\Bingo_18.dds	0	0	32	32		
+6593	Data\Icon\element\Events\Bingo_19.dds	0	0	32	32		
+6594	Data\Icon\element\Events\Bingo_20.dds	0	0	32	32		
+6595	Data\Icon\element\Events\Bingo_21.dds	0	0	32	32		
+6596	Data\Icon\element\Events\Bingo_22.dds	0	0	32	32		
+6597	Data\Icon\element\Events\Bingo_23.dds	0	0	32	32		
+6598	Data\Icon\element\Events\Bingo_24.dds	0	0	32	32		
+6599	Data\Icon\element\Events\Bingo_25.dds	0	0	32	32		
+6600	Data\Interface\Common_bg03.tga	714	0	32	32		
+6601	Data\Interface\Common_bg03.tga	844	0	180	12		
+6602	Data\Interface\Common_bg03.tga	834	13	176	176		
+6603	Data\Interface\Common_bg03.tga	836	200	177	176		
+6604	Data\Interface\Common_bg03.tga	1012	13	12	181		
+//도감추가
+6605	Data\Icon\MonsterBook\2420.tga	0	0	48	48		
+6606	Data\Icon\MonsterBook\4470.tga	0	0	48	48		
+6607	Data\Icon\MonsterBook\4526.tga	0	0	48	48		
