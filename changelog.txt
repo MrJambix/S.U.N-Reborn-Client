@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-18] update | The login screen now reads REBORN in place of Limited Edition
+
 [2026-08-18] update | Paladin (class 9): model, default armour, starting lance, icons and class strings. Launcher: create pack directories and hold one pack handle per run.
 
 [2026-08-18] update | Paladin (class 9). Launcher: create pack directories, and hold one pack handle for the whole run instead of reopening per file.
