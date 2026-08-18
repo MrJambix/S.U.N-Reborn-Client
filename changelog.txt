@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-18] update | Wing and weapon costumes: 83 wing skins and 20 weapon skins are now separate costume items wearable by any class; the Japanese and Chinese weapons work as weapons again
+
 [2026-08-18] update | Wing and weapon costumes: 20 weapon skins and 5 wing skins can now be worn from the inventory as display-only costumes
 
 [2026-08-17] fix | Fixed chat: the Enter key would not open the chat box
