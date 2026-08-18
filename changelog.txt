@@ -1,0 +1,37 @@
+# S.U.N Reborn -- client changelog.
+#
+# This is the source file for the launcher's Changelog tab. It is maintained by
+# hand; Server\tools\make-feeds.ps1 copies it into the patch payload, and
+# make-patch.ps1 -Note "..." prepends an entry for you when you publish.
+#
+# Where the two tabs differ: News is the server-side story (events, rule
+# changes, announcements) and comes from the website. This is what changed in
+# the files on the player's disk.
+#
+# Format -- newest first, one block per entry:
+#
+#     [YYYY-MM-DD] tag | Title
+#     A paragraph.
+#     - A bullet
+#
+# tag is one of update / fix / event / announcement, and is optional.
+# Keep it ASCII: the launcher draws with the ANSI text calls, and make-feeds.ps1
+# will fold anything fancier down to '?'.
+
+FORMAT 1
+
+[2026-08-17] update | The launcher has a face
+The launcher no longer patches in silence and disappear. It opens a window first, so you can see what is about to happen to your install before it happens.
+- News and Changelog tabs, pulled from the patch repo and cached, so they still read when the server is unreachable
+- One button that tells you the truth: PLAY when your client matches the patch list, UPDATE when it does not
+- The update count and download size are shown before you commit to it, and a progress bar while it runs
+- Updating flips the button back to PLAY without a restart
+- Everything still degrades to PLAY. No patch server, no network, a bad manifest -- you get a note in the status line and the game starts anyway
+
+[2026-08-17] update | Client updates without a 2.8 GB re-download
+The client keeps almost everything in one 5 GB pack file, which used to mean that changing a single reward table meant republishing the entire install.
+Launcher.exe now checks a patch list on startup and fetches only the files that actually changed.
+- Script data lands in a Patch\ folder that shadows the pack, so your Resource.wpk is never touched and a bad patch cannot corrupt the install
+- Program files and loose text are replaced directly
+- Art and other engine-side assets are injected into the pack and read back to verify before the launcher moves on
+- Every file is checked against a SHA-256 from the patch list, both before it is installed and on later launches, so a half-finished download repairs itself next time
