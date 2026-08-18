@@ -33527,7 +33527,6 @@ start
 48799	Thank you very much with SUN for the year 2015\n\nThis badge is a time-limited items available until April 07, 2016 Periodic inspection.
 48831	Thank you very much with SUN for the year 2015\n\nThis badge is a time-limited items available until March 10, 2016 Periodic inspection.
 48838	Thank you very much with SUN for the year 2015\n\nThis badge is a time-limited items available until February 18, 2016 Periodic inspection.
-end
 70800	Berserker Wings
 70801	Dragon Knight Wings
 70802	Shadow Wings
@@ -33643,3 +33642,4 @@ end
 405001	W-Coin Voucher (100)
 405002	Credits 100 W-Coin (c) to your ACCOUNT the moment you buy it.\nNothing is placed in your bag - reopen the Cash Shop to see the new balance.
 405003	Account Item
+end

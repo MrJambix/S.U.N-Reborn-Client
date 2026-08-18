@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-18] update | Inventory Sort: a new button on the inventory window merges duplicate stacks and packs your bag to the front, grouped by item type; also available on the expanded inventory view
+
 [2026-08-18] update | The login screen now reads REBORN in place of Limited Edition
 
 [2026-08-18] update | Paladin (class 9): model, default armour, starting lance, icons and class strings. Launcher: create pack directories and hold one pack handle per run.
