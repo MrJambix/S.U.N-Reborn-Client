@@ -33633,3 +33633,7 @@ end
 70977	Weapon Costume 18
 70978	Weapon Costume 19
 70979	Weapon Costume 20
+59000	"Sort Inventory\n\nMerges stacks of the same item, then packs everything to the front of your bag grouped by type."
+59001	Inventory sorted. (%d items moved, %d stacks merged)
+59002	Your inventory is already sorted.
+59003	You cannot sort your inventory again just yet.

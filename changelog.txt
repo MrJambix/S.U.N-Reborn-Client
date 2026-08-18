@@ -20,6 +20,12 @@
 
 FORMAT 1
 
+[2026-08-18] update | Sort Inventory: a new button in your bag merges stacks of the same item and packs everything to the front, grouped by type
+
+[2026-08-18] fix | Quest markers: monsters you still need for a quest now show the area they spawn in on the minimap and the world map, and the off-map markers point at the right monster again
+
+[2026-08-18] update | Paladin (class 9): model, armour, lances and icons; ninth race/class button on the creation screen.
+
 [2026-08-18] update | Wing and weapon costumes: 83 wing skins and 20 weapon skins are now separate costume items wearable by any class; the Japanese and Chinese weapons work as weapons again
 
 [2026-08-18] update | Wing and weapon costumes: 20 weapon skins and 5 wing skins can now be worn from the inventory as display-only costumes
