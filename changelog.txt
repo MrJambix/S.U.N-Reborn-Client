@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-17] fix | Fixed chat: the Enter key would not open the chat box
+
 [2026-08-17] update | The launcher has a face
 The launcher no longer patches in silence and disappear. It opens a window first, so you can see what is about to happen to your install before it happens.
 - News and Changelog tabs, pulled from the patch repo and cached, so they still read when the server is unreachable
