@@ -1,0 +1,6 @@
+# Patch payload: bytes must reach players exactly as published.
+#
+# The launcher verifies every file against a SHA-256 taken before upload.
+# Without this, git would rewrite CRLF to LF in the text payloads and every
+# one of them would fail that check forever. Do not remove.
+* -text
