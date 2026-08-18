@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-18] update | Wing and weapon costumes: 20 weapon skins and 5 wing skins can now be worn from the inventory as display-only costumes
+
 [2026-08-17] fix | Fixed chat: the Enter key would not open the chat box
 
 [2026-08-17] update | The launcher has a face
