@@ -1,11 +1,11 @@
 # S.U.N Reborn patch manifest
-# generated 2026-08-19 11:07:32 by make-patch.ps1 -- do not hand-edit
+# generated 2026-08-19 11:15:35 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
 PATCH 2026-08-19
 script 117861f0a0b11aebc9476c9e85477f59765fb29d2a09efd9a90bae4df97ba46a 23033 Data\Attendance.txt
 script 9e2a7d19e8f7e3046590b91f93e4f2f57b71ddc3f385ed78ab4626b8d35a074a 463282 Data\RewardInfoList.txt
-loose 9eb4ced4c4cc9584e0d0ea7343ab70ebc56421f4136b5a58a2675ca577094f08 8048128 Sungame.exe
+loose 008530b1078e2ef3bf79fc2d0e3ab9afff15a9dd307b1301121348321c2305b2 8058880 Sungame.exe
 loose 7fb43af203f20a02bcc74d6251cc2de7852ffb4a04f7cdea20d7fcef426f2083 1092096 Launcher.exe
 script d7f2826efce03977259e83e7af154d08b9d643d408283b3eabd9378490c5eb82 980309 Data\ChargeIteminfo.txt
 script cfdb0f7e81288a78840b9c0c1c09e5e66e99ba503660a89c954a718c3b632034 3271837 Data\ArmorItemInfo.txt

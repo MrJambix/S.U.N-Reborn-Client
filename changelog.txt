@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-19] fix | Options: "Select Other Players" is now turned on by default, so clicking another player to talk, trade or invite them works without changing any setting first
+
 [2026-08-19] fix | Fixed the game option that could leave you unable to select, trade with, or add other players. It is now labelled 'Select Other Players'.
 
 [2026-08-18] update | Quest markers: clicking the circle on the map now walks you to the quest area
