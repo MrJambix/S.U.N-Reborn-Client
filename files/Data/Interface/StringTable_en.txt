@@ -26194,7 +26194,7 @@ start
 2859	Zoom Out
 2860	Block Transactions
 2861	Block Whispers
-2862	Block Selected Player
+2862	Select Other Players
 2863	Block channel invitation
 2864	Scale Interface
 2865	BGM

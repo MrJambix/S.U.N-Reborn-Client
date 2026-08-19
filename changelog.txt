@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-19] fix | Fixed the game option that could leave you unable to select, trade with, or add other players. It is now labelled 'Select Other Players'.
+
 [2026-08-18] update | Quest markers: clicking the circle on the map now walks you to the quest area
 
 [2026-08-18] fix | Login screen: the Reborn wordmark is redrawn - even letter spacing, all six letters on one baseline, and a frame that fits the word
