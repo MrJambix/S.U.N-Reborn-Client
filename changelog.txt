@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-18] fix | The login screen now shows the Reborn wordmark, and data updates delivered with a patch actually take effect instead of being ignored
+
 [2026-08-18] update | The launcher now keeps checking for updates the whole time it is open, instead of only once at startup
 
 [2026-08-18] update | Inventory Sort: a new button on the inventory window merges duplicate stacks and packs your bag to the front, grouped by item type; also available on the expanded inventory view
