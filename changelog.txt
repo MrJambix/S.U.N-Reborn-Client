@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-18] update | Quest markers: clicking the circle on the map now walks you to the quest area
+
 [2026-08-18] fix | Login screen: the Reborn wordmark is redrawn - even letter spacing, all six letters on one baseline, and a frame that fits the word
 
 [2026-08-18] fix | The login screen now shows the Reborn wordmark, and data updates delivered with a patch actually take effect instead of being ignored
