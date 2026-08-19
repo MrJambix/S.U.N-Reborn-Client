@@ -33642,6 +33642,8 @@ start
 59001	Inventory sorted. (%d items moved, %d stacks merged)
 59002	Your inventory is already sorted.
 59003	You cannot sort your inventory again just yet.
+59010	Online
+59011	The online list was just refreshed. Try again in a moment.
 12829	Returning Hero's
 204715	[E-7] Anuket
 204716	[E-7.5] Anuket of Ambition

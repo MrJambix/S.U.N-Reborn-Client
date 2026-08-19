@@ -33636,6 +33636,8 @@ start
 59001	Inventory sorted. (%d items moved, %d stacks merged)
 59002	Your inventory is already sorted.
 59003	You cannot sort your inventory again just yet.
+59010	Online
+59011	The online list was just refreshed. Try again in a moment.
 404039	A sacred race that has protected the Moraine royal family for so long that even the beginning of history cannot be remembered. Known as the 'Spear of Dawn,' the Arcana were essentially the heart of the Moraine Kingdom. However, after falling into deep despair upon witnessing the royal family walk the path of corruption, having forgotten their sacred oath, they vanished from the world. Now, after thousands of years, as the world is consumed by chaos and despair due to 'Ignis,' they have reappeared as if it were only natural. Sensing the crisis of the world, they are no longer bound by the despair of the past and have taken up their spears once more to become true guardians.
 404040	The tip of their spears that punish evil was like the dawn's light piercing through darkness, and their protecting people with warm light was like a steadfast shield. Thus, people named them Paladins, who suddenly appeared along with the schemes of Ignis. At times ruthless judges, at times devoted guardians, wherever the spear of light can reach, they will appear and protect the world.
 404529	Paladin
