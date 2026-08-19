@@ -1,11 +1,11 @@
 # S.U.N Reborn patch manifest
-# generated 2026-08-18 20:06:24 by make-patch.ps1 -- do not hand-edit
+# generated 2026-08-18 20:37:48 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
 PATCH 2026-08-18
 script 117861f0a0b11aebc9476c9e85477f59765fb29d2a09efd9a90bae4df97ba46a 23033 Data\Attendance.txt
 script 9e2a7d19e8f7e3046590b91f93e4f2f57b71ddc3f385ed78ab4626b8d35a074a 463282 Data\RewardInfoList.txt
-loose a2eae7e57b702f623a7dbd0b856edca1e5076daa3ad316d10e2f046d8d96dddc 8045056 Sungame.exe
+loose 77ef62a80b93d8dcabd2cef5d3ff7241ff2c8da497546eba28f3604411e109dc 8045056 Sungame.exe
 loose 7fb43af203f20a02bcc74d6251cc2de7852ffb4a04f7cdea20d7fcef426f2083 1092096 Launcher.exe
 script 02ea41e407fdd2e4ea5a34b69cf6a90ac3c24996efb69dc096a3a2964221148e 976226 Data\ChargeIteminfo.txt
 loose 59359854885df1ab9a9baeb21f3a52a951e033af813099584629e47bf186e156 1496379 StringTable.txt
@@ -14,6 +14,7 @@ script 93c4ada5b8ef7bd0dc46d994d050cba41c146634370ef86c04b61ef238e6e0a0 811635 D
 script 0884cdbfa7807f04329ca23589aac10be269f8605d71df71136b1cb3a9b6a514 5065 Data\HeroVariationInfo.txt
 script 86932aee79c5affabb4450f0acc11e004823cb03af5251c113aac84988c60bc7 861 Data\NewChaCreation.txt
 script d597a85679cc3ba72e11739816886de7851f9b192ee79193c5373247124f1b10 1334 Data\InitCharInfoList.txt
+script 999479dcee39c9378f350de37957c702c237bbabdb2b38ca1ec53e4e8210fe43 11169 Data\SSQinfo.txt
 pack a846d378cb337549eb00517e52f2dbfe27a41e65506d9f1bb2b90f6c35b353d4 107357 Data\Armor\Paladin\A000\2016_X-Mas_Pal_Santa.WZM
 pack cbe543640e4cb5dcc75e5853945fb4c46a9f976db3ecc141c97afac50ecd4477 442 Data\Armor\Paladin\A000\2016_X-Mas_Pal_Santa.WZU
 pack 3043c7ec217bc4423cd92379210476e07ed94ac4c67bd5cc7d240e0f2013d3b5 57853 Data\Armor\Paladin\A000\2016_X-Mas_Pal_Santa_1.wzm
@@ -415,3 +416,4 @@ pack 681bfccb01369908362be13be67301585361e494c7266c46a07661d755e53010 30463 Data
 pack be8e37ca645ca5e7102da146a974cbe64e3c1af6695b5b6a000a79b79aaae775 1944 Data\Weapon\Paladin\W001\w_pal_01_lance.WZU
 pack e9b6c3f67b936554d5541e86437827339bdda04898b4f117bd2eddf87abaa533 16193 Data\Weapon\Paladin\W001\w_pal_01_lance_1.wzm
 pack 271ac15f5c125e1e3154bc8c567bd4b842b394160a790b57f5392c1484cbdafe 7235 Data\Weapon\Paladin\W001\w_pal_01_lance_2.wzm
+pack a056225868a58bed2954901438c7830decaf0dca103cb98d6574abf88e8d6f8c 8388652 Data\Interface\Common_bg02.tga
