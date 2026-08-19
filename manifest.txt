@@ -1,11 +1,11 @@
 # S.U.N Reborn patch manifest
-# generated 2026-08-19 11:15:35 by make-patch.ps1 -- do not hand-edit
+# generated 2026-08-19 11:49:29 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
 PATCH 2026-08-19
 script 117861f0a0b11aebc9476c9e85477f59765fb29d2a09efd9a90bae4df97ba46a 23033 Data\Attendance.txt
 script 9e2a7d19e8f7e3046590b91f93e4f2f57b71ddc3f385ed78ab4626b8d35a074a 463282 Data\RewardInfoList.txt
-loose 008530b1078e2ef3bf79fc2d0e3ab9afff15a9dd307b1301121348321c2305b2 8058880 Sungame.exe
+loose 17705ed782e8338f929260d4bd93149db00f578baa092a5b6ee8bc3c518b3153 8058880 Sungame.exe
 loose 7fb43af203f20a02bcc74d6251cc2de7852ffb4a04f7cdea20d7fcef426f2083 1092096 Launcher.exe
 script d7f2826efce03977259e83e7af154d08b9d643d408283b3eabd9378490c5eb82 980309 Data\ChargeIteminfo.txt
 script cfdb0f7e81288a78840b9c0c1c09e5e66e99ba503660a89c954a718c3b632034 3271837 Data\ArmorItemInfo.txt
@@ -533,3 +533,5 @@ pack b5317194729c4cbeca31b2daf47826a200ec4baa4eae3c8ec973b14639316a29 2748 Data\
 pack 71e5e6e6e43e1118963f55c5264f484c224e0ad19c9a13b73de72dfab3194223 2019 Data\Weapon\Paladin\W030\w_pal_30_lance_in.wzu
 pack e9d6d187963dbae29aedda783fc4a4083c8a9bb70a8f4718ec9ec5e325156f7b 2019 Data\Weapon\Paladin\W030\w_pal_30a_lance.wzu
 pack c638b55564b8f0d6a95c84f9a90d79e46edf31f6fd63367f936dda431b2b95f1 2736 Data\Weapon\Paladin\W035\w_pal_35_lance.wzu
+loose adadc12f7a9a6b6356032337ded7e58697c718f083c0f1a18f2943fefdc33140 32741 StringTableForProgram.txt
+loose adadc12f7a9a6b6356032337ded7e58697c718f083c0f1a18f2943fefdc33140 32741 StringTableForProgram_en.txt

@@ -1,0 +1,820 @@
+start
+70000	For smoother game play, please try connecting again.
+70001	Disconnected from chat server.
+70002	Server disconnected. [%d]
+70003	Server restarting.  Please try again later.
+70004	Game server connection failed.
+70005	World server connection failed.
+70006	Level up!
+70007	%s has leveled up.
+70008	Character name already exists.
+70009	Maximum number of characters reached.
+70010	Please enter the room title.
+70011	No character selected.
+70012	No character to delete.
+70013	Please enter character's name.
+70014	Please enter account.
+70015	Please enter password.
+70016	Already logged in.
+70017	Please try again later.
+70018	Please select server.
+70019	Please enter amount.
+70020	Please enter numbers only.
+70021	Player's attack failed.
+70022	You cannot use that word.
+70023	Guild does not exist.
+70024	Item acquired: [%s]
+70025	Item purchased: [%s]
+70026	Item enchant is successful: %s
+70027	%s option added successfully.
+70028	Heim acquired: [%d]
+70029	Unable to find user.
+70030	Unable to find room information.
+70031	Skill unsuccessful.
+70032	Participate in selected mission.
+70033	Skill information unavailable.  Please try again later.
+70034	Current situation prevents you from attacking an enemy.
+70035	Coolldown time is not finished.
+70036	Not enough HP or MP to use the selected skill.
+70037	Wrong skill information. Please try again later.
+70038	Wrong class information. Please try again later.
+70039	Unable to use on an armed weapon.
+70040	Level is low.
+70041	Lack of proficiency.
+70042	Frozen Shield will be used.
+70043	Wind Shield will be used.
+70044	Magic Shield will be used.
+70045	Failed to create character.
+70046	Failed to delete character.
+70047	Wrong field information. Please try again later.
+70048	Unable to use that weapon type.
+70049	Weapon equip successful.
+70050	[/Whisper] [Character Name] [Message]
+70051	Current version needs updating.
+70052	Wrong style. Please try again.
+70053	Failed to apply style. Please try again.
+70054	Wrong style. Please try again.
+70055	Weapon and style do not match.
+70056	Style change successful.
+70057	Skill is not supported. Please try again.
+70058	Cannot teleport to this region.
+70059	%s skill will be used.
+70060	[%s] is inviting you to join the party.
+70061	Do you accept?
+70062	Remaining time... (%d)
+70063	Trade requested.
+70064	Do you want to insert a socket on %s?
+70065	Please select item to deposit.
+70066	Please select item to withdraw.
+70067	Name
+70068	Type
+70069	Map
+70070	Limit Type
+70071	Members
+70072	Creator
+70073	Date
+70074	L
+70075	H
+70076	M
+70077	ScreenShot%04d.JPG
+70078	Attack failed. Please try again.
+70079	Account:
+70080	%s background description
+70081	%s feature description
+70082	%s basic status description
+70083	%s : %d Heim
+70084	Remaining time
+70085	Hour
+70086	Minute
+70087	Second
+70088	Please click the item to enchant.
+70089	Please click item to which the socket option will be added.
+70090	Please confirm the temporary inventory!
+70091	Congratulations! You hit the jackpot!!!
+70100	Failed
+70101	Success
+70102	Not in state to use selected action.
+70103	Unable to add to selected location.
+70104	Selected slot is already filled.
+70105	Item does not exist.
+70106	Wrong item information. Please try again.
+70107	Inventory is full.
+70108	Unable to perform relevant action. Please try again later.
+70109	Cannot drop here.
+70110	Unknown error has occurred(2) Please report to GM.
+70111	Unknown error has occurred(3) Please report to GM.
+70112	Invalid item. Please try again.
+70113	Not a consumable item.
+70114	Unknown error has occurred(4) Please report to GM.
+70115	Shop does not carry this item.
+70116	Not enough Heim.
+70117	No vacant slots.
+70118	Not enough space.
+70119	Unknown error has occurred(5) Please report to GM.
+70120	Not a valid location.
+70121	Enchant succeeded.
+70122	Enchant failed.
+70123	Material required for enchanting is missing.
+70124	Incorrect item status. Please report to a GM.
+70125	Rank Up failed.
+70126	Unable to add more options.
+70127	Socket option removal successful.
+70128	Socket option removal failed.
+70130	Unable to add to the selected slot.
+70131	Slot is not empty.
+70132	This item cannot be enchanted.
+70133	For advanced enchants, please visit the Crafting NPC.
+70134	Target item has no available sockets.
+70135	Rank Up is not possible for this item.
+70136	This item has already been selected.
+70137	The two items must be of identical type.
+70138	The two items must be of identical rank.
+70139	No authority.
+70140	No authority.
+70141	No authority.
+70142	You must invite another player.
+70143	Please use the command '/invite character name' in the chat window.
+70144	No authority.
+70145	It is possible to leave.
+70146	Select item to buy.
+70147	Select item to sell.
+70148	Select item to repair.
+70149	All items will be repaired.
+70150	Already agreed or has not proposed a trade yet.
+70151	Already have proposed or agreed to trade.
+70152	Trading
+70153	Offer Complete
+70154	Complete
+70155	Trade Complete
+70156	Offer
+70157	Trade cancelled.
+70158	No player is selected.
+70159	Request trade with [%s]. 
+70160	[%s] have requested to trade.
+70161	Nothing left to revise.
+70162	Trade Complete
+70163	Trade failed
+70164	Trade cancelled.
+70165	Not enough space.
+70166	Player lacks sufficient space.
+70167	Heim offered is insufficient.
+70168	Heim offered by other player is insufficient.
+70169	Trade failed.
+70170	%s: Unknown error. Please report to GM.
+70171	Player refused trade.
+70172	Trade cancelled.
+70173	Trade cancelled.
+70174	Trade offered.
+70175	Player has offered to trade.
+70176	Revise trade.
+70177	Player is revising the trade offer.
+70178	Trade accepted.
+70179	Player has agreed to trade.
+70180	Trade completed.
+70181	Damage: 000 ~ 999
+70182	None
+70183	Enter your sales message
+70184	Open '%s' private shop.
+70185	Close '%s' private shop.
+70186	Exclude item
+70187	Could not start private shop.
+70188	Could not close private shop.
+70189	Could not revise item price of private shop.
+70190	Could not delete item in private shop.
+70191	Could not input item in private shop.
+70192	No skill animation. Please report to GM.
+70193	No attack target for object %d or attack is canceled.
+70194	Failed to configure Observer Mode.
+70195	Failed to retrieve character information.
+70196	Socket option removed successfully.
+70197	Socket option removal failed.
+70198	No socket has been used.
+70199	No socket option to remove.
+70200	This is not a socket item.
+70201	Insufficient required materials.
+70202	Room Host
+70203	Party Leader
+70204	%s
+70205	Use after selecting a target.
+70206	Use after selecting a target.
+70207	Incorrect parameter.
+70208	Incorrect number of items.
+70209	Amount is out of range.
+70210	Error in numerical value of level up.
+70211	Error in numerical value of stats up
+70212	Error in numerical value of skill point.
+70213	/set_fogparam R G B fogstart fogend maxfograte
+70214	/set_lightparam R G B lightx lighty lightz
+70215	/invite [Character Name]
+70216	/trade [Opponent character name]
+70217	You are now using an indoor light source.
+70218	You are now using an outdoor light source.
+70219	%s has changed to %s style.
+70220	Failed to change style. Please try again.
+70221	[%s] has hit the jackpot.
+70222	Physical Def.
+70223	Magical Def.
+70224	Restores certain amount of HP.
+70225	Used for item crafting.
+70226	Required %s : %d
+70227	Required %s for Next level : %d
+70228	Required skill point : %d
+70229	Next level skill point : %d
+70230	Required weapon
+70231	Cooldown time: %d seconds
+70232	Used MP: %d
+70233	Required level: %d
+70234	Next required level: %d
+70235	Wrong Help Number.
+70236	Able to save up to 10,000 screenshot files.
+70237	Saved as %s file.
+70238	ScreenShot\
+70239	Failed to create hunting room.
+70240	Failed to create mission room.
+70241	Failed to join mission room.
+70242	Preparing
+70243	Waiting for the other players to get ready.
+70244	Minimum number of players not reached.
+70245	Maximum number of players reached.
+70246	Failed to return to character select window.
+70247	Map version incorrect.
+70248	Failed to join hunting room.
+70249	Berserk
+70250	Combat
+70251	Dragonic
+70252	Offensive
+70253	Summon
+70254	Ether
+70255	Circle
+70256	Retrieving character information.
+70257	Failed to resurrect!
+70258	You have been logged out from the authentication server!
+70259	Hacking has been detected!
+70260	Authentication key does not match.
+70261	Versions do not match. Please update.
+70262	Unable to find selected user!
+70263	Unable to get character list.
+70264	Failed to enter village!
+70265	Please type in "Delete" to make sure to remove your character.
+70266	This area cannot be selected.
+70267	Out of range.
+70268	Skill requirement not met.
+70269	This is area of effect skill!! Click to designate an area!!
+70270	Item created : [%s] 
+70271	Reward : [%s] 
+70272	GM: Invincibility On
+70273	GM: Invincibility Off
+70274	On
+70275	Off
+70276	A problem has occurred due to emergency maintenance (or a temporary failure).\nPlease try reconnecting for smoother game play.\nWe apologize for the inconvenience.
+70277	Disconnected from world server.\n\nProblems occurred by multiple log-ins of the account or temporary difficulties.\n\nProgram will shutdown after confirmation.\nWe apologize for this inconvenience.
+70278	Disconnected from authentication server.\n\nProblems occurred due to multiple log-ins of the account or temporary difficulties.\n\nProgram will shutdown after confirmation.\nWe apologize for this inconvenience.
+70279	Storage already opened.
+70280	Transmitting storage information.
+70281	Saving storage information.
+70282	Currently, you need %d players\nto create a Battle Zone.
+70283	Only the party leader can invite others.
+70284	Not enough strength to equip weapon.
+70285	Not enough agility to equip weapon.
+70286	Not enough strength to equip item.
+70287	Not high enough level to equip accessories.
+70288	Only items and skills can be added to quick slots.
+70289	Only equipable items can be added to quick slots.
+70290	Styles can be added to style slots.
+70291	Only items and Styles can be added to style slots.
+70292	Skills can be added to quick slots.
+70293	The slot has already been registered.
+70294	Not wearable due to class restrictions.
+70295	Item is registered: [%s] 
+70296	Skill is registered: [%s] 
+70297	Item is released: [%s]
+70298	Skill is released: [%s]
+70299	Style is registered: %s
+70300	Style is released: %s
+70301	Item Rank Up Successful: [%s] 
+70302	No response from authentication server. Please exit the program and check for the notice.
+70303	Only styles can be added to the style quick slots.
+70304	This material is not for low-grade Enchant.
+70305	This material is not for medium-grade Enchant.
+70306	Only the inventory items can undergo item crafting.
+70307	Low-grade Enchant can be performed on inventory.
+70308	Medium-grade Enchant can be performed on inventory.
+70309	Insert low-grade socket item.
+70310	Insert high-grade socket item.
+70311	High
+70312	Medium
+70313	Low
+70314	Off
+70315	Select another item.
+70319	Shortcut failure.
+70320	You cannot block your own class!
+70321	Please enter title.
+70322	Minimum number of users for the map
+70323	Room creator's current level is %d. Please check the map's level restrictions.
+70324	Request in progress. Please try again later.
+70325	No mission rooms created.
+70326	No information to enter previous Battle Zone.
+70327	Previous Battle Zone is already closed. Please create a new Battle Zone.
+70328	Previous Battle Zone information is damaged. Please create a new Battle Zone.
+70329	Private room
+70330	Mission/Hunting
+70331	In progress/Waiting
+70332	Battle Zone name
+70333	Players
+70334	Map
+70335	Prior application
+70336	Search Account
+70337	Shortcut
+70338	All
+70339	Mission
+70340	Hunting
+70341	Hunting in progress
+70342	No.
+70343	Public
+70344	In Progress
+70345	Type
+70346	Room Title
+70347	Map
+70348	Bonus
+70349	Private
+70350	Hunting
+70351	Item
+70352	EXP
+70353	Waiting
+70354	Mission
+70355	That account is already logged in.
+70356	Channel
+70357	Smooth
+70358	Normal
+70359	Busy
+70360	Unable to connect to selected server.
+70361	Previous login connection is still active. Please try again later.
+70362	Party member '%s' assists target '%s'.
+70363	Please enter number.
+70364	Speed hack has been detected.
+70365	Hacking software has been detected.
+70366	Alteration of game software has been detected.
+70367	Alteration of Windows API address has been detected.
+70368	Alteration of armor kit has been detected.
+70369	Debugging of current process has been detected.
+70370	Memory has been altered by external process.
+70371	Code of current run-time process has been altered.
+70372	Unable to find room of selected player.
+70373	You must create account and password for automatic log-in.
+70374	Party leader '%s' has selected '%s' as the attack target.
+70375	Too far away.
+70376	You have no permission to this item.
+70377	GM Character Account on!
+70378	GM Character Account off!
+70379	Whisper enabled.
+70380	Whisper disabled.
+70381	Whisper cannot be sent.  Player has blocked off his/her whisper.
+70382	GM forces you out of the game. Program terminating.
+70383	GM character movement speed level: %d 
+70384	Enter '/privateshop'
+70385	Amount you can enter is limited to money you have in your possession.
+70386	Already in progress. Please wait.
+70387	Could not enter the hunting Battle Zone. No hunting rooms exist.
+70388	Could not enter the hunting Battle Zone.\n\nHunting room exists on the list, but cannot be entered as it is set to private.
+70389	Connection successful. Game loading...
+70390	Trade will be cancelled if player moves too far away from you.
+70391	You are too far from player to start the trade.
+70392	You don't have any Heim.
+70393	%s' opens private shop: '%s'
+70394	%s' closes private shop.
+70395	Nobody
+70396	Nameless
+70397	GM: Observer mode ON
+70398	GM: Observer mode OFF
+70399	You can only open private shop in towns.
+70400	Enter message.
+70401	Start
+70402	End
+70403	You cannot open your own private shop until you have finished up at this shop.
+70404	You cannot open a private shop in the Battle Zone lobby.
+70405	You cannot open a private shop while viewing the Battle Zone list.
+70406	You cannot open private shop while creating a Battle Zone.
+70407	You cannot enter more than 4.2 billion Heim.
+70408	You do not have enough Heim to buy any items.
+70409	"Select the item to purchase first."
+70410	You cannot open the purchase window of a private shop until you finish your business at the store.
+70411	You cannot open the purchase window of a private shop while in the Battle Zone lobby.
+70412	You cannot open the purchase window of a private shop while viewing the Battle Zone list.
+70413	You cannot open the purchase window of a private shop while creating a Battle Zone.
+70414	[%s] is currently conducting other task.
+70415	When leaving the party, 
+70416	You'll return to the village.
+70417	Do you want to leave the party?
+70418	You cannot sell an equipped item.
+70419	All
+70420	Self
+70421	Unable to switch team.
+70422	Incorrect map name.
+70423	Battle zone relay for more than one person is being prepared.
+70424	You cannot create guild.
+70425	Please summon monster.
+70426	Type %d
+70427	You cannot open private shop during a trade.
+70428	Unable to follow this subject.
+70429	System has recovered from a serious error. \nPlease restart program.
+70430	Guild member (%d)
+70431	You do not belong to the party.
+70432	Guild has been created.
+70433	Would you like to create a guild?
+70434	Guild creation cancelled.
+70435	%d UP
+70436	%d Heim
+70437	Level %d
+70438	If you click the icon next to the face of party leader,
+70439	you will share his/her target.
+70440	Now following %s.
+70441	Stop following.
+70442	Unable to attack target.
+70443	Unable to add target as a friend.
+70444	No monsters exist within the range of automatic targeting.
+70445	Show tips in the chat window.
+70446	Hide tips in the chat window.
+70447	Manual Attack
+70448	Follow player
+70449	Attack Mode
+70450	Defense Mode
+70451	Dismiss
+70452	You are invited to join a guild.
+70453	Enter a name under 17 characters.
+70454	Succeeded enchanting item: [%s].
+70455	Enchant
+70456	Low-grade Enchant
+70457	Medium-grade Enchant
+70458	High-grade Enchant
+70459	Chat has been refused.
+70460	Currently off-line.
+70461	Select player to chat with.
+70462	Chat window is open. Would you like to close all windows, and refuse to receive chats once all chat windows are closed?
+70463	Friend/Block list request failed.
+70464	Cannot find selected player.
+70465	Player is already on the list.
+70466	You cannot add yourself to the list.
+70467	Failed to add friend.
+70468	Failed to delete friend.
+70469	Failed to block.
+70470	This player is not blocked.
+70471	Failed to unblock.
+70472	Player is not your friend.
+70473	Player is offline.
+70474	Player is blocking chat.
+70475	Friend chat failed
+70476	Guild chat failed
+70477	Enter the guild name.
+70479	You already belong to the guild: '%s'.
+70480	Guild creator must be at least level 20.
+70481	Not enough Heim to create a guild!!
+70482	You do not belong to a guild.
+70483	You have disbanded the guild.
+70484	Succeeded in joining guild
+70485	Accepted to join guild
+70486	Refuse to join guild.
+70487	Item is imported from Event inventory: [%s]
+70488	Selected skill is inactive.
+70489	%s' invites you to a guild.  
+70490	If you break up the guild, you will lose all rights including UP, GP and items of this guild. Are you sure you wish to break up the guild?
+70491	You have cancelled disbanding the guild.
+70492	You cannot open private shop while carrying out another action.
+70493	All trades are final once they have been accepted by both parties.
+70494	This item has already been selected.
+70495	Transmitting event information.
+70496	You need to learn the Teleport skill.
+70497	You don't have the Teleport skill.
+70498	Unlimited
+70499	Field %d
+70500	On
+70501	Off
+70502	Cannot find '%s'.
+70503	You have left the guild.
+70504	Guild name: %s
+70505	Guild Master: %s
+70506	Guild level: %d
+70507	Number of Guild Members: %d
+70508	Village Under Control
+70509	Guild UP
+70510	Personal UP
+70511	GP owned by guild
+70512	Guild Record
+70513	Honor Battle: %d Wins, %d Losses
+70514	Rank Battle: 1st Place %d, 2nd Place %d Wins
+70515	Siege Battle: %d Defended
+70516	Please wait.  
+70517	Account is limited to 10 characters!
+70518	%s' has entered the battle zone.
+70519	Increases Monsters' HP and EXP gained.
+70520	%s' has left the party.
+70521	Decreases Monsters' HP and EXP gained.
+70522	You have already agreed to trade.
+70523	You should propose to trade before accepting.
+70524	Both players should propose to trade before accepting.
+70525	You are currently carrying out another action.
+70526	Revise trade.
+70527	Player is currently busy.
+70528	Trade request refused.
+70529	You have already made a trade request.
+70530	[%d] Unknown error has occurred(2) Please report to GM.
+85000	Join success
+85001	You cannot enter the map.
+85002	There is no lobby.
+85003	There is no room.
+85004	You are not the party leader.
+85005	Information on previous room is damaged or missing.
+85006	Room type is invalid.
+85007	Previous lobby is invalid.
+85008	Room type is invalid.
+85009	This player already exists. 
+85010	Another trade is in progress.
+85011	Unable to join this room type.
+85012	Incorrect password.
+85013	Room's player limit exceeded.
+85014	Invalid map code.
+85015	Invalid level restriction value.
+85016	Invalid class restriction value.
+85017	Restricted class.
+85018	You do not meet the level requirements to enter this room.
+85019	Invalid number of players.
+85020	Invalid bonus value.
+85021	Invalid field value.
+85022	Invalid degree of difficulty.
+85023	Room being created does not match the current room type.
+85024	Village does not exist.
+85025	You are already ready.
+85026	You are not ready yet.
+85027	Not all members are ready yet.
+85028	Not enough members to begin mission.
+85029	Not a valid party leader command.
+85030	Not a valid party member command.
+85031	There are no players in the room.
+85032	No room matches your criteria.
+85033	Maximum number of battle zones has been exceeded.
+85034	Player does not meet the requirements.
+85035	PvP becomes possible starting at Lv.10.
+85036	PVP is possible only with an even number of players.
+85037	No hunting rooms exist.
+85038	Invalid PVP team information.
+85039	Invalid PVP rule information.
+85040	Invalid PVP mode information.
+85041	You must complete the preceding mission.
+85101	Unable to send whisper.
+85102	(Private Shop)
+85103	[Examine Private Shop]
+85104	[1:1 trade/Exchange] 
+85105	[Open] 
+85110	It is impossible to deposit and withdraw Heim while using a temporary inventory.
+85111	Unable to send chat message.
+85112	Unable to shout.
+85113	You cannot send message to yourself.
+85114	Whisper to %s: %s
+85115	Whisper from %s: %s
+85116	The party leader is moving to the relay battle zone. Would you like to join?
+85117	You must select the map before creating.
+85118	Unable to create a relay battle zone.
+85120	Only items in your inventory can be used.
+85121	You need %d Heim to move to another town.
+85122	Server experiencing technical difficulties. Please try again later.
+85123	Click the item that you want to use the extra stone on.
+85124	There is no battle zone with that room number.
+85125	Already processing shortcut.
+85126	Processing mission shortcut.
+85127	Processing hunting shortcut.
+85128	Processing competitive hunting shortcut.
+85129	Processing PVP shortcut.
+85130	Unknown party error code.
+85131	Such player does not exist.
+85132	You are not the party leader.
+85133	You are not in a party.
+85134	Party does not exist.
+85135	Player rejected party invite.
+85136	You do not meet the level requirement.
+85137	Invalid room status.
+85138	You can't change the party leader.
+85139	You are already in a party.
+85140	The player did not request to party.
+85141	Incompatible data type.
+85142	Player is not on the map.
+85143	Cannot find target.
+85144	Target is friendly.
+85145	Player is in invisible mode, and cannot be in a party.
+85146	Your team was defeated!\n\nMoving back to town.
+85147	%d WIN!!\nEXP +%u\nHeim +%u\n\nReward %d
+85148	New party joined competitive hunting.
+85149	Potion X %d
+85150	Competitive hunting will begin in %d seconds.
+85151	Begin competitive hunting.
+85152	Can't use this menu in the village or field.
+85153	%d seconds
+85154	Select reward
+85155	You cannot restrict your own class.
+85156	Waiting
+85157	Progress
+85158	%s invited you to \nthe party.\nDo you accept?
+85159	You're already in a party\nYou must leave your party to move to another zone.\n\nDo you want to leave the party?
+85160	Changed room title.
+85161	Failed to change room title.
+85162	Current channel users: %d, Hunting Room: %d, Mission Room: %d
+85163	Failed to send channel information.
+85164	The selected room does not exist.
+85166	You are rested.
+85167	This item is blocked and cannot be moved. Please contact the customer service.
+85168	You have successfully logged in.
+85169	Login information is incorrect. Please enter the correct account and password.
+85170	There is no response from the authentication server. Please try again later.
+85171	There is no such account.
+85172	Incorrect password
+85173	You have been banned or our GM team may be working to fix your account. Please contact ijji helpdesk.
+85174	The account is currently connected. Please try again later.
+85175	This world is available to players over the age of 18.\nIf you are under 18, please use the Evil Eye world.
+85176	The account is already logged in. Please try again later.
+85177	The account is already connected. Please try again later.
+85178	Shout ON
+85179	Shout OFF
+85180	The room does not exist.
+85181	Invalid parameter
+85182	You are not the GM.
+85183	The USER does not exist.
+85184	Cannot resurrect.
+85185	Cannot recover.
+85186	Such player does not exist.
+85187	You cannot kill yourself.
+85188	The room type is not for competitive hunting.
+85189	%s command was successful.
+85190	Connection failed due to subscribtion experation. 
+85191	Server Connection lost. [%d] \n The version is different. Please check.
+85192	Server Connection lost. [%d] \n Game has been terminated by GM.
+85193	Server Connection lost. [%d] \n Incorrect Authentication Key.
+85194	Server Connection lost. [%d] \n Duplicate Login.
+85195	Server Connection lost. [%d] \n You can’t play the game any longer because you have no more pre-purchased time to play in the Premium Service.
+85196	Server Connection lost. [%d] \n Terminated upon request of the authentication server.
+85197	Requesting purchase
+85198	No item selected
+85199	The usage period for the selected item is %s. The item can be applied immediately after purchase.
+85200	The usage period for the selected item is %s. Can be applied at the time the item is worn.
+85201	The usage period for the selected item is %s. Can only be applied when the item is worn.
+85202	The selected item has cooltime of %s.
+85203	Select an item.
+85204	[%s purchase failed]
+85205	Item shop: Failed
+85206	You can’t use the item shop in the field.
+85207	You can’t use the item shop in the battle zone.
+85208	You can’t use the item shop now.
+85209	Item shop: The item is not for sale.
+85210	Item shop: The item price is not valid.
+85211	Item information has been modified.\n Please try again\nafter closing the item shop.
+85212	Item shop: Service is not yet ready. (Please try again later.)
+85213	Item shop: Not enough coin. Please recharge before purchasing.
+85214	Item shop: Not enough Heim
+85215	Inventory is full
+85216	Item shop: An error occurred while processing service. Please contact the SUN Operations Team.
+85217	Item shop: Incorrect character name
+85218	Item shop: Service is not ready yet. Please try again later.
+85219	Item shop: Processing. Please try again later.
+85220	Item shop: Service is on hold. (Please try again later.)
+85221	Item shop: You are unable to purchase because the number of items allowed to purchase has been exceeded.
+85222	Item shop: An error occurred while processing the service.
+85223	Item shop: Failed to purchase item
+85224	Item shop: You can only purchase an item after the purchase cooltime.
+85225	No item to repair.
+85226	The same effect will not be duplicated, and the effect will disappear when logging out.
+85227	You have pre-purchased game time of %s to play.
+85278	Login failed 5 times. You won't be able to log in for 30 minutes.
+86000	Change Chatting Properties Window ON
+86001	Change Chatting Properties Window OFF 
+86002	You have requested to delete the selected character; waiting for deletion. To cancel deletion, click the Cancel Deletion button shown below. %d day(s) %d hour(s) remaining.
+86003	Cancel Deletion
+86004	Do you want to cancel character deletion?
+86005	Will be resurrected at the original location in %d second(s).
+99998	An error occurred while leaving.\n\nThe development team is working on the issue,\n notice will be posted when it is fixed.\nWe apologize for the inconvenience.
+99999	The guild invitation UI is not ready yet.\n\nPlease use '/guildinvite ID'\nWe apologize for the inconvenience.
+100000	/whisper
+100001	/trade
+100002	/invite
+100003	/privateshop
+100004	/screenshot
+100005	/blockwhisper
+100006	/sit
+100007	/stand
+100008	/follow
+100009	/Leave
+100010	/inviteguild
+110000	/greet
+110001	/farewell
+110002	/question
+110003	/sigh
+110004	/cheer
+110005	/refuse
+110006	/approve
+110007	/attack
+110008	/thank
+110009	/apologize
+110010	/kiss
+110011	/laugh
+110012	/cry
+110013	/welcome
+110014	/applaud
+110015	/awe
+110016	/thumbsup
+110017	/sulk
+110018	/taunt
+110019	/sleep
+110020	/pose
+110021	/dance
+110022	/gag
+110023	/imitate
+110024	/shock
+105013	/renderoption
+//오후 2:32 2009-04-14	
+85228	Please use the Web-based game starter via the official SUN website (http://sunonline.webzen.com).
+85229	http://sunonline.webzen.com
+//2011-03-24	Beta key error message
+70540	You do not have permission to create the selected class.
+70541	You have to activate the 'Beta Key' to accept the quest.
+70542	You have to activate the 'Beta Key' to equip the item.
+70543	You have to activate 'Beta Key' to use the item.
+70544	You have to activate 'Beta Key' to use the pet.
+70545	You have to activate 'Beta Key' to receive a reward.
+70546	You have to activate 'Beta Key' to enter the area.
+//오후 6:05 2011-06-15
+85230	http://www.facebook.com/sunwebzen
+//오전 11:54 2011-12-06
+70581	Please select an item to use the [%s] function on.
+70582	The option was successfully granted to the [%s] item.
+//오후 4:45 2011-12-06
+70621	You have exceeded the repeat limit for this quest.
+70622	You are not at the level required to perform this quest.
+70623	You cannot perform this quest because you are not in a Chaos state.
+70624	Your class cannot perform this quest.
+70625	You do not have enough Heim to perform this quest.
+70626	You do not have the prerequisite quest required to perform this quest.
+70627	You are on a quest that cannot be performed together with this quest.
+70628	You do not have the item required to perform this quest.
+70629	You are carrying an item that prevents you from performing this quest.
+70630	You have not met the number of monster kills required to complete the quest.
+70631	You have not met the number of mission clears required to complete the quest.
+70632	That region is not an existing field.
+70633	Quests cannot be performed while a player is disconnecting abnormally.
+70634	To proceed with a chained quest you must first complete the preceding quest.
+70635	Player information could not be found.
+70636	This is not a daily quest.
+70637	There are no quests available today.
+70638	That region is not an existing field.
+70639	You lack the honor or reputation required to perform this quest.
+70640	The gathering object does not exist.
+70641	That region is not an existing field, or the gathering object ID is invalid.
+70642	Only a guild master can perform the imprint.
+70643	Your inventory is full, so you cannot gather.
+70644	The character could not be found.
+70645	The character has died.
+70646	The gathering object is invalid.
+70647	You are too far away to receive the reward. Move a little closer.
+70648	You are too far from the gathering object.
+70649	Failed to receive the reward.
+//오후 2:24 2011-12-08
+70650	There is no free item space.
+70651	The location information is invalid.
+70652	No matching area ID exists for this quest.
+70478	You have exceeded the maximum number of characters allowed in a guild name.<RETURN=1/>Please enter it again.
+//오후 2:36 2012-01-19
+70653	Failed to delete the party room.
+70654	Failed to delete the party room list.
+70655	Failed to leave the party.
+70656	Failed to join the party room.
+70657	Failed to start the party room mission.
+70658	Failed to reset the mission code.
+70659	Failed to change the party room options.
+70660	Failed to create the party room.
+70661	The party does not exist.
+70662	Incorrect mission code.
+70663	Party room data does not exist.
+70664	The party is not a room type.
+70665	The map data for this party room is incorrect.
+70666	You must accept a mission reward.
+70667	You do not meet the requirements to use this item.
+70668	You do not have the required item.
+70669	Incorrect equipment information to enter the party room.
+70670	A member cannot enter the party room.
+70671	Unable to find the user.
+70672	Unable to change during a mission.
+70673	Failed the requirement check.
+70674	The party condition is not normal.
+70675	The party room does not exist.
+85119	This can only be used in the Temple of Blood.
+//오후 3:02 2014-04-04
+70676	Entry reservations for this region can only be made on Channel 1.
+//오후 4:46 2014-12-02
+70677	Shortly, an event increasing EXP gain by %s%% will begin, running from %s:%s to %s:%s.
+70678	Shortly, an event increasing EXP gain by %s%% will begin, running from %s:%s until %s day %s:%s.
+70679	The EXP gain +%s%% event has begun.
+70680	The EXP gain +%s%% event has ended.
+70681	There is no EXP event currently running.
+//오후 3:30 2015-03-31
+70531	You are in a state where you cannot move.
+70532	Invalid map information.
+70533	This is not a spa admission ticket.
+70534	Skills cannot be used in this location.
+//오전 11:57 2015-04-28
+70535	You cannot use that skill while affected by an abnormal status.
+end
