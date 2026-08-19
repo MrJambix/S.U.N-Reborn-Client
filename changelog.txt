@@ -20,21 +20,17 @@
 
 FORMAT 1
 
+[2026-08-18] update | The launcher now keeps checking for updates the whole time it is open, instead of only once at startup
+
 [2026-08-18] update | Inventory Sort: a new button on the inventory window merges duplicate stacks and packs your bag to the front, grouped by item type; also available on the expanded inventory view
 
 [2026-08-18] update | The login screen now reads REBORN in place of Limited Edition
 
-[2026-08-18] update | Paladin (class 9): model, default armour, starting lance, icons and class strings. Launcher: create pack directories and hold one pack handle per run.
-
-[2026-08-18] update | Paladin (class 9). Launcher: create pack directories, and hold one pack handle for the whole run instead of reopening per file.
-
-[2026-08-18] update | Paladin (class 9): model, armour, lances, icons and class strings.
+[2026-08-18] fix | Launcher: create pack directories as needed, and hold one pack handle for the whole run instead of reopening it for every file
 
 [2026-08-18] update | Sort Inventory: a new button in your bag merges stacks of the same item and packs everything to the front, grouped by type
 
 [2026-08-18] fix | Quest markers: monsters you still need for a quest now show the area they spawn in on the minimap and the world map, and the off-map markers point at the right monster again
-
-[2026-08-18] update | Paladin (class 9): model, armour, lances and icons; ninth race/class button on the creation screen.
 
 [2026-08-18] update | Wing and weapon costumes: 83 wing skins and 20 weapon skins are now separate costume items wearable by any class; the Japanese and Chinese weapons work as weapons again
 
