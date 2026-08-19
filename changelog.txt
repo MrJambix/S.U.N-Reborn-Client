@@ -20,6 +20,10 @@
 
 FORMAT 1
 
+[2026-08-19] fix | Cube: opening the Recent Assembly List no longer crashes the game
+
+[2026-08-19] update | New login screen, English loading screens, and no more intro movie on startup
+
 [2026-08-19] update | Quest markers now also show the area for gather and collect quests, not just kill quests
 
 [2026-08-19] fix | Options: "Select Other Players" is now turned on by default, so clicking another player to talk, trade or invite them works without changing any setting first

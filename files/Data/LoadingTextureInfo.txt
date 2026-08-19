@@ -1,0 +1,37 @@
+//	Loading screen rotation.
+//	Every entry is a 1024x768 JPEG inside Resource.wpk.  SceneBase::RenderLoadingImg
+//	crops it with image_height = 1024 * screen_h / screen_w, so only a centred band
+//	is ever shown -- 1024x576 at 16:9, 1024x432 at 21:9.
+//
+//	The LAST row is special: GetLoadingTextureInfo clamps any out-of-range index to
+//	size-1, and the random shuffle only covers the rows above it.  IMG_LOADING_KALBUS
+//	(1000) is passed for the Tower map, so Loading_Tower.jpg must stay last.
+//
+//	The 2015-2016 Korean event and tutorial panels were dropped here; their English
+//	replacements are the Loading_EN_* rows.  Duplicated artwork was removed too --
+//	02/12/19/22/24 were one image, as were 03/18/21/29 and 17/25.
+file_name	FieldEnd
+//	--- artwork ---
+Data\Interface\Loading_02.jpg
+Data\Interface\Loading_03.jpg
+Data\Interface\Loading_05.jpg
+Data\Interface\Loading_09.jpg
+Data\Interface\Loading_14.jpg
+Data\Interface\Loading_17.jpg
+Data\Interface\Loading_27.jpg
+Data\Interface\Loading_28.jpg
+Data\Interface\Loading_39.jpg
+//	--- English guide panels ---
+Data\Interface\Loading_EN_01.jpg
+Data\Interface\Loading_EN_02.jpg
+Data\Interface\Loading_EN_03.jpg
+Data\Interface\Loading_EN_04.jpg
+Data\Interface\Loading_EN_05.jpg
+Data\Interface\Loading_EN_06.jpg
+Data\Interface\Loading_EN_07.jpg
+Data\Interface\Loading_EN_08.jpg
+Data\Interface\Loading_EN_09.jpg
+Data\Interface\Loading_EN_10.jpg
+Data\Interface\Loading_EN_11.jpg
+//	--- must stay last: the Tower map's forced image ---
+Data\Interface\Loading_Tower.jpg

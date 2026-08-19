@@ -7562,7 +7562,7 @@ start
 47046	Heim Coin
 155419	%s
 5896	%s item has been extended for %s.
-5895	"It will expire if you don't extend it by %s %02d (%02d:%02d), %4d."
+5895	"It will expire if you don't extend it by %4d-%02d-%02d %02d:%02d."
 155421	Deducted amount
 5898	This item hasn't expired.
 5899	This item doesn't allow a period extension.
@@ -15617,7 +15617,7 @@ start
 2141	C-coin
 2142	P-coin
 //¿ÀÀü 11:42 2010-10-20	
-2232	"%s %02d (%02d:%02d), %4d"
+2232	"%4d-%02d-%02d %02d:%02d"
 2233	Material 1: %s %d
 2234	Material 2: %s %d
 2235	Material 3: %s %d
