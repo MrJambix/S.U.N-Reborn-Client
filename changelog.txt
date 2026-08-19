@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-19] update | Client crashes now save a report to your client log\Crash folder instead of vanishing
+
 [2026-08-19] fix | Quest tracking now sticks - the quest you accept stays marked on the map instead of reverting when you change zone
 
 [2026-08-19] fix | Cube: opening the Recent Assembly List no longer crashes the game

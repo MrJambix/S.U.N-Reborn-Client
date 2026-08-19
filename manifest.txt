@@ -1,14 +1,14 @@
 # S.U.N Reborn patch manifest
-# generated 2026-08-19 16:44:03 by make-patch.ps1 -- do not hand-edit
+# generated 2026-08-19 17:25:07 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
 PATCH 2026-08-19
 script 117861f0a0b11aebc9476c9e85477f59765fb29d2a09efd9a90bae4df97ba46a 23033 Data\Attendance.txt
 script 9e2a7d19e8f7e3046590b91f93e4f2f57b71ddc3f385ed78ab4626b8d35a074a 463282 Data\RewardInfoList.txt
-loose 13147759fbd8c26e4f3055534035941896b3ca8ecfb23448aaca2738b84e210b 8058368 Sungame.exe
+loose 7f9985ff078c891c2e4a436bbe77be609f9eb6d0a3b5350b08f38dddd203aea9 8073216 Sungame.exe
 loose 7fb43af203f20a02bcc74d6251cc2de7852ffb4a04f7cdea20d7fcef426f2083 1092096 Launcher.exe
 script d7f2826efce03977259e83e7af154d08b9d643d408283b3eabd9378490c5eb82 980309 Data\ChargeIteminfo.txt
-script cfdb0f7e81288a78840b9c0c1c09e5e66e99ba503660a89c954a718c3b632034 3271837 Data\ArmorItemInfo.txt
+script 7a8fe4bf2002760d22e6e8ff36c82063ba4038d831c597699d67483d9221becd 3267984 Data\ArmorItemInfo.txt
 script 7031ffc2b982179d305da23707c7ac0a6ce9d60f7f58111cb01d10f1ce419b12 762327 Data\WeaponItemInfo.txt
 script f606c0faa0cf0cad2fde796702cfcab239a9821ee9b6e4f8514c60e7cedacaa4 452033 Data\AccessoryItemInfo.txt
 script 45bd753a08b42b629dd31c3ea2365fe6f2ca0194aefe704c8f12e3082bb1cf3f 2564071 Data\WasteItemInfo.txt
@@ -551,3 +551,4 @@ pack 38c0603c2baeb6cdf79316944d9f86bd578bf2a7c55e2c0e7694e1d3adef6001 107728 Dat
 pack b42a74e34e6e7d643d5b60a5cfe2171b3ae8bc0ecef60bfb99adaa489b902d3a 81378 Data\Interface\Loading_WebzenCI.JPG
 pack b42a74e34e6e7d643d5b60a5cfe2171b3ae8bc0ecef60bfb99adaa489b902d3a 81378 Data\Interface\Loading_WebzenCI_01.JPG
 pack fd8b93d45f79266caf2833c3f982b95dc9f608ec0932d0dbd07eb44d13ef7761 238931 Data\Interface\Login_Custom_bg.jpg
+script 0f3cd868349be173042d69e2bc2b61e2ed5c470fa89316e379361048cbddf515 110784 Data\SetItemoptioninfo.txt
