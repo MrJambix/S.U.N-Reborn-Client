@@ -1,5 +1,5 @@
 # S.U.N Reborn patch manifest
-# generated 2026-08-19 20:42:53 by make-patch.ps1 -- do not hand-edit
+# generated 2026-08-19 22:27:30 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
 PATCH 2026-08-19
@@ -554,3 +554,4 @@ pack fd8b93d45f79266caf2833c3f982b95dc9f608ec0932d0dbd07eb44d13ef7761 238931 Dat
 script 0f3cd868349be173042d69e2bc2b61e2ed5c470fa89316e379361048cbddf515 110784 Data\SetItemoptioninfo.txt
 pack 420cbe9f1bebd89ac570d72c0716c375b77746421acaf05f3c34b77abd4f8e8d 602914 Data\Interface\Dlg46_2.jpg
 pack 8938a5b3ec31fa75865d52d299fed2e8716fff6b945d0907cd41e2dd4b086745 515073 Data\Interface\Dlg46_3.jpg
+script 96601fd7aacdc00f7b4f8892561f96022eec7b11e437024bc71165e53da62f25 53398 Data\PetManageInfo.txt
