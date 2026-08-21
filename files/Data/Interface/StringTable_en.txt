@@ -17283,7 +17283,7 @@ start
 11294	Buff Duration
 11295	Debuff Duration
 11362	Recovery
-11361	Reduces skill casting time
+11361	Skill Casting Time
 11354	Holding Immunity
 11355	Sleep Immunity
 11356	Poison Immunity
@@ -33537,6 +33537,8 @@ start
 405005	Awarded to the players who tested S.U.N Reborn before it opened.\nRight-click the badge to show or hide the BETA mark above your head.
 405006	S.U.N Reborn Beta
 405007	Thank You, Beta Tester
+405008	Hamsalot
+405009	Summons Hamsalot. A perfectly ordinary hamster, as far as anyone has been able to establish.\nIt keeps its own counsel, never asks to be fed, and stays exactly as devoted on the first day as on the last.
 59000	"Sort Inventory\n\nMerges stacks of the same item, then packs everything to the front of your bag grouped by type."
 59001	Inventory sorted. (%d items moved, %d stacks merged)
 59002	Your inventory is already sorted.

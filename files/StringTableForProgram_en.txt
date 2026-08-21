@@ -259,7 +259,7 @@ start
 70266	This area cannot be selected.
 70267	Out of range.
 70268	Skill requirement not met.
-70269	This is area of effect skill!! Click to designate an area!!
+70269	Area skill ready. Click the ground, or press the skill key again, to cast it there.
 70270	Item created : [%s] 
 70271	Reward : [%s] 
 70272	GM: Invincibility On

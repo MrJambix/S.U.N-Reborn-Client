@@ -17283,7 +17283,7 @@ start
 11294	Buff Duration
 11295	Debuff Duration
 11362	Recovery
-11361	Reduces skill casting time
+11361	Skill Casting Time
 11354	Holding Immunity
 11355	Sleep Immunity
 11356	Poison Immunity
@@ -33538,6 +33538,8 @@ start
 405005	Awarded to the players who tested S.U.N Reborn before it opened.\nRight-click the badge to show or hide the BETA mark above your head.
 405006	S.U.N Reborn Beta
 405007	Thank You, Beta Tester
+405008	Hamsalot
+405009	Summons Hamsalot. A perfectly ordinary hamster, as far as anyone has been able to establish.\nIt keeps its own counsel, never asks to be fed, and stays exactly as devoted on the first day as on the last.
 70800	Berserker Wings
 70801	Dragon Knight Wings
 70802	Shadow Wings
@@ -33662,4 +33664,5 @@ start
 204889	[W-2] Bloodstained Sephira
 205873	[W-1] Sephira's
 205874	[W-2] Bloodstained Sephira's
+59020	Fast Cast
 end
