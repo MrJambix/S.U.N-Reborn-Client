@@ -15318,3 +15318,4 @@ dwCode	szFileName	FieldEnd
 78 Data\Weapon\Paladin\W025\w_pal_25b_lance.wzu		
 99358 Data\Icon\Armor\Paladin\C001\c_pal_26_costume2_jp.png		
 99369 Data\Icon\Armor\Paladin\C001\c_pal_31_costume2.dds		
+90318 Data\Icon\element\Events\Beta_badge.tga		

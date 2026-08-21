@@ -33507,6 +33507,8 @@ start
 405001	W-Coin Voucher (100)
 405002	Use this voucher to add 100 W-Coin (c) to your ACCOUNT.\nThe voucher is consumed when used, and an open Cash Shop shows the new balance straight away.
 405003	Account Item
+405004	Beta Tester Badge
+405005	Awarded to the players who tested S.U.N Reborn before it opened.\nRight-click the badge to show or hide the BETA mark above your head.
 59000	"Sort Inventory\n\nMerges stacks of the same item, then packs everything to the front of your bag grouped by type."
 59001	Inventory sorted. (%d items moved, %d stacks merged)
 59002	Your inventory is already sorted.
