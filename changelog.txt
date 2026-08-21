@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-21] update | The login screen has a new look.
+
 [2026-08-20] fix | W-Coin Voucher now works: buy it at Cronous, use it from your bag for 100 W-Coin, and the Cash Shop balance updates on the spot.
 
 [2026-08-20] fix | The key shortcut window no longer crashes the game when you save your key settings
