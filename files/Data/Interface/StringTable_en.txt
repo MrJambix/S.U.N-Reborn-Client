@@ -33531,7 +33531,7 @@ start
 404040	The tip of their spears that punish evil was like the dawn's light piercing through darkness, and their protecting people with warm light was like a steadfast shield. Thus, people named them Paladins, who suddenly appeared along with the schemes of Ignis. At times ruthless judges, at times devoted guardians, wherever the spear of light can reach, they will appear and protect the world.
 404529	Paladin
 405001	W-Coin Voucher (100)
-405002	Credits 100 W-Coin (c) to your ACCOUNT the moment you buy it.\nNothing is placed in your bag - reopen the Cash Shop to see the new balance.
+405002	Use this voucher to add 100 W-Coin (c) to your ACCOUNT.\nThe voucher is consumed when used, and an open Cash Shop shows the new balance straight away.
 405003	Account Item
 59000	"Sort Inventory\n\nMerges stacks of the same item, then packs everything to the front of your bag grouped by type."
 59001	Inventory sorted. (%d items moved, %d stacks merged)
