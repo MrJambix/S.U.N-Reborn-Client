@@ -20,6 +20,15 @@
 
 FORMAT 1
 
+[2026-08-21] update | Beta Tester Badge
+If you played during the beta, the Badge Man is waiting for you in Waldchen,
+just west of Cronous. Look for the pink marker over his head. Speak to him
+once on each character to claim your badge - it is yours to keep, and it
+cannot be traded away.
+- Right-click the badge to show or hide a gold BETA over your head
+- Bonus experience and heim, and you move a little faster while it is on
+- Premium members earn extra experience on top of that
+
 [2026-08-21] update | Ground-target skills can now be cast by pressing the skill key a second time, and a new Fast Cast option in Settings sends them straight at your target.
 
 [2026-08-21] fix | Fixed chat sometimes refusing to let you type
