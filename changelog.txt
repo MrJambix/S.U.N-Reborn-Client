@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-21] fix | Fixed chat sometimes refusing to let you type
+
 [2026-08-21] fix | Fixed the cash shop not opening for some players.
 
 [2026-08-21] fix | Tutorial pop-ups no longer reappear every time you log in.

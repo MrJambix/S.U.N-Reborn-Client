@@ -15319,3 +15319,5 @@ dwCode	szFileName	FieldEnd
 99358 Data\Icon\Armor\Paladin\C001\c_pal_26_costume2_jp.png		
 99369 Data\Icon\Armor\Paladin\C001\c_pal_31_costume2.dds		
 90318 Data\Icon\element\Events\Beta_badge.tga		
+90319 Data\Interface\cursor\scrollon_beta.wzu		
+90320 Data\Interface\cursor\documenton_beta.wzu		

@@ -33536,6 +33536,8 @@ start
 405003	Account Item
 405004	Beta Tester Badge
 405005	Awarded to the players who tested S.U.N Reborn before it opened.\nRight-click the badge to show or hide the BETA mark above your head.
+405006	S.U.N Reborn Beta
+405007	Thank You, Beta Tester
 70800	Berserker Wings
 70801	Dragon Knight Wings
 70802	Shadow Wings
