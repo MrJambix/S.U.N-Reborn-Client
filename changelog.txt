@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-21] update | The launcher now shows a proper progress bar while updating, with the percentage, your download speed and how long is left.
+
 [2026-08-21] fix | Fixed a crash that could happen after playing for a while, most often when moving between areas.
 
 [2026-08-21] update | The login screen has a new look.
