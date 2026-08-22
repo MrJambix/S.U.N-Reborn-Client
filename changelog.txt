@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-22] fix | Fixed blank and missing item icons that could build up while browsing the item shop, and a crash when opening certain shop pages
+
 [2026-08-21] update | Beta Tester Badge
 If you played during the beta, the Badge Man is waiting for you in Waldchen,
 just west of Cronous. Look for the pink marker over his head. Speak to him

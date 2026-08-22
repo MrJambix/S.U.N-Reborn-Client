@@ -33665,4 +33665,72 @@ start
 205873	[W-1] Sephira's
 205874	[W-2] Bloodstained Sephira's
 59020	Fast Cast
+404644	Blessed Thrust
+403636	Condemning Thrust
+403638	Armor Shatter
+403640	Rupturing Strike
+403634	Ankle Crusher
+404638	Bloody Onslaught
+404646	Holy Shockwave
+404648	Sacred Charge
+404642	Chant of Doom
+404640	Power of Judgment
+404051	Celestial Onslaught
+404053	Mortal Repose
+404055	Judgment of Annihilation
+404057	Focused Crush
+404650	Summary Judgment
+404059	Divine Bulwark
+404061	Cry of Doom
+202831	Celestial Thunderstrike
+202832	Condemning Lightning
+202833	Lightning of Judgment
+202834	Celestial Brand
+202835	Storm of Fury
+202836	Brand Detonation
+202837	Wave of Penitence
+202838	Divine Wrath
+202839	Chant of Protection
+202840	Chant of Advance
+202841	Judgment of Light
+202842	Radiant Lance
+202843	Divine Descent
+202844	Cursed Sanctuary
+202845	Judgment Flash
+202846	Noble Sacrifice
+202847	Warding Sanctuary
+404645	Stabs the target three times in quick succession for %s damage. While Empowered, deals %s additional damage.
+403637	Drives the lance deep into the target for %s damage, with a %s%chance to bleed it for %s seconds, taking %s Wound damage. While Empowered, deals %s additional damage.
+403639	Releases a heavy shockwave for %s damage, with a %s% chance to reduce the target's Defense for %s seconds by %s%. While Empowered, deals %s additional damage.
+404637	Snares the enemies around the target with a %s chance and deals %s damage, leaving a Crush sigil for %s seconds. Struck enemies have a %s% chance to bleed for %s seconds, taking %s Wound damage. While Empowered, deals %s additional damage.
+403635	Charges the target, then deals %s damage to every enemy in the area with a %s% chance to cut their Movement Speed for %s seconds by %s%. While Empowered, deals %s additional damage.
+404639	Deals %s damage to the target, with a %s% chance to bleed it for %s seconds, taking %s Wound damage. While Empowered, deals %s additional damage.
+404647	Hammers the ground around the target, dealing %s damage to every enemy in the area with a %s% chance to snare them. Deals %s additional damage to Crushed enemies, and %s additional damage while Empowered.
+404649	Focuses to raise Snare Accuracy for %s seconds by %s%%, then charges the target, dealing %s damage to every enemy in the cone and leaving a Crush sigil for %s seconds. While Empowered, deals %s additional damage.
+404643	Increases party members' bonus damage against monsters for %s seconds by %s.
+404641	Draws holy power from the heavens, granting the Empowered state for %s seconds. Base Attack Power rises for %s seconds by %s, all Elemental Attack for %s seconds by %s%, and Snare Accuracy for %s seconds by %s%%.
+404052	Thrusts the lance in a cone, dealing %s damage to every enemy caught, with a %s% chance to reduce their Defense for %s seconds by %s%. Deals %s additional damage to Wounded enemies, and %s additional damage while Empowered.
+404054	Sweeps the lance in a cone, snaring every enemy with a %s% chance and dealing %s damage. Struck enemies have a %s chance to bleed for %s seconds, taking %s Wound damage. Deals %s additional damage to Crushed enemies, and %s additional damage while Empowered.
+404056	Drives the lance forward three times, dealing %s damage to every enemy in a line. Deals %s additional damage to Crushed enemies, %s additional damage to Wounded enemies, and %s additional damage while Empowered.
+404058	Slams the lance down for %s damage to the enemies around you, leaving a Crush sigil on every enemy in the area for %s seconds, with a %s% chance to bleed them for %s seconds, taking %s Wound damage. While Empowered, deals %s additional damage.
+404651	Snares every nearby enemy with a %s% chance, then thrusts hard for %s damage, with a %s% chance to reduce Defense for %s seconds by %s%. Deals %s additional damage to Crushed enemies, and %s additional damage while Empowered.
+404060	Becomes invulnerable for %s seconds and cannot be staggered for %s seconds. Movement Speed also rises for %s seconds by %s%, and for %s seconds you recover %s of your current HP each second.
+404062	Greatly increases your own bonus damage against monsters for %s seconds by %s.
+202851	Runs the target through with a lightning-charged lance for %s damage. Deals %s additional damage to Stigmatized enemies.
+202852	Hurls a lance of light into the target for %s damage, with a %s%chance to reduce its Attack Power for %s seconds by %s%. Deals %s additional damage to Stigmatized enemies.
+202853	Rains lances of lightning around the target, dealing %s damage to every enemy in the area. Deals %s additional damage to Stigmatized enemies.
+202854	Calls down holy lightning around the target for %s damage, with a %s% chance to leave a Stigma sigil for %s seconds.
+202855	Whips a vortex of light around the target, dealing %s damage to every enemy in the area, with a %s% chance to bleed them for %s seconds, taking %s Wound damage, and a %s% chance to force Atonement for %s seconds.
+202856	Impales the target on a lance of holy light for %s damage. Deals %s additional damage to Stigmatized enemies.
+202857	Plants holy lances around the target to raise a sanctuary, dealing %s damage with a %s% chance to force Atonement for %s seconds. Deals %s additional damage to Stigmatized enemies.
+202858	Gathers vast holy energy in the sky and drops it, dealing %s damage around the target with a %s% chance to leave a Stigma sigil for %s seconds. Also has a %s% chance to reduce Attack Power for %s seconds by %s%.
+202859	Applies Chant of Protection to a Stigmatized enemy. While the Stigma lasts, nearby allies gain %s% damage reduction against monsters and %s% Base Defense.
+202860	Applies Chant of Advance to a Stigmatized enemy. While the Stigma lasts, nearby allies gain %s% Base Attack Power and %s% Penetration.
+202861	Calls down a destructive bolt around the target for %s damage, with a %s% chance to bleed for %s seconds, taking %s Wound damage, and a %s% chance to force Atonement for %s seconds. Deals %s additional damage if the enemy is Stigmatized.
+202862	Pours countless lances of light down around you, dealing %s damage to every enemy in the area with a %s% chance to leave a Stigma sigil for %s seconds.
+202863	Summons the radiant power of the divine to strike every enemy, dealing %s damage in the area, with a %s% chance to bleed them for %s seconds, taking %s Wound damage, and a %s chance to leave a Stigma sigil for %s seconds.
+202864	Hurls a great lance of light into the chosen area over 5 seconds to raise a sanctuary. The embedded lance deals %s damage per second to every enemy inside, with a %s% chance to reduce damage-to-HP conversion by %s%%, a %s% chance to reduce Atonement Resistance by %s%%, and a %s% chance to reduce Critical Rate by %s%. Cursed Sanctuary cannot be summoned at the same time as Warding Sanctuary.
+202865	Drives a colossal lance of light from the sky into the ground for %s damage. Has a %s% chance to reduce Attack Power for %s seconds by %s%, and a %s% chance to force Atonement for %s seconds. Deals %s additional damage to Stigmatized enemies.
+202866	Sacrifices %s% of your maximum HP to restore %s% of your maximum HP to one chosen ally, clearing all status ailments and granting immunity to every abnormal state except mission traps for %s seconds. If your gear score is lower than that ally's, the cure and immunity success rate is reduced.
+202867	Hurls a great lance of light into the chosen area over 5 seconds to raise a sanctuary. The embedded lance restores %s HP to every ally inside for the duration and raises Base Defense by %s%, Atonement Resistance by %s%%, and Critical Rate when struck by %s%%. Warding Sanctuary cannot be summoned at the same time as Cursed Sanctuary.
 end
