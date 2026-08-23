@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-23] fix | Fixes for the stutter some players saw every time they attacked
+
 [2026-08-23] fix | Fewer crashes when travelling, and Paladin gear fixes
 Fixed the game closing itself while moving between areas. This was most likely
 to hit you after a long session with a lot of travelling, and long sessions hold
