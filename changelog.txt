@@ -20,7 +20,12 @@
 
 FORMAT 1
 
-[2026-08-23] fix | Fixes for crashes and slowdowns when moving between areas
+[2026-08-23] fix | Fewer crashes when travelling, and Paladin gear fixes
+Fixed the game closing itself while moving between areas. This was most likely
+to hit you after a long session with a lot of travelling, and long sessions hold
+up better as a result.
+- Paladin armour and weapons that appeared white or untextured now display properly
+- Paladin now has achievements to earn, running from level 100 up to the cap
 
 [2026-08-22] fix | Fixed blank and missing item icons that could build up while browsing the item shop, and a crash when opening certain shop pages
 
