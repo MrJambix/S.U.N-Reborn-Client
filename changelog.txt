@@ -20,6 +20,13 @@
 
 FORMAT 1
 
+[2026-08-23] update | More of the smoothing fix, and better reporting behind it
+The previous update spread out the work that used to arrive all at once, but it was
+being too cautious and still let a chunk of it land in one go. It now does what it
+was meant to.
+- If the game still hitches for you, this build records enough detail for us to
+  find the exact cause rather than narrow it down.
+
 [2026-08-23] update | Smoother play when a lot is happening at once
 The game could hitch for a moment when there was a lot going on around you --
 busy towns, crowded fights, the first seconds after a loading screen. That work
