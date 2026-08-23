@@ -20,6 +20,13 @@
 
 FORMAT 1
 
+[2026-08-23] fix | Shorter freezes when you attack
+If the game pauses for a moment every time you swing or cast a spell, those
+pauses should now be much shorter than they were.
+- This does not yet explain why they happen at all, and they may not be gone
+  completely. If you still get them, this build records what is behind them,
+  so the next update can fix the cause rather than just soften it.
+
 [2026-08-23] update | More of the smoothing fix, and better reporting behind it
 The previous update spread out the work that used to arrive all at once, but it was
 being too cautious and still let a chunk of it land in one go. It now does what it
