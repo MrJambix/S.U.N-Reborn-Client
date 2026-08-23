@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-23] fix | Paladin elite armour and lances no longer appear white or untextured
+
 [2026-08-23] fix | Fixes for the stutter some players saw every time they attacked
 
 [2026-08-23] fix | Fewer crashes when travelling, and Paladin gear fixes
