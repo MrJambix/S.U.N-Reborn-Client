@@ -20,6 +20,11 @@
 
 FORMAT 1
 
+[2026-08-23] update | Continued work on the brief freezes some players still see
+If the game still hitches or freezes for a moment during play, this update helps
+us pin down why it happens on your machine in particular. Nothing changes in how
+the game plays.
+
 [2026-08-23] fix | Paladin elite armour and lances no longer appear white or untextured
 
 [2026-08-23] fix | Fixes for the stutter some players saw every time they attacked
