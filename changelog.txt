@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-23] update | Monster names now stay on screen for everything nearby, coloured by monster type, and kill-any-monster quests show their targets on the map.
+
 [2026-08-23] fix | Shorter freezes when you attack
 If the game pauses for a moment every time you swing or cast a spell, those
 pauses should now be much shorter than they were.
