@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-24] fix | Fixed the game closing immediately at startup after the previous update.
+
 [2026-08-23] update | The ring set no longer dominates Equipment Grade
 Wearing the Ring of Harmony and Balance set counted for more Equipment Grade
 than a full suit of armour did. It now counts for a small fraction of that.
