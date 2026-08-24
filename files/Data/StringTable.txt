@@ -33148,6 +33148,8 @@ start
 405007	Thank You, Beta Tester
 405008	Hamsalot
 405009	Summons Hamsalot. A perfectly ordinary hamster, as far as anyone has been able to establish.\nIt keeps its own counsel, never asks to be fed, and stays exactly as devoted on the first day as on the last.
+405010	Grand Adventurer's Emblem
+405011	Worn in a Cash Slot. While it is equipped:\n\n- Items and Heim that drop within reach are collected automatically\n- +15% experience from monsters\n- +50% Heim from monsters\n- +500 maximum SD\n- +5% chance of success when crafting\n\nExpires 7 days after purchase. Cannot be traded or sold.
 59000	"Sort Inventory\n\nMerges stacks of the same item, then packs everything to the front of your bag grouped by type."
 59001	Inventory sorted. (%d items moved, %d stacks merged)
 59002	Your inventory is already sorted.

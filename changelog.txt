@@ -20,6 +20,19 @@
 
 FORMAT 1
 
+[2026-08-23] update | The ring set no longer dominates Equipment Grade
+Wearing the Ring of Harmony and Balance set counted for more Equipment Grade
+than a full suit of armour did. It now counts for a small fraction of that.
+- The rings themselves have not changed. Every bonus they give you, including
+  the one for wearing all five together, is exactly what it was.
+
+[2026-08-23] update | Still chasing the attack freezes
+The pauses when you attack should be less frequent again after this. We have
+narrowed down what causes them but not yet why, so this build also records the
+last piece we are missing.
+- Nothing you need to do. If you still get pauses, playing normally for a few
+  minutes is enough for the game to note what we need.
+
 [2026-08-23] update | Monster names now stay on screen for everything nearby, coloured by monster type, and kill-any-monster quests show their targets on the map.
 
 [2026-08-23] fix | Shorter freezes when you attack
