@@ -33670,6 +33670,8 @@ start
 205874	[W-2] Bloodstained Sephira's
 59020	Fast Cast
 59021	Always Show Monster Names
+59022	Anisotropic Filtering
+59023	Anti-aliasing (restart required)
 404644	Blessed Thrust
 403636	Condemning Thrust
 403638	Armor Shatter

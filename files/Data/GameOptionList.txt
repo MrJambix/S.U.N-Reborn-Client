@@ -52,6 +52,8 @@ OptionID	PageIndex	CategoryName	DisplayName	ItemType	ItemData	Comment
 235	1	2811	2864	COMBO	2936	설명입니다.	//인터페이스 크기 고정
 237	1	2810	59020	COMBO	2936	설명입니다.	//Fast Cast
 238	1	2809	59021	COMBO	2936	설명입니다.	//Always show monster names
+239	0	2807	59022	COMBO	2936	설명입니다.	//Anisotropic filtering
+240	0	2807	59023	COMBO	2936	설명입니다.	//Anti-aliasing (needs restart)
 300	2	2812	2865	GAUGE	2937	설명입니다.	//배경음
 301	2	2812	2866	GAUGE	2937	설명입니다.	//환경 효과음
 302	2	2812	2867	GAUGE	2937	설명입니다.	//시스템 효과음

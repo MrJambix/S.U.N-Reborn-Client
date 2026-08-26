@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-26] update | Anisotropic filtering and anti-aliasing are now options in the Graphics settings, both off by default
+
 [2026-08-25] update | Buffs and cooldowns now show how long is left
 Your buffs and debuffs count down on their own icons, and your skills and potions
 show the seconds remaining while they recharge.
