@@ -1,5 +1,5 @@
 # S.U.N Reborn patch manifest
-# generated 2026-08-25 21:42:13 by make-patch.ps1 -- do not hand-edit
+# generated 2026-08-25 21:45:57 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
 PATCH 2026-08-25
@@ -10,7 +10,7 @@ loose c2b55629afcbf3aaad8c787a38a51dcf76dd8e901e6c73e4be4936760dc54749 1096704 L
 script 584e53da56b4922fd91ca5d47d897a3fcfb523987bd50bb421db4541cc7d7340 980740 Data\ChargeIteminfo.txt
 script 2874385d04dbaf5fc039f8ba2ca24606b4bf537180f8aec5aab0481707ea632e 3375324 Data\ArmorItemInfo.txt
 script 4445a027bddd2b8303d2fc276a5795a90cfb58dc0fb2e000247a1b6079545422 784131 Data\WeaponItemInfo.txt
-script 2cc59b7bf4b817632d8e197b16d6885cfdc2150c2aa0864cac09df577bb5271d 453238 Data\AccessoryItemInfo.txt
+script 8251b1d67f5749572bb5ccf75cf0ba8c5249e444ee5c7d79c3e6bcbeb50d46d7 453238 Data\AccessoryItemInfo.txt
 script dc9b0d7bd108a2418479ae78b3c42354c6e9108242d04a90a80358fc963c7941 2564478 Data\WasteItemInfo.txt
 loose a73ccaae4e1a46d5cd8c0d8d0812ee5d59b8707a93ea00ece7058ec0a1578ab2 1505658 StringTable.txt
 loose 444d0a02573f8dff9d401a1f4f335f0da2eccebc949f9de9c7a9f2e8a958d2e5 1505658 StringTable_en.txt
