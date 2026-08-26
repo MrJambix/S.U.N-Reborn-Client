@@ -20,6 +20,14 @@
 
 FORMAT 1
 
+[2026-08-25] update | Buffs and cooldowns now show how long is left
+Your buffs and debuffs count down on their own icons, and your skills and potions
+show the seconds remaining while they recharge.
+- Buff icons are a little larger so the numbers fit
+- Anything lasting more than a minute shows in minutes, hours or days
+
+[2026-08-25] update | Sharper ground and wall textures into the distance, and smoother edges on weapons, armour and scenery.
+
 [2026-08-24] fix | Fixed the game closing immediately at startup after the previous update.
 
 [2026-08-23] update | The ring set no longer dominates Equipment Grade
