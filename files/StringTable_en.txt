@@ -33672,6 +33672,11 @@ start
 59021	Always Show Monster Names
 59022	Anisotropic Filtering
 59023	Anti-aliasing (restart required)
+59024	Interface Size
+59025	Text Size
+59026	Unlock HUD Frames
+59027	Auto,100%,110%,125%,150%,175%,200%
+59028	Match Interface,100%,110%,125%,150%,175%,200%
 404644	Blessed Thrust
 403636	Condemning Thrust
 403638	Armor Shatter

@@ -450,4 +450,6 @@ z309	"z309_z.dds"//À§ºí±ä°Í
 z310	"z310_z.dds"//À§ºíÂªÀº°Í
 z311	"z311_z.dds"//¹Ì½ºÆ½³´
 z312	"z312.dds"//beta text
+z313	"z313.dds"//reborn text
+z314	"z314.dds"//reborn text shine
 end	

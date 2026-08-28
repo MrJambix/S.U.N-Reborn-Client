@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-28] update | The bag now always opens in the full view, with every tab on screen. The older one-tab view and the key that switched between the two have been retired.
+
 [2026-08-27] update | New interface look, refreshed class icons, a damage list and a target grade badge
 
 [2026-08-27] update | Quest targets are easier to spot: monsters you need for a quest are now marked, and quest gathering spots show on the map from any distance.
