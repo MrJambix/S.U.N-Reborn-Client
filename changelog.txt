@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-27] update | Quest targets are easier to spot: monsters you need for a quest are now marked, and quest gathering spots show on the map from any distance.
+
 [2026-08-26] update | Anisotropic filtering and anti-aliasing are now options in the Graphics settings, both off by default
 
 [2026-08-25] update | Buffs and cooldowns now show how long is left
