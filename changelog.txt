@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-29] fix | The interface now draws at the size you chose on every screen. The login screen, character select, character creation and every window that shows your character - the shop, inventory, mounts and costumes - could come out at the wrong size, or with parts of a window in one size and the rest in another. Windows that had wandered off the edge of the screen are put back where they belong.
+
 [2026-08-28] update | The bag now always opens in the full view, with every tab on screen. The older one-tab view and the key that switched between the two have been retired.
 
 [2026-08-27] update | New interface look, refreshed class icons, a damage list and a target grade badge

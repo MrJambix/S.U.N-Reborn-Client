@@ -33677,6 +33677,7 @@ start
 59026	Unlock HUD Frames
 59027	Auto,100%,110%,125%,150%,175%,200%
 59028	Match Interface,100%,110%,125%,150%,175%,200%
+59029	Click to Move
 404644	Blessed Thrust
 403636	Condemning Thrust
 403638	Armor Shatter
