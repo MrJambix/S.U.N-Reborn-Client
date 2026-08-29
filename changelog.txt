@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-29] update | SUN Ranking titles and place medals for the top three on each board, the Interface Size fix, and class balance for Helroid and WitchBlade.
+
 [2026-08-29] fix | The chat window sits where it belongs again. It was being placed too low for the size of the interface, so its tabs and the line you type into ran off the bottom of the screen and it covered the item bar in the corner.
 
 [2026-08-29] fix | The interface now draws at the size you chose on every screen. The login screen, character select, character creation and every window that shows your character - the shop, inventory, mounts and costumes - could come out at the wrong size, or with parts of a window in one size and the rest in another. Windows that had wandered off the edge of the screen are put back where they belong.

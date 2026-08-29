@@ -1,0 +1,94 @@
+//	코드는 300개가 최대						
+//	칭호코드	칭호스트링코드	칭호위치				
+	TitleCode	TitleNameCode	TitlePos	FieldEnd	//	칭호	
+	1	6569	1		//	기사	
+	2	6570	1		//	시민	
+	3	6571	1		//	현자	
+	4	6572	1		//	피에굶주린	
+	5	6573	1		//	1등당첨자	
+	6	6574	1		//	2등당첨자	
+	7	6575	1		//	3등당첨자	
+	8	6576	1		//	수집가	
+	9	6577	1		//	킹슬레이어	
+	10	6578	1		//	불사신	
+	11	6579	1		//	약물중독자	
+	12	6580	1		//	글라디에이터	
+	13	6581	1		//	수호자	
+	14	6754	1		//	유명인	
+	15	6755	1		//	탐구자	
+	16	6756	1		//	인내자	
+	17	6757	1		//	고행자	
+	18	6758	1		//	상처투성이	
+	19	6759	1		//	피해자	
+	20	6760	1		//	날 수 없는	
+	21	6761	1		//	좋은사람	
+	22	6762	1		//	행운아	
+	23	6785	1		//	해결사	
+	24	6848	1		//	야수 학살자	
+	25	6849	1		//	수로의 학살자	
+	26	6850	1		//	설원의 학살자	
+	27	6851	1		//	용족 학살자	
+	28	6852	1		//	언데드 학살자	
+	29	6853	1		//	헬론 학살자	
+	30	6854	1		//	브라키온을 평정한	
+	31	6855	1		//	정글을 꿰뚫는	
+	32	6856	1		//	정령의 대변자	
+	33	6857	1		//	만년설의	
+	34	6858	1		//	황야를 건너는	
+	35	6859	1		//	세리엔트를 평정한	
+	36	6786	1		//	설날의 사자	중국2012구정
+	37	6893	1		//	신목의 수호자	
+	38	6788	1		//	사랑에빠진	중국발렌타인데이이벤트
+	39	6894	1		//	마야가 아깝지 않은	중국슈퍼퀘스트
+	40	6582	1		//	초능력자	
+	41	6585	1		//	초월자	
+	42	6592	1		//	절대자	
+	43	90246	1		//	협곡의 지배자	
+	44	90247	1		//	큰주먹	
+	45	90248	1		//	씨앗을 뿌리는 자	
+	46	90249	1		//	고고학자	
+	47	6899	1		//	일공성명	중국구슬이벤트
+	48	6904	1		//	보호자	중국국경절이벤트
+	49	6906	1		//	항아수호자	중국추석이벤트
+	50	6828	1		//	사형천하	중국2013구정
+	51	11922	1		//	전장의지배자	1302 신규 ac보상
+	52	11923	1		//	공격의  귀재	1302 신규 ac보상
+	53	11924	1		//	수성의 달인	1302 신규 ac보상
+	54	11925	1		//	전장의 제왕	1302 신규 ac보상
+	55	11943	1		//	랭킹1위	
+	56	11944	1		//	챔피언	
+	57	11945	1		//	월드 챔피언	
+	58	11946	1		//	스페샬 원	
+	59	11947	1		//	혹한의 지배자	
+	60	90260	1		//	탐사대원	
+	61	6913	1		//	 끈기있는 사냥꾼	몬스터도감 퀘스트 완료
+	62	6914	1		//	꿰뚫어 보는 자	몬스터도감 ac
+	63	11976	1		//	혹한의 제왕	서리 격전지 ac
+	64	11990	1		//	꺾이지 않는 창	서리 격전지 ac
+	65	11991	1		//	뚫리지 않는 방패	서리 격전지 ac
+	66	11989	1		//	탐욕의 제왕	욕망의 무덤 ac
+	67	11992	1		//	욕망의 지배자	욕망의 무덤 ac
+	68	11993	1		//	정화의 손	욕망의 무덤 ac
+	69	11994	1		//	피로 물든 손	욕망의 무덤 ac
+	70	11996	1		//	배신자 척결대	빛의시련 ac
+	71	405020	1		//	Sovereign of the Sun	SUN Ranking BestOfBest rank 1
+	72	405021	1		//	Herald of the Sun	SUN Ranking BestOfBest rank 2
+	73	405022	1		//	Scion of the Sun	SUN Ranking BestOfBest rank 3
+	74	405023	1		//	Bloodcrowned Warlord	SUN Ranking EliteWarrior rank 1
+	75	405024	1		//	Bladesworn Conqueror	SUN Ranking EliteWarrior rank 2
+	76	405025	1		//	Ironclad Duelist	SUN Ranking EliteWarrior rank 3
+	77	405026	1		//	Eternal Ascendant	SUN Ranking LevelKing rank 1
+	78	405027	1		//	Undying Wayfarer	SUN Ranking LevelKing rank 2
+	79	405028	1		//	Tireless Pilgrim	SUN Ranking LevelKing rank 3
+	80	405029	1		//	Living Armory	SUN Ranking LegendEquip rank 1
+	81	405030	1		//	Warden of Relics	SUN Ranking LegendEquip rank 2
+	82	405031	1		//	Gilded Vanguard	SUN Ranking LegendEquip rank 3
+	83	405032	1		//	Worldbreaker	SUN Ranking StrongOneShot rank 1
+	84	405033	1		//	Skysplitter	SUN Ranking StrongOneShot rank 2
+	85	405034	1		//	Stonecleaver	SUN Ranking StrongOneShot rank 3
+	86	405035	1		//	Tempest Incarnate	SUN Ranking BestAttacker rank 1
+	87	405036	1		//	Stormbringer	SUN Ranking BestAttacker rank 2
+	88	405037	1		//	Harbinger of Ruin	SUN Ranking BestAttacker rank 3
+	89	405038	1		//	Eternal Lightbringer	SUN Ranking MasterOfHeal rank 1
+	90	405039	1		//	Hand of Mercy	SUN Ranking MasterOfHeal rank 2
+	91	405040	1		//	Oathkeeper of Life	SUN Ranking MasterOfHeal rank 3
