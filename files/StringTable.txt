@@ -33746,4 +33746,25 @@ start
 202865	Drives a colossal lance of light from the sky into the ground for %s damage. Has a %s% chance to reduce Attack Power for %s seconds by %s%, and a %s% chance to force Atonement for %s seconds. Deals %s additional damage to Stigmatized enemies.
 202866	Sacrifices %s% of your maximum HP to restore %s% of your maximum HP to one chosen ally, clearing all status ailments and granting immunity to every abnormal state except mission traps for %s seconds. If your gear score is lower than that ally's, the cure and immunity success rate is reduced.
 202867	Hurls a great lance of light into the chosen area over 5 seconds to raise a sanctuary. The embedded lance restores %s HP to every ally inside for the duration and raises Base Defense by %s%, Atonement Resistance by %s%%, and Critical Rate when struck by %s%%. Warding Sanctuary cannot be summoned at the same time as Cursed Sanctuary.
+405020	Sovereign of the Sun
+405021	Herald of the Sun
+405022	Scion of the Sun
+405023	Bloodcrowned Warlord
+405024	Bladesworn Conqueror
+405025	Ironclad Duelist
+405026	Eternal Ascendant
+405027	Undying Wayfarer
+405028	Tireless Pilgrim
+405029	Living Armory
+405030	Warden of Relics
+405031	Gilded Vanguard
+405032	Worldbreaker
+405033	Skysplitter
+405034	Stonecleaver
+405035	Tempest Incarnate
+405036	Stormbringer
+405037	Harbinger of Ruin
+405038	Eternal Lightbringer
+405039	Hand of Mercy
+405040	Oathkeeper of Life
 end

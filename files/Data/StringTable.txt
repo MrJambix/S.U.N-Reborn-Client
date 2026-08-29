@@ -33156,4 +33156,25 @@ start
 59001	Inventory sorted. (%d items moved, %d stacks merged)
 59002	Your inventory is already sorted.
 59003	You cannot sort your inventory again just yet.
+405020	Sovereign of the Sun
+405021	Herald of the Sun
+405022	Scion of the Sun
+405023	Bloodcrowned Warlord
+405024	Bladesworn Conqueror
+405025	Ironclad Duelist
+405026	Eternal Ascendant
+405027	Undying Wayfarer
+405028	Tireless Pilgrim
+405029	Living Armory
+405030	Warden of Relics
+405031	Gilded Vanguard
+405032	Worldbreaker
+405033	Skysplitter
+405034	Stonecleaver
+405035	Tempest Incarnate
+405036	Stormbringer
+405037	Harbinger of Ruin
+405038	Eternal Lightbringer
+405039	Hand of Mercy
+405040	Oathkeeper of Life
 end
