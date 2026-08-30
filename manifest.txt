@@ -1,10 +1,10 @@
 # S.U.N Reborn patch manifest
-# generated 2026-08-30 07:05:18 by make-patch.ps1 -- do not hand-edit
+# generated 2026-08-30 07:56:48 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
 PATCH 2026-08-30
 script 117861f0a0b11aebc9476c9e85477f59765fb29d2a09efd9a90bae4df97ba46a 23033 Data\Attendance.txt
-script 4835d45591f70d52587c6154817c4f511bd225a064a991b64eea3a150b73d40e 464237 Data\RewardInfoList.txt
+script d456cef02d6a8c07fd1920bf06cdc95567f171d1e83d400f4f851eb1ec013742 462596 Data\RewardInfoList.txt
 loose cb11d1eeed4f902d63748b036dcafe59a8c50517117c80accc45294e139f6603 8188416 Sungame.exe
 loose c2b55629afcbf3aaad8c787a38a51dcf76dd8e901e6c73e4be4936760dc54749 1096704 Launcher.exe
 script 584e53da56b4922fd91ca5d47d897a3fcfb523987bd50bb421db4541cc7d7340 980740 Data\ChargeIteminfo.txt
@@ -1025,7 +1025,7 @@ pack 77d312d3790d5a4f6257ee20de85461703210a3bd29c820c1252730d93358a17 640 Data\I
 pack 114cc06e3927e07af9e0d2776c6f884add9df171c3cd8c1df088943e0cb9027d 640 Data\Icon\element\Guild\Paladin_symbol_1.dds
 pack bca566c33c79441464b90122dee8f4ad0802b6c7c2185b9059ca6e6a4b8da7cc 640 Data\Icon\element\Guild\Paladin_symbol_2.dds
 pack 8868b5e4dd77c98b13f4b5470d3baf99e0d2535db1f43bfb2dbc131934e29849 640 Data\Icon\element\Guild\Paladin_symbol_3.dds
-script 6598cf56564e8b1e510d16d521b450fe1e8cbd58dcbec151945f3beb67043364 178392 Data\ACScript.txt
+script f06e80867f21576b9614393ea30d582c6f502a068fb0066ac4e82fd89ef2b058 177852 Data\ACScript.txt
 pack 3797afc796134c8bb17f284f071e1f2a3b9a97582cbce48752317627003bd00d 87528 Data\Armor\Paladin\A020\w_mys_20b_skirt_no.dds
 script af2f1f21eab17604e2b8df3e0a506e972fcd092aa188f652bedd9dce6038c118 15902 Data\ItemScoreInfo.txt
 loose 2aedecabe68955d8c886c1f1f75f6e95dd2801113e89d518d2d45fcab039bba7 46592 d3d9.dll
