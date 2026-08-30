@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-29] update | The Journey window is ready to use. Pick a chapter from the list on the left to see its zones, the quests you have left in each one, and where to go for your next step. Its progress bars, highlights and the Show on Map button were being drawn in the top-left corner of the screen instead of inside the window, and neither the chapter list nor the zone dropdown could be clicked.
+
 [2026-08-29] update | SUN Ranking titles and place medals for the top three on each board, the Interface Size fix, and class balance for Helroid and WitchBlade.
 
 [2026-08-29] fix | The chat window sits where it belongs again. It was being placed too low for the size of the interface, so its tabs and the line you type into ran off the bottom of the screen and it covered the item bar in the corner.
