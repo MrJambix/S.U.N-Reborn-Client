@@ -20,6 +20,14 @@
 
 FORMAT 1
 
+[2026-08-31] fix | Character deletion, and a batch of fixes.
+You can delete a character again - the confirmation box was asking for a number that no account here has, so there was no way to get past it. It now asks you to type a short word instead.
+- Fixed a crash when opening your bag, which could catch characters carrying items in the extra slots.
+- Clicking a window no longer also clicks the world behind it, so you will not walk off or start attacking when you meant to press a button.
+- Intellect now shortens how long your skills take to cast.
+- Putting something into storage tops up a stack that is already there instead of taking a fresh slot.
+- Click to Move can now be turned off in the options.
+
 [2026-08-31] update | Endgame EXP curve: levels 131-177 rebuilt so the last stretch is actually reachable.
 
 [2026-08-31] update | Skill Liberation: spend a Liberation Stone to roll temporary bonuses onto a skill.
