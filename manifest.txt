@@ -1,11 +1,11 @@
 # S.U.N Reborn patch manifest
-# generated 2026-08-31 17:27:29 by make-patch.ps1 -- do not hand-edit
+# generated 2026-08-31 18:40:08 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
 PATCH 2026-08-31
 script 117861f0a0b11aebc9476c9e85477f59765fb29d2a09efd9a90bae4df97ba46a 23033 Data\Attendance.txt
 script 274e01dadd023fcd84d1d2f52595515d86213e7a3d26f9f59ab0cd85fee7c1d4 463925 Data\RewardInfoList.txt
-loose 83f4b214e790355d56f54a482cbe651540712a673595ae65ba5f9b25f7c68ae9 8214016 Sungame.exe
+loose 11b8fe8531a61b5c97215a5627ed4f71cc0dafe7a08a7e3aed0b31a60c54dc87 8215040 Sungame.exe
 loose c2b55629afcbf3aaad8c787a38a51dcf76dd8e901e6c73e4be4936760dc54749 1096704 Launcher.exe
 script bec82dff4363bf5b2314abf204561bed54c40c0d269d2926c7bfb1fdd4581888 982492 Data\ChargeIteminfo.txt
 script 2874385d04dbaf5fc039f8ba2ca24606b4bf537180f8aec5aab0481707ea632e 3375324 Data\ArmorItemInfo.txt
@@ -1294,4 +1294,4 @@ script 3dd428fd6fe29e861924c19e251639b0b668e7c36608a337ebb72f95076600b1 401726 D
 pack 2db152dd3129c6ca0c167c5c98884b1bf3b720fa6786c5fc2973823a0e4566f0 6765 Data\Interface\42_14_Skill_Release.iwz
 pack d9aa2e4c1d9f9ea8eb5f677f3035d307d591d4567c8206990e53cf81b4ed88a5 262188 Data\Interface\Skill_Release_01.tga
 pack a3fe6436c0d562c607d033371dbc48784544310a018e9a37237476c4681eed2e 640 Data\Icon\Commercial\LiberationStone_1.dds
-script 181e464981ff042c306efb3f42617f6252f8afb815647998d9303ba9c696dfa8 3323 Data\ExpValueInfo.txt
+script 410b9982ff0057f0fd705a92c87258bc287aeea023685d7523d6d0c5d8c7f971 3575 Data\ExpValueInfo.txt
