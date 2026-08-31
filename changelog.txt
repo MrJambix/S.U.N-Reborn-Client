@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-31] fix | Fix: the game could freeze or close at 5% while loading after the last update.
+
 [2026-08-31] fix | Character deletion, and a batch of fixes.
 You can delete a character again - the confirmation box was asking for a number that no account here has, so there was no way to get past it. It now asks you to type a short word instead.
 - Fixed a crash when opening your bag, which could catch characters carrying items in the extra slots.
