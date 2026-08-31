@@ -1,5 +1,5 @@
 # S.U.N Reborn patch manifest
-# generated 2026-08-31 16:26:52 by make-patch.ps1 -- do not hand-edit
+# generated 2026-08-31 17:27:29 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
 PATCH 2026-08-31
@@ -1286,7 +1286,7 @@ pack 421578c21425482a46d54fbd98fa1e1e6a3e5b8ddb932a44d390e58428f57e80 16512 Data
 pack 7a10ee2c4aeda50c9b92e5fe78cea288baa6dc58f920fcf5c46ed2d4942b855c 16512 Data\Effect\z603_z.dds
 pack ee56a8a82fd703f1c2e5c32167cbcdd3190d2c02b54ba73596c6ed7323169233 8320 Data\Effect\z604_z.dds
 pack 2ed00361f44e13b20cbd591d4832f7c7be1b8b946dd6ba6370ba9592d048db42 262272 Data\Effect\z606_z.dds
-pack bcfec3770d7c5200f6f8054f1552028cda9a8c135187b721d1ee8dc420058e5b 8003 Data\Effect\Effect-Mesh.txt
+pack 1b1630f6385437dfee33fa48b884201691b8afa59087e2cda2296c0827e0a4b7 7482 Data\Effect\Effect-Mesh.txt
 pack 81e9030b41b0ddb76eb09b7ca3eae560e44032dfaa0121e70502bbbf1a7210c1 174904 Data\Weapon\Shadow\W025\w_sha_25_dagger_di_h.dds
 pack 88a1766fd5a3c6c69a2bf4cf4b90f0cd2fe1b352f243867ac90d563f35af3eac 16512 Data\Effect\z155.dds
 script 0edc5949ad90282b95b5613e14562cd3f4a6e3545e084e864675a82a8be2e22a 267 Data\SkillLiberationSlotInfo.txt
