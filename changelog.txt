@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-31] fix | Fix: the game could stop responding at 60% while loading.
+
 [2026-08-31] fix | Fix: long loads no longer report the game as not responding.
 
 [2026-08-31] fix | Fix: the skill window error at startup, and the endgame EXP curve reverted.
