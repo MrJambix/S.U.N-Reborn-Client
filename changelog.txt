@@ -20,6 +20,9 @@
 
 FORMAT 1
 
+[2026-08-31] update | The game starts about three times faster.
+The long pause at 60% on the loading screen is gone. The effects that were being loaded there now come in quietly while you are on the login and character screens, so you reach the login box in a few seconds instead of waiting through it.
+
 [2026-08-31] fix | Fix: the game could stop responding at 60% while loading.
 
 [2026-08-31] fix | Fix: long loads no longer report the game as not responding.
