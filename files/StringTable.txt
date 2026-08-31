@@ -33767,4 +33767,777 @@ start
 405038	Eternal Lightbringer
 405039	Hand of Mercy
 405040	Oathkeeper of Life
+12900	Penetration
+24194	Weakens the enemy's damage reduction and deals damage.
+404629	Empowered
+205823	Deals additional damage to the target.
+404630	Crush
+205824	Takes additional damage from a Paladin.
+404631	Bonus Damage to Monsters
+205825	Increases the damage dealt to monsters.
+404632	Snare
+205826	Snared. Movement is all but impossible.
+404633	Snare Accuracy Up
+205827	Increases the chance of Snaring a target.
+202811	Stigma
+202821	Affected whenever a Paladin uses a Chant skill.
+202812	Atonement
+202822	Held in place by whoever applied it, and unable to act.
+202815	Atonement Resistance Up
+202825	Reduces the chance of being afflicted with Atonement.
+202816	Atonement Resistance Down
+202826	Increases the chance of being afflicted with Atonement.
+202817	Chant of Protection
+202827	Grants nearby allies reduced damage from monsters and increased base Defense.
+202818	Chant of Advance
+202828	Grants nearby allies Penetration and increased base Attack Power.
+204744	Absorption Down
+204745	Reduces the share of damage dealt that is converted to HP.
+25298	Monster Damage Down
+26292	Reduces the damage taken from monsters.
 end
+91147	Shining Liberation Stone
+91148	Releases a skill's latent power, strengthening its effects or adding new ones.\nThe number of liberation effects is decided at random, from 1 to 3.\nLiberate a skill at the Enhancement Shop in town.\n\n[Effect Count Chance]\n- 1 effect: 65%\n- 2 effects: 30%\n- 3 effects: 5%
+92214	[Gift] Shining Liberation Stone
+202006	Absorb Duration +0.5s
+202007	Absorb Duration +2.5s
+202008	Absorb Duration +3s
+202009	Skill Damage +25%
+202010	Skill Damage +30%
+202017	Skill Damage +35%
+202018	Skill Damage +40%
+202019	Range +6m
+202020	Range +10m
+202027	Skill Damage +4%
+202028	Skill Damage +8%
+202029	Stun Duration +0.3s
+202030	Stun Duration +0.6s
+202039	Stun Duration +1s
+202040	HP Recovery +15%
+202047	HP Recovery +20%
+202958	Wound Additional Damage +3%
+202959	Wound Additional Damage +6%
+202960	Wound Additional Damage +10%
+202961	Skill Damage +10% & Shatter Additional Damage +10%
+202962	Skill Damage +12% & Shatter Additional Damage +12%
+202963	Skill Damage +15% & Shatter Additional Damage +15%
+202964	Skill Damage +10% & Heavy Strike Additional Damage +10%
+202965	Skill Damage +12% & Heavy Strike Additional Damage +12%
+202966	Skill Damage +15% & Heavy Strike Additional Damage +15%
+202967	Wound Damage +3%
+202968	Wound Damage +6%
+202969	Wound Damage +10%
+202970	Skill Damage +10% & Shatter Duration +1s
+202971	Skill Damage +12% & Shatter Duration +2s
+202972	Skill Damage +15% & Shatter Duration +3s
+202973	Skill Damage +10% & Heavy Strike Additional Damage +10%
+202974	Skill Damage +12% & Heavy Strike Additional Damage +12%
+202975	Skill Damage +15% & Heavy Strike Additional Damage +15%
+202976	Skill Damage +15% & Wound: 100% chance, Damage 200 for 3s
+202977	Skill Damage +20% & Wound: 100% chance, Damage 200 for 4s
+202978	Skill Damage +25% & Wound: 100% chance, Damage 200 for 5s
+202979	Skill Damage +15% & Heavy Strike Additional Damage +15%
+202980	Skill Damage +20% & Heavy Strike Additional Damage +20%
+202981	Skill Damage +25% & Heavy Strike Additional Damage +25%
+202982	Sprint Duration +1s
+202983	Sprint Duration +2s
+202984	Sprint Duration +3s
+202985	Sprint Increase +5%
+202986	Sprint Increase +10%
+202987	Sprint Increase +15%
+202988	Stun Riposte Duration +1s
+202989	Stun Riposte Duration +2s
+202990	Stun Riposte Duration +3s
+204670	Skill Damage +10% & Wound: 100% chance, Damage 100 for 3s
+204671	Skill Damage +12% & Wound: 100% chance, Damage 100 for 4s
+204680	HP Recovery +5000
+204681	HP Recovery +10000
+204682	HP Recovery +15000
+204683	Skill Damage Increase: Skill Attack +15% for 5s
+204684	Skill Damage Increase: Skill Attack +15% for 10s
+204685	Skill Damage Increase: Skill Attack +15% for 15s
+204763	Skill Damage +15% & Wound: 100% chance, Damage 100 for 5s
+205802	Enfeeble: 100% chance, Attack Power -30% for 3s
+205803	Enfeeble: 100% chance, Attack Power -30% for 4s
+205804	Enfeeble: 100% chance, Attack Power -30% for 5s
+205831	Skill Damage +10% & Wound Duration +1s
+205832	Skill Damage +12% & Wound Duration +2s
+205833	Skill Damage +15% & Wound Duration +3s
+205834	Skill Damage +10% & Stigma Duration +1s
+205835	Skill Damage +12% & Stigma Duration +2s
+205836	Skill Damage +15% & Stigma Duration +3s
+205837	Skill Damage +10% & Atonement Duration +0.3s
+205838	Skill Damage +12% & Atonement Duration +0.6s
+205839	Skill Damage +15% & Atonement Duration +1s
+205840	Skill Damage +10% & Stigma Additional Damage +10%
+205841	Skill Damage +12% & Stigma Additional Damage +12%
+205842	Skill Damage +15% & Stigma Additional Damage +15%
+205843	Atonement Duration +0.3s
+205844	Atonement Duration +0.6s
+205845	Atonement Duration +1s
+205846	Skill Damage +15% & Slow: 100% chance, Attack Speed -30% for 3s
+205847	Skill Damage +20% & Slow: 100% chance, Attack Speed -30% for 4s
+205848	Skill Damage +25% & Slow: 100% chance, Attack Speed -30% for 5s
+205849	Skill Damage +15% & Stigma Additional Damage +15%
+205850	Skill Damage +20% & Stigma Additional Damage +20%
+205851	Skill Damage +25% & Stigma Additional Damage +25%
+205852	Stigma Duration +1s
+205853	Stigma Duration +2s
+205854	Stigma Duration +3s
+205855	Skill Damage +15% & Vigor: Party HP Recovery +300 for 3s
+205856	Skill Damage +20% & Vigor: Party HP Recovery +600 for 3s
+205857	Skill Damage +25% & Vigor: Party HP Recovery +1000 for 3s
+404210	Critical Rate +25%
+404211	Critical Rate +30%
+404212	Critical Rate +5%
+404213	Critical Rate -1%
+404214	Critical Rate -3%
+404215	Critical Rate -5%
+404216	Frozen Rate +10%
+404217	Frozen Rate +3%
+404218	Frozen Rate +6%
+404219	Frozen Riposte: 10% Damage Reflect for 3s (removed after 10 hits) & Vigor: self HP Recovery +600 for 3s
+404220	Frozen Riposte: 10% Damage Reflect for 3s (removed after 15 hits) & Vigor: self HP Recovery +1000 for 3s
+404221	Frozen Riposte: 10% Damage Reflect for 3s (removed after 5 hits) & Vigor: self HP Recovery +300 for 3s
+404222	Frozen Riposte: 25% Damage Reflect for 3s (removed after 10 hits) & Vigor: self HP Recovery +600 for 4s
+404223	Frozen Riposte: 25% Damage Reflect for 3s (removed after 15 hits) & Vigor: self HP Recovery +1000 for 4s
+404224	Frozen Riposte: 25% Damage Reflect for 3s (removed after 5 hits) & Vigor: self HP Recovery +300 for 4s
+404225	Critical Rate When Hit -5%
+404226	Critical Rate When Hit -1%
+404227	Critical Rate When Hit -3%
+404228	Damage Debuff Resistance +1%
+404229	Damage Debuff Resistance +3%
+404230	Damage Debuff Resistance +5%
+404231	Burn Duration +1s
+404232	Burn Duration +2s
+404233	Burn Duration +3s
+404234	Burn Damage +10%
+404235	Burn Damage +3%
+404236	Burn Damage +6%
+404237	Absorb Duration +0.3s
+404238	Absorb Duration +0.6s
+404239	Absorb Duration +1.3s
+404240	Absorb Duration +1.5s
+404241	Absorb Duration +1.6s
+404242	Absorb Duration +1s
+404243	Absorb Duration +2s
+405242	All Elemental Attack +10% & HP Recovery +100
+405243	All Elemental Resistance +10% & HP Recovery +100
+405244	All Elemental Attack +6% & HP Recovery +60
+405245	All Elemental Resistance +6% & HP Recovery +60
+405246	All Elemental Attack +10%
+405247	All Elemental Resistance +10%
+405248	HP Recovery +10%
+405249	HP Recovery +20% & Magic Shield: Damage 5% Absorb for 3s (removed after 10 hits) & HP Recovery +10%
+405250	HP Recovery +20% & Magic Shield: Damage 10% Absorb for 3s (removed after 10 hits) & HP Recovery +10%
+405251	HP Recovery +40% & Magic Shield: Damage 5% Absorb for 4s (removed after 10 hits) & HP Recovery +12%
+405252	HP Recovery +40% & Magic Shield: Damage 10% Absorb for 4s (removed after 10 hits) & HP Recovery +12%
+405253	HP Recovery +60% & Magic Shield: Damage 5% Absorb for 5s (removed after 10 hits) & HP Recovery +15%
+405254	HP Recovery +60% & Magic Shield: Damage 10% Absorb for 5s (removed after 10 hits) & HP Recovery +15%
+405255	HP Recovery +3%
+405256	HP Recovery +6%
+405257	Stagger Duration +0.1s
+405258	Stagger Duration +0.3s
+405259	Stagger Duration +0.5s
+405260	Attack Speed -10%
+405261	Attack Speed -3%
+405262	Attack Speed -6%
+405263	Base Attack +10%
+405264	Base Attack +3%
+405265	Base Attack +6%
+405266	Base Attack +10% & Absorb: Damage Conversion +3%
+405267	Base Attack +15% & Absorb: Damage Conversion +5%
+405268	Base Attack +5% & Absorb: Damage Conversion +1%
+405269	Base Defence +10%
+405270	Base Defence +3%
+405271	Base Defence +6%
+405272	Down Duration +0.1s
+405273	Down Duration +0.5s
+405274	Target's MP -10%
+405275	Target's MP -15%
+405276	Target's MP -5%
+405277	Destroyer Debuff Duration +15%
+405278	Destroyer Debuff Duration +30%
+405279	Destroyer Debuff Duration +50%
+405280	Destroyer Base Attack +15% & Skill Attack +15%
+405281	Destroyer Base Attack +15% & Elemental Attack +15%
+405282	Destroyer Base Attack +30% & Skill Attack +30%
+405283	Destroyer Base Attack +30% & Elemental Attack +30%
+405284	Destroyer Base Attack +50% & Skill Attack +50%
+405285	Destroyer Base Attack +50% & Elemental Attack +50%
+405289	Destroyer Target's All Elemental Resistance +15%
+405290	Destroyer Target's All Elemental Resistance +30%
+405291	Destroyer Target's All Elemental Resistance +50%
+405292	Destroyer Max HP +15%
+405293	Destroyer Max HP +30%
+405294	Destroyer Max HP +50%
+405295	Range Damage +10%
+405296	Range Damage +10% & Range Duration 1s
+405297	Range Damage +12% & Range Duration 2s
+405298	Range Damage +15% & Range Duration 3s
+405299	Range Damage +3%
+405300	Range Damage +6%
+405301	Meditation: 100% chance, MP Recovery +20 for 10s
+405302	Meditation: 100% chance, MP Recovery +20 for 3s
+405303	Meditation: 100% chance, MP Recovery +20 for 5s
+405304	All Elemental Attack +6%
+405305	All Elemental Attack +3%
+405306	All Elemental Attack +3% & HP Recovery +30
+405307	All Elemental Attack -6%
+405308	All Elemental Attack -3%
+405309	All Elemental Attack -3% & Wound Damage +20
+405310	All Elemental Resistance +6%
+405311	All Elemental Resistance +3%
+405312	All Elemental Resistance +3% & HP Recovery +30
+405313	All Elemental Resistance -6%
+405314	All Elemental Resistance -3%
+405315	All Elemental Resistance -3% & Wound Damage +20
+405316	Enfeeble: 100% chance, Attack Power -10% for 3s
+405317	Enfeeble: 50% chance, Attack Power -10% for 3s
+405318	Enfeeble: 70% chance, Attack Power -10% for 3s
+405319	HP Recovery +40% & Vigor Duration +3s & Defence: Base Defence +10% for 10s
+405320	HP Recovery +25% & Vigor Duration +1s & Defence: Base Defence +10% for 3s
+405321	HP Recovery +30% & Vigor Duration +2s & Defence: Base Defence +10% for 5s
+405322	Block Rate -10%
+405323	Block Rate -3%
+405324	Block Rate -6%
+405325	Banshee Penetration +15%
+405326	Banshee Penetration +30%
+405327	Banshee Penetration +50%
+405328	Banshee Base Attack +15%
+405329	Banshee Base Attack +30%
+405330	Banshee Base Attack +50%
+405331	Banshee Skill Attack +15%
+405332	Banshee Skill Attack +30%
+405333	Banshee Skill Attack +50%
+405334	Banshee Elemental Attack +15%
+405335	Banshee Elemental Attack +30%
+405336	Banshee Elemental Attack +50%
+405337	Protection Duration +1.5s
+405338	Wound: 100% chance, Damage 100 for 3s
+405339	Wound: 50% chance, Damage 100 for 3s
+405340	Wound: 70% chance, Damage 100 for 3s
+405341	Skill Attack -5%
+405342	Skill Attack -1%
+405343	Skill Attack -3%
+405344	Skill Damage Increase +10% & Absorb: Damage Conversion +3%
+405345	Skill Damage Increase +15% & Absorb: Damage Conversion +5%
+405346	Skill Damage Increase +5% & Absorb: Damage Conversion +1%
+405347	Skill Area +1m
+405348	Skill Area +2m
+405349	Skill Area +3m
+405350	Skill Focus Curse: Skill Cooldown +10%
+405351	Skill Focus Curse: Skill Cooldown +3%
+405352	Skill Focus Curse: Skill Cooldown +6%
+405353	Skill Focus Curse Duration +1s
+405354	Skill Focus Curse Duration +2s
+405355	Skill Focus Curse Duration +3s
+405356	All Elemental Attack -6% & Wound Damage +50
+405357	All Elemental Resistance -6% & Wound Damage +50
+405358	Skill Damage +10% & Shock: 100% chance, Damage 100 for 3s
+405359	Skill Damage +10% & Stagger Rate +3%
+405360	Down Rate +15% & Down Duration +0.3s & Skill Damage +10% & Down Additional Damage +10%
+405361	Skill Damage +10% & Slow: 100% chance, Attack Speed -10% for 3s
+405362	Skill Damage +10% & Slow: 100% chance, Attack Speed -30% for 3s
+405363	Skill Damage +10% & Enfeeble: 100% chance, Attack Power -10% for 3s
+405364	Skill Damage +15% & Down Rate +15% & Down Duration +0.3s & Skill Damage +10% & Possession Additional Damage +10%
+405365	Skill Damage +10% & Wound: 100% chance, Damage 100 for 3s
+405366	Skill Damage +10% & Stun Duration +0.3s
+405367	Skill Damage +10% & Dark Agony: 100% chance, Damage 100 for 3s
+405368	Skill Damage +10% & Dark Agony Duration +3s
+405369	Skill Damage +10% & Dark Burn: 100% chance, Damage 100 for 3s
+405370	Skill Damage +10% & Weaken: 100% chance, Defence -10% for 3s
+405371	Skill Damage +10% & Weaken Duration +1s
+405372	Skill Damage +10% & Shackle: 100% chance, Movement Speed -10% for 3s
+405373	Skill Damage +10% & Shackle Reduction -10%
+405374	Skill Damage +10% & Frustration Duration +1s
+405375	Skill Damage +10% & Poison: 100% chance, Damage 100 for 3s
+405376	Skill Damage +10% & Poison Duration +1s
+405377	Skill Damage +10% & Frozen Duration 0.1s & Wound: 100% chance, Damage 100 for 3s
+405378	Skill Damage +10% & Burn: 100% chance, Damage 100 for 3s
+405379	Skill Damage +10% & Burn Duration +1s
+405380	Skill Damage +1000 & Enfeeble: 100% chance, Attack Power -10% for 3s
+405381	Skill Damage +1000 & Weaken: 100% chance, Defence -10% for 3s
+405382	Target's All Elemental Resistance -30% for 7s & Weaken Reduction -15%
+405383	Target's All Elemental Resistance -30% for 7s & Shackle Reduction -15%
+405384	Skill Damage +12% & Shock: 100% chance, Damage 100 for 4s
+405385	Skill Damage +12% & Stagger Rate +6%
+405386	Down Rate +15% & Down Duration +0.6s & Skill Damage +12% & Down Additional Damage +12%
+405387	Skill Damage +12% & Slow: 100% chance, Attack Speed -10% for 3s
+405388	Skill Damage +12% & Slow: 100% chance, Attack Speed -30% for 4s
+405389	Skill Damage +12% & Enfeeble: 100% chance, Attack Power -10% for 3s
+405390	Skill Damage +12% & Enfeeble: 100% chance, Attack Power -10% for 4s
+405391	Skill Damage +20% & Down Rate +15% & Down Duration +0.6s & Skill Damage +12% & Possession Additional Damage +12%
+405392	Skill Damage +12% & Wound: 100% chance, Damage 100 for 3s
+405393	Skill Damage +12% & Stun Duration +0.6s
+405394	Skill Damage +12% & Dark Agony: 100% chance, Damage 100 for 4s
+405395	Skill Damage +12% & Dark Agony Duration +6s
+405396	Skill Damage +12% & Dark Burn: 100% chance, Damage 100 for 4s
+405397	Skill Damage +12% & Weaken: 100% chance, Defence -10% for 3s
+405398	Skill Damage +12% & Weaken: 100% chance, Defence -10% for 4s
+405399	Skill Damage +12% & Weaken Duration +1.5s
+405400	Skill Damage +12% & Shackle: 100% chance, Movement Speed -10% for 3s
+405401	Skill Damage +12% & Shackle: 100% chance, Movement Speed -20% for 3s
+405402	Skill Damage +12% & Shackle: 100% chance, Movement Speed -10% for 4s
+405403	Skill Damage +12% & Shackle Reduction -20%
+405404	Skill Damage +12% & Frustration Duration +2s
+405405	Skill Damage +12% & Poison: 100% chance, Damage 100 for 4s
+405406	Skill Damage +12% & Poison Duration +2s
+405407	Skill Damage +12% & Frozen Duration 0.3s & Wound: 100% chance, Damage 100 for 4s
+405408	Skill Damage +12% & Burn: 100% chance, Damage 100 for 4s
+405409	Skill Damage +12% & Burn Duration +2s
+405410	Skill Damage +15% & Shock: 100% chance, Damage 100 for 5s
+405411	Skill Damage +15% & Stagger Rate +10%
+405412	Down Rate +15% & Down Duration +1s & Skill Damage +15% & Down Additional Damage +15%
+405413	Skill Damage +15% & Slow: 100% chance, Attack Speed -10% for 3s
+405414	Skill Damage +15% & Slow: 100% chance, Attack Speed -30% for 5s
+405415	Skill Damage +15% & Enfeeble: 100% chance, Attack Power -10% for 3s
+405416	Skill Damage +15% & Enfeeble: 100% chance, Attack Power -10% for 5s
+405417	Skill Damage +25% & Down Rate +15% & Down Duration +1s & Skill Damage +15% & Possession Additional Damage +15%
+405418	Skill Damage +15% & Wound: 100% chance, Damage 100 for 3s
+405419	Skill Damage +15% & Stun Duration +1s
+405420	Skill Damage +15% & Dark Agony: 100% chance, Damage 100 for 5s
+405421	Skill Damage +15% & Dark Agony Duration +10s
+405422	Skill Damage +15% & Dark Burn: 100% chance, Damage 100 for 5s
+405423	Skill Damage +15% & Weaken: 100% chance, Defence -10% for 3s
+405424	Skill Damage +15% & Weaken: 100% chance, Defence -10% for 5s
+405425	Skill Damage +15% & Weaken Duration +2s
+405426	Skill Damage +15% & Shackle: 100% chance, Movement Speed -10% for 3s
+405427	Skill Damage +15% & Shackle: 100% chance, Movement Speed -30% for 3s
+405428	Skill Damage +15% & Shackle: 100% chance, Movement Speed -10% for 5s
+405429	Skill Damage +15% & Shackle Reduction -30%
+405430	Skill Damage +15% & Frustration Duration +3s
+405431	Skill Damage +15% & Poison: 100% chance, Damage 100 for 5s
+405432	Skill Damage +15% & Poison Duration +3s
+405433	Skill Damage +15% & Frozen Duration 0.5s & Wound: 100% chance, Damage 100 for 5s
+405434	Skill Damage +15% & Burn: 100% chance, Damage 100 for 5s
+405435	Skill Damage +15% & Burn Duration +3s
+405436	Skill Damage +3%
+405437	All Elemental Attack -10%
+405438	All Elemental Resistance -10%
+405439	Skill Damage +300 & Enfeeble: 100% chance, Attack Power -10% for 3s
+405440	Skill Damage +300 & Weaken: 100% chance, Defence -10% for 3s
+405441	Target's All Elemental Resistance -10% for 7s & Weaken Reduction -5%
+405442	Target's All Elemental Resistance -10% for 7s & Shackle Reduction -5%
+405443	All Elemental Attack -10% & Wound Damage +100
+405444	All Elemental Resistance -10% & Wound Damage +100
+405445	Skill Damage +6%
+405446	Skill Damage +600 & Enfeeble: 100% chance, Attack Power -10% for 3s
+405447	Skill Damage +600 & Weaken: 100% chance, Defence -10% for 3s
+405448	Target's All Elemental Resistance -20% for 7s & Weaken Reduction -10%
+405449	Target's All Elemental Resistance -20% for 7s & Shackle Reduction -10%
+405450	Skill Damage Increase Duration +1.5s
+405451	Skill Damage Increase Duration +1s
+405452	Skill Damage Increase Duration +2s
+405453	Stun Rate +10%
+405454	Stun Rate +3%
+405455	Stun Rate +6%
+405456	Dark Dragon Transform Additional Damage +1000
+405457	Dark Dragon Transform Additional Damage +300
+405458	Dark Dragon Transform Additional Damage +600
+405459	Dark Agony Damage +10%
+405460	Dark Agony Damage +10% & Dark Agony Duration +3s
+405461	Dark Agony Damage +12% & Dark Agony Duration +6s
+405462	Dark Agony Damage +15% & Dark Agony Duration +10s
+405463	Dark Agony Damage +3%
+405464	Dark Agony Damage +6%
+405465	Weaken: 100% chance, Defence -10% for 3s
+405466	Weaken: 30% chance, Defence -10% for 3s
+405467	Weaken: 50% chance, Defence -10% for 3s
+405468	Weaken: 60% chance, Defence -15% for 4s
+405469	Weaken: 70% chance, Defence -10% for 3s
+405470	Weaken: 90% chance, Defence -20% for 5s
+405471	Weaken Duration +1s
+405472	Weaken Duration +2s
+405473	Weaken Duration +3s
+405474	War Battler Base Attack +15% & Skill Attack +15%
+405475	War Battler Base Attack +15% & Elemental Attack +15%
+405476	War Battler Base Attack +30% & Skill Attack +30%
+405477	War Battler Base Attack +30% & Elemental Attack +30%
+405478	War Battler Base Attack +50% & Skill Attack +50%
+405479	War Battler Base Attack +50% & Elemental Attack +50%
+405480	War Battler Base Defence +15%
+405481	War Battler Base Defence +30%
+405482	War Battler Base Defence +50%
+405486	War Battler Max HP +15%
+405487	War Battler Max HP +30%
+405488	War Battler Max HP +50%
+405492	Shackle: 30% chance, Movement Speed -15% for 3s
+405493	Shackle: 60% chance, Movement Speed -30% for 4s
+405494	Shackle: 90% chance, Movement Speed -50% for 5s
+405495	Poison Damage +10%
+405496	Poison Damage +10% & Poison Duration +1s
+405497	Poison Damage +12% & Poison Duration +2s
+405498	Poison Damage +15% & Poison Duration +3s
+405499	Poison Damage +3%
+405500	Range +0.5m
+405501	Range +1m
+405502	Range +1.5m
+405503	Range +2m
+405504	Range +2.5m
+405505	Range +3m
+405506	Range +4m
+405507	Range +5m
+405508	Range +7m
+405509	Rally Duration +1s
+405510	Rally Duration +2s
+405511	Rally Duration +3s
+405512	Rally Increase +5%
+405513	Rally Increase +10%
+405514	Rally Increase +15%
+405515	Skill Damage Increase Duration +1s
+405516	Skill Damage Increase Duration +2s
+405517	Skill Damage Increase Duration +3s
+405518	Skill Damage Increase +5%
+405519	Skill Damage Increase +10%
+405520	Skill Damage Increase +15%
+405521	Frozen Riposte: 10% Damage Reflect for 3s (removed after 10 hits) & Frozen Riposte: Damage 5% Reflect and enemy 3s Frozen for 3s (removed after 10 hits)
+405522	Frozen Riposte: 20% Damage Reflect for 3s (removed after 10 hits) & Frozen Riposte: Damage 10% Reflect and enemy 3s Frozen for 3s (removed after 10 hits)
+405523	Frozen Riposte: 30% Damage Reflect for 3s (removed after 10 hits) & Frozen Riposte: Damage 15% Reflect and enemy 3s Frozen for 3s (removed after 10 hits)
+405524	Frozen Riposte: 10% Damage Reflect for 4s (removed after 10 hits) & Frozen Riposte: Damage 20% Reflect and enemy 3s Frozen for 3s (removed after 10 hits)
+405525	Frozen Riposte: 20% Damage Reflect for 4s (removed after 10 hits) & Frozen Riposte: Damage 25% Reflect and enemy 3s Frozen for 3s (removed after 10 hits)
+405526	Frozen Riposte: 30% Damage Reflect for 4s (removed after 10 hits) & Frozen Riposte: Damage 30% Reflect and enemy 3s Frozen for 3s (removed after 10 hits)
+405527	Targets +1
+405528	Targets +2
+405529	Targets +3
+405530	Targets +4
+405531	Targets +5
+405532	Targets +6
+405533	Invincibility Duration +1s
+405534	Invincibility Duration +2s
+405535	Invincibility Duration +3s
+405536	Protection Duration +1s
+405537	Protection Duration +2s
+405538	Protection Duration +3s
+405539	Shackle: 100% chance, Movement Speed -20% for 3s & Slow: 100% chance, Attack Speed -20% for 3s
+405540	Shackle: 100% chance, Movement Speed -30% for 3s & Slow: 100% chance, Attack Speed -30% for 3s
+405541	Shackle: 100% chance, Movement Speed -40% for 3s & Slow: 100% chance, Attack Speed -40% for 3s
+405542	Shackle: 100% chance, Movement Speed -20% for 5s & Slow: 100% chance, Attack Speed -20% for 5s
+405543	Shackle: 100% chance, Movement Speed -30% for 5s & Slow: 100% chance, Attack Speed -30% for 5s
+405544	Shackle: 100% chance, Movement Speed -40% for 5s & Slow: 100% chance, Attack Speed -40% for 5s
+405545	Wound Duration +1s
+405546	Wound Duration +2s
+405547	Wound Duration +3s
+405548	Wound Damage +5%
+405549	Wound Damage +10%
+405550	Wound Damage +15%
+405551	Down Duration +0.3s
+405552	Down Duration +0.6s
+405553	Down Duration +1s
+405554	Skill Damage +1500
+405555	Skill Damage +2000
+405556	Skill Damage +3000
+405557	Shackle Reduction -5%
+405558	Shackle Reduction -10%
+405559	Shackle Reduction -15%
+405560	Skill Damage +5%
+405561	Skill Damage +10%
+405562	Skill Damage +15%
+405563	Shackle Duration +1s
+405564	Shackle Duration +2s
+405565	Shackle Duration +3s
+405566	Fear Rate +15% & Fear Duration +0.3s
+405567	Fear Rate +15% & Fear Duration +0.6s
+405568	Fear Rate +15% & Fear Duration +1s
+405569	Skill Damage +15% & Fear Rate +15% & Fear Duration +0.3s
+405570	Skill Damage +20% & Fear Rate +15% & Fear Duration +0.6s
+405571	Skill Damage +25% & Fear Rate +15% & Fear Duration +1s
+405572	Wound: 100% chance, Damage 200 for 3s
+405573	Wound: 100% chance, Damage 200 for 4s
+405574	Wound: 100% chance, Damage 200 for 5s
+405575	Additional Damage +5%
+405576	Additional Damage +10%
+405577	Additional Damage +15%
+405578	Skill Damage +15% & Down Duration +03s & Down Duration +0.3s & Down Duration +0.1s
+405579	Skill Damage +20% & Down Duration +0.6s
+405580	Skill Damage +25% & Down Duration +3s & Down Duration +1s
+405581	Additional Damage +15% & Shackle Duration +1s
+405582	Additional Damage +20% & Shackle Duration +2s
+405583	Additional Damage +25% & Shackle Duration +3s
+405584	HP Cost +5%
+405585	HP Cost +10%
+405586	HP Cost +15%
+405587	Skill Damage +500
+405588	Skill Damage +1000
+405589	Skill Damage +1500
+405590	Weaken: 100% chance, Defence -30% for 3s
+405591	Weaken: 100% chance, Defence -30% for 4s
+405592	Weaken: 100% chance, Defence -30% for 5s
+405593	Skill Damage +10% & Weaken: 100% chance, Defence -15% for 3s & Skill Damage +500
+405594	Skill Damage +12% & Weaken: 100% chance, Defence -15% for 4s & Skill Damage +1000
+405595	Skill Damage +15% & Weaken: 100% chance, Defence -15% for 5s & Skill Damage +1500
+405599	Weaken: 100% chance, Defence -15% for 3s
+405600	Weaken: 100% chance, Defence -15% for 4s
+405601	Weaken: 100% chance, Defence -15% for 5s
+405602	Skill Damage +15% & Burn: 100% chance, Damage 200 for 3s
+405603	Skill Damage +20% & Burn: 100% chance, Damage 200 for 3s
+405604	Skill Damage +25% & Burn: 100% chance, Damage 200 for 3s
+405605	Skill Damage +15% & Wound Duration +1s
+405606	Skill Damage +20% & Wound Duration +2s
+405607	Skill Damage +25% & Wound Duration +3s
+405608	Skill Damage Duration +0.5s
+405609	Skill Damage Duration +1s
+405610	Skill Damage Duration +1.5s
+405611	Skill Damage Duration +2s
+405612	Skill Damage Duration +2.5s
+405613	Skill Damage Duration +3s
+405614	Skill Damage Increase +5%
+405615	Skill Damage Increase +10%
+405616	Skill Damage Increase +15%
+405617	Skill Damage Increase +20%
+405618	Skill Damage Increase +25%
+405619	Skill Damage Increase +30%
+405620	Skill Damage Duration +1s & Dark Elemental Attack +5% for 10s
+405621	Skill Damage Duration +2s & Dark Elemental Attack +10% for 15s
+405622	Skill Damage Duration +3s & Dark Elemental Attack +15% for 20s
+405623	Skill Damage Increase +10% & Dark Elemental Attack +5% for 10s
+405624	Skill Damage Increase +20% & Dark Elemental Attack +10% for 15s
+405625	Skill Damage Increase +30% & Dark Elemental Attack +15% for 20s
+405626	HP Cost +3%
+405627	HP Cost +6%
+405628	HP Cost +15% & Skill Damage +15%
+405629	HP Cost +15% & Skill Damage +20%
+405630	HP Cost +15% & Skill Damage +25%
+405631	HP Cost +15% & Additional Damage +15%
+405632	HP Cost +15% & Additional Damage +20%
+405633	HP Cost +15% & Additional Damage +25%
+405637	Skill Damage +500 & Shackle Duration +1s
+405638	Skill Damage +1000 & Shackle Duration +2s
+405639	Skill Damage +1500 & Shackle Duration +3s
+405640	Agony: 100% chance, Damage 200 for 3s & Fear Duration +0.3s
+405641	Agony: 100% chance, Damage 200 for 4s & Fear Duration +0.6s
+405642	Agony: 100% chance, Damage 200 for 5s & Fear Duration +1s
+405643	Skill Damage Duration +1s & Critical Rate +5% for 20s
+405644	Skill Damage Duration +2s & Critical Rate +5% for 20s
+405645	Skill Damage Duration +3s & Critical Rate +10% for 20s
+405646	Skill Damage Increase +10% & Critical Rate +5% for 20s
+405647	Skill Damage Increase +20% & Critical Rate +5% for 20s
+405648	Skill Damage Increase +30% & Critical Rate +10% for 20s
+405649	Holding Duration +0.3s
+405650	Holding Duration +0.6s
+405651	Holding Duration +1s
+405652	Skill Damage 15% & Burn: 100% chance, Damage 200 for 3s
+405653	Skill Damage 20% & Burn: 100% chance, Damage 200 for 4s
+405654	Skill Damage 25% & Burn: 100% chance, Damage 200 for 5s
+405655	Skill Damage 15% & Holding Duration +0.3s
+405656	Skill Damage 20% & Holding Duration +0.6s
+405657	Skill Damage 25% & Holding Duration +1s
+405658	Adrenaline Duration +5s
+405659	Adrenaline Duration +10s
+405660	Adrenaline Duration +15s
+405661	Adrenaline Duration +20s
+405662	Adrenaline Duration +25s
+405663	Adrenaline Duration +30s
+405664	Base Attack & All Elemental Attack +10%
+405665	Base Attack & All Elemental Attack +15%
+405666	Base Attack & All Elemental Attack +20%
+405670	Range: 100% chance, Range Damage 100 for 3s
+405671	Range: 100% chance, Range Damage 100 for 5s
+405672	Range: 100% chance, Range Damage 100 for 10s
+405673	Range: 100% chance, Range Damage 200 for 3s
+405674	Range: 100% chance, Range Damage 200 for 5s
+405675	Range: 100% chance, Range Damage 200 for 10s
+405676	Skill Range +5%
+405677	Skill Range +10%
+405678	Skill Range +15%
+405679	Sight Duration +5s
+405680	Sight Duration +10s
+405681	Sight Duration +15s
+405682	Momentum Duration +10s
+405683	Momentum Duration +20s
+405684	Momentum Duration +30s
+405685	Sight Duration +20s
+405686	Sight Duration +30s
+405687	Critical Rate +5% for 1min & Critical Damage +5% for 1min
+405688	Critical Rate +5% for 2min & Critical Damage +5% for 2min
+405689	Critical Rate +5% for 3min & Critical Damage +5% for 3min
+405690	Base Attack +5% for 1min & Skill Damage +5% for 1min
+405691	Base Attack +5% for 2min & Skill Damage +5% for 2min
+405692	Base Attack +5% for 3min & Skill Damage +5% for 3min
+405693	Down Rate +5%
+405694	Down Rate +10%
+405695	Down Rate +15%
+405696	Skill Damage +15% & Movement Speed -10%
+405697	Skill Damage +20% & Movement Speed -20%
+405698	Skill Damage +25% & Movement Speed -30%
+405699	Skill Damage +12%
+405700	Skill Damage +15%
+405701	Skill Damage +20%
+405702	Skill Damage +15% & Frozen Duration +0.3s
+405703	Skill Damage +20% & Frozen Duration +0.6s
+405704	Skill Damage +25% & Frozen Duration +1s
+405705	Skill Damage +15% & Shock: 100% chance, Damage 200 for 3s
+405706	Skill Damage +20% & Shock: 100% chance, Damage 200 for 4s
+405707	Skill Damage +25% & Shock: 100% chance, Damage 200 for 5s
+405708	Skill Damage +15% & Stun Duration +0.3s
+405709	Skill Damage +20% & Stun Duration +0.6s
+405710	Skill Damage +25% & Stun Duration +1s
+405711	Skill Damage +15% & Wound Damage 15%
+405712	Skill Damage +20% & Wound Damage 20%
+405713	Skill Damage +25% & Wound Damage 25%
+405714	Defence: Base Defence +20% for 2s
+405715	Defence: Base Defence +20% for 4s
+405716	Defence: Base Defence +20% for 6s
+405717	Defence: Base Defence +20% for 8s
+405718	Defence: Base Defence +20% for 10s
+405719	Defence: Base Defence +20% for 15s
+405720	Protection Duration +1s
+405721	Protection Duration +2s
+405722	Protection Duration +3s
+405723	Protection Duration +1s & Frozen Riposte: 20% Damage Reflect for 3s (removed after 10 hits)
+405724	Protection Duration +2s & Frozen Riposte: 20% Damage Reflect for 4s (removed after 10 hits)
+405725	Protection Duration +3s & Frozen Riposte: 20% Damage Reflect for 5s (removed after 10 hits)
+405726	Skill Damage +15% & Upper Down Duration +0.3s
+405727	Skill Damage +20% & Upper Down Duration +0.6s
+405728	Skill Damage +25% & Upper Down Duration +1s
+405729	Additional Damage +15% & Upper Down Duration +0.3s
+405730	Additional Damage +20% & Upper Down Duration +0.6s
+405731	Additional Damage +25% & Upper Down Duration +1s
+405732	Defence Duration +5s
+405733	Defence Duration +10s
+405734	Defence Duration +15s
+405735	Defence +3%
+405736	Defence +6%
+405737	Defence +10%
+405738	Attack Power Duration +5s
+405739	Attack Power Duration +10s
+405740	Attack Power Duration +15s
+405741	Attack Power +3%
+405742	Attack Power +6%
+405743	Attack Power +10%
+405744	Additional Damage +15% & Down Duration +0.1s
+405745	Additional Damage +20% & Down Duration +0.6s
+405746	Additional Damage +25% & Down Duration +1s
+405747	Phoenix Burn Damage +5%
+405748	Phoenix Burn Damage +10%
+405749	Phoenix Burn Damage +15%
+405750	Skill Damage +15% & Phoenix Burn Duration +1s
+405751	Skill Damage +20% & Phoenix Burn Duration +2s
+405752	Skill Damage +25% & Phoenix Burn Duration +3s
+405753	Phoenix Burn Damage +15% & Phoenix Burn Duration +1s
+405754	Phoenix Burn Damage +20% & Phoenix Burn Duration +2s
+405755	Phoenix Burn Damage +25% & Phoenix Burn Duration +3s
+405756	HP Cost +20%
+405757	HP Cost +25%
+405758	HP Cost +30%
+405759	Magic Shield Duration +1s
+405760	Magic Shield Duration +2s
+405761	Magic Shield Duration +3s
+405762	Skill Damage Increase Duration +1s
+405763	Skill Damage Increase Duration +2s
+405764	Skill Damage Increase Duration +3s
+405765	Magic Shield Duration +1s & Magic Shield Absorb Amount +20%
+405766	Magic Shield Duration +2s & Magic Shield Absorb Amount +20%
+405767	Magic Shield Duration +3s & Magic Shield Absorb Amount +20%
+405768	Skill Damage Increase Duration +1s & Skill Damage Increase +10%
+405769	Skill Damage Increase Duration +2s & Skill Damage Increase +10%
+405770	Skill Damage Increase Duration +3s & Skill Damage Increase +10%
+405771	Skill Damage +15% & Agony: 100% chance, Damage 200 for 5s
+405772	Skill Damage +20% & Agony: 100% chance, Damage 200 for 5s
+405773	Skill Damage +25% & Agony: 100% chance, Damage 200 for 5s
+405774	Skill Damage +15% & Weaken: 100% chance, Defence -30% for 5s
+405775	Skill Damage +20% & Weaken: 100% chance, Defence -30% for 5s
+405776	Skill Damage +25% & Weaken: 100% chance, Defence -30% for 5s
+405777	Defence Duration +1s
+405778	Defence Duration +2s
+405779	Defence Duration +3s
+405780	Magic Shield Absorb Amount +5%
+405781	Magic Shield Absorb Amount +10%
+405782	Magic Shield Absorb Amount +15%
+405783	Base Defence +5%
+405784	Base Defence +10%
+405785	Base Defence +15%
+405786	Defence Duration +1s & Base Defence Increase +20%
+405787	Defence Duration +2s & Base Defence Increase +20%
+405788	Defence Duration +3s & Base Defence Increase +20%
+405789	Skill Damage +15% & Shock: 100% chance, Damage 200 for 5s
+405790	Skill Damage +20% & Shock: 100% chance, Damage 200 for 5s
+405791	Skill Damage +15% & Down Rate +15% & Down Duration +0.3s
+405792	Skill Damage +20% & Down Rate +15% & Down Duration +0.6s
+405793	Skill Damage +25% & Down Rate +15% & Down Duration +1s
+405794	All Elemental Attack Increase Duration +1s
+405795	All Elemental Attack Increase Duration +2s
+405796	All Elemental Attack Increase Duration +3s
+405797	Damage Increase Duration +1s
+405798	Damage Increase Duration +2s
+405799	Damage Increase Duration +3s
+405800	All Elemental Attack Increase +3%
+405801	All Elemental Attack Increase +6%
+405802	All Elemental Attack Increase +10%
+405803	Damage Increase +5%
+405804	Damage Increase +10%
+405805	Damage Increase +15%
+405806	All Elemental Attack Increase Duration +1s & All Elemental Attack Increase +10%
+405807	All Elemental Attack Increase Duration +2s & All Elemental Attack Increase +10%
+405808	All Elemental Attack Increase Duration +3s & All Elemental Attack Increase +10%
+405809	Damage Increase Duration +1s & Damage Increase +15%
+405810	Damage Increase Duration +2s & Damage Increase +15%
+405811	Damage Increase Duration +3s & Damage Increase +15%
+405812	Skill Damage +15% & Weaken: 100% chance, Defence -30% for 3s
+405813	Skill Damage +20% & Weaken: 100% chance, Defence -30% for 3s
+405814	Skill Damage +25% & Weaken: 100% chance, Defence -30% for 3s
+405815	Wound Damage +15% & Wound Duration +3s
+405816	Wound Damage +20% & Wound Duration +3s
+405817	Wound Damage +25% & Wound Duration +3s
+405818	Skill Damage 15% & Blind: 100% chance, Blind for 1s
+405819	Skill Damage 20% & Blind: 100% chance, Blind for 2s
+405820	Skill Damage 25% & Blind: 100% chance, Blind for 3s
+405821	Skill Damage +15% & Down Duration +0.3s
+405822	Skill Damage +20% & Down Duration +0.6s
+405823	Poison: 100% chance, Damage 200 for 3s
+405824	Poison: 100% chance, Damage 200 for 4s
+405825	Poison: 100% chance, Damage 200 for 5s
+405826	Base Attack & All Elemental Attack +5%
+405827	Base Attack & All Elemental Attack +25%
+405828	Base Attack & All Elemental Attack +30%
+405830	Skill Damage +2%
+405831	Skill Damage +5%
+405832	Skill Damage +10%
+405833	Poison Damage +6%
+405834	Concentration Duration +1.5s
+405835	Concentration Duration +1s
+405836	Concentration Duration +2s
+405837	Additional Damage +10% & Stagger Rate +3%
+405838	Additional Damage +10% & Down Rate +3%
+405839	Additional Damage +10% & Dark Poison: 100% chance, Damage 100 for 3s
+405840	Additional Damage +10% & Weaken Defence Reduction -3%
+405841	Additional Damage +10% & Frustration Reduction -3%
+405842	Additional Damage +10% & Poison: 100% chance, Damage 100 for 3s
+405843	Additional Damage +12% & Stagger Rate +6%
+405844	Additional Damage +12% & Down Rate +6%
+405845	Additional Damage +12% & Dark Poison: 100% chance, Damage 100 for 4s
+405846	Additional Damage +12% & Weaken Defence Reduction -6%
+405847	Additional Damage +12% & Frustration Reduction -6%
+405848	Additional Damage +12% & Poison: 100% chance, Damage 100 for 4s
+405849	Additional Damage +15% & Stagger Rate +10%
+405850	Additional Damage +15% & Down Rate +10%
+405989	Additional Damage +15% & Dark Poison: 100% chance, Damage 100 for 5s
+405990	Additional Damage +15% & Weaken Defence Reduction -10%
+405991	Additional Damage +15% & Frustration Reduction -9%
+405992	Additional Damage +15% & Poison: 100% chance, Damage 100 for 5s
+405993	Additional Damage +3%
+405994	Additional Damage +6%
+405995	Critical Rate +10%
+405996	Critical Rate +15%
+405997	Critical Rate +20%
+406001	Skill Liberation
+406002	Choose a skill to liberate.
+406003	Spend the stone to liberate this skill.
+406004	No skill you know can be liberated with this stone.
+406005	-
+406006	Liberatable skills
+406007	Stone
+406008	Liberate
+406009	Close
+406010	Does not expire
+406011	%d day(s) %d hour(s) remaining
+406012	%d hour(s) %d minute(s) remaining
+406013	%d minute(s) remaining
+406014	This skill has not been liberated.
+406015	The skill has been liberated.
+406016	The stone found nothing to grant.
+406017	That stone has already been used.
+406018	This skill cannot be liberated.
+406019	The liberation stone is gone.
+406020	Liberation failed.
+406021	Liberation

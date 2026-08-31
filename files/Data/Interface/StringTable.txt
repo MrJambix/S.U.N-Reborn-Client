@@ -33542,4 +33542,32 @@ start
 405038	Eternal Lightbringer
 405039	Hand of Mercy
 405040	Oathkeeper of Life
+12900	Penetration
+24194	Weakens the enemy's damage reduction and deals damage.
+404629	Empowered
+205823	Deals additional damage to the target.
+404630	Crush
+205824	Takes additional damage from a Paladin.
+404631	Bonus Damage to Monsters
+205825	Increases the damage dealt to monsters.
+404632	Snare
+205826	Snared. Movement is all but impossible.
+404633	Snare Accuracy Up
+205827	Increases the chance of Snaring a target.
+202811	Stigma
+202821	Affected whenever a Paladin uses a Chant skill.
+202812	Atonement
+202822	Held in place by whoever applied it, and unable to act.
+202815	Atonement Resistance Up
+202825	Reduces the chance of being afflicted with Atonement.
+202816	Atonement Resistance Down
+202826	Increases the chance of being afflicted with Atonement.
+202817	Chant of Protection
+202827	Grants nearby allies reduced damage from monsters and increased base Defense.
+202818	Chant of Advance
+202828	Grants nearby allies Penetration and increased base Attack Power.
+204744	Absorption Down
+204745	Reduces the share of damage dealt that is converted to HP.
+25298	Monster Damage Down
+26292	Reduces the damage taken from monsters.
 end

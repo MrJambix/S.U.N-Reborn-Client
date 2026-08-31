@@ -1,0 +1,263 @@
+start
+AAAA     "fire1.WZU"
+AAAB     "weapon2.WZU"
+AAAC     "hit1_2.WZU"
+AAAD     "I_Fire_Bottom_on.WZU"
+AAAE     "weapon3.WZU"
+AAAF     "item.WZU"
+AAAG     "gu000.WZU"
+AAAH	 "E_Sword.WZU"
+AAAI	 "shild.WZU"
+AAAJ	 "shild_up.WZU"
+AAAK	 "lightning.WZU"
+AAAL	 "icestone.WZU"
+AAAM	 "gi1.WZU"
+AAAN	 "fire2.WZU"
+AAAO	 "fire3.WZU"
+AAAP	 "dol.WZU"
+AAAQ	 "destroyer_spon_eff.WZU"
+AAAR	 "ice.WZU"
+AAAS	 "dol1.WZU"
+AAAT	 "lifeghost_death.WZU"
+AAAV	 "magicshild1.WZU"
+AAAX	 "magicshild3.WZU"
+AAAW	 "wind1.WZU"
+AAAY	 "wind2.WZU"
+AAAZ	 "wind3.WZU"
+AAAa	 "Valkytie_weapon_fire2.WZU"
+AAAb	 "Valkytie_weapon_fire2_1.WZU"
+AAAc	 "ice_attack.wzu"
+AAAd	 "ice_attack1.wzu"
+AAAe	 "skeleton.WZU"
+AAAf	 "giun.WZU"
+AAAg	 "poison_thorn1.WZU"
+AAAh	 "icestone1.WZU"
+AAAi	 "icestick2.WZU"
+AAAj	 "icestone2.WZU"
+AAAk	 "magiczone_CM.WZU"
+AAAl	 "chain1.WZU"
+AAAn	 "light2.WZU"
+AAAm	 "light1.WZU"
+AAAo	 "chain2.WZU"
+AAGA     "stone02.wzu"
+AAGB     "toe_test.wzu"
+AAGC     "chain03.wzu"
+AAGF	 "ice_stone01.wzu"
+AABA     "rotate_light.WZU"
+AABB	 "chain04.WZU"
+AABC	 "z003.WZU"
+AABD	 "z004.WZU"
+AABE	 "z005.WZU"
+AABF	 "z006.WZU"
+AABG	 "z007.WZU"
+AABI	 "z009.WZU"
+AABJ	 "map_event01_potal01_1.WZU"
+AABK	 "map_event01_gate01_1.WZU"
+AABL	 "map_event01_gate01_2.WZU"
+AABM	 "z010.wzu"
+//AABH	 "z011.wzu"(검은색홀)
+AABN	 "z012.wzu"
+AABO	 "z013.wzu"
+AABP	 "z014.wzu"
+AABQ	 "z015.wzu"
+AABR	 "z016.wzu"
+AABS	 "z018.wzu" //칼잔상글로우
+AABT	 "z019.wzu" //섀도우링
+AABU	 "z020.wzu" //펫유령링
+AABV	 "z021.wzu" //거미줄
+AABW	 "z022.wzu" //포탈
+AABX	 "z023.wzu" //빛줄기
+AABY	 "z024.wzu" //링메쉬마법진
+AABZ	 "z025.wzu" //링메쉬마법진1
+AACA	 "z026.wzu" //링메쉬마법진2
+AACB	 "z027.wzu" //마을이동시
+AACC	 "z028.wzu" //마을이동시(회전속도느림)
+AACD	 "z029.wzu" //갈라진땅빛줄기
+AACE	 "z030.wzu" //쇠사슬로묶음
+AACF	 "z031.wzu" //투명일렁임
+AACG	 "z032.wzu" //길드버프
+AACH	 "z033.wzu" //버서커엘리트풀셋날개
+AACI	 "z034.wzu" //발키리엘리트풀셋날개 글로우
+AACJ	 "z035.wzu" //캐쉬링
+AACK	 "z036.wzu" //캐쉬링1
+AACL	 "z037.wzu" //안광
+AACM	 "z038.wzu" //길마 흐르는 텍스쳐
+AACN	 "z039.wzu" //길마 꽈배기
+AACO	 "z040.wzu" //드래곤변신 -아크틱블래스트(얼음)
+AACP	 "z041.wzu" //버서커 -슬래쉬 칼잔상
+AACQ	 "z042.wzu" //조작장치4
+AACR	 "z043.wzu" //조작장치5
+AACS	 "z044.wzu" //조작장치1
+AACT	 "z045.wzu" //조작장치2
+AACU	 "z046.wzu" //조작장치3
+AACV	 "z047.wzu" //조작장치6
+AACW	 "z048.wzu" //조작장치7
+AACX	 "z049.wzu" //조작장치8
+AACY	 "z050.wzu" //조작장치1-2
+AACZ	 "z051.wzu" //Gomooth 망치글로우
+AADA	 "z052.wzu" //Gomooth 망치글로우
+AADB	 "z053.wzu" //미션 보호막
+AADC	 "z054.wzu" //미션 보호막(라이팅)
+AADD	 "z055.wzu" //미션 보호막(라이팅밑부분)
+AADE	 "z056.wzu" //미션 트리거(책)
+//AADF	 "z057.wzu" //미션 트리거(횟불)
+AADG	 "z058.wzu" //미션 트리거(거미알)
+AADH	 "z059.wzu" //미션 트리거(두꺼비집)
+AADI	 "z060.wzu" //중국 pvp이벤트 왕관
+AADJ	 "z061.wzu" //몬스터 방패
+AADK	 "z062.wzu" //16강
+AADL	 "z063.wzu" //8강
+AADM	 "z064.wzu" //소라게등껍질
+AADN	 "z065.wzu" //날파리칼날
+AADO	 "z066.wzu" //공룡발톱잔상
+AADP	 "z067.wzu" //vip 원형마법진
+AADQ	 "z068.wzu" //vip 마법진(흐르는)
+AADR	 "z069.wzu" //EYE몬스터 라인(흐르는)
+AADS	 "z070.wzu" //지역점령전 버프용(흐르는)
+AADT	 "z071.wzu" //지역점령전 도어(흐르는)
+AADU	 "z072.wzu" //지역점령전 도어(흐르는2)
+AADV	 "z073.wzu" //황금도마뱀부족 전사스킬용 돌
+AADW	 "z074.wzu" //나무몹 소니바인
+AADX	 "z075.wzu" //버서커 둘격 불연기 메쉬
+AADY	 "z076.wzu" //드래곤 bead 발사체 연기메쉬
+AADZ	 "z077.wzu" //엘리트2 무기착용시 문양
+AAFA	 "z078.wzu" //엘리트2 무기착용시 흐르는문양
+AAFB	 "z079.wzu" //드래곤 스킬2종 칼잔상
+AAFC	 "z080.wzu" //드래곤 스킬 에본블레이드 회오리
+AAFD	 "z081.wzu" //드래곤 스킬 드래곤레이 오브젝트
+AAFE	 "z082.wzu" //소라게리더
+AAFF	 "z083.wzu" //드래곤검기 발사체
+AAFG	 "z084.wzu" //검은손(보스스킬)
+AAFH	 "z085.wzu" //뉴칼버스특악흐르는빛줄기(버서커)
+AAFI	 "z086.wzu" //뉴칼버스특악흐르는빛줄기(드래곤)
+AAFJ	 "z087.wzu" //뉴칼버스특악흐르는빛줄기(엘리)
+AAFK	 "z088.wzu" //뉴칼버스특악흐르는빛줄기(발키리)
+AAFL	 "z089.wzu" //코스튬무기(꽈배기)
+AAFM	 "z090.wzu" //몬스터기절
+AAFN	 "z091.wzu" //코스튬무기(꽈배기)
+AAFO	 "z092.wzu" //코스튬무기(꽈배기)
+AAFP	 "z093.wzu" //데스윔 돌무더기
+AAFQ	 "z094.wzu" //저주받은사제 지팡이
+AAFR	 "z095.wzu" //공성무기발사체
+AAFS	 "z096.wzu" //날카로운우박
+AAFT	 "z097.wzu" //토네이도
+AAFU	 "z098.wzu" //분화구
+AAFV	 "z099.wzu" //분화구light
+AAFW	 "z100.wzu" //텍스쳐흐르는스모그
+AAFX	 "z101.wzu" //텍스쳐흐르는문양
+AAFY	 "z103.wzu" //주먹
+ABAC	 "z102.wzu" //피닉스
+AAFZ	 "z104.wzu" //할퀴는자국
+ABAA	 "z105.wzu" //주먹직선
+ABAB	 "z106.wzu" //에너지볼트
+ABAD	 "x001.wzu" //불기둥회오리
+ABAE	 "x002.wzu" //스톰핑후프 빛줄기
+ABAF	 "z107.wzu" //용
+ABAG	 "x003.wzu" //전장 깃발 글로우
+ABAH	 "x004.wzu" //텔레포트
+ABAI	 "x005.wzu" //미티어돌
+ABAJ	 "x006.wzu" //in_ball
+ABAK	 "x007.wzu" //out_ball
+ABAL	 "x008.wzu" //배경text발광
+ABAM	 "x009.wzu" //이동불가거미줄
+ABAN	 "x010.wzu" //블럭1번
+ABAO	 "x011.wzu" //블럭2번
+ABAP	 "x012.wzu" //블럭3번
+ABAQ	 "x013.wzu" //블럭4번
+ABAR	 "x014.wzu" //블럭5번
+ABAS	 "x015.wzu" //텍스쳐흐르는light
+ABAT	 "x016.wzu" //드래곤팔
+ABAU	 "x017.wzu" //boom_alpha
+ABAV	 "x018.wzu" //boom1_lighting
+ABAW	 "x019.wzu" //test
+ABAX	 "x020.wzu" //레이져빔알파
+ABAY	 "x021.wzu" //레이져빔라이팅
+ABAZ	 "x022.wzu" //땅이갈라지는형태
+ABBA	 "x023.wzu" //로봇캐스팅마법진
+ABBB	 "x024.wzu" //로봇캐스팅마법진2
+ABBC	 "x025.wzu" //로봇캐스팅마법진2(라이팅)
+ABBD	 "x026.wzu" //로봇주먹라이팅
+ABBE	 "x027.wzu" //로봇회오리
+ABBF	 "x028.wzu" //로봇회오리라이팅
+ABBG	 "x029.wzu" //로봇_돌맹이원형
+ABBH	 "x030.wzu" //로봇_방어막
+ABBI	 "x031.wzu" //로봇_방어막라인
+ABBJ	 "x032.wzu" //로봇_블래스터붐폭발돌
+ABBK	 "x033.wzu" //로봇_스트릿펀치
+ABBL	 "x034.wzu" //로봇_가디언모드보호막
+ABBM	 "x035.wzu" //로봇_돌격잔상
+ABBN	 "x036.wzu" //로봇_오오라링
+ABBO	 "x037.wzu" //로봇_오오라흐르는
+ABBP	 "x038.wzu" //배경_블루크리스탈
+ABBQ	 "x039.wzu" //헬로이드엘리트3_라이트
+ABBR	 "x040.wzu" //헬로이드엘리트3_무기라이트
+ABBS	 "x041.wzu" //배경눈
+ABBT	 "x042.wzu" //로봇가슴링
+ABBU	 "x043.wzu" //몬스샤인길마문양
+ABBV	 "x044.wzu" //몬스샤인길마문양
+ABBW	 "x045.wzu" //몬스샤인길원문양
+ABBX	 "x046.wzu" //몬스샤인길원문양
+ABBY	 "x047.wzu" //척앵커_칼궤적
+ABBZ	 "x048.wzu" //코끼리뿔
+ABCA	 "x049.wzu" //얼음발사체
+ABCD	 "x052.wzu" //드래곤날개
+ABCE	 "x053.wzu" //드래곤날개알파
+ABCF	 "x054.wzu" //스핀쓰러스트잔상
+ABCG	 "x055.wzu" //검기알파
+ABCH	 "x056.wzu" //검기라이팅
+ABCI	 "x057.wzu" //빛의시련_중앙글로우_흐르는
+ABCJ	 "x058.wzu" //빛의시련_중앙글로우
+ABCK	 "x059.wzu" //빛의시련_홈에흐르는
+ABCL	 "x060.wzu" //빛의시련_홈에수직빛
+ABCM	 "x061.wzu" //하늘길언덕-에테르방출장치_글로우
+ABCN	 "x062.wzu" //하늘길언덕-에테르방출장치_텍스쳐흐르는구
+ABCO	 "x063.wzu" //흐르는 원형링
+ABCP	 "x064.wzu" //검은칼잔상
+ABCQ	 "x065.wzu" //블레이드커튼-당김
+ABCR	 "x066.wzu" //토네이도
+ABCS	 "x067.wzu" //토네이도2
+ABCT	 "x068.wzu" //디바인어썰트-ston
+ABCU	 "x069.wzu" //맨딩마인드-문양
+ABCV	 "x070.wzu" //루튼포인트-지형
+ABCW	 "x071.wzu" //티타니아-흐르는문양
+ABCX	 "x072.wzu" //씨엘리스-흐르는문양
+ABCY	 "x073.wzu" //밴쉬_티타니아-흐르는문양
+ABCZ	 "x074.wzu" //거미_타격라이팅
+ABDA	 "x075.wzu" //엘리트4
+ABDB	 "x076.wzu" //미션식별
+ABDC	 "x077.wzu" //미션식별2
+ABDD	 "x078.wzu" //토템방어막
+ABDF	 "x080.wzu" //십자방패
+ABDG	 "x081.wzu" //나무글로우
+ABDH	 "x082.wzu" //보스칼잔상
+ABDI	 "x083.wzu" //헬로이드엘4무기
+ABDN	"x090.wzu"
+ABDR	"x094.wzu"
+ABDS	"x095.wzu"
+ABEK	"x112.wzu"
+ABEM	"x112_2.wzu"
+ABFH	"x127_02.wzu"
+ABFJ	"x128.wzu"
+ABFK	"x128_02.wzu"
+ABFL	"x129.wzu"
+ABFN	"x131.wzu"
+ABFO	"x132_A.wzu"
+ABFP	"x132_L.wzu"
+ABFS	"x134_2.wzu"
+ABFU	"x137.wzu"
+ABFV	"x138.wzu"
+ABFW	"x139.wzu"
+ABFY	"x141.wzu"
+ABFZ	"x142.wzu"
+ABGA	"x143.wzu"
+ABGG	"x149.wzu"
+ACAT	"y019.wzu"
+ACAY	"y024.wzu"
+ACCA	"w_sha_25_dagger_ef.wzu"
+ACCS	"x164.wzu"
+ACEV	"x203.wzu"
+ACEW	"x204.wzu"
+ACEY	"x206.wzu"
+ACFB	"x209.wzu"
+ACHS	"x248.wzu"
+end

@@ -1,0 +1,9 @@
+// SkillLiberationSlotInfo.txt					
+//			ItemType 해방석으로 1회 해방 시 드는 비용 (하임)	1000분률	해방슬롯수
+	Index	ItemType	HeimCost	Probability	SlotCount
+	1	20104	0	650	1
+	2	20104	0	300	2
+	3	20104	0	50	3
+	4	20105	0	400	1
+	5	20105	0	300	2
+	6	20105	0	300	3

@@ -20,6 +20,12 @@
 
 FORMAT 1
 
+[2026-08-31] update | Skill Liberation: spend a Liberation Stone to roll temporary bonuses onto a skill.
+
+[2026-08-30] fix | Monsters now show on the minimap wherever they are standing. Any monster even a little above or below you was being left off the map completely, so in Nirvelle Swamp the ether crocodiles down in the water, and the quest targets beside them, never showed a dot while the plants and gorillas up on the banks did. A quest target hidden this way lost its coloured quest marker as well. It was not only the swamp: on any map where the ground rose and fell around you, part of what you could see was missing from the minimap.
+
+[2026-08-30] update | Global chat has arrived. There is a new Global tab in your chat window, and anything said there reaches everyone playing, wherever they are. It costs nothing and needs no item or level - type in the Global tab, or start a line with %, and the whole server hears you. There is a short pause between messages to keep it readable. Your other chat tabs are unchanged, and global messages also show in your normal tab; you can turn them off with the Shout tick in the chat options.
+
 [2026-08-29] update | The Journey window is ready to use. Pick a chapter from the list on the left to see its zones, the quests you have left in each one, and where to go for your next step. Its progress bars, highlights and the Show on Map button were being drawn in the top-left corner of the screen instead of inside the window, and neither the chapter list nor the zone dropdown could be clicked.
 
 [2026-08-29] update | SUN Ranking titles and place medals for the top three on each board, the Interface Size fix, and class balance for Helroid and WitchBlade.
