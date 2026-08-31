@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-08-31] update | Endgame EXP curve: levels 131-177 rebuilt so the last stretch is actually reachable.
+
 [2026-08-31] update | Skill Liberation: spend a Liberation Stone to roll temporary bonuses onto a skill.
 
 [2026-08-30] fix | Monsters now show on the minimap wherever they are standing. Any monster even a little above or below you was being left off the map completely, so in Nirvelle Swamp the ether crocodiles down in the water, and the quest targets beside them, never showed a dot while the plants and gorillas up on the banks did. A quest target hidden this way lost its coloured quest marker as well. It was not only the swamp: on any map where the ground rose and fell around you, part of what you could see was missing from the minimap.

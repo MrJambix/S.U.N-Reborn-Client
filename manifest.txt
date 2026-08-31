@@ -1,5 +1,5 @@
 # S.U.N Reborn patch manifest
-# generated 2026-08-31 12:13:42 by make-patch.ps1 -- do not hand-edit
+# generated 2026-08-31 12:25:00 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
 PATCH 2026-08-31
@@ -1294,3 +1294,4 @@ script 3dd428fd6fe29e861924c19e251639b0b668e7c36608a337ebb72f95076600b1 401726 D
 pack 2db152dd3129c6ca0c167c5c98884b1bf3b720fa6786c5fc2973823a0e4566f0 6765 Data\Interface\42_14_Skill_Release.iwz
 pack d9aa2e4c1d9f9ea8eb5f677f3035d307d591d4567c8206990e53cf81b4ed88a5 262188 Data\Interface\Skill_Release_01.tga
 pack a3fe6436c0d562c607d033371dbc48784544310a018e9a37237476c4681eed2e 640 Data\Icon\Commercial\LiberationStone_1.dds
+script 181e464981ff042c306efb3f42617f6252f8afb815647998d9303ba9c696dfa8 3323 Data\ExpValueInfo.txt
