@@ -34400,4 +34400,7 @@ start
 59033	Crafting %d uses %s
 59034	About %s of %d will succeed. A failure destroys the materials and keeps the fee.
 59035	%s  x%d
+59036	Materials
+59037	%d recipes here  -  %d you can make now
+59038	Yields x%d
 end
