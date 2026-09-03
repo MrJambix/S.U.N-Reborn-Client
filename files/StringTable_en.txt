@@ -33795,9 +33795,8 @@ start
 204745	Reduces the share of damage dealt that is converted to HP.
 25298	Monster Damage Down
 26292	Reduces the damage taken from monsters.
-end
 91147	Shining Liberation Stone
-91148	Releases a skill's latent power, strengthening its effects or adding new ones.\nThe number of liberation effects is decided at random, from 1 to 3.\nLiberate a skill at the Enhancement Shop in town.\n\n[Effect Count Chance]\n- 1 effect: 65%\n- 2 effects: 30%\n- 3 effects: 5%
+91148	Releases a skill's latent power, strengthening its effects or adding new ones.\nThe number of liberation effects is decided at random, from 1 to 3.\nRight-click this stone in your bag to liberate a skill.\n\n[Effect Count Chance]\n- 1 effect: 65%\n- 2 effects: 30%\n- 3 effects: 5%
 92214	[Gift] Shining Liberation Stone
 202006	Absorb Duration +0.5s
 202007	Absorb Duration +2.5s
@@ -34520,15 +34519,15 @@ end
 405995	Critical Rate +10%
 405996	Critical Rate +15%
 405997	Critical Rate +20%
-406001	Skill Liberation
-406002	Choose a skill to liberate.
+406001	Skill Unlock
+406002	Please select the skill you want to unlock.
 406003	Spend the stone to liberate this skill.
 406004	No skill you know can be liberated with this stone.
 406005	-
-406006	Liberatable skills
-406007	Stone
-406008	Liberate
-406009	Close
+406006	Materials Item
+406007	Heim
+406008	Released
+406009	Cancel
 406010	Does not expire
 406011	%d day(s) %d hour(s) remaining
 406012	%d hour(s) %d minute(s) remaining
@@ -34541,3 +34540,111 @@ end
 406019	The liberation stone is gone.
 406020	Liberation failed.
 406021	Liberation
+406022	Skill Unlock
+406023	Skill Release Effect
+406024	[Drop Rate Info]
+406025	MAX
+406026	Success chance
+406027	Material
+406028	Current
+406029	After
+59040	Craft chance %d%% (%s)
+59041	Craft chance %d%% (%s, +%d%% gear)
+59042	Most you can craft now: %d
+59043	You have %s Heim
+59044	A failure destroys the materials and keeps the fee.
+59045	Use Quickslot 41
+59046	Use Quickslot 42
+59047	Use Quickslot 43
+59048	Use Quickslot 44
+59049	Use Quickslot 45
+59050	Use Quickslot 46
+59051	Use Quickslot 47
+59052	Use Quickslot 48
+59053	Use Quickslot 49
+59054	Use Quickslot 50
+59055	Use Quickslot 51
+59056	Use Quickslot 52
+59057	Use Quickslot 53
+59058	Use Quickslot 54
+59059	Use Quickslot 55
+59060	Use Quickslot 56
+59061	Use Quickslot 57
+59062	Use Quickslot 58
+59063	Use Quickslot 59
+59064	Use Quickslot 60
+59065	Use Quickslot 61
+59066	Use Quickslot 62
+59067	Use Quickslot 63
+59068	Use Quickslot 64
+59069	Use Quickslot 65
+59070	Use Quickslot 66
+59071	Use Quickslot 67
+59072	Use Quickslot 68
+59073	Use Quickslot 69
+59074	Use Quickslot 70
+59075	Use Quickslot 71
+59076	Use Quickslot 72
+59077	Use Quickslot 73
+59078	Use Quickslot 74
+59079	Use Quickslot 75
+59080	Use Quickslot 76
+59081	Use Quickslot 77
+59082	Use Quickslot 78
+59083	Use Quickslot 79
+59084	Use Quickslot 80
+59030	Max
+59031	Show: All
+59032	Show: Can make
+59033	Crafting %d uses %s
+59034	About %s of %d will succeed. A failure destroys the materials and keeps the fee.
+59035	%s  x%d
+end
+31084	[E-4.5] Authority-stained Blain's
+31085	[E-4.5] Authority-stained Gunnar's
+31086	[E-4.5] Authority-stained Lind's
+31087	[E-4.5] Authority-stained Grid's
+31088	[E-4.5] Authority-stained Sachi's
+31089	[E-4.5] Authority-stained Idun's
+31090	[E-4.5] Authority-stained Volund's
+31091	[E-4.5] Authority-stained Sinmara's
+36090	[E-4.5] Authority-stained Blain
+36091	[E-4.5] Authority-stained Gunnar
+36092	[E-4.5] Authority-stained Lind
+36093	[E-4.5] Authority-stained Grid
+36094	[E-4.5] Authority-stained Sachi
+36095	[E-4.5] Authority-stained Idun
+36096	[E-4.5] Authority-stained Volund
+36097	[E-4.5] Authority-stained Sinmara
+31122	[E-5] Abellio's
+31123	[E-5] Grannos's
+31124	[E-5] Sirona's
+31125	[E-5] Agrona's
+31126	[E-5] Camulos's
+31127	[E-5] Belisa's
+31128	[E-5] Pater's
+31129	[E-5] Andarta's
+31182	[E-5.5] Abyss-stained Abellio's
+31183	[E-5.5] Abyss-stained Grannos's
+31184	[E-5.5] Abyss-stained Sirona's
+31185	[E-5.5] Abyss-stained Agrona's
+31186	[E-5.5] Abyss-stained Camulos's
+31187	[E-5.5] Abyss-stained Belisa's
+31188	[E-5.5] Abyss-stained Pater's
+31189	[E-5.5] Abyss-stained Andarta's
+31206	[E-6] Helios's
+31207	[E-6] Metheus's
+31208	[E-6] Selene's
+31209	[E-6] Eos's
+31210	[E-6] Hyperion's
+31211	[E-6] Leto's
+31212	[E-6] Pallas's
+31213	[E-6] Dione's
+31297	[E-6.5] Dreamlike Helios
+31298	[E-6.5] Dreamlike Metheus
+31299	[E-6.5] Dreamlike Selene
+31300	[E-6.5] Dreamlike Eos
+31301	[E-6.5] Dreamlike Hyperion
+31302	[E-6.5] Dreamlike Leto
+31303	[E-6.5] Dreamlike Pallas
+31304	[E-6.5] Dreamlike Dione

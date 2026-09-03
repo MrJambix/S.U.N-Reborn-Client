@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-09-02] update | The elite ladder goes further, and a bigger action bar
+
 [2026-08-31] update | The game starts about three times faster.
 The long pause at 60% on the loading screen is gone. The effects that were being loaded there now come in quietly while you are on the login and character screens, so you reach the login box in a few seconds instead of waiting through it.
 
