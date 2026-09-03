@@ -34602,7 +34602,6 @@ start
 59036	Materials
 59037	%d recipes here  -  %d you can make now
 59038	Yields x%d
-end
 31084	[E-4.5] Authority-stained Blain's
 31085	[E-4.5] Authority-stained Gunnar's
 31086	[E-4.5] Authority-stained Lind's
@@ -34651,3 +34650,4 @@ end
 31302	[E-6.5] Dreamlike Leto
 31303	[E-6.5] Dreamlike Pallas
 31304	[E-6.5] Dreamlike Dione
+end
