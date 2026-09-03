@@ -57,4 +57,6 @@ JD16	"EP2\J_EliteSet4_wit_effect2.ewz"
 JD17	"EP2\J_EliteSet4_wit_effect3.ewz"
 AB82	"EP2\A_Blue_sheep_effect1.ewz"
 AB83	"EP2\A_Blue_sheep_effect2.ewz"
+LN35	"EP2\M_EliteSet6_ber_effect1.ewz"
+LN36	"EP2\M_EliteSet6_ber_effect3.ewz"
 End

@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-09-03] fix | Karnatus Cold-Weather armour now appears on male and female characters alike, the higher Elite set auras show up when the set is worn, and four items with a blank name are named again
+
 [2026-09-02] update | The elite ladder goes further, and a bigger action bar
 
 [2026-08-31] update | The game starts about three times faster.

@@ -34650,4 +34650,8 @@ start
 31302	[E-6.5] Dreamlike Leto
 31303	[E-6.5] Dreamlike Pallas
 31304	[E-6.5] Dreamlike Dione
+181982	[E-9] Vasto
+204775	[Ortana] Longinus
+204776	[Ortana II] Void Longinus
+404532	Lance
 end
