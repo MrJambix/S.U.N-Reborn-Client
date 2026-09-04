@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-09-04] fix | Elite 4.5 to Elite 6.5 armour and weapons now appear properly on your character instead of showing a plain placeholder, and their inventory icons show correctly too.
+
 [2026-09-03] fix | Karnatus Cold-Weather armour now appears on male and female characters alike, the higher Elite set auras show up when the set is worn, and four items with a blank name are named again
 
 [2026-09-02] update | The elite ladder goes further, and a bigger action bar
