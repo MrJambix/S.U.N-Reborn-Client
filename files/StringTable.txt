@@ -4554,7 +4554,7 @@ start
 1962	Anyone up for some hunting?
 233	Chat
 234	Shout
-2000	https://member.sunonline.co.kr/Account/?sRF=GL
+2000	https://www.gathertheguilty.com/account/register
 235	Channel
 50301	"<FONT=m212>Congratulations. <COLOR=FF99CC00><HERONAME/></FONT></COLOR><FONT=mn12> has successfully completed the </FONT><FONT=m212><COLOR=FFCC99FF>Forest of Beasts</COLOR> main mission.</FONT><FONT=mn12>The main mission can be played again, but the rewards will change.</FONT>"
 50302	<FONT=m212>Congratulations. <COLOR=FF99CC00><HERONAME/></FONT></COLOR><FONT=mn12> has successfully completed the </FONT><FONT=m212><COLOR=FFCC99FF>Forest of Beasts</COLOR> main mission.</FONT>
@@ -15073,10 +15073,10 @@ start
 47425	Mini Egg
 47426	Jumbo Egg
 //오전 11:30 2010-09-27	
-158535	Liberation Army Spell Scroll (Greater)
-158536	Liberation Army Spell Scroll (Lesser)
-159535	"If you are equipped with this item, you can use all Auto-hunting functions of the Spell Scroll."
-159536	"If you are equipped with this item, you can use some Auto-hunting functions of the Spell Scroll."
+158535	Auto-Hunting Scroll (Full)
+158536	Auto-Hunting Scroll (Basic)
+159535	Worn in a Cash Slot. While it is equipped the Auto-Hunting panel opens from your HUD and every setting is unlocked:\n\n- Hunting range and boss warning\n- Loot filters\n- Potions, pet feed and resting\n- Auto-revive\n- Return to town when your bags fill, your potions run out or your gear wears down\n- Selling and restocking at the shop\n- Party invites and channel joining\n\nRequires level 50.
+159536	Worn in a Cash Slot. While it is equipped the Auto-Hunting panel opens from your HUD with the core settings:\n\n- Hunting range and boss warning\n- Loot filters\n- Potions, pet feed and resting\n\nAuto-revive, returning to town, selling, restocking and party rules need the Full scroll.\n\nRequires level 50.
 //오후 8:53 2010-09-28	
 47427	Worn Skin Box of Berserker
 47428	Worn Skin Box of Dragon Knights
@@ -28550,7 +28550,7 @@ start
 2669	%s
 //오후 7:25 2014-04-02
 3477	%s Guild has succeeded in imprint the fortress. From now %s guild will be defensive castle.
-3478	Every Sunday from 9:00 p.m. to 10:00 Mondschein Siege War will be held. Guild is possible only succeeded in imprint the temple of blood and participate, Guild defended the fort until the end of the imprint is the ruler of the region.\n\nYou can go freely to the ground and Mondschein fortress during Mondschein Siege War time.
+3478	Every Saturday from 11:00 to 11:45 server time (US Eastern) the Mondschein Siege War is held. Guild is possible only succeeded in imprint the temple of blood and participate, Guild defended the fort until the end of the imprint is the ruler of the region.\n\nYou can go freely to the ground and Mondschein fortress during Mondschein Siege War time.
 3480	Mondschein Fortress Siege has started. After go to the "Room of imprint" and successful in imprint, If you defend the imprint Until the time the siege ends, you will victory.
 3481	Mondschein Fortress Siege has started. Defend enemies' attack Until the time the siege ends
 3482	%s It was defeated in the battle.\nAfter 10 seconds automatically summoned to the Etherain moving objects.
@@ -30631,7 +30631,7 @@ start
 9047	October Premium Combination
 9048	November Premium Combination
 //오후 10:18 2014-11-18
-3277	Every Sunday evening from 8:00 Temple of Blood Takeover will be held. All guilds can participate freely and Finally guild succeeded in imprint becomes the new owner of the area..\n\nTakeover Start Time : Sunday 20:00 ~ 20:45\n\n(1 Pledge of King is comsumed each time you enter the Temple of Blood. )
+3277	Every Saturday the Temple of Blood Takeover is held. All guilds can take part freely, and the guild that completes the final imprint becomes the new owner of the area.\n\nTakeover Start Time : Saturday 10:00 ~ 10:45 server time (US Eastern)\n\n(1 Pledge of King is consumed each time you enter the Temple of Blood. )
 //오후 3:29 2014-11-20
 9094	Recovery Potion Material
 9095	Special Potion Material
@@ -34654,4 +34654,91 @@ start
 204775	[Ortana] Longinus
 204776	[Ortana II] Void Longinus
 404532	Lance
+160601	Black Kalbus
+160651	Summons your Black Kalbus. <Right click to summon> Once summoned, press <Shift + Space> to enter Flight Mode.
+160602	Rudolph 2016
+160652	Summons your Rudolph 2016. <Right click to summon>
+160603	Unicorn
+160653	Summons your Unicorn. <Right click to summon>
+160604	Mirage Unicorn
+160654	Summons your Mirage Unicorn. <Right click to summon>
+160605	Nemean White Lion
+160655	Summons your Nemean White Lion. <Right click to summon>
+160606	Swift Nemean White Lion
+160656	Summons your Swift Nemean White Lion. <Right click to summon>
+160607	Golden Kalbus
+160657	Summons your Golden Kalbus. <Right click to summon> Once summoned, press <Shift + Space> to enter Flight Mode.
+160608	Knight Order Charger
+160658	Summons your Knight Order Charger. <Right click to summon>
+160609	Golden Drake
+160659	Summons your Golden Drake. <Right click to summon>
+160610	Cherry Blossom Unicorn
+160660	Summons your Cherry Blossom Unicorn. <Right click to summon>
+160611	Sakura Cloud Unicorn
+160661	Summons your Sakura Cloud Unicorn. <Right click to summon>
+160612	White Tiger
+160662	Summons your White Tiger. <Right click to summon>
+160613	Violet Flame Charger
+160663	Summons your Violet Flame Charger. <Right click to summon>
+160614	Azure Flame Charger
+160664	Summons your Azure Flame Charger. <Right click to summon>
+160615	Legendary Charger
+160665	Summons your Legendary Charger. <Right click to summon>
+160616	Azure Dragon
+160666	Summons your Azure Dragon. <Right click to summon>
+160617	Albino Fimbulvetr
+160667	Summons your Albino Fimbulvetr. <Right click to summon>
+160618	Rudolph 2024
+160668	Summons your Rudolph 2024. <Right click to summon>
+160619	Absolute Tiger
+160669	Summons your Absolute Tiger. <Right click to summon>
+160620	Guardian White Tiger
+160670	Summons your Guardian White Tiger. <Right click to summon>
+160621	Five-Colour Parrot
+160671	Summons your Five-Colour Parrot. <Right click to summon>
+160622	Onyx Kalbus
+160672	Summons your Onyx Kalbus. <Right click to summon> Once summoned, press <Shift + Space> to enter Flight Mode.
+160623	Snow Tiger
+160673	Summons your Snow Tiger. <Right click to summon>
+160624	Cocobo
+160674	Summons your Cocobo. <Right click to summon>
+160625	Uniconio
+160675	Summons your Uniconio. <Right click to summon>
+160626	Azure Charger
+160676	Summons your Azure Charger. <Right click to summon>
+160627	Warden Steed
+160677	Summons your Warden Steed. <Right click to summon>
+160628	Champion Steed
+160678	Summons your Champion Steed. <Right click to summon>
+46450	Oath of the Fallen
+302383	Melias's Seal
+302384	Light-imbued Priest Ring
+302385	Light-imbued Conqueror's Ring
+302386	Discipline Necklace
+302387	Light-imbued Discipline Necklace
+303383	A seal carried by the bosses of the Trial of Light.
+303384	A Priest Ring enhanced with Melias's Seal.\nGrants an extra effect when equipped with the Light-imbued Conqueror's Ring.
+303385	A Conqueror's Ring enhanced with Melias's Seal.\nGrants an extra effect when equipped with the Light-imbued Priest Ring.
+303386	A necklace forged from the five seals carried by the bosses of the Trials of Earth, Water, Fire, Wind and Darkness.
+303387	A Discipline Necklace enhanced with Melias's Seal.
+31214	[E-1] Astraea
+31215	[E-1.5] Cold Astraea
+31216	[E-2] Nergal
+31217	[E-2.5] Blood-stained Nergal
+31218	[E-3] Camulus
+31219	[E-3.5] Dark Dyed Camulus
+31220	[E-4] Surtr
+31221	[E-1] Menhit
+31222	[E-1.5] Cold Menhit
+31223	[E-2] Ereshkigal
+31224	[E-2.5] Blood-stained Ereshkigal
+31225	[E-3] Nemesis'
+31226	[E-3.5] Dark Dyed Nemesis
+31227	[E-4] Fenrir's
+405014	Wanderer's Crate
+405015	Sealed by a traveller who never came back for it. Opens to one mount, chosen at random and kept for good. <Right-click to open>
+405016	Festival Crate
+405017	Fireworks, pet feed, a repair kit or a bundle of Vigor elixirs  whatever was left over from the last celebration. <Right-click to open>
+405018	Lizzard
+405019	Summons Lizzard, a golden reptile with a nose for treasure and a habit of helping himself.\n\nWhile he is out he grants +200% experience and +100% Heim from monsters, gathers up every item and coin that drops within reach, drinks a healing potion for you below 70% HP and a mana potion below 50% MP, and makes rare drops far more likely.\n\nHe never needs feeding.
 end

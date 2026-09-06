@@ -452,6 +452,7 @@ z311	"z311_z.dds"//¹Ì½ºÆ½³´
 z312	"z312.dds"//beta text
 z313	"z313.dds"//reborn text
 z314	"z314.dds"//reborn text shine
+z315	"z315.dds"//auto-hunting text
 t003	"t003_z.dds"
 z327	"z327.dds"
 z341	"z341.dds"

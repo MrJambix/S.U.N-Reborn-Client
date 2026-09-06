@@ -20,6 +20,10 @@
 
 FORMAT 1
 
+[2026-09-06] fix | Skill and item icons no longer appear greyed out when you log in, and maxed skills show their MAX badge again.
+
+[2026-09-05] update | The login screen has been rebuilt. New panel and backdrop, a redrawn REBORN mark, a Remember my ID option, and the Create an account link now opens our own site.
+
 [2026-09-04] fix | Elite 4.5 to Elite 6.5 armour and weapons now appear properly on your character instead of showing a plain placeholder, and their inventory icons show correctly too.
 
 [2026-09-03] fix | Karnatus Cold-Weather armour now appears on male and female characters alike, the higher Elite set auras show up when the set is worn, and four items with a blank name are named again

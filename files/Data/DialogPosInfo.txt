@@ -224,5 +224,5 @@ w_Dlg_ID	s_Idlg_Name	b_X_ref_Type	w_offset_X	Wide_w_offset_X	Half_Wide_w_offset_
 14	1_4_Logo.iwz	3	-249	-249	-249	3	-303	-303	-303	0	0	0	0	0	0	0	0	1	0		//	썬로고
 13	1_3_Login_15_year.iwz	2	-240	-240	-240	1	7	7	7	0	0	0	0	0	0	0	0	1	0		//	15세 이용가
 12	1_2_Notice_Window.iwz	1	10	10	10	3	-65	-65	-65	0	0	0	0	0	0	0	0	1	0		//	로그인화면의 공지사항
-11	1_1_Login_Window.iwz	3	-141	-141	-141	3	15	15	15	0	0	0	0	0	0	0	0	1	0		//	"로그인 ID, Password 입력부분"
+11	1_1_Login_Window.iwz	3	-190	-190	-190	3	-60	-60	-60	0	0	0	0	0	0	0	0	1	0		//	"로그인 ID, Password 입력부분"
 10	1_Login_Window.iwz	3	-640	-640	-640	2	-95	-95	-95	1	300	-640	-640	-640	0	0	0	1	0		//	로그인 하단 가입하기/종료/버전 부분

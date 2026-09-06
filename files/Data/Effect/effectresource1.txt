@@ -228,5 +228,6 @@ I955	"EP2\I_Map210_Dimension_Door_effect1.ewz"
 I956	"EP2\I_Map210_Dimension_Door_effect2.ewz"
 A990	"A_Beta_Badge_effect1.ewz"
 A988	"Reborn_Badge_effect1.ewz"
+A989	"A_AutoHunt_Badge_effect1.ewz"
 End
 

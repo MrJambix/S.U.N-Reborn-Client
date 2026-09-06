@@ -805,11 +805,11 @@ start
 //오후 3:02 2014-04-04
 70676	Entry reservations for this region can only be made on Channel 1.
 //오후 4:46 2014-12-02
-70677	Shortly, an event increasing EXP gain by %s%% will begin, running from %s:%s to %s:%s.
-70678	Shortly, an event increasing EXP gain by %s%% will begin, running from %s:%s until %s day %s:%s.
-70679	The EXP gain +%s%% event has begun.
-70680	The EXP gain +%s%% event has ended.
-70681	There is no EXP event currently running.
+70677	Bonus EXP event starting soon - from %s:%s until %s:%s you will earn +%s%% experience.
+70678	Bonus EXP event starting soon - from %s:%s until day %s at %s:%s you will earn +%s%% experience.
+70679	Bonus EXP event: +%s%% experience is now active!
+70680	The +%s%% bonus EXP event has ended.
+70681	No EXP event is running right now.
 //오후 3:30 2015-03-31
 70531	You are in a state where you cannot move.
 70532	Invalid map information.
