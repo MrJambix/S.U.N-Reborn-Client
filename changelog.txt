@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-09-07] update | Skill Unlock now shows which of your skills can be unlocked and marks the ones already unlocked. Item tooltips show awakening stars. Fixed crystal events that always appeared expired. Added an option to skip confirmation prompts.
+
 [2026-09-06] fix | Skill and item icons no longer appear greyed out when you log in, and maxed skills show their MAX badge again.
 
 [2026-09-05] update | The login screen has been rebuilt. New panel and backdrop, a redrawn REBORN mark, a Remember my ID option, and the Create an account link now opens our own site.
