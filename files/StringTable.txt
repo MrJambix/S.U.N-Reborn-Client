@@ -34745,4 +34745,11 @@ start
 405019	Summons Lizzard, a golden reptile with a nose for treasure and a habit of helping himself.\n\nWhile he is out he grants +200% experience and +100% Heim from monsters, gathers up every item and coin that drops within reach, drinks a healing potion for you below 70% HP and a mana potion below 50% MP, and makes rare drops far more likely.\n\nHe never needs feeding.
 59085	Equipment Details Panel
 59086	Auto Confirm
+59087	Edge Smoothing
+59088	Sharpness
+59089	Bloom
+59090	Auto Questing
+59091	Shadow Detail
+59092	Standard,High,Ultra
+59093	High,Medium,Low,Ultra
 end

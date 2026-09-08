@@ -4,7 +4,7 @@ OptionID	PageIndex	CategoryName	DisplayName	ItemType	ItemData	Comment
 101	0	2807	2816	COMBO	2932	설명입니다.	//해상도 설정
 102	0	2807	2817	COMBO	2933	설명입니다.	//텍스쳐 품질
 103	0	2807	2818	COMBO	2934	설명입니다.	//이펙트 품질
-104	0	2807	2819	COMBO	2933	설명입니다.	//세부묘사 범위(LOD)
+104	0	2807	2819	COMBO	59093	설명입니다.	//세부묘사 범위(LOD)
 105	0	2807	2820	GAUGE	2935	설명입니다.	//밝기설정(감마설정)
 106	0	2808	2821	COMBO	2936	설명입니다.	//그림자 효과
 107	0	2808	2822	COMBO	2936	설명입니다.	//글로우 효과
@@ -54,12 +54,16 @@ OptionID	PageIndex	CategoryName	DisplayName	ItemType	ItemData	Comment
 238	1	2809	59021	COMBO	2936	설명입니다.	//Always show monster names
 239	0	2807	59022	COMBO	2936	설명입니다.	//Anisotropic filtering
 240	0	2807	59023	COMBO	2936	설명입니다.	//Anti-aliasing (needs restart)
+247	0	2807	59087	COMBO	2936	설명입니다.	//Edge smoothing (FXAA)
+248	0	2807	59088	GAUGE	2937	설명입니다.	//Sharpness 0-100 (gauge)
+249	0	2807	59089	COMBO	2936	설명입니다.	//Bloom
 241	1	2811	59024	GAUGE	2937	설명입니다.	//Interface size (slider, 0=Auto, 1-100 = 101%-200%)
 242	1	2811	59025	COMBO	59028	설명입니다.	//Text size
 243	1	2811	59026	COMBO	2936	설명입니다.	//Unlock HUD frames
 244	1	2811	59029	COMBO	2936	설명입니다.	//Click to move
 245	1	2811	59085	COMBO	2936	설명입니다.	//Equipment Details panel
 246	1	2811	59086	COMBO	2936	설명입니다.	//Auto Confirm
+251	0	2807	59091	COMBO	59092	설명입니다.	//Shadow detail: 0 standard, 1 self-shadow, 2 self-shadow + 2x map
 300	2	2812	2865	GAUGE	2937	설명입니다.	//배경음
 301	2	2812	2866	GAUGE	2937	설명입니다.	//환경 효과음
 302	2	2812	2867	GAUGE	2937	설명입니다.	//시스템 효과음

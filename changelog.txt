@@ -20,6 +20,10 @@
 
 FORMAT 1
 
+[2026-09-08] update | Casting is much faster. Every skill with a cast time now finishes in noticeably less time, and Intellect shortens it further on top of that. The casting animation plays at the speed the cast actually takes, so a quick cast looks quick instead of running at its old pace. Also adds a Shadow Detail setting to the graphics options.
+
+[2026-09-07] update | The noticeboards and banners around town now carry S.U.N Reborn artwork
+
 [2026-09-07] update | Skill Unlock now shows which of your skills can be unlocked and marks the ones already unlocked. Item tooltips show awakening stars. Fixed crystal events that always appeared expired. Added an option to skip confirmation prompts.
 
 [2026-09-06] fix | Skill and item icons no longer appear greyed out when you log in, and maxed skills show their MAX badge again.

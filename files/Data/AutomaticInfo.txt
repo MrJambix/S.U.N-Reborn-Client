@@ -47,3 +47,4 @@ Code	Name	ComboIndex1	ComboIndex2	UseItemCode1	UseItemCode2	UseItemCode3	UseItem
 42	커뮤니티_외치기	16	17	60090	0	0	0	0	0	0	0	0	0	
 43	커뮤니티_채널참가	18	19	60090	0	0	0	0	0	0	0	0	0	
 45	QuestTurnIn_HandIn	0	0	60090	0	0	0	0	0	0	0	0	0	
+46	AutoQuesting_Mode	0	0	60090	0	0	0	0	0	0	0	0	0	
