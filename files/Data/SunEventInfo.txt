@@ -128,3 +128,7 @@
 //	One-day +15% EXP event, 2026-09-04. EndTime 2359 rather than 2400 so it hands
 //	over cleanly to the standing weekend row at midnight.
 	105	0	7	20260904	800	20260904	2359	0	0	1	177	0	0	0	0	0	0	0	0	0	0	0	2400	0	0	0	0.15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		//	One-day EXP +15% (2026-09-04 08:00-23:59, all levels)
+//	72-hour +30% EXP event, goodwill for the 2026-09-09 outage. Back-dated StartDate
+//	(20260908) so the buggy 5-minute pre-notify string never fires. Stacks additively
+//	with the standing weekend row (index 104), so Sat 12th reads +40% until 19:00.
+	106	0	7	20260908	0	20260912	1800	0	0	1	177	0	0	0	0	0	0	0	0	0	0	0	2400	0	0	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		//	Outage make-good: EXP +30% (2026-09-09 to 2026-09-12 19:00, all levels)

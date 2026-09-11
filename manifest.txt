@@ -1,11 +1,11 @@
 # S.U.N Reborn patch manifest
-# generated 2026-09-08 09:23:37 by make-patch.ps1 -- do not hand-edit
+# generated 2026-09-10 21:15:46 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
-PATCH 2026-09-08
+PATCH 2026-09-10
 script 117861f0a0b11aebc9476c9e85477f59765fb29d2a09efd9a90bae4df97ba46a 23033 Data\Attendance.txt
 script 866e65b0ff22a45a2eb01743662bc718007d8df867abfbb6ed59418957aa2588 463933 Data\RewardInfoList.txt
-loose 83f44bae27e13b1ad85547b57befd0fbfbfe63aa0291ac6f0f9828d56604cde7 8357888 Sungame.exe
+loose 29301c7d53002db59ef5fb207500aa2ab74fdaccf6f0ac5eb8962f8f24c39e81 8358400 Sungame.exe
 loose c2b55629afcbf3aaad8c787a38a51dcf76dd8e901e6c73e4be4936760dc54749 1096704 Launcher.exe
 script 7aadabe55bc52fc3ab67b286d53779ddd7b323e8fcf0787ecc0658a2607669a0 990944 Data\ChargeIteminfo.txt
 script 27344e5232cad40c27ec5960684eb350daf97f717ca230124d91adfcfd5ff6b9 3743386 Data\ArmorItemInfo.txt
@@ -3279,7 +3279,7 @@ script 92085ebc35aea194c379d8cdef7dc92ba451fde73205ec962ce9921d5b90bcaa 3960 Dat
 script 7cc3cc2e828e4d916ecd574aacfe5c98a273d6eb73263ec93f3f7ff9229a69ae 4011 Data\TextureAnimationInfo.txt
 pack bc79b78e80f970340b611efc87e27dd017d0098aefaa38e180fc7292f801ddfd 174928 Data\Effect\z315.dds
 pack 8c6c113feaadbda870f63d0c33e183fb817e424c198461c3cb09bd10be655d3b 8804 Data\Effect\A_AutoHunt_Badge_effect1.ewz
-script c26fdfb2dc62f4431119f08dee2c51d227a2628bc83c4efa81a5f74dd3579667 19195 Data\SunEventInfo.txt
+script 9c7f92b73375c624bbd5c8dd978519fb9a7de9d0254f758edca477ea46f24286 19639 Data\SunEventInfo.txt
 pack 82f6a4632e92955471653228f869aa94dc9fa18ac9412a4145bf6b2e02335632 87528 Data\Map\Object\common_object\sign_bord_02.dds
 pack d7d9e12c8d139517645762808733e63b2d967e7c761d0056387336a6b949fcc6 87528 Data\Map\Object\common_object\sign_bord_02_01.dds
 pack 049582fd9ee5b88a32521da65bd6550f51f4652d520d24a5f9764253f0fddba0 87528 Data\Map\Object\common_object\sign_bord_02_02.dds

@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-09-10] update | Skills come out faster. Skill animations play noticeably quicker, so the time you stand locked in place after pressing a skill is about a third shorter, on nearly every skill rather than just spells. Casts are shorter than before and Intellect shortens them further, and the casting animation now runs at the speed the cast actually takes. Monster attacks are unchanged.
+
 [2026-09-08] update | Casting is much faster. Every skill with a cast time now finishes in noticeably less time, and Intellect shortens it further on top of that. The casting animation plays at the speed the cast actually takes, so a quick cast looks quick instead of running at its old pace. Also adds a Shadow Detail setting to the graphics options.
 
 [2026-09-07] update | The noticeboards and banners around town now carry S.U.N Reborn artwork
