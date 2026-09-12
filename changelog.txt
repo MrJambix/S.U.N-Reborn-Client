@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-09-12] update | New characters get a seven-day gift track, and the Auto-Hunting settings window is fixed.
+
 [2026-09-12] fix | Auto-Hunting: the settings window closes properly again, and Mode, Combat and Support now sit on one window with tabs.
 
 [2026-09-10] update | Skills come out faster. Skill animations play noticeably quicker, so the time you stand locked in place after pressing a skill is about a third shorter, on nearly every skill rather than just spells. Casts are shorter than before and Intellect shortens them further, and the casting animation now runs at the speed the cast actually takes. Monster attacks are unchanged.
