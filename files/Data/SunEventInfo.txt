@@ -132,3 +132,5 @@
 //	(20260908) so the buggy 5-minute pre-notify string never fires. Stacks additively
 //	with the standing weekend row (index 104), so Sat 12th reads +40% until 19:00.
 	106	0	7	20260908	0	20260912	1800	0	0	1	177	0	0	0	0	0	0	0	0	0	0	0	2400	0	0	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		//	Outage make-good: EXP +30% (2026-09-09 to 2026-09-12 19:00, all levels)
+	202	0	7	20260922	0	20261220	2400	0	0	1	177	0	0	0	0	0	0	0	0	0	0	0	2400	0	0	0	0.2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		//	Outage make-good: EXP +30% (2026-09-09 to 2026-09-12 19:00, all levels)
+	203	0	7	20261024	0	20261102	2400	0	0	1	177	0	0	0	0	0	0	0	0	0	0	0	2400	0	0	0	0.3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0		//	Outage make-good: EXP +30% (2026-09-09 to 2026-09-12 19:00, all levels)

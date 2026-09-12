@@ -4739,3 +4739,37 @@
 	9212	Lv168_MayanJewel	0	0	0	0	0	0	0	0	0	0	0	0	2	1	7247	2	0	0	0	0	0	0	0	0	0	0	0	0	0					
 	9213	Lv169_MayanJewel	0	0	0	0	0	0	0	0	0	0	0	0	2	1	7247	2	0	0	0	0	0	0	0	0	0	0	0	0	0					
 	9214	Lv170_MayanJewel	0	0	0	0	0	0	0	0	0	0	0	0	2	1	7247	2	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50503	SUNReborn_Newbie_QualityFeed	0	0	0	0	0	0	0	0	0	0	0	0	2	1	60392	1	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50504	SUNReborn_Newbie_SpecialRing	0	0	0	0	0	0	0	0	0	0	0	0	2	1	3880	1	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50510	SUNReborn_Newbie_Day6_ArmorBox_Berserker	0	0	0	0	0	0	0	0	0	0	0	0	2	1	55692	1	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50511	SUNReborn_Newbie_Day6_ArmorBox_DragonKnight	0	0	0	0	0	0	0	0	0	0	0	0	2	1	55693	1	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50512	SUNReborn_Newbie_Day6_ArmorBox_Shadow	0	0	0	0	0	0	0	0	0	0	0	0	2	1	55696	1	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50513	SUNReborn_Newbie_Day6_ArmorBox_Valkyrie	0	0	0	0	0	0	0	0	0	0	0	0	2	1	55694	1	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50514	SUNReborn_Newbie_Day6_ArmorBox_Elementalist	0	0	0	0	0	0	0	0	0	0	0	0	2	1	55695	1	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50515	SUNReborn_Newbie_Day6_ArmorBox_Mystic	0	0	0	0	0	0	0	0	0	0	0	0	2	1	49651	1	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50516	SUNReborn_Newbie_Day6_ArmorBox_Hellroid	0	0	0	0	0	0	0	0	0	0	0	0	2	1	55614	1	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50517	SUNReborn_Newbie_Day6_ArmorBox_Witchblade	0	0	0	0	0	0	0	0	0	0	0	0	2	1	55615	1	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50520	SUNReborn_Newbie_Day7_Weapon_Berserker	0	0	0	0	0	0	0	0	0	0	0	0	2	1	50030	10307	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50521	SUNReborn_Newbie_Day7_Weapon_DragonKnight	0	0	0	0	0	0	0	0	0	0	0	0	2	1	50032	10307	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50522	SUNReborn_Newbie_Day7_Weapon_Shadow	0	0	0	0	0	0	0	0	0	0	0	0	2	1	50038	10307	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50523	SUNReborn_Newbie_Day7_Weapon_Valkyrie	0	0	0	0	0	0	0	0	0	0	0	0	2	1	50034	10307	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50524	SUNReborn_Newbie_Day7_Weapon_Elementalist	0	0	0	0	0	0	0	0	0	0	0	0	2	1	50036	10307	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50525	SUNReborn_Newbie_Day7_Weapon_Mystic	0	0	0	0	0	0	0	0	0	0	0	0	2	1	50056	10307	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50526	SUNReborn_Newbie_Day7_Weapon_Hellroid	0	0	0	0	0	0	0	0	0	0	0	0	2	1	50131	10307	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50527	SUNReborn_Newbie_Day7_Weapon_Witchblade	0	0	0	0	0	0	0	0	0	0	0	0	2	1	50323	10307	0	0	0	0	0	0	0	0	0	0	0	0	0					
+	50530	SUNReborn_Newbie_Costume30d_M_Berserker	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61270	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50531	SUNReborn_Newbie_Costume30d_M_DragonKnight	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61271	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50532	SUNReborn_Newbie_Costume30d_M_Shadow	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61274	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50533	SUNReborn_Newbie_Costume30d_M_Valkyrie	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61272	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50534	SUNReborn_Newbie_Costume30d_M_Elementalist	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61273	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50535	SUNReborn_Newbie_Costume30d_M_Mystic	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61275	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50536	SUNReborn_Newbie_Costume30d_M_Hellroid	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61276	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50537	SUNReborn_Newbie_Costume30d_M_Witchblade	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61277	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50538	SUNReborn_Newbie_Costume30d_F_Berserker	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61278	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50539	SUNReborn_Newbie_Costume30d_F_DragonKnight	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61279	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50540	SUNReborn_Newbie_Costume30d_F_Shadow	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61282	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50541	SUNReborn_Newbie_Costume30d_F_Valkyrie	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61280	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50542	SUNReborn_Newbie_Costume30d_F_Elementalist	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61281	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50543	SUNReborn_Newbie_Costume30d_F_Mystic	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61275	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50544	SUNReborn_Newbie_Costume30d_F_Hellroid	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61276	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					
+	50545	SUNReborn_Newbie_Costume30d_F_Witchblade	0	0	0	0	0	0	0	0	0	0	0	0	4	1	61277	1	43200	0	0	0	0	0	0	0	0	0	0	0	0					

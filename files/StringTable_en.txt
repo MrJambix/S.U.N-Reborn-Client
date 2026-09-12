@@ -34747,3 +34747,9 @@ start
 59092	Standard,High,Ultra
 59093	High,Medium,Low,Ultra
 end
+11451	Highest Stat
+302400	S.U.N Reborn Special Ring
+302401	Incomplete Armor Box <Hellroid>
+302402	Incomplete Armor Box <Witchblade>
+302410	Newbie Gift
+302411	Collect a gift every day for your first seven days of play. Gifts on days 6 and 7 need level 80.
