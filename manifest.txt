@@ -1,8 +1,8 @@
 # S.U.N Reborn patch manifest
-# generated 2026-09-12 21:46:40 by make-patch.ps1 -- do not hand-edit
+# generated 2026-09-13 00:32:47 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
-PATCH 2026-09-12
+PATCH 2026-09-13
 script f2ec81ad74d5a721f2d99f104a4d21261050f90568f4232fcdc65c3ae595fdc2 23208 Data\Attendance.txt
 script 003170c1a1be26f5d68b2f3ca87922395459cc025a96eb19e3ebea2977d759fc 467912 Data\RewardInfoList.txt
 loose 55c4117ba15e728d153446bef316e52dac3958a9c39c77460711cbb393c48bb2 8377344 Sungame.exe
@@ -3286,3 +3286,4 @@ pack 049582fd9ee5b88a32521da65bd6550f51f4652d520d24a5f9764253f0fddba0 87528 Data
 pack c6137ea22a9d74265a3d8e7a37b8cbd78dd84697efd22a16dab02d647f37416e 43832 Data\Map\Object\common_object\common_object_Stage_Billbord.dds
 pack 9443003a6490cc18a6bb602c21ab708560701dcf925ec89abec75d04ea6ad19a 26462 Data\Interface\N233_newbie_gift.iwz
 pack 4bfb421149b8866390d16da62316613559bc8ebff8700f65a9e6d66d6b2304ed 3321 Data\Interface\25_Menu.iwz
+pack 4762962a4443fe88f180ae57d104a69b8332f940e23725f1a5752f4f59bd3332 1890 Data\Interface\N110_HUDAutoBattle.iwz
