@@ -34462,10 +34462,11 @@ start
 405018	Lizzard
 405019	Summons Lizzard, a golden reptile with a nose for treasure and a habit of helping himself.\n\nWhile he is out he grants +200% experience and +100% Heim from monsters, gathers up every item and coin that drops within reach, drinks a healing potion for you below 70% HP and a mana potion below 50% MP, and makes rare drops far more likely.\n\nHe never needs feeding.
 59085	Equipment Details Panel
-end
 11451	Highest Stat
 302400	S.U.N Reborn Special Ring
 302401	Incomplete Armor Box <Hellroid>
 302402	Incomplete Armor Box <Witchblade>
 302410	Newbie Gift
-302411	Collect a gift every day for your first seven days of play. Gifts on days 6 and 7 need level 80.
+302411	Collect a gift on each of your first seven days of play. Days 6 and 7 need level 80.
+302412	Day %s
+end

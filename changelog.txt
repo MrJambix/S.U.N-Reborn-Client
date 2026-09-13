@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-09-12] fix | The Newbie Gift now has its own icon on the menu bar, next to the Daily Log, and its window lists the seven days and their rewards properly. Also fixes some item and stat names that showed a code instead of a name.
+
 [2026-09-12] update | New characters get a seven-day gift track, and the Auto-Hunting settings window is fixed.
 
 [2026-09-12] fix | Auto-Hunting: the settings window closes properly again, and Mode, Combat and Support now sit on one window with tabs.
