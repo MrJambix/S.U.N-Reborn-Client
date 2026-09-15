@@ -1,5 +1,5 @@
 # S.U.N Reborn patch manifest
-# generated 2026-09-14 22:23:09 by make-patch.ps1 -- do not hand-edit
+# generated 2026-09-14 22:48:53 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
 PATCH 2026-09-14
@@ -846,7 +846,7 @@ pack 3cfed65d91044b0ba6294e35cd76f995122478e14c8288beea5c044a06b59ff5 12547 Data
 pack 097dc5f57106d16c485267222adb27a7a7e602bde81aeaae516904a48daee7c6 8952 Data\Effect\effectresource1.txt
 pack cba35030b51a999d85f8368a4dcded4d7bb7f40d50285b9b5ec8b44eddece910 640 Data\Icon\element\Events\Beta_badge.dds
 script 67f84e08d5201576fb813b4c3b145394e80f6b4c6863a58bd71f97b0ca4781bd 897590 Data\QuestInfo.txt
-script d59b3a42f588c074d2e71d5749f309290c103b48faf818b2abb988e8fc5ddd53 153084 Data\NPCExtraInfo.txt
+script c4ea5ac1e6f8964fc638b57c2af1d9332af8f651437c9cadc34b8c568de1449b 153196 Data\NPCExtraInfo.txt
 loose 083946ebd30f88421da307a09ff722b90e925c72f0f9983fb27286d5a0290749 1911274 QuestText.txt
 loose 083946ebd30f88421da307a09ff722b90e925c72f0f9983fb27286d5a0290749 1911274 QuestText_en.txt
 script 163fad40a0ce6c3c66e483df908e43be6e0a79baa46fc0091b0acf38f0759a41 731 Data\HeadMeshInfo.txt
@@ -2900,7 +2900,7 @@ pack 0234b72b41cdb659299e7e904038a04613cfb99f519bd39448dbcbe7c9e93ee4 174904 Dat
 pack b35dbf07de273985d8b0be852755b614b31a9558bb6c26c8a5521b549c83a8c3 174904 Data\Armor\Paladin\W003\wing06_wing_b_no.dds
 pack df9fed2df058121afe977db709d87ea5703462ac57e32fe0383fdf21cc866435 349680 Data\Armor\Paladin\W003\wing06_wing_b_sp.dds
 script 460e898f442d525456872477d2ea7554a94e198963f266c456349f9b204b0fc9 8175 Data\RidingInfo.txt
-script d669f0587ee02d3535ceb5aea1acf468e9a92d82b84cf4b43db3bc93cae644c1 5270012 Data\NPCInfo.txt
+script bf834bfd8a89d5f3bee2463cb847211cf2eb1277947586e802f71027d56fb3e1 5270558 Data\NPCInfo.txt
 pack b719225961a32a133f0ebc39ecdfb34f408f119f7ca154fa09ffddebe1203ac6 1156 Data\Armor\Z_Kalbus\Custom\C002\C002.WZU
 pack a5a45b07555fc07f23542525f041e0c9413e1a042d81db7bdff92a903468f4a1 69122 Data\Armor\Z_Kalbus\Custom\C002\M_Boss_Omega.jpg
 pack dd1e579b6b4accbe3c92dee3c629ddd9d8c96b1e806abc805da8cdcbb777bd3a 411356 Data\Armor\Z_Kalbus\Custom\C002\M_Boss_Omega.png
@@ -3288,5 +3288,6 @@ pack 9443003a6490cc18a6bb602c21ab708560701dcf925ec89abec75d04ea6ad19a 26462 Data
 pack 4bfb421149b8866390d16da62316613559bc8ebff8700f65a9e6d66d6b2304ed 3321 Data\Interface\25_Menu.iwz
 pack 4762962a4443fe88f180ae57d104a69b8332f940e23725f1a5752f4f59bd3332 1890 Data\Interface\N110_HUDAutoBattle.iwz
 pack d96d41aed85b62103d655de725a243c9a8e29339a0f562154ca5194b23c3fe5c 2097196 Data\Interface\all_butten5_01.tga
-script ced6e65c94998ba308f0b6865d9a6a5711e623d1625d069317fa52beff201daa 282380 Data\ShopInfo.txt
+script 3b0f72c7c92606bfd582f6e107fde92b803da9f793a27f7d1fcd079c50a8749f 282380 Data\ShopInfo.txt
 script 81c6a6c03e42667415a966b7a1c6c553c8b86f2977157736fabcfc04c73279fa 32806 Data\MissionRewardInfo.txt
+loose 407d55d169b05a8c66c774195c61e5d40a9d68c07e4be70532bb7901aeaf3d31 147220 Stringtableforname.txt

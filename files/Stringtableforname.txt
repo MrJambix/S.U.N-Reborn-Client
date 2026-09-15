@@ -1,0 +1,4918 @@
+start
+10001	Berserker
+10003	Dragon Knight
+10004	Dragon
+10005	Shadow
+10007	Valkyrie
+10009	Elementalist
+10010	Elemental
+10011	Schwartz Pramme
+10012	Undecided
+10013	Schwartz
+10014	Undecided
+10015	Ignis
+10016	Undecided
+10017	Rumanka
+10018	Undecided
+10019	Klausen
+10020	Undecided
+10021	Kalbus
+10022	Undecided
+10023	Brukelt
+10024	Undecided
+//10025	"It has been said that the Berserker has lost all memories of the past. All that he can remember is that he wandered about the continent relying only on his sword, before joining the Rebel Army."
+//10026	"However, many consider him to be very reliable in any circumstance. Although carrying a secret and mysterious past, he has earned the people's confidence due to his strong willed behavior."
+//10027	"He has reliable physique and honest eyes that give people the sense of trust and confidence. On the other hand, he also gives people the feeling that he may have many secrets and a painful past, which he can't remember."
+//10028	"Due to such history, Berserker can go berserk when he encounters extreme danger. But he almost never loses his cool, and has been known to take younger warriors under his wing during battles."
+//10030	"Descendants of the Dragonkin, Dragon Knights once lived in the splendor of wealth and honor. However, the clan was driven out from their land and exiled to a remote region after their power was sealed by the Demons."
+//10031	"As are most descendants of Dragonkin, he is very proud of  the fact that the blood of ancient Dragonkin's warriors flows in his veins. He regards the most shameful incidents, ones that disgrace his clan's honor."
+//10032	"There is only one reason he, who considers himself the descendant of a noble and distinguished clan, has joined the Rebel Army -  to defeat the Demons, and restore the sealed power of the Dragonkin."
+//10033	"Because of his excessively strong pride in his heritage and blood line, he can be arrogant. However, he can also be unpredictable and naive at times. It is only natural that he has frequent trouble with members of the community. It is known that he has not established friendly relationships with the Shadow, who denies his roots."
+//10035	"Originally he is a descendant of Herlon and from the Demons; however, he joined the Rebel Army when Ignis became their leader."
+//10036	"Shadow emits a subtle and mysterious charm from his fluid movement like that of nimble black cat. But, at the same time, his elegant and shapely outer appearance has been known to suddenly turn into a deadly weapon on the battle field, delivering fatal blows to the enemy."
+//10037	"He is sometimes called Ice Warrior, for exhibiting his cold-blooded mentality so much , that he does not possess one ounce of sympathy for his former clan members who have become his enemy. But from time to time he also shows his other aspect, the mindfulness that lies deep in his heart by performing unexpected acts such as having mercy on the weak who are in danger and rendering aid to them."
+//10040	"Valkyrie is a descendant of a tribe of hunters who lived in the remote parts of the Brakion Continent long ago. Once, they were so prosperous that they were able to establish a nation for their tribe, but they could not defend themselves from the frequent attacks of the Dragonkin, who had been driven out by the Demons to this remote land near the border. Some of them moved north and settled at Waldchen Woods."
+//10041	"However, only a few members of the tribe quickly adapted to the changed environment and were able to survive and succeed in the settlement. They were able to hand down their customs of a matricentric society and archery skills to their descendants."
+//10042	"Because of this, Valkyrie developed superior eyesight that enables her to see  two to three times farther than average humans and enhanced crossbow skills. She joined the Rebel Army after her mother died fighting against the Empire as a member of the Rebel Army, and is exhibiting her outstanding ability as a warrior."
+//10043	"In battle, she turns into an archer who never misses a target. However, in everyday life, she becomes a romantic and innocent girl who enjoys strolling freely through the woods."
+//10045	"She is known to be a descendant of the clan known as Circle, a group of Mages said to have greatly contributed to the development of human magic to fight the Demons. They compiled ancient magic, which had previously only been passed down orally, using the four fundamental elements of nature (water, fire, wind, and earth) into a book."
+//10046	"But, then a powerful political figure, seeking to have the magical power in check, drove them to a disgraceful death by accusing them of being devil worshippers. Also, he banned magic books and destroyed most of them. "
+//10047	"This event directly affected Mages in later years, weakening their magical abilities. It also affected Elementalists, who were orthodox followers of the Circle. She is only able to use a small portion of the magic."
+10094	Chick
+10095	Hen
+10096	Rooster
+10097	Cat
+10098	Rabbit
+10099	Chicken
+10100	Goat
+15001	Beastman Archer
+15002	Scutum Hoplite
+15003	Evil Sorcerer
+15004	Heavy Archer
+15005	Beastman Cavalry
+15006	Red Armor Warrior
+15007	Flail Cavalryman
+15008	Beastman Knight
+15009	Beastman Master
+15010	Transformed Beast Master
+15011	Ghoul
+15012	Zombie Raider
+15013	Dark Mage
+15014	Skeleton Archer
+15015	Criminal Wanderer
+15016	Knight of Darkness
+15017	Roaming Rebels
+15018	Skeleton Foot Soldier
+15019	Death Sorcerer
+15020	Transformed Death Sorcerer
+15021	Rookie Scout
+15022	Rookie Sentry
+15023	Castle Gate Sentry Captain
+15024	Rookie Guard
+15025	Black Mage of Ice
+15026	Royal Guard Captain
+15027	Royal Head Mage
+15028	Snow Witch
+15029	Master of the Castle
+15030	Transformed Castle Master
+15031	Knight of Restraint
+15032	Archer of Restraint
+15033	Dragon of Restraint
+15034	Red Flame Beastman
+15035	Mage of Resurrection
+15036	Blue Flame Warrior
+15037	Flame Drake
+15038	Flame Ravager
+15039	Prince of the Flames
+15040	Graveyard 1
+15041	Graveyard 2
+15042	Graveyard 3
+15043	Graveyard 4
+15044	Graveyard 5
+15045	Graveyard 6
+15046	Graveyard 7
+15047	Graveyard 8
+15048	Graveyard 9
+15049	Slave Warrior
+15050	Slave Archer
+15051	Slave Merchant
+15052	Bronze Warrior
+15053	Bronze Mage
+15054	Bronze Queen
+15055	Escort Warrior
+15056	Escort Archer
+15057	Escort Captain
+15058	Transformed Escort Captain
+15059	TOP1
+15060	TOP2
+15061	TOP3
+15062	TOP4
+15063	TOP5
+15064	TOP6
+15065	TOP7
+15066	TOP8
+15067	TOP9
+15068	TOP Transformation
+15069	Dragon Zombie
+15070	Blue Thunder Archer
+15071	Blue Thunder Fighter
+15072	Contaminated Wolf
+15073	Iron Beastman Champion
+15074	Ferocious Wolf
+15075	Blue Thunder Sentry
+15076	Blue Thunder Beater
+15077	Beastman Forest Wolf
+15078	Blue Thunder Gatekeeper
+15079	Skeleton Soldier
+15080	Skull Warrior
+15081	Skeleton Assassin
+15082	Skeleton Mage
+15083	Watchman of Golden Hall
+15084	Patrol
+15085	Iron Tribe Temple Guard
+15086	Iron Tribe Temple Guard
+15087	Terno Bridge Guard
+15088	Siegel Ghost
+15089	Guardian of Ruins
+15090	Temple Guardian
+15091	Terno Bridge Invader
+15092	Iron Beast Sentry
+15093	Iron Beastman Soldier
+15094	Blue Thunder Knight
+15095	Blue Thunder Champion
+15096	Blue Thunder Soldier
+15097	Ether Seal
+16001	Black Forest Archer
+16002	Beast Swordsman
+16003	Black Forest Scout
+16004	Black Forest Axe Soldier
+16005	Beast Cave Warrior
+16006	Beast Cave Mage
+16007	Dark Ghoul
+16008	Zombie Sorcerer
+16009	Sewer Soldier
+16010	Underground Prisoner
+16011	Underground Rebel
+16012	Skeleton Mage
+16013	Elite Guard
+16014	Elite Security
+16015	Elite Sentry
+16016	Ice Sorcerer
+16017	Summoner of Ice
+16018	Swordsman of the Bitter Chill
+16019	Volcanic Warrior
+16020	Volcanic Mage
+16021	Valley of Dragonkin Beast
+16022	Valley of Dragonkin Female Warrior
+16023	Lava Dragon
+16024	Temple Guard
+16025	Guardian of Magic Seal
+16026	Cursed Stone Statue
+16027	Cursed Magic Seal
+16028	Siegel Knights Soldier
+16029	Siegel Knights Archer
+16030	Siegel Knights Member
+16031	Bone Seal
+16032	Blood Seal
+16033	Flesh Seal
+16034	Soul Seal
+16035	Magic Seal of Soul
+16036	Keeper’s Stone Statue
+16037	Vice-Captain Vern
+16038	Vice-Captain Selena
+16039	Captain Ermunt
+16040	Iron Beastman Warrior
+16041	Iron Beastman Archer
+16042	Iron Beastman Wolf
+16043	Iron Beastman Chaser
+16044	Contaminated Wolf
+16045	Black Ether Totem
+16046	Wolf Watchman
+16047	Pillar of Restraint 1
+16048	Pillar of Restraint 2
+16049	Siegel Knight
+16050	Ermunt's Illusion
+17001	Dark Earth Archer
+17002	Dark Earth Foot Soldier
+17003	Gray Earth Archer
+17004	Gray Earth Cavalryman
+17005	Cave of Death Cavalryman
+17006	Cave of Death Knight
+17007	Underground Ghoul
+17008	Underground Zombie Plunderer
+17009	Dark Waterway Archer
+17010	Dark Waterway Criminal
+17011	Rebels of Dark
+17012	Dark Skeleton Foot Soldier
+17013	Snowy Plains Scout
+17014	Snowy Plains Sentry
+17015	White Guard
+17016	White Mage
+17017	Glacier Mage
+17018	Glacier Witch
+17019	Red Knight
+17020	Red Archer
+17021	Flame Beast
+17022	Flame Mage
+17023	Bloody Drake
+17024	Bloody Destroyer
+17025	Beast Watchman
+17026	Black Forest Mage
+17027	Cerberus
+17028	Dark Observer
+17029	Criminal Wanderer
+17030	Dark Mage
+17031	Cursed Waterway Knight
+17032	Keeper of the Ice Castle
+17033	Rookie Sentry
+17034	Beastman Cavalry
+17035	Gatekeeper of Snowy Plains
+17036	Rookie Scout
+17037	White Mage
+17038	Priest of the Ice Castle
+17039	Flame Cerberus
+17040	Red Flame Beastman
+17041	Flame Drake
+17042	Flame Sorcerer
+17043	Warrior of the Flame
+17044	Flame Ravager
+17045	Prince of the Flames
+17046	Mage of the Golden Hall
+17047	Proprietress Rosemary
+17048	Kleinschmitz
+17049	Achim
+17050	Heider
+17051	Schupere
+18001	Iron Beast Pawn
+18002	Iron Beast Archer 
+18003	Iron Beast Watchman
+18004	Iron Beast Warrior 
+18005	Young Iron Beast
+18006	Iron Beastman Sorcerer
+18007	Iron Beastman Berserker
+18008	Ether Sorcerer
+18009	Mysterious Stone Statue
+18010	Staff
+18011	Iron Beastman Assassin
+18012	Contaminated Lathar Tribe
+18014	Marduk the Brutal
+18015	Boss Ohma
+18016	Watchman Karatuk
+18017	Watchman Dorf
+18018	Eye of the Hawk Pagadu
+18019	Sorcerer Nafuku
+18020	Chieftain Gromk
+18021	Chieftain Omadu
+18022	Alpha Wolf Oshuma
+19001	Wandering Corpse
+19002	Beastman Scout
+19003	Beastman Sentry
+19004	Black Forest Beast
+19005	Waterway Sentry
+19006	Waterway Scout
+19007	Snowy Plains Sentry
+19008	Snowy Plains Beastman
+19009	Beastman Soldier
+19010	Black Forest Soldier
+19011	Black Forest Sentry
+19012	Gate Sentry
+19013	Dragon of Snowy Plains
+19014	Lava Dragon
+19015	Volcano Beastman
+19016	Wooden Gatekeeper
+19017	Keeper of the Seal
+19018	Beast Commander
+19019	Gus
+19020	Guardian of the Box
+19021	Eisenstein
+19022	Imperial Army Patrol
+19023	Imperial Army Trainee
+20002	Emelda (Valkyrie Store)
+20003	Bjorn (Storage)
+20004	Nomer (Berserker Store)
+20005	Pavka (Dragon Knight Store)
+20006	Waterain (Elementalist Store)
+20007	Dwayne (General Store)
+20009	Tibolt (Tringel Guard Captain)
+20010	Malcom (Tringel Sentry Captain)
+20011	Tringel Guard
+20012	Tringel Sentry
+20013	Lauren (Battle Zone)
+20014	Sena (Battle Zone)
+20015	Laman (General Store)
+20016	Drayan (Dragon Knight Store)
+20017	Mino (Elementalist Store)
+20018	Clay (Valkyrie Store)
+20019	Harte (Berserker Store)
+20020	Necker (Town Transfer)
+20021	Irian (Town Transfer)
+20022	Peliche (Town Transfer)
+20023	Erit (Town Transfer)
+20024	Herdit (Town Transfer)
+20025	Pelon (Town Transfer)
+20026	Nihil (Berserker Store)
+20027	Otter (Berserker Store)
+20028	Claude (Berserker Store)
+20029	Nahoom (Dragon Knight Store)
+20030	Obis (Dragon Knight Store)
+20031	Sephere (Dragon Knight Store)
+20032	Lavina (Valkyrie Store)
+20033	Anna (Valkyrie Store)
+20034	Asha (Valkyrie Store)
+20035	Bestia (Elementalist Store)
+20036	Aries (Elementalist Store)
+20037	Seren (Elementalist Store)
+20040	Christine (Battle Zone)
+20042	Jessica (Battle Zone)
+20048	Necker (Town Transfer)
+20049	Peliche (Town Transfer)
+20050	Mari (Town Transfer)
+20053	Franz (Guild Battle)
+20054	Berger (Guild Battle)
+20055	Jullie (Guild Battle)
+20056	Berta (Battle Zone)
+20057	Enas (Valkyrie Store)
+20058	Matti (Storage)
+20059	Luz (Berserker Store)
+20060	Avis (Dragon Knight Store)
+20061	Mystel (Elementalist Store)
+20062	Udo (General Store)
+20065	Ingrit (Battle Zone)
+20066	Siebold (General Store)
+20067	Kornix (Dragon Knight Store)
+20068	Serr (Elementalist Store)
+20069	Peniche (Valkyrie Store)
+20070	Reese (Berserker Store)
+20071	Fulvia (Town Transfer)
+20072	Patroller Malilane
+20073	Sorcerer Cormit
+20074	Patroller Uline
+20075	Vice-Captain Selena
+20076	Supply Soldier Tede
+20077	Martin
+20078	Knight Eldin
+20079	Aris (Guild Manager)
+20080	Ares (Guild Manager)
+20081	Karen
+20082	Uter
+20083	Claire
+20084	Elena
+20085	Max
+20086	Waldchen Guard
+20087	Waldchen Sentry
+20088	Etherain Guard
+20089	Etherain Sentry
+20090	Belita (Battle Zone)
+20091	Adeline (Battle Zone)
+20092	Wilot (Enhancement)
+20093	Guirandor (Craft)
+20094	Isloge (Enhancement)
+20095	Kerden (Crafting)
+20096	Hanen (Enhancement)
+20097	Arbenheno (Crafting)
+20098	Lardohen (Crafting)
+20099	Helbarm (Enhancement)
+20100	Guard Captain Von Herling
+20101	Guard Captain Von Carloan
+20102	Alon Khater (Librarian)
+20108	Martina
+20109	Kelben
+20110	Senator Seigmund
+20111	Isabel
+20112	Jenon
+20113	Chairman Eisenstein
+20114	Sentry Captain Krom
+20115	Sentry Captain Bachen
+20116	Free Spirit
+20117	Assistant Walter
+20118	Guard Captain Ronken Von Michael 
+20119	Sentry Captain Arhan
+50001	Forest of Beasts
+50002	Etherain Sewer
+50003	Frozen Palace
+50004	Valley of the Dragonkin
+50005	Aiort Graveyard
+50006	Helron's Castle
+50011	Forest of Beasts - 1
+50012	Forest of Beasts - 2
+50013	Forest of Beasts - 3
+50021	Etherain Sewer1
+50022	Etherain Sewer2
+50023	Etherain Sewer3
+50031	Frozen Palace-1
+50032	Frozen Palace-2
+50033	Frozen Palace-3
+50041	Valley of Dragonkin-1
+50042	Valley of Dragonkin-2
+50043	Valley of Dragonkin-3
+50051	Aiort Graveyard1
+50052	Aiort Graveyard2
+50053	Aiort Graveyard3
+50061	Helron's Castle-1
+50062	Helron's Castle-2
+50063	Helron's Castle-3
+51000	Tringel
+51001	Etherain
+51002	Waldchen
+51100	Creates a Mission map.
+51101	Creates a Hunting map.
+51102	Sets the minimum and maximum LV. that may enter the map. 
+51103	Sets the minimum and maximum number of players that may enter the map.
+51104	Sets restrictions on the player classes that may enter the map. 
+51105	You must first complete the Etherain Sewer mission.
+51106	You must first complete the Aiort Graveyard mission.
+51202	Move to Tringel
+51203	Move to Etherain
+51204	Move to Aukra
+55001	Map for Forest of Beasts mission
+55002	Proceed to Sewer Quest
+50101	"The first road leading to the capital city, Etherain.#Since the Imperial Army occupied the peaceful and beautiful forest, it has started emitting a dark and damp energy,#and for anyone who enters, #it becomes the forest of death."
+50102	"It has been told that the beast riders of the Dark Order, #well adapted to this wild forest, exist here. #Forest of Beasts has been known to swallow all living things."
+50103	"However, you must pass through this forest#to go to Etherain."
+50104	"Sewers stretch like cobwebs in the underground of Etherain.#These sewers of unknown origin, #were hard-fought battle fields during the height of territorial dispute# and never ending destruction and death in the past."
+50105	Violent temper of the battle field brought fourth dark and damp underground air#luring evil energy.#This presence keeps the dead from their eternal rest and sleep.
+50106	"Place for the undead who lost humanity and have only an aggressive temper and strength.#in order to punish the master of Etherain, who is a mere servant of Schwartz.# This place must be passed through as quickly as possible."
+50107	"The castle was situated among the mountain ridges above a pure white Snowy Plains. #It was a location where people had been reluctant to enter because of the harsh terrain and severe cold.#However, it was also a place beauty with glowing snow and ice."
+50108	"However, the evil forces of the Black Demon have penetrated this place# and turned the innocent chill into a deadly coldness that #snatches everything away from all beings without mercy."
+50109	"A world where time seems to have stopped.#Under neath the cold ice, where living creatures, sleeping refrained from breathing lay, #await for a hero who will bring time back to this world once again.#"
+50110	"A place of exile, where the Dragonkins were restrained by black magic.#They were expelled to a lava plateau in the remote region with their power sealed by the Demons#who were jealous and feared the Dragonkin's power."
+50112	They will surely lend their help to people #who keep the promise to help them regain their lost power.
+50113	Fertile soil blessed by both the God of the Winds and the Goddess of the Earth#untill the respected monarch turned his back on the gods#and fell to evil influence.
+50114	"Now, the land of heretics who admire destruction and death, #it will be hard to see the glory of the past again.#The Lord of Castle who posseses the heart of Ether and#owes their resurection to the Emperor, #devastated this land with more evil forces."
+50115	"In order to recover the fertile land,#the one who caused the destruction must be defeated."
+50116	"Rumanka, a faithful subject of the Emperor and her clan, Helron’s Castle. #Rumanka, who had the heart of Ether transplanted from the Emperor,#established a huge Ether plant here and#exercised strong power over the Demons."
+50117	"In Helron's Castle, there have been studies #to strengthen their power using the Ether."
+50118	"In order to assure the breakdown of the Empire spirit,#you should consider this place, the sanctuary and fortress of Helrons, #to be your strategic priority."
+52003	Grave of the Siegel Knights
+52004	Access Road to Etherain
+50511	Forest Entrance
+50512	Collapsed Castle Ramparts
+50513	Beast Cave
+50514	Zapir Lake
+50515	Path of the Alchemist
+50521	Passage of Chaos
+50522	Rusty Floodgate Sewer
+50523	Solemn Hallway
+50524	Incomplete Memorial
+50525	West Sewer of Maze
+50546	East Sewer of Maze
+50531	Snowy Plains
+50532	Frozen Garden
+50533	Ice Crystal Palace
+50534	Sanctuary of Fortress
+50535	Tower of Ruins
+50541	Red Lava Valley
+50542	Wailing Valley
+50543	Crater of Blood
+50544	Karwan's Crater
+50545	Grave of Ancient Dragon
+51511	Forest of Beasts#Forest Entrance
+51512	Forest of Beasts#Collapsed Castle Ramparts
+51513	Forest of Beasts#Beast Cave
+51514	Forest of Beasts#Zapir Lake
+51515	Forest of Beasts#Path of the Alchemist
+51521	Etherain Sewer#Passage of Chaos
+51522	Etherain Sewer#Rusty Floodgate Sewer
+51523	Etherain Sewer#Solemn Hallway
+51524	Etherain Sewer#Incomplete Memorial
+51525	Etherain Sewer#West Sewer of Maze
+51531	Frozen Palace#Snowy Plains
+51532	Frozen Palace#Frozen Garden
+51533	Frozen Palace#Ice Crystal Palace
+51534	Frozen Palace#Sanctuary of Fortress
+51535	Frozen Palace#Tower of Ruins
+51541	Valley of the Dragonkin#Red Lava Valley
+51542	Valley of the Dragonkin#Wailing Valley
+51543	Valley of the Dragonkin#Crater of Blood
+51544	Valley of the Dragonkin#Karwan's Crater
+51545	Valley of the Dragonkin#Grave of Ancient Dragon
+51546	Etherain Sewer#East Sewer of Maze
+52001	Conspiracy of Iron Beast Tribe
+52002	Sinister Rumor
+18013	Barooka the Sealed
+15098	Bridge Raider
+15099	Beastman Guard
+15100	Beastman Summoner
+15101	Thornwood Sentry
+15102	Thornwood Guard
+15103	Thornwood Defender
+15104	Thornwood Post Captain
+15105	Blue Clam Sentry
+15106	Blue Clam Guard
+15107	Blue Clam Defender
+15108	Kellops
+15109	Ashen Shadow Sentry
+15110	Ashen Shadow Guard
+15111	Ashen Shadow Defender
+15112	Ashen Shadow Post Captain
+15113	Shallows Sentry
+15114	Shallows Guard
+15115	Shallows Defender
+15116	Orom
+15117	Thick Sands Sentry
+15118	Thick Sands Guard
+15119	Thick Sands Defender
+15120	Yoruba
+15121	Gray Rock Sentry
+15122	Gray Rock Guard
+15123	Gray Rock Defender
+15124	Gray Rock Post Captain
+15125	Green Forest Sentry
+15126	Green Forest Guard
+15127	Green Forest Defender
+15128	Green Forest Post Captain
+15129	Quartermaster Corps Sentry
+15130	Quartermaster Corps Guard
+15131	Quartermaster Corps Defender
+15132	Kunto
+15133	Greenhill Sentry
+15134	Greenhill Guard
+15135	Greenhill Defender
+15136	Greenhill Post Captain
+15137	Ancient Wood Sentry
+15138	Ancient Wood Guard
+15139	Ancient Wood Defender
+15140	Ancient Wood Post Captain
+15141	Crimson Wood Sentry
+15142	Crimson Wood Guard
+15143	Crimson Wood Defender
+15144	Crimson Wood Post Captain
+15145	Lakeside Sentry
+15146	Lakeside Guard
+15147	Lakeside Defender
+15148	Lakeside Post Captain
+15149	Tau
+15150	Gray Cliff Sentry
+15151	Gray Cliff Guard
+15152	Gray Cliff Defender
+15153	Jenko
+15154	Thunder Ridge Sentry
+15155	Thunder Ridge Guard
+15156	Thunder Ridge Defender
+15157	Thunder Ridge Post Captain
+15158	Oruchi
+15159	Deep Shadow Sentry
+15160	Deep Shadow Guard
+15161	Deep Shadow Defender
+15162	Deep Shadow Post Captain
+18023	Watchman Tagash
+18024	Habarashe the Gladiator
+18025	Temple Guardian
+52005	Foiled Conspiracy
+52006	Road to Etherain
+19024	Imperial Army Scout
+20120	Edmund Sieger the Collector
+20121	Guard Captain Heinrich
+20122	Yulin (Weapons Merchant)
+20123	Advance Base Sentry
+20124	Camp Guard
+20125	Scout Captain Hansel Goldenwurk
+20126	Etherain Scout
+20127	Anton (General Goods)
+20128	Schneider (Herbs Merchant)
+20129	Temporary Post Soldier
+15163	Messenger Escort
+17052	Nivalith the Ice Dragon
+17053	Helron Mage Bayon
+17054	Beastman King Rufus
+17055	Otto Von Roshfelt
+17056	Konus of the Bloody Armor
+17057	Dark Knight Kirsh
+17058	Erich Schutzwalt
+17059	Hark of the Iron Horn
+17060	Baron Von Liebich
+15164	Blue Thunder Messenger
+50516	Iron Tribe's Cave
+50517	Beast Cave Entrance
+50526	Chamber of Trials
+50527	Etherain Underground Garden
+20130	Tower of Ruins Patrol
+15165	Snowflower Tree Guide
+15166	Snowy Plains Imperial Archer
+15167	Snowy Plains Imperial Spearman
+15168	Ice Spirit
+15169	Schutzwalt Escort
+15170	Schutzwalt Wizard
+15171	Baron's Follower
+15172	Schutzwalt Guard
+17061	Guardian Rowalt
+17062	Guardian Vircene
+17063	Officer Satard
+17064	Greater Ice Spirit
+17065	Behilit the Follower
+17066	Escort Captain Heinrich
+17067	Escort Captain Clyte
+17068	Straugen the Steward
+17069	Elronsawe the Chamberlain
+17070	Snowflower Tree Bypath Yak
+17071	Tablian the Priest
+15173	Snowy Plains Imperial Chaser
+15174	Snowy Plains Imperial Ambusher
+20131	Mark (Fragment Crafting)
+20132	Juke (Fragment Crafting)
+15175	Blue Rivulet Sentry
+15176	Blue Rivulet Guard
+15177	Blue Rivulet Berserker
+15178	Narrow Valley Sentry
+15179	Narrow Valley Guard
+15180	Orladu
+15181	Narrow Valley Sentry
+15182	Narrow Valley Guard
+15183	Narrow Valley Scout Captain
+15184	Blue Rivulet Beast Berserker
+15185	Blue Rivulet Beast Warrior
+15186	Blue Rivulet Beast Mage
+15187	Narrow Valley Defender Captain
+15188	Narrow Valley Defender
+15189	Narrow Valley Scout Captain
+15190	Narrow Valley Scout
+15191	Narrow Valley Mage
+15192	Ramparts Pathway Captain
+15193	Ramparts Pathway Sentry
+15194	Ramparts Pathway Archer
+15195	Azatu
+15196	Ramparts Pathway Post Captain
+15197	Ramparts Pathway Post Guard
+15198	Carfu Monty
+15199	Black Cave Scout
+15200	Black Cave Sentry
+15201	Black Cave Mage
+15202	Black Cave Patrol Captain
+15203	Black Cave Patroller
+15204	Black Cave Sentry
+15205	Ottrun
+15206	Caged Silent Haunter
+15207	Angry Silent Haunter
+15208	Silent Haunter
+15209	Straggled Undead Vice-Captain
+15210	Rotten Ghoul Captain
+15211	Rotten Ghoul Defender
+15212	Dirty Rotten Ghoul
+15213	Rotten Ghoul
+15214	Vice-Captain Raymond
+15215	Squad Captain Stephan
+15216	Defender Captain Vester
+15217	Siegel Knights Spirit
+15218	Siegel Knights Soldier
+15219	George
+15220	Abandoned Immortal Haunter
+15221	Decayed Immortal Haunter
+15222	Immortal Haunter
+15223	Martius
+15224	Eternally Straggled Undead
+15225	Straggled Undead of the Past
+15226	Straggled Undead
+15227	Shallow Waterway Decayed Ghoul
+15228	Shallow Waterway Ghoul
+15229	Lost Spirit of Gus
+15230	Hartman
+15231	Rough Path Abandoned Skeleton
+15232	Rough Path Skeleton
+15233	Kuno the Decayed
+15234	Odorous Scout Captain
+15235	Odorous Scout
+15236	Egon of Despairs
+15237	Drowned Scout Captain
+15238	Drowned Scout
+15239	Manual the Revered
+15240	Head Gravekeeper
+15241	Skeleton Gravekeeper
+15242	Ishido
+15243	Dark Sewer Watchman
+15244	Dark Sewer Guard
+15245	Sewer Guard
+15246	Helfried the Warden
+15247	Underground Prison Warden
+15248	Underground Prison Watchman
+15249	Underground Prison Sentry
+15250	Hugo the Examiner
+15251	Seeker of Truth
+15252	Torture Room Guard
+15253	Torture Room Sentry
+15254	Rotten Waterway Gran
+15255	Rotten Waterway Undead Defender
+15256	Rotten Waterway Undead Scout
+15257	Rotten Waterway Undead Soldier
+15262	Hut Keeper Fester
+15263	Dead Lumber Grounds Watchman
+15264	Lumberjack Ghost
+15265	Carl
+15266	Frozen Lake Rotten Monster
+15267	Frozen Lake Monster
+15268	Frozen Lake Contaminated Monster
+15269	Frozen Lake Decayed Monster
+15270	Pale Castle Gate Sentry Captain
+15271	Pale Castle Gate Sentry
+15272	Lost Sentry
+15273	Lost Guard
+15274	Lost Patrol
+15275	Castle Gate Guard Captain Jacob
+15276	Castle Gate Guard
+15277	Castle Gate Soldier
+15278	Wandering Enginery Ghost
+15279	Wandering Enginery Soldier
+15280	Vice-Captain Bruno
+15281	Berthold Knights Archer
+15282	Berthold Knights Soldier
+15283	Vice-Captain Daniel
+15284	Berthold Knights Guard
+15285	Berthold Knights Soldier
+15286	Hate-Possessed Guard
+15287	Violent Guard Spirit
+15288	Black Ether Magic Seal
+15289	Behilit’s Shard
+15290	Snowflower Tree Woodman
+15291	Kaornish
+15292	Old Underground Scout
+15293	Old Underground Sentry
+15294	Shallow Waterway Ghoul Captain
+20133	Sewer Keeper Hansen
+20134	Waterworks Management Agency Employee Mark
+20135	Liberation Army Scout Achim
+20136	Liberation Army Patrol Myer
+20137	Patrol Captain Dietrich
+20138	Dark Sewer Watchman Captain
+20139	Head Captain of Torture Room
+20140	Humbaba
+20141	Fischermann the Fisher
+15320	Snowflower Tree Warrior
+15321	Snowy Plains Wolf
+15322	Tamed Snowy Plains Wolf
+15323	Imperial Attack Squad Member
+15324	Snowy Plains Imperial Messenger
+15325	Pillar of Magical Seal
+15326	Snowflower Tree Elementalist
+15327	Lesser Ice Spirit
+15328	Snowflower Tree Gladiator
+15329	Snowy Plains Wolf Leader
+15330	Imperial Messenger Escort
+15331	Slave Ice Dragonkin
+17072	Snowy Plains Imperial Knight Ungoose
+17073	Great Summoner Haman
+17074	Attack Squad Knight Kylie
+17075	Attack Squad Knight Atrata
+17076	Attack Squad Captain Falir
+17077	Imperial High Knight Elmut
+17078	Messenger Escort Captain Radensan
+17079	Imperial Officer Breeon
+17080	Attack Squad Captain Sus
+17081	Imperial Messenger Ibis
+17082	Kataz
+17083	Schutzwalt
+17084	Snowy Plains Wolf King Tur
+17085	Wheck the Gladiator
+17086	Snowy Plains Imperial Mage Kaila
+17087	Snowy Plains Imperial Mage Erhan
+17088	Snowy Plains Imperial Mage Nubel
+15336	Imperial Attack Squad Soldier
+15337	Imperial Attack Squad Mage
+15338	East Wall Sentry
+15339	East Wall Scout
+15340	East Wall Defender
+15341	Kuando
+15342	Crystal Lake Sentry
+15343	Crystal Lake Scout
+15344	Crystal Lake Defender
+15345	Garuhu the Destroyer
+15346	South-West Post Sentry
+15347	South-West Post Scout
+15348	South-West Post Defender
+15349	Mento
+15350	Wolf Rock Sentry
+15351	Wolf Rock Scout
+15352	Wolf Rock Defender
+15353	Angus
+15356	Kalbus's Drake
+15357	Kalbus's Follower
+15358	Brukelt's Priest
+15359	Brukelt's Follower
+15360	Rumanka's Ravager
+15361	Rumanka's Ravager (Temporary)
+15295	Watchtower Sentry
+15296	Ether Follower
+15297	Frozen Palace Bridge Guard
+15298	Ether Plant Watchman
+15299	Ether Plant Watch Medic
+15300	Ether Plant Watch Mage
+15301	Ether Plant Guardian
+15302	Ether Plant Guardian
+15303	Older Twin Troy
+15304	Younger Twin Pendragon
+15305	Frozen Palace Commander Misya
+15306	Frozen Palace Escort
+15307	Frozen Palace Escort Medic
+15308	Frozen Palace Escort Mage
+15309	Frozen Palace Escort Archer
+15310	Friendly Ludwig
+15311	Frozen Palace Inspector
+15312	Destruction Commander
+15313	Protection Commander
+15314	Magic Commander
+15315	Bow Commander
+15316	Spear Commander
+15317	Xytrox the Apathetic
+15318	Watchtower
+15319	Dark Mage
+15332	Garden Guard
+15333	Watch Tower Sentry Captain
+15334	West Garden Gatekeeper
+15335	East Garden Gatekeeper
+15354	Frozen Palace Watchman
+15355	Lost Imperial Army Trainee
+15362	Frozen Palace Search Squad
+15364	Snowy Plains Imperial Mage
+17089	Imperial Mage Keraia
+20142	Sewer Watchman Polmer
+20143	Messenger's Corpse
+20144	Etherain Soldier
+20145	Adjutant Bastel
+20146	Guard Captain Ernst
+20147	Quartermaster Hoomber
+52007	Second Attack on Snowfield
+52008	Restraining Imperial Messenger
+15365	Frozen Palace Sentry
+15366	Frozen Palace Archer
+15367	Frozen Palace Mage
+15368	Frozen Palace Medic
+15258	Lacunase the Heartless
+15259	Diseased Dark Priest
+15260	Diseased Sorcerer
+15261	Diseased Mage
+15369	Deff the Sly
+15370	Deff's Follower
+15371	Deff's Bodyguard
+20152	Scout's Corpse
+16051	Fruit of Plenty
+20153	Imperial Army Field Operations Map
+20154	Wolf Rock Post Veteran Arnold
+20155	Wolf Rock Post Soldier
+20156	Snowy Plains Outpost Captain Paul
+20157	Snowy Plains Outpost Sentry
+20158	Snowy Plains Outpost Watchman
+20159	Crystal Lake Scout Captain Hartwin
+20160	Crystal Lake Patrol
+20161	Crystal Lake Scout Soldier
+20162	Etherain Castle Gate Guard Captain Alkan
+20163	Etherain Castle Gatekeeper
+19025	Blue Mane Plunderer
+19026	Crystal Lake Scout
+19027	Crystal Lake Sentry
+19028	Crystal Lake Knight
+19029	Ice Rock Knight
+19030	Ice Rock Tracker
+52009	Hidden Passage
+20164	Hanelone
+20165	Vastian
+15372	Wanderer
+15373	Skeleton Scout
+15374	Dark Sewer Archer
+15375	Dark Skeleton Soldier
+15376	Waterway Patrol
+15377	Cursed Criminal
+15378	Protector of Darkness
+15379	Dark Mage
+15380	Skeleton Assault Charger
+15381	Waterway Searcher
+15382	Waterway Defender
+15383	Death Chaser
+15384	Pillar of Seal
+17090	Sewer Watchman Balter
+52010	Battle of the Castle Outskirts
+15385	Spirit Totem
+15386	Demon Totem
+15387	Rookie Demon Soldier
+15388	Rookie Demon Archer
+15389	Rookie Demon Mage
+15390	Rookie Demon Healer
+15391	Snowy Plains Demon Ambusher
+15392	Snowy Plains Demon Archer
+15393	Snowy Plains Demon Mage
+15394	Snowy Plains Demon Healer
+15395	Contaminated Spirit
+15396	Polluted Rock Spirit
+15397	Stonefist Assault Soldier
+15398	Cracked Stonefist Assault Soldier
+15399	Mutated Dragon
+15400	Demon Slave Soldier
+15401	Rookie Demon Garrison Soldier
+15402	Rookie Demon Iron Archer
+15403	Rookie Demon Ice Mage
+15404	Rookie Demon Magic Healer
+15405	Snowy Plains Demon Assault Soldier
+15406	Snowy Plains Demon Iron Archer
+15407	Snowy Plains Demon Ice Mage
+15408	Snowy Plains Demon High Healer
+15409	Iceblade Demon Warrior
+15410	Iceblade Demon Archer
+15411	Iceblade Demon Mage
+15412	Frostbitten Demon Warrior
+15413	Frostbitten Demon Archer
+15414	Frostbitten Demon Mage
+15415	Frostbitten Demon Gatekeeper
+15416	Iceblade Demon Gatekeeper
+15417	Ferocious Snowy Plains Wolf
+15418	Kalkan of Storm
+15419	Kalkan's Follower
+15420	Castle Tower Watch Captain
+15421	Ferocious Castle Tower Beast
+15422	Iceblade Captain Kirjen
+15423	Frostbitten Captain Gunther
+16052	Slime
+16053	King Slime
+16054	Contaminated Mouse
+16055	Contaminated Spider
+16056	Ice Monster
+16057	Ice Queen
+16058	Cherry Dragon
+16059	Golden Cherry Dragon
+16060	Suraky
+55003	Cursed Tower
+15424	Wandering Soldier
+20166	Private Shop Bulletin
+15425	Torture Room Sentry
+15426	Torture Room Guard
+15427	Underground Prison Sentry
+15428	Underground Prison Watchman
+15429	Underground Prison Warden
+15430	Cursed Sorcerer
+15431	Cursed Skeleton Soldier
+15432	Cursed Skeleton Archer
+15433	Dragon's Watchman
+15434	Dragon's Sentry
+15435	Protector of Ether Plant
+15436	Magic Stone of Magical Seal
+15437	Steel Prison Door
+15438	Ether Plant
+15439	Restrained Knight
+15440	Guard of Dragonkin
+15441	Warden of Dragonkin
+17091	Head Captain of Torture Room
+17092	Corrupt Knight
+17093	Watch Captain of Dragon
+17094	Gatekeeper of Hell Prison
+17095	Necromancer
+17096	Hugo the Examiner
+17097	"Helfred Brothers, the Warden"
+17098	Agripina
+17099	Councilor Tasif
+17100	Waterway Knight
+20167	Upia
+20168	Alice
+20169	Kikero
+20170	Pirajul
+20171	Niof
+20172	Cierarion
+15459	Waterway Watchman Captain
+50547	Basin of Desperate Screams
+20173	Marienfelde (Christmas Seasonal Product Merchant)
+50548	Mockery of Scorching Outrage
+20174	Billma Falks (Store)
+20175	Angela Rubinstein (Store)
+20176	Despina Ringor (Store)
+20177	Wanda Muller (Store)
+15442	Frozen Waterfall Sentry
+15443	Frozen Waterfall Scout
+15444	Frozen Waterfall Defender
+15445	Ella the Melancholic
+15446	Crystal Tunnel Sentry
+15447	Crystal Tunnel Scout
+15448	Crystal Tunnel Defender
+15449	Guard Captain
+15450	Frozen Lake Sentry
+15451	Frozen Lake Scout
+15452	Frozen Lake Defender
+15453	Gallotin
+15454	Sentry of the Eastern Ruins
+15455	Scout of the Eastern Ruins
+15456	Defender of the Eastern Ruins
+15457	Rumelo the Crazy
+15460	Watchman's Defender
+18031	Cursed Bowman
+18032	Cursed Soldier
+18033	Cursed Warrior
+18034	Cursed Slave Archer
+18035	Cursed Knight
+18036	Cursed Monster
+18037	Cursed Sentry
+18038	Cursed Scout
+18039	Cursed Mage
+18040	Cursed Monster Soldier
+18041	Soul Taker
+18042	Dark Spellcaster
+18043	Hell Watchman
+18044	Abyssal Monster
+18045	Marksman of the Abyss
+18046	Steel Cavalryman of the Abyss
+18047	Corrupt Scout
+18048	Watchman of the Abyss
+18049	Dragon of the Abyss
+18050	Cruel Mage
+18051	Corrupt Guard
+18052	White Escort Captain
+18053	White Specter
+18054	Knight of Ruin 
+18055	Marksman of Darkness
+18056	Marksman of Ruin
+18057	Infernal Plunderer
+18058	Infernal Mage
+18059	Foot Soldier of Ruin 
+18060	Keeper of Hell
+18061	Watchman of Hell
+18062	Contractor of Blood
+18063	Ripper of Souls
+18064	Drake of Death
+18065	Dark Cavalryman of Death
+18066	Monster of Death
+18067	Ashen Destroyer
+18068	Death Knight
+18069	Monster of the Dark
+18070	Foot Soldier of the Dark
+18071	Marksman of Death
+15461	Flaming Warrior
+15462	Gladiator of the Flame
+15463	Guardian of the Flame
+15464	Decayed Corpse
+15465	Soul-Taken Assassin
+15466	Dragon Bone Soldier
+15467	Dragon Bone Archer
+15468	Grave Keeper Sorcerer
+15469	Dragon Bone Warrior
+15470	Dragon Bone Mage
+15471	Seal Mage
+15472	Specter
+15473	Dragonkin Grave Keeper
+15474	Betrayer's Guardian
+15475	Praya the Dragon Slayer
+15476	"Betrayer of the Dragonkin, Meniche"
+15477	Broken Gate
+15478	Black Cave Sentry
+15479	Black Cave Scout
+15480	Black Cave Soldier
+15481	Black Cave Archer
+15482	Black Cave Charger
+15483	Black Cave Guarding Stone Statue
+15484	Black Curse Sorcerer
+15485	Contaminated Dragon
+15486	Devourer of the Void
+15487	Frozen-Hell Hunting Dog
+15488	False Believer
+15489	Cruel Priest
+50536	Hall of Emptiness
+51536	Frozen Palace#Hall of Emptiness
+15490	Lava Valley Spearmen
+15491	Lava Valley Archer
+15492	Flame Cerberus
+15493	Tamed Drake
+15494	Lava Valley Patrol
+15495	Lava Valley Watchman
+15496	Drake Knight Member
+15497	Dragonkin of Lava Valley
+15498	Vice-Captain of the Drake Knights
+15499	Greater Drake Knight
+15500	Drake Knight Trainee
+15501	Drake Knight Shield Warrior
+15502	Seal Mage of Lava Valley
+15503	Gray Waterway Commander
+15504	Gray Waterway Sorcerer
+15505	Gray Waterway Commanding Sorcerer
+15506	Gray Waterway Spellcaster
+15507	Gray Waterway Necromancer
+15508	Gray Waterway Priestess
+15509	Gray Waterway Patrol
+15510	Gray Waterway Charge Captain
+15511	Gray Waterway Captain
+15512	Gray Waterway Assassin
+15513	Gray Waterway Magic Archer
+15514	Gray Waterway Search Captain
+15515	Gray Waterway Knight
+15516	Gray Waterway Bronze Warrior
+15517	Gray Waterway Blood Warrior
+15518	Gray Waterway Elite Archer
+15519	Gray Waterway Watchman
+15520	Gray Waterway Brass Warrior
+15521	Gray Waterway Skull Knight
+15522	Gray Waterway Ghoul
+15523	Gray Waterway Zombie
+15524	Gray Waterway Decayed Archer
+15525	Gray Waterway Murderer
+15526	Gray Waterway Decayed Soldier
+15527	Ash Waterway Archer
+15528	Drake
+15529	Foot Soldier of Lava Valley
+15530	Red Flame Mage
+15531	Volcano Cerberus
+15532	Cursed Drake
+15533	Cursed Valley Soldier
+15534	Cursed Cerberus
+15535	Cursed Beastman Ruler
+15536	Cursed Dark Warrior
+15537	Cursed Red Mage
+15538	Death Dragon Guard
+15539	Death Dragon Volcano Knight
+15540	Death Dragon Guardian
+15541	Death Dragon Master
+15542	Imperial Army Archer
+15543	Violent Beast
+15544	Drake in Valley
+15545	Black Warrior in Volcano
+15546	Beastman Ruler
+15547	Red Drake
+15548	Pile of Rocks
+15549	Flame Empire Knight
+15550	Flame Cerberus
+15551	Flame Beastman
+15552	Flame Empire Archer
+15553	Flame Black Warrior
+15554	Flame Red Mage
+15555	Rookie Sentry
+15556	Old Cloak Sentry
+15557	Rookie Scout
+15558	Bone Soldier
+15559	Archer of Bone
+15560	Blood Prisoner
+15561	Flesh Ghoul
+15562	Summoned Ghoul
+15563	Waterway Ghost
+15564	Ether Ghoul
+15565	Ether Mage Apprentice
+15566	Pillar of Spirit
+15567	Ether Mage of Death
+15568	Undead of Spirit
+15569	Watchman of Spirit
+15570	Watchman of Knight
+15571	Ghoul of Altar
+15572	Ether Spirit of Death
+15573	Pillar of Revival
+15574	Revived Ghoul
+15575	Siegel Knight Battle Priest
+15576	Sealed Spirit Knight
+15577	Bone Ripper
+15578	Blood Ripper
+15579	Flesh Ripper
+15580	Soul Ripper
+15581	Drake Knight Messenger
+15582	Lava Valley Guard
+15583	Vice-Gatekeeper of Lava Valley
+15584	Guardian Knight of the Drake Knights
+15585	Drake Knight Gatekeeper
+15586	Drake Knight Vice-Messenger
+15587	Guardian Warrior of the Drake Knights
+15588	Drake Knight Chaser
+52011	Rescue the Dragonkin chief
+52012	Scout the Valley Entrance
+15589	Tree of Life
+15590	Tree of Spirit
+55005	Esod
+20202	Gluer (Town Transfer)
+15591	Vicious Wolf
+20178	Leina
+20179	Eyd
+20180	Bowie
+20181	Beth
+20182	White
+20183	Freddie
+20184	Jeff
+20185	Lucid
+20186	Tanya
+20187	Randy
+20188	Valentine
+20189	Eimon
+20190	Maya
+20191	Lite
+20192	Joy
+20193	Luka
+20194	Vivi
+20195	Alef
+20196	Charlie
+20197	Dickie
+20198	Clyton
+20199	Coleman (Craft)
+20200	Theobaldo (Enhancement)
+20201	Leon
+20203	Guard
+18072	Panic Totem
+18073	Delay Totem
+18074	Magic Exposure Totem
+18075	Poison Totem
+18076	Mental Curse Totem
+18077	Reversal Totem
+18078	Stun Totem
+18079	Lethargy Totem
+18080	Weakening Totem
+18081	Absorption Totem
+18082	Blind Totem
+18083	Damage Reflection Totem
+18084	Seal Totem
+18085	Confusion Totem
+15592	Beastman Legion Foot Soldier
+15593	Bronze Legion Foot Soldier
+15594	Flame Legion Foot Soldier
+15595	Death Dragon Elite Soldier
+15596	Mutant Dragon
+15597	Mutant Dragon Youngling
+15598	Imperial Army Investigator
+15599	Parent Body of Mutant Dragon Youngling
+15600	Imperial Army Assassin
+15601	Imperial Spy
+15602	Contaminated Researcher
+15603	Dragon's Blood
+20204	Inshilia Generis
+15604	Patrol of White Castle 
+15605	Mage of White Castle
+15606	Beast Soldier of White Castle 
+15607	Beast Cavalryman of White Castle
+15608	Dragon Escort Soldier
+15609	Archer of White Castle
+15610	Guard of White Castle 
+15611	Gatekeeper of White Castle 
+15612	Sentry Captain of White Castle 
+15613	Beast of White Castle 
+15614	Beast Knight Captain of White Castle 
+15615	Escort Unit of Dragon 
+15616	Archer Unit Captain of White Castle
+15617	Guard Unit Captain of White Castle
+15618	Gatekeeper Unit Captain of White Castle
+15619	Escort Captain of White Castle Lord
+15620	Sentry Captain of Whiter Castle
+15621	Beast Captain of White Castle
+15622	Escort Captain of White Castle
+15623	Scout Captain of White Castle
+15624	Escort Captain of Dragon 
+15625	Archer Captain of White Castle
+15626	Guard Captain of White Castle
+15627	Gatekeeper of White Castle
+15628	Lord of White Castle
+15629	Knight of White Castle
+15630	Dragon of White Castle
+15631	Dead Shot of White Castle
+15632	Great Mage of White Castle
+15633	Parent Body of Mutant Monster
+15634	Parent Body of Mutant Dragon
+20205	Corpse of the Imperial Spy
+20206	Senate Researcher
+15635	Black Escort Soldier of Volcano
+15636	Drake Knight Foot Soldier
+15637	Death Dragon Warrior
+15638	Death Dragon Mage
+15639	Leader of Drakes
+15640	Drake Knight Guardian Soldier
+15641	Death Dragon Gladiator
+15642	Death Dragon Sorcerer
+15643	Death Dragon Sorcerer
+15644	Dark Ether Mage
+15645	Death Dragon Greater Mage
+15646	Death Dragon Blood Gladiator
+15647	Death Dragon Monarch
+15648	Corrupt Soldier
+15649	Corrupt Warrior
+15650	Cursed Archer
+15651	The Deathless
+15652	The Undead Priest
+15653	Dark Knight
+15654	Dark Gladiator
+15655	Dark Bishop
+52013	Dragonkin's Request
+15656	Mutant Monster
+15657	Lava Valley Ambusher
+15658	Guardian Beastman
+15659	Drake Youngling
+15660	Drake Knight
+15661	Seal Guarding Beast
+15662	Death Dragon Trainee Mage
+15663	Flame Dragon
+15664	Guardian Drake
+15665	Drake of Magic Seal
+15666	Lesser Summoned Spirit
+15667	Drake Knight Archer
+15668	Spirit of the Dragon
+15669	Summoned Spirit of the Dragon
+15670	Masochism Totem
+15671	Sadism Totem
+15672	Summon Totem
+15673	Sealing Pillar of the Death Dragon
+15674	Flamebreath Totem
+15675	Sealing Energy
+15676	Sentry Beastman
+15677	Guard Archer of Lava Valley
+15678	Drake Knight Battle Priest
+15679	Flame Warrior of the Death Dragon
+15680	Purified Drake
+15681	Vice-Captain of Lava Valley
+15682	Seal Mage of the Death Dragon
+15683	Patrol Captain of Lava Valley
+15684	Flame Beastman Leader
+15685	Watchman Drake
+15686	The Sealed
+15687	Screaming Drake
+15688	Death Dragon Commander
+15689	Drake Knight Executor
+15690	Guardian of the Seal
+15691	Death Dragon of the Seal
+15692	Guardian Priest of the Death Dragon
+15693	Guardian of the Holy Ground
+15694	Queen Drake
+15695	Vice-Captain of the Guardian Knights
+15696	Captain of the Drake Knights
+15697	Summon Mage of Drake Knights
+15698	Seal Mage of the Drake Knights
+15699	High Dragon Spirit
+15700	Guardian Spirit of Holy Place
+15701	Guardian Captain of Drake Knights
+15702	Mage Captain of the Drake Knights
+20207	Dragonkin Eunlit
+20208	Traveling Merchant Shupenn
+52014	Operation to free the Dragonkin
+15703	Death Dragon Watchman
+15704	Dragonkin Watchman
+15705	Guardian Drakeing
+15706	Summoned Spirit of High Dragon
+20209	Deserter Enkel
+20210	Deserter Witekker
+20211	Hermit Mellis
+20212	Claudia
+15707	Salamander
+15708	Returned Warrior
+15709	Returned Gladiator
+52015	Clue of Track
+15710	Hungry Ravager
+55007	Trial of Earth
+55008	Trial of Water
+55009	Trial of Fire
+55010	Trial of Wind
+20213	Allen (Point Ranking Manager)
+20214	Deckard (Point Ranking Manager)
+20215	Jurken (Point Ranking Manager)
+20216	Sven
+15711	The Forsaken
+15712	Depraved Sorcerer
+15713	Cursed Priest
+15714	The Rotting Priest
+15715	Sorcerer of Nightmares
+15716	Sorcerer of Darkness
+15717	Dark Templar
+15718	Seal Mage
+15719	Marksman of the Seal
+15720	Sorcerer of the Seal
+15721	The Depraved Seal Keeper
+20217	Scholar Marcy
+20218	Evangelli (Reward Manager)
+15722	Giant Crow
+15723	Fanatic
+15724	Red-Scale Watcher
+15725	Black-Scale Heavy Armor Soldier
+20219	Reinstein (Head of Lab)
+20220	Karenheid (Jeweler)
+20221	Werterheller (Rank down)
+15726	Contaminated Plant
+15727	Blue Flame Warrior
+15728	The Depraved
+15729	Rotten Guard
+15730	Mutant Dragon Knight
+15731	Dimension Creature
+15732	Snow Witch
+15733	Imperial Mage Marshal
+15734	Mutant Death Warrior
+15735	Forgotten Spirit
+51537	Ignis's Garden
+51538	Frozen Palace#Ignis's Garden
+51539	Ignis' Sanctuary
+51540	Guidances' Battle Zone#Ignis's Garden
+19031	Two-Headed Demon Dragon
+19032	Cursed Demonclad Horseman
+19033	Ancient Warrior
+19034	Blader
+19035	Soulless Demon Archer
+19036	Gatekeeper of Hell
+19037	Forgotten Warrior
+19038	Arch-Archer
+19039	Red-Scale Knight
+19040	Soaring Demon Dragon of Hell
+19041	Inextinguishable Evil
+19042	Giant Warrior
+19043	Demon Battler
+19044	Emperor Knight
+19045	Mad Helron Soldier
+19046	Big-Horned Hellion
+19047	Demon Dragon of Terrors
+19048	Dark Demon Swordsman
+19049	Alpendu
+20222	Wiseman Elan
+20223	Wiseman Lloyd
+20224	Wiseman Aren
+20225	Wiseman Fritz
+15736	Undying Zombie
+15737	Cursed Ghoul
+15738	Cursed Soldier
+15739	Cursed Forge Worker
+15740	Cursed Storageworker
+15741	Mage's Crow
+15742	The Returned
+15743	Dark Priest
+15744	Nameless Warrior
+15745	Grave Fungus Slime
+15746	Dark Guard
+15747	Corpse Spider
+15748	Seal Spider of Sorcery
+15749	Zombie of Sorcery
+15750	Dark Archer
+15751	Kinsman of the Heidel Family
+15752	Pillar of Sorcery
+15753	Ether Crystal
+15754	Totem of Dead Spirit
+15755	Returned Knight
+15756	Dark Flower
+15757	Cursed Guard Archer
+15758	Cursed Graveyard Guard
+15759	Mage's Apprentice
+15760	Returned Soldier
+15761	Graveyard Crow
+15762	Sealing Magician of the Stone Chamber
+15763	Returned Mage
+15764	Cursed Gravekeeper
+15765	Cursed Storagekeeper
+15766	Emperor Grave Fungus Slime
+15767	Queen Cadaver Spider
+15768	Dark Ghost Warrior
+15769	Gatekeeper of the Hall
+15770	Dimension Scarecrow
+15771	Cursed Blacksmith
+15772	Mage-Scholar of the Flame
+15773	Almoner of Sacrifice
+15774	Owner of the Sealed Coffin
+15775	Follower of Dead Souls
+15776	Dimension Necromancer
+15777	Necromancer of the Silver Seal
+15778	Priest of the Silver Seal
+15779	Ancient Necromancer of Darkness
+15780	Graveyard Guardian
+15781	Head of the Heidel Family
+15782	Guardian Priest of the Stone Chamber
+15783	Dark Dead Soul Knight
+15784	Dark Guard Archer
+15785	Guardian Knight of the Hall
+15786	Ancient Priest of Darkness
+15787	Dimension Summoner
+15788	Victim of Heretical Sacrifice
+15789	Cursed Fighter
+15790	Cursed Seed
+15791	Depraved Gatekeeper
+15792	Liberated Master
+52016	Toward the Hall of Darkness
+15793	Cursed Knight
+15794	Dark Priest
+15795	Dark Executioner
+20226	Badge Man
+20227	Old Man Santa
+20228	Salvation Army Guy
+20229	Salvation Army Pot
+15796	Blue Clam Checkpoint Captain
+15797	Shallow Brook Checkpoint Captain
+15798	Thick Sands Checkpoint Captain
+15799	Quartermaster Corps Post Captain
+15800	Sidereal Knight
+15801	Follower's Wife
+15802	Cursed Messenger
+15803	Fire Spirit
+15804	Soul Taker
+15805	Rotten Scale Armor Warrior
+15806	Distorted Steel Tooth
+20230	Ralph (Storage)
+20231	Schtor (General Store)
+20233	Miran (Battle Zone Opening)
+20234	Zayanti (Elementalist Store)
+20235	Madav (Berserker Store)
+20236	Nikil (Dragon Knight Store)
+20237	Nisa (Valkyrie Store)
+20239	Yamil (Storage)
+20240	Kalidas (Enhancement)
+20241	Abha (General Goods)
+20242	Lilinan (General Goods)
+20243	Idgy (Guild Manager)
+20244	Oboe (Mission Ranking Manager)
+20245	Rudy (Expeditionary Mage)
+20246	Larhart (Senator)
+20247	Alf (Mercenary Guild Member)
+20248	Dienne (Clan Member)
+20249	Karnankumari (Vigilante Leader)
+20250	Wilwayne (General Goods)
+20251	Croliversa (Head Priest)
+20252	Labimora
+52017	Hidden Danger
+60011	Chamber of Trial [1]
+60012	Chamber of Trial [2]
+60013	Chamber of Trial [3]
+60014	Chamber of Trial [4]
+55011	Legend of Fantasy
+55012	Gray Dungeon
+20253	Crystal Pillar
+20254	Anse (Enhancement)
+20255	Hobin (Crafting)
+20256	Dorr (Storage)
+20257	Roy von Michael the Sentry Captain
+15807	Cursed Believer
+15808	Guard Dog of the Stone Statue
+15809	Light Pillar
+15810	Cursed Fanatic
+15811	Cursed Guard
+15812	Guard Dog of Essence
+15813	Cursed Gladiator
+15814	Cursed Gatekeeper
+15815	Forgotten Knight's Follower
+15816	Warrior of Altar
+15817	Returned Fanatic
+15818	Black Ether Incarnation
+15819	Forgotten Knight
+//오후 5:07 2008-03-12
+20258	Gray Tringel Cat
+20259	Mottled Tringel Cat
+20260	White Tringel Cat
+20261	Black Tringel Cat
+20262	Yellow Tringel Cat
+20263	Waldchen Rooster
+20264	Waldchen Hen
+20265	White Moon Rabbit
+20266	Black Moon Rabbit
+20267	Gray Moon Rabbit
+20268	Black Fog Bat
+20269	Ghost
+20270	Golem
+20271	Siberian Husky
+20272	Dobermann
+20273	St. Bernard
+20274	Dachshund
+20275	Etherain Rainbow Butterfly
+20276	Panda
+20277	Penguin
+20278	Cherry Dragon
+20279	Blowfish
+//오후 12:17 2008-03-19	
+17101	Cursed Contractor
+17102	Iron Dark Warrior
+17103	Traitor of Souls
+17104	Black Ether Cannibal
+17105	Dark Door Guard
+17106	Dark Experiment Subject No. 12
+17107	Dark Ether Soul
+17108	Lawless Soul
+17109	Soul-Taken Knight
+17110	Spirit that Decays
+17111	Corrupt Armored Warrior
+17112	Gatekeeper of Hell
+17113	Death Sorcerer
+17114	Blood-Curse Contractor
+17115	Dark Experiment Subject No. 6
+17116	Soul Fire
+17117	Soul Harvester
+17118	Mutant Experiment Subject
+17119	Guardian of the Great Ritual
+17120	Destruction
+17121	Sealed Destroyer
+17122	Dark Experiment Subject No. 1
+17123	The Disfranchised
+17124	Infected Mutant
+//오전 10:19 2008-03-20	
+52018	Tracking the Great Ritual
+//오후 2:03 2008-03-20	
+20280	Eagle
+20281	Snowman
+20282	Lizardman
+20283	Demon
+//오후 3:05 2008-03-27
+20286	Wahlberg (Storage)
+//오전 11:36 2008-04-14	
+55013	Trial of Darkness
+//오후 8:44 2008-04-14	
+18086	Dark Legion Foot Soldier
+18087	Iron Demon Warrior
+18088	Tower Scout
+18089	Death Dragon Elite Soldier
+18090	Hell Gladiator
+18091	Creature of the Darkness
+18092	Flesh Grinder
+18093	Cursed Spirit
+18094	Knight of Iron and Blood
+18095	Cursed Gladiator
+18096	Destroyer Archer
+18097	Forsaken Dark Warrior
+18098	Dark Watchman
+18099	Corrupted Escort
+18100	Ancient Ghostclad Soldier
+18101	Beastman Demonclad Soldier
+18102	Demonclad Soldier
+18103	Puppet Soldier of the Dark
+18104	Dark Gladiator
+18105	Ancient Dark Monster
+18106	Dark Tower Mage
+18107	Blood Escort
+18108	Knight of the Dark Lord
+18109	Imperial Dark Archer
+18110	Ghostclad Cavalryman
+18111	Death Spirit Cavalryman
+18112	God-Monster of Destruction
+18113	Spirit World Mage
+18114	Cursed Tower Enhanced Soldier
+18115	Brainwashed Destroyer Swordman
+18116	Imperial Armored Archer
+18117	Tower Guardian
+18118	Magical Zealot
+18119	Mad Wizard
+18120	Immortal Demon Dragon
+18121	He who Killed Death
+18122	Sorcerous Berserker
+18123	Imperial Knight of Nightmare
+18124	Spectral Demonclad Soldier
+18125	Beacon of Destruction
+18126	Chaos Watchman
+18127	Demonic Archer of Blood
+18128	Hermeticist
+18129	Overseer of Life and Death
+18130	Immortal Demon Dragon
+18131	Hellion of Death
+18132	Bloodied Warrior
+18133	Sealed Demonic Warrior
+18134	Demonic Beastman of Dark Gate
+18135	Dark Archer of Hell
+18136	Destroyer-God Berserker
+18137	Necromantic Elementalist
+18138	Dragon Knight of Curses
+18139	Corrupted Valkyrie
+//오후 3:09 2008-04-29	
+20287	Alchemist Zernike
+//오후 1:50 2008-05-13	
+20288	Dragon Boat Competition Event NPC
+//오전 11:16 2008-06-10	
+19050	Steel Beastman Sentry
+//오후 9:33 2008-07-02	
+20289	Kyonwoo who lost memory (event)
+//오후 5:44 2008-07-04	
+19051	Forest Warrior
+19052	Snow Knight
+19053	Giant Man
+19054	Red-Armored Devil
+//오후 1:45 2008-07-21	
+55015	Corrupted Temple
+//오후 2:29 2008-07-30	
+20290	Goddard (Shadow Store)
+20291	Doherty (Shadow Store)
+20292	Dibdin (Shadow Store)
+20293	Arnold (Shadow Store)
+20294	Francis (Shadow Store)
+20295	Bernard (Shadow Store)
+20296	Gabriel (Shadow Store)
+20297	Theodore (Shadow Store)
+//오후 4:28 2008-08-05	
+20298	White Full Moon Rabbit
+//오후 6:07 2008-10-02	
+16061	Fimbulbert
+//오후 6:37 2008-09-10	
+17125	Hell Scout
+17126	Steelclad Hellion
+17127	Imperial Silver Steel Archer
+17128	Rotten Heavy Armored Soldier
+17129	Soul Hunter
+17130	Hysteric Man-Eater
+17131	Cursed Witch
+17132	Rite-Master of Darkness
+17133	Spectral Ironclad Knight
+17134	Dark Illusionist
+17135	Dark Bishop
+17136	Berserk Mage-Warrior
+17137	Sorcerer of Sorrows
+17138	Immortal Winged Hellion
+17139	Servant of the Dark Lord
+17140	Rite-Master of Death
+17141	Corrupted Imperial Archer
+17142	Darkness-Tainted Priest
+17143	Cursed Silver Knight
+17144	Fight-Master of the Demonic Hell
+52019	Altar of Darkness
+52020	Aiort Graveyard
+//오후 12:05 2008-09-11	
+17145	Obsidian Zealot
+17146	Ironclad Infernal Archer
+//오후 4:32 2008-09-24	
+15820	Corrupt Heathen
+15821	Hungry Contractor
+15822	Collector of Souls
+15823	Demon's Puppet
+//오후 6:17 2008-10-02	
+50550	Graveyard of Pain
+50551	Castle Ruins
+50552	Heretical Basement Altar
+50553	Outside the Accursed Stone Chamber
+50554	Inside the Accursed Stone Chamber
+50555	Outside the Prison of Lost Souls
+50556	Inside the Prison of Lost Souls
+50557	Ruins of the Wailing Wall
+50558	Unending Chains of Nightmare
+50559	Shadow of Prowling Darkness
+50560	Garden Shrouded in Darkness
+51550	Aiort Graveyard#Graveyard of Pain
+51551	Aiort Graveyard#Castle Ruins
+51552	Aiort Graveyard#Heretical Basement Altar
+51553	Aiort Graveyard#Outside the Accursed Stone Chamber
+51554	Aiort Graveyard#Inside the Accursed Stone Chamber
+51555	Aiort Graveyard#Outside the Prison of Lost Souls
+51556	Aiort Graveyard#Inside the Prison of Lost Souls
+//오후 5:22 2008-10-06	
+17147	Possessed Knight
+17148	Possessed Follower
+17149	Spite that Consumes
+17150	Protector of the Stone Chamber
+17151	Demon’s Puppet
+17152	Materialized Darkness
+17153	Obsession that Rots
+17154	Fight-Master of the Middle Realm
+17155	Possessed Destroyer
+17156	Rite-Master of the Middle Realm
+17157	Wicked Gladiator
+17158	Corrupt Knight
+17159	Death Sorcerer
+17160	Hell’s Dark Warrior
+17161	Pit Scout
+17162	Bishop of the Blue Flame
+//오후 3:29 2008-10-14	
+16062	Mini Dragon
+16063	Pumpkin Scarecrow
+16064	Halloween Bachelorette
+16065	Monster King
+16066	Castle Master
+16067	Swordmage of the Flame
+16068	Real Kalbus
+//오전 10:35 2008-10-15	
+16069	Emissary of the Phantasmagoria
+//오전 10:51 2008-10-15	
+16070	Advent of the Phantasmagoria
+//오후 7:41 2008-11-04	
+16071	Beastman Wanderer
+16072	Beastman Warrior of Death
+16073	Beastman Berserker
+16074	Beastman Illusionist
+16075	Beastman Lord
+16076	Undying Archer
+16077	Skeleton Blader
+16078	Knight of Darkness
+16079	Frozen Gladiator
+16080	Ice Spellcaster
+16081	Master of the Castle
+16082	Steelclad Magma Demon
+16083	Demon of Conflagration
+16084	Prince of the Flames
+16085	Neo Blader
+16086	King Blader
+16087	Neo Arch-Archer
+16088	King Arch-Archer
+16089	Neo Demon Battler
+16090	King Demon Battler
+16091	New Dark Swordmage
+16092	Imperial Dark Swordmage
+16093	True Alfendus
+16094	Greater Alfendus
+16095	Nightmarish Horse-Rider of Mondschein
+//오후 09:26 2008-11-04	
+15824	Shadow Warrior of Fritz
+15825	Betrayal
+15826	Revolting
+15827	Turncoat
+15828	Wraith of the Imperial Herald
+15829	Suspicious Guard
+//오전 10:22 2008-11-05	
+55022	Mondschein
+//오후 07:24 2008-11-05	
+20299	Mondschein Combat Recruitor
+20300	Mondschein Combat Messenger
+//오후 01:10 2008-11-14	
+20301	wSeason of Appreciationw
+//오전 10:59 2008-11-24	
+18140	Kid Snowman
+//오전 11:52 2008-11-26	
+55023	Christmas Event
+//오후 2:29 2008-12-02	
+20302	Christopher (Shadow Store)
+//오후 9:14 2008-12-04	
+20303	Santa of Blessings
+20304	Santa of Love
+20305	Santa Goddess
+//오후 2:28 2008-12-19	
+20306	Forest of Beasts Santa Claus
+20307	Etherain Sewer Santa Claus
+20308	Frozen Palace Santa Claus
+20309	Valley of the Dragonkin Santa Claus
+20310	Aiort Graveyard Santa Claus
+//오전 10:51 2008-12-22	
+15830	Betrayal's Watchman
+15831	Revolting's Watchman
+15832	Turncoat's Watchman
+//오전 10:09 2008-12-23	
+18141	Crazy Marshmallow
+18142	Scared Marshmallow
+//오전 9:56 2009-01-15	
+55024	Monster Coliseum
+//오전 10:40 2009-01-15	
+18143	Black Hellion
+18144	Imperial Sentry
+18145	Imperial Guard
+18147	Black Forest Cerberus
+18148	Beastmaster
+18149	Decayed Demon
+18150	Skeleton Soldier
+18151	Skeleton Warrior
+18152	Demon of the Catastrophe
+18153	Skeleton Sniper
+18154	Servant of the Black Ether
+18155	Imperial Gladiator
+18156	Helron Ogre
+18157	Blizzard Monstrosity
+18158	White Knight of Frost
+18159	Frozen Mage of Souls
+18160	Berserker of the Glacial Valley
+18161	Armored Golem
+18162	Deathless Warrior-Demon
+18163	Cerberus of Frozen Breath
+18164	Helron Elite Guard
+18165	Demon of the Conflagration
+18166	Drake of the Conflagration
+18167	Imperial Battle Commander
+18168	Corrupt Dragon Knight
+18169	Two-Headed Demon of Terrors
+18170	Cerberus of Hellfire
+18171	Decayed Spider
+18172	Soulless Killing Doll
+18173	Adjudicator of Heretics
+18174	Contaminated Experiment
+18175	Guardian of Darkness
+18176	Bloodlust Gladiator
+18177	Zombie Knight
+18178	Elite Guard of Hellfire Emperor
+18179	Gladiator of Hellfire Emperor
+18180	Knight of Hellfire Emperor
+18181	Warrior of Hellfire Emperor
+18182	Hellfire Emperor
+//오전 11:12 2009-01-15	
+18183	Specter of the Pit
+//오후 03:38 2009-01-14	
+20311	Coliseum Warrior
+20312	Coliseum Manager
+//오후 4:25 2009-01-16	
+18146	Helron Knight
+//오전 11:44 2009-01-29	
+20313	Hellhound
+//오후 6:48 2009-02-09	
+20314	Slime King
+20315	Contaminated Spider
+20316	Ice Queen
+20317	Golden Cherry Dragon
+20318	Fimbulbert
+//오후 10:36 2009-02-24	
+20319	Raymond
+20320	Scout at the Southern Forest
+20321	Scout at the Northern Forest
+20322	Captured Liberation Army Recruit
+20323	Elior
+20324	Fione
+20325	Forman
+20326	Guard Captain Nobel
+20327	Scout Jun
+20328	Scout Kay
+20329	Scout Captain Homer
+20330	Scout Elle
+20331	Scout Jay
+20332	Scout Jet
+20333	Suspiciously Dressed Scout
+20334	Scout Kaior
+20335	Scout White
+20336	Scout Whitmore
+20337	Scout Captain Loran
+20338	Terrified Messenger Juno
+20339	Guard Captain Vulcan
+20340	Scout Jedd
+20341	Scout Rogue
+20342	Scout West
+20343	List of Lost Manhunters
+20344	Lost Manhunter Paul
+20345	Lost Manhunter Sam
+20346	Manunter Coppola
+20347	Castle Outskirts Battle Commander
+20348	Snowy Fields Vanguard Captain
+20349	Snowy Fields Vanguard Division Captain
+20350	Snowy Fields Vanguard Vice-Captain
+20351	Tower of Ruins Vanguard Vice-Captain
+20352	Tower of Ruins Vanguard Messenger
+20353	Tower of Ruins North Scout
+20354	Tower of Ruins South Scout
+20356	Grave of Ancient Dragon Scout Vice-Captain
+20357	Grave of Ancient Dragon Scout Jen
+20358	Grave of Ancient Dragon Scout Bach
+20359	Grave of Ancient Dragon Scout Captain
+20360	Grave of Ancient Dragon Scout Zach
+20361	Messenger Treim
+20362	Grave of Ancient Dragon Charge Vice-Captain Retz
+20363	Grave of Ancient Dragon Messenger Boyd
+20364	Grave of Ancient Dragon 1st Division Captain
+20365	Grave of Ancient Dragon 2nd Division Captain
+20366	Grave of Ancient Dragon Charge Captain Clark
+20367	Grave of Ancient Dragon 3rd Division Captain
+20368	Grave of Ancient Dragon 4th Division Captain
+20369	Valkyrie Clan Scout Lyra
+20370	Wailing Valley Manhunter
+20371	Valkyrie Clan Scout Xena
+20372	Grave of Ancient Dragon Manhunter Captain Ins
+20373	Captured Liberator
+20374	Captured Liberator
+20375	Dragon Knights Manhunter Captain Arios
+20376	Valkyrie Clan Manhunter Captain Tina
+20377	Drake Knight Captain’s Spirit
+20378	Sealer of Reason
+20379	Sealer of Memory
+20380	Drake Knight Captain Kaos
+20381	Liberation Army Messenger Zoltan
+20382	Skull the Gravekeeper
+20383	Plagued Corpse
+20384	Adams the Examiner
+20385	Liberation Army Messenger Canon
+20386	Graveyard of Pain Scout Dmitri
+20387	Graveyard of Pain Scout Roshvof
+20388	Hamilton the Scholar
+20389	Security Officer Martis
+20390	Liberation Army Police Captain Eastman
+20391	Weinburg the Gravedigger
+20392	Liberation Army's Confidential Document
+20393	Liberation Army's Confidential Document
+20394	Liberation Army's Confidential Document
+20395	Liberation Army's Confidential Document
+20396	Liberation Army Relay Neville
+20397	Candle the Examiner
+20398	Heretics’ Sacrifice
+20399	Heretics’ Sacrifice
+20400	Liberation Army Manhunter Cooper
+20401	Liberation Army Manhunter Hans
+20402	Liberation Army Charge Vice-Captain Gross
+20403	Liberation Army Charge Captain Cormac
+20404	Captured Civilian
+20405	Captured Civilian
+20406	Liberation Army Messenger Ram
+20407	Liberation Army Charge Vice-Captain Scharpark
+20408	Liberation Army Charge Vice-Captain Grunberg
+20409	Sacrifice for the Great Ritual 
+20410	Sacrifice for the Great Ritual 
+20411	Sacrifice for the Great Ritual 
+20412	Sacrifice for the Great Ritual 
+20413	Scout Cargha
+20414	Manhunter’s Corpse
+20419	Watchman of Memory
+20420	Watchman of Reason
+20421	Returned Cadaver
+//오후 4:44 2009-03-03	
+18184	Swamp Sentry
+18185	Deranged Swamp Guard
+18186	Monster Bird Raider
+18187	Monster Bird Boss
+18188	Servant Artemis 
+18189	Charger Artemis
+18190	Titan Gorilla
+18191	Swamp Man-Eating Flower
+18192	Black Ether Crocodile
+18193	Ether Crocodile Boss
+//오후 6:49 2009-03-03	
+18195	Imperial Logistic Officer
+//오후 12:21 2009-03-06	
+10030	Fierce warriors who have transcended human boundaries through trainings of unimaginable magnitudes.
+10031	They handle giant swords and two-handed axes effortlessly to pulverize the enemy with overpowering strength. The sheer power exploding from their fury borders on barbarism and is enough to shame even the proud Dragon Knights.
+10032	Their ability to shine at critical moments makes them an invaluable resource in the fight against the Empire.
+10040	"Young knights of the Dragonkin, who are often praised as invincible."
+10041	The sight of these warriors elegantly traversing battlefields while armed with a pair of swords and two-handed spears can be described as almost picturesque. The blood of the Dragonkin coursing through their veins will only help perfect them into more powerful Dragon Knights through victory after another.
+10042	"However, even after the formation of the Alliance, their pride has been the root of much discord with other races, including an open animosity with their former warring enemy, the Valkyries."
+10043	"To emerge as true champions of this continent, they will eventually have to overcome their petty pride bound by honor and dignity."
+10050	"Half-human, half-demon.. Dark assassins who possess the accursed blood of the Helrons."
+10051	"Ironically, their honed daggers and swift Whipswords by origin were to be used against the Alliance. However, their lord, Ignis, sided with the humans and turned the blades against the Empire."
+10052	The Shadows have thus turned against their own kind to uphold that will.
+10053	"Calling themselves Imperial Knights, they have now sworn sole allegiance to their Lord Ignis."
+10054	"Cold, faceless darkness, the Shadows.."
+10055	"Without shape or sound, they approach. They leave with a fatal wound at the nape of evil."
+10060	Beautiful female warriors who worship nature and communicate with the spirits.
+10061	"Because they have grown in harmony with nature, they are a gentle and tender people. Yet, in the face of evil, they are able to silence the enemy with an arrow sharper than a hawk's talons and faster than the light itself."
+10062	Faster. Stronger.
+10063	"So they fight on, with Mother Nature on their shoulders and the spirits on their sides, to protect the providence of nature and their peaceful way of life."
+10070	"Sorceress of Circle armed with the elements: Water, Fire, Wind and Earth."
+10071	"Originally, they were a group of mages who studied the four elements and the secrets of Ether. However, as the threat of the Geist Empire loomed over the Brakion Continent, they picked up orbs and staffs in place of magic tomes."
+10072	To protect the innocents from injustice.
+10073	Their noble cause and determination to give their all in resisting the Geist Empire's thrall will not be in vain.
+//2009-03-10	
+55006	Special Quest
+//2009-03-18	
+55004	Spirit Woods
+20355	Tower of Ruins East Scout
+//2009-03-20	
+20415	Dark Protector of the Chamber
+20416	Heretical Protector of the Chamber
+20417	Spiteful Protector of the Chamber
+20418	Preserver of the Great Ritual
+//오후 8:44 2009-03-22	
+16096	Faniulbert
+//오후 4:32 2009-04-29	
+20422	Red Balloon
+20423	Blue Balloon
+20424	Yellow Balloon
+20425	Liberation Army Event Agent Wind
+//2009-05-11	
+55014	Monster Rush Event
+20426	Chick
+//2009-05-25	
+20427	Manhunter Ahen
+20428	Manhunter Agram
+20429	Manhunter Altona
+20430	Manhunter Schwitz
+20431	Manhunter Baden
+20432	Manhunter Bohum
+20433	Manhunter Boden
+20434	Manhunter Ifel
+20435	Manhunter Emden
+20436	Manhunter Delsberg
+20437	Manhunter Ems
+20438	Manhunter Erfurt
+20439	Manhunter Erlangen
+20440	Manhunter Gota
+20441	Manhunter Hodge
+20442	Manhunter Essen
+20443	Manhunter Hagen
+20444	Manhunter Halrey
+20445	Manhunter Hessen
+20446	Manhunter Holstein
+20447	Manhunter Krakow
+20448	Manhunter Krefeld
+20449	Manhunter Meintz
+20450	Manhunter Mitterand
+20451	Manhunter Captain Remscheid
+20452	Manhunter Posen
+20453	Manhunter Faltz
+20454	Manhunter Ruhr
+20455	Manhunter Gigen
+20456	Manhunter Captain Remscheid
+20457	Assault Charger Borms
+20458	Assault Charger Oste
+20459	Logistic Officer Jonnas
+20460	Assault Charger Hass
+20461	Messenger Bearbaum
+20462	Jos the Coward
+20463	Charge Captain Wolfsburg
+20464	Liberator Assault Charger
+20465	Liberator Assault Charger
+20466	Priest Dryades of Trial of Earth
+20467	Priest Nayades of Trial of Water
+20468	Priest Orayades of Trial of Fire
+20469	Priest Naffayas of Trial of Wind
+20470	Priest Nereide of Trial of Darkness
+20471	Manhunter Koblentz
+20472	Manhunter Sitten
+20473	Supply for Assault Chargers
+//2009-05-28	
+20474	Drake Brood Mother
+20475	Drake Youngling
+20476	Monstrosity
+20477	Stone Chamber Examiner Bill
+20478	Corpse Lying in Front of Sarcophagus
+20479	Returned Corpse
+20480	Valkyrie Dispatch Agent Clara
+20481	Burgwein the Gravedigger
+20482	Ether Researcher Sara
+20483	Scout Nevi
+//오후 8:10 2009-06-16	
+20484	Lucky Heim
+//2009-07-21	
+20485	Special Agent Pabel
+20486	Scout Sophy
+20487	Scout Sion
+20488	Special Agent Gibbs
+20489	Scout Tim
+20490	Scout Viper
+20491	Scout Moss
+20492	Battle Commander Thompson
+20493	First Squad Leader Kross
+20494	Second Squad Leader Smith
+20495	Third Squad Leader Bane
+20496	Snowy Fields Vanguard Squadron Leader Cain
+20497	Patrol Micky
+20498	Patrol Willson
+20499	Veteran Patrol Marco
+20500	Scout Vin
+20501	Scout Daniel
+20502	Manhunter Willy
+20503	Manhunter Max
+20504	Manhunter Charles
+20505	Manhunter Watson
+20506	Manhunter Sudan
+20507	Advanced Troop Captain Mite
+20508	Scout Captain Nillson
+20509	Scout Dan
+20510	Scout Mark
+20511	Scout Harigger
+20512	Scout Jack
+20513	Scout Captain Haidon
+20514	Valkyrie Clanswoman Phibi
+20515	Valkyrie Clanswoman Jean
+20516	Valkyrie Clanswoman Xena
+20517	Valkyrie Clanswoman Jane
+20518	Valkyrie Clanswoman Julia
+20519	Rescue Team Leader Wanes
+20520	Scout Agent Rina
+20521	Search Agent Tami
+20522	Scout Agent Harry
+20523	Scout Agent Miguel
+20524	Search Agent Darsy
+20525	Search Agent Alex
+20526	Search Agent Fiss
+20527	Scout Agent James
+20528	Search Agent Lila
+20529	Scout Agent Bears
+20530	Scout Green
+20531	Scout Gey
+20532	Search Agent Ress
+20533	Scout Agent Kidd
+20534	Expert Archaeologist Jones
+20535	Vin the Coward
+20536	Veteran Manhunter Bekkins
+20537	Veteran Scout Mulderk
+20538	Veteran Scout Scullin
+20539	Scout Captain Miller
+20540	Manhunter Captain Leon
+20541	Elite Agent Ethan
+20542	Maryanne
+20543	Assassin Kriss
+//오후 5:39 2009-07-27
+20544	Ghost of Altheim
+20545	Altheim Champion's Ghost
+20546	Ice Spirit
+20547	Specter of Berserker
+20548	Snow Spirit
+20549	Specter of Mage
+20550	Fire Spirit
+20551	Specter of Dragonkin
+20552	Warrior's Spirit
+20553	Specter of Warrior
+20554	Intruder
+20555	Intruder
+20556	Intruder
+20557	Wraith of Charm
+20558	Imperial Spy
+20559	Black Wraith
+20560	Soldier from Imperial Heralds
+20561	Specter of Past
+20562	Specter of Past
+20563	Specter of Past
+20564	Specter of Past
+20565	Specter of Past
+20566	Wraith of Past
+20567	Wraith of Past
+20568	Missing Messenger
+//오전 11:54 2009-09-04	
+20569	Holiday Event Agent
+//오전 7:57 2009-09-08	
+10074	Berserker
+10075	Dragon Knight
+10076	Valkyrie
+10077	Elementalist
+10078	Shadow
+//오후 3:12 2009-09-21
+50562	Nirvelle Swamp
+50563	Bronze Moon City
+50564	Lower Level
+50565	1st Floor
+50566	Mid Level
+50567	Upper Level
+50568	Lower Level
+50569	1st Floor
+50570	Mid Level
+50571	Upper Level
+51562	Helron's Castle#Nirvelle Swamp
+51563	Helron's Castle#Bronze Moon City
+51564	Helron's Castle#Lower Level
+51565	Helron's Castle#1st Floor
+51566	Helron's Castle#Mid Level
+51567	Helron's Castle#Upper Level
+//오후 2:24 2009-09-28
+16097	Swamp Man-Eating Flower
+16098	Monster Bird of Magic Barrier
+16099	Black Ether Crocodile
+16100	Zombie Ether Crocodile
+16101	Black Ether Gorilla
+16102	Monster Bird of Magic Barrier
+16103	Mutated Weredog
+16104	Armed Mutated Weredog
+16105	Knight of Restraint
+16106	Spear-Flame Warrior
+16107	Royal Head Mage
+16108	Death Prophet
+16109	Dark Slaugher
+16110	Tainted Mutant
+//오후 5:34 2009-09-30
+20570	Gold Blowfish
+//오후 5:24 2009-10-07
+20008	Grimaldi (Crafting)
+20038	Dick (Crafting)
+20039	Gelb (Crafting)
+20063	Schumacher (Crafting)
+20238	Ganesa (Crafting)
+//오후 4:00 2009-10-21	
+20571	Invite Friends Event-Manager
+//오후 4:21 2009-10-22
+20572	Michael (Shadow Store)
+//오후 4:00 2009-10-23
+16111	Soul Diviner
+16112	Mutated Host
+16113	Black Bird
+//오후 5:18 2009-10-27
+20573	Brandon (Groom)
+20574	D'Artagnan
+//오후 9:23 2009-10-28
+20575	Gem of the Faithful
+20576	Protector of the Gem
+20577	Fury of Kalidas
+20578	Swamp Guard
+20579	Priest Bishulrar
+20580	Priest Valentinus
+20581	Vigilante Shelling
+20582	Vigilante Sherler
+20583	Valkyrie Clan Scout Eva
+20584	Senator Wundt
+20585	Biologist Driesch
+20586	Astronomer Lambert
+20587	Astronomer Lambert
+20588	Abha's Bodyguard
+20589	Mutated Swamp Man-Eating Flower
+20590	Small Ether Gorilla
+20591	Huge Black Ether Gorilla
+20592	Huge Black Ether Gorilla
+20593	Senator Gabrielle
+20594	Investigator Ergotimos
+20595	Investigator Lysippos
+20596	Liberators Scout Captain Speyer
+20597	Liberators Scout Vice-Captain Papen
+20598	Liberators Scout Albrecht
+20599	Liberators Scout Bertolt
+20600	Liberators Scout Michels
+20601	Liberators Messenger Geppert
+20602	Adjutant Wittfogel
+20603	Priest Basinas
+20604	Vigilante Zagorakis
+20605	Vigilante Karagounis
+20606	Priest Strabon
+20607	Scholar Thespis
+20608	Scholar Karamanlis
+20609	Liberators Soldier
+20610	Sergeant Hotdog
+20611	Priest's Bodyguard
+20612	Black-Hearted Creature
+20613	Astronomer Lucca 
+//오후 3:12 2009-11-11
+20614	Etherian War Horse
+//오전 11:07 2009-11-26	
+20615	Perky Santa
+20616	Randy Santa
+20617	Wild Santa
+//오후 3:00 2009-11-30	
+50800	Temple of Blood (Forest Entrance)
+50801	Temple of Blood (Collapsed Castle Rampart)
+50802	Temple of Blood (Beast Cave)
+50803	Temple of Blood (Zapir Lake)
+50804	Temple of Blood (Path of the Alchemist)
+50805	Temple of Blood (Passage of Chaos)
+50806	Temple of Blood (Rusty Floodgate Sewer)
+50807	Temple of Blood (Solemn Hallway)
+50808	Temple of Blood (Incomplete Memorial)
+50809	Temple of Blood (West Sewer of Maze)
+50810	Temple of Blood (East Sewer of Maze)
+50811	Temple of Blood (Snowy Plains)
+50812	Temple of Blood (Frozen Garden)
+50813	Temple of Blood (Ice Crystal Palace)
+50814	Temple of Blood (Fortress of Sanctuary)
+50815	Temple of Blood (Tower of Ruins)
+50816	Temple of Blood (Red Lava Valley)
+50817	Temple of Blood (Wailing Valley)
+50818	Temple of Blood (Crater of Blood)
+50819	Temple of Blood (Grave of the Ancient Dragon)
+50820	Temple of Blood (Karwan's Crater)
+50821	Temple of Blood (Graveyard of Pain)
+50822	Temple of Blood (Castle Ruins)
+50823	Temple of Blood (Heretical Basement Altar)
+50824	Temple of Blood (Outside the Accursed Stone Chamber)
+50825	Temple of Blood (Inside the Accursed Stone Chamber)
+50826	Temple of Blood (Outside the Prison of Lost Souls)
+50827	Temple of Blood (Inside the Prison of Lost Souls)
+50828	Temple of Blood (Nirvelle Swamp)
+50829	Temple of Blood (Bronze Moon City)
+50830	Temple of Blood (Lower Level)
+50831	Temple of Blood (1st Floor)
+50832	Temple of Blood (Mid Level)
+50833	Temple of Blood (Upper Level)
+20618	Secret Agent Michelle
+20619	Secret Agent Narisha
+20620	Secret Agent Miseah
+20621	Secret Agent O'Sherley
+//오후 3:53 2009-12-16	
+20622	Swamp Scout
+//오전 10:59 2010-01-05	
+52021	The Tainted Shrine
+//오전 11:35 2010-01-20	
+20623	Premium Silk Pouch Manager
+20624	Luxurious Silk Pouch Manager
+20625	Average Silk Pouch Manager
+20626	Basic Silk Pouch Manager
+//오후 4:24 2010-02-03	
+18194	Mutated Guardian
+//오후 10:25 2010-02-04	
+18196	Specter of Artemis
+//오후 6:30 2010-02-05	
+20627	[Premium] Tree of Life
+//오전 10:50 2010-02-09	
+20628	Skating Penguin
+//2010-03-02	
+20629	The Monster in the Castle
+20630	Helron Warrior
+20631	Helron's Dual Sword Warrior
+20632	Helron Knight
+20633	Helron Armored Knight
+20634	Helron Sorcerer
+20635	The Gardner
+20636	Helron's Beast Master
+20637	Helron Assault Soldier
+20638	Watcher of the Study
+20639	Altar Spellcaster
+20640	Altar Mage
+//2010-03-11	
+52022	Black Ether Revealed
+//2010-03-17	
+16114	Sorcerer of Restraint
+16115	Alchemist Kaliman
+16116	Alchemist Heinan
+16117	Mutant Monster
+16118	Twisted Souls
+16119	Pursuer
+16120	Mutant Sentry
+16121	Soul Reaper
+16122	Hell Guard
+16123	Guardian of the Black Ether
+16124	Fallen Butcher of Darkness
+16125	Destroyer of Fallen Spirits
+16126	Alchemist Benzel
+16127	Howling Taroonga
+16128	Bachelard the Destroyer
+16129	Rumanka
+//오후 5:48 2010-03-17
+16134	Bronze Legion Foot Soldier
+16135	Flame Legion Foot Soldier
+16136	Flame Legion Foot Soldier
+16137	Armor Legion Foot Soldier
+16138	Armor Legion Foot Soldier
+16139	Armor Legion Foot Soldier
+16140	Royal Guard Captain Balloc
+16141	Overseer of the Garden
+16142	Draconian
+16143	Draconian
+16144	Metal Claw Drake
+16145	Metal Claw Drake
+16146	Lizardman
+16147	Baba the Librarian
+16148	Bobo the Librarian
+16149	Mutated Ether Creature Q
+16150	Mutated Ether Creature K
+16151	Mutated Creature B
+//오후 6:33 2010-04-03
+16153	Mutated Specimen
+16154	Mutated Specimen
+16155	Withering Spirit
+16156	Wandering Spirit
+16157	Tormented Spirit
+16158	Spell Activation Device A
+16159	Spell Activation Device B
+16160	Spell Activation Device C
+16161	Spell Activation Device D
+16163	Overseer Krachec
+16164	Overseer Rychec
+16165	Spell Amplifier A
+16166	Spell Amplifier B
+16167	Spell Amplifier C
+16168	The Guardian of the Spell Device
+//오후 6:33 2010-04-03
+20641	Liberation Army Charge Captain Nanark
+20642	Liberation Army Assault Charger Burbank
+20643	Priest Berokio
+20644	Priest Gracchus
+20645	Specimen No. 332
+20646	Specimen No. 333
+20647	Specimen No. 334
+20648	Specimen No. 335
+20649	Specimen No. 7000
+20650	Specimen No. 7672
+20651	Specimen No. 8001
+20652	Specimen No. 8855
+20653	Specimen No. 9008
+20654	Specimen No. 9999
+20655	Scholar Ramark
+20656	Scholar Resco
+20657	Spell Control Device
+20658	Liberation Army Charge Vice Captain Morgan
+20659	Liberation Assault Charger Valmer
+20660	Spell Control Device
+20661	Scholar Clara
+20662	Overseer No. 5
+20663	Priest Bergson
+//오후 12:26 2010-04-06
+20664	The Third Anniversary Event NPC
+//오후 3:01 2010-04-26
+16173	Royal Guard
+16174	Sorcerer of Darkness
+//오후 5:32 2010-04-27	
+16175	Ferocious Monster in the Castle
+16176	Violent Monster in the Castle
+16177	Hungry Monster in the Castle
+16178	Fire Monster in the Castle
+16179	Helron Soldier
+16180	Helron Warrior
+16181	Blood Thirsty Helron Soldier
+16182	Blood Thirsty Helron Warrior
+16183	Helron's Dual Sword Soldier
+16184	Helron's Dual Sword Warrior
+16185	Greedy Helron's Dual Sword Soldier
+16186	Greedy Helron's Dual Sword Warrior
+16187	Helron Spearman
+16188	Helron Knight
+16189	Ruthless Helron Spearman
+16190	Ruthless Helron Lancer
+16191	Helron Armored Knight
+16192	Helron Armored Knight
+16193	Cold Blooded Helron Armored Knight
+16194	Cold Blooded Helron Armored Knight
+16195	Helron Sorcerer
+16196	Arrogant Helron Sorcerer
+16197	Slothful Gardner
+16198	Helron Beast
+16199	Helron Beast Warrior
+16200	Strong Helron Beast
+16201	Strong Helron Beast Warrior
+16202	Helron Assault Soldier
+16203	Helron Assault Vice Captain
+16204	Tough Helron Assault Soldier
+16205	Tough Helron Assault Vice Captain
+16206	Watcher of the Study
+16207	Overseer of the Study
+16208	Cunning Watcher of the Study
+16209	Cunning Overseer of the Study
+16210	Altar Spellcaster
+16211	Corrupt Altar Spellcaster
+16212	Altar Mage
+16213	Corrupt Altar Mage
+//오후 8:40 2010-04-27
+16162	Evil Thief
+16169	Cruel Helron Head Soldier
+16170	Fallen Helron Head Soldier
+16171	Ruthless Helron Head Soldier
+16172	Cold Blooded Helron Head Soldier
+//2010-04-28
+16130	Mechanical Device
+16131	Main Mechanical Device
+16132	Control Device
+16133	Main Power Device
+16214	Reserve Power Device A
+16215	Reserve Power Device B
+16216	Reserve Power Device C
+16217	Reserve Power Device D
+16219	Dark Crystal
+16220	Fallen Raider
+//2010-05-01
+16222	Researcher (Citizen of Aukra)
+16223	Captured Aukra Citizen
+16224	Captured Aukra Representative
+16225	Captured Aukra Priest
+//오후 6:14 2010-05-03
+20665	Liberation Army Assault Charger Dalgas
+20666	Shadow Vice Captain Hume
+//오후 3:01 2010-05-07
+16152	Brukelt
+//오후 3:54 2010-05-07
+52023	Desperate Resurrection Ritual
+//2010-05-20	
+16218	Time Ether
+//오후 6:47 2010-06-07
+20668	Soccer WordCur
+20669	Helron Guard Soldier
+20670	Helron Guard Knight
+20671	Escort Captain Schultz
+20672	Mysterious Dark Giant
+20673	Butcher of Darkness
+20674	Helron Escort Soldier
+20675	Helron Escort Knight
+20676	Escort Captain Juracle
+20677	Dark Security Guard
+20678	Lizard Shield Warrior
+20679	Red Scale Security
+20680	Red Scale Defender
+20681	Black Scale Chasers
+20682	Black-Scale Heavy Armor Soldier
+20683	Beastman Legion Sentry
+20684	Beastman Legion Watchmen
+20685	Death Dragon Sentry
+20686	Ghastly Death Dragon Sentry
+20687	Mutant Assault Charger
+20688	Hungry Mutant Assault Charger
+20689	Fallen Sorcerer of Darkness
+20690	Evil Dark Giant
+20691	Obsidian Assassin
+20692	Counselor Gariz
+20693	Strong Armored Foot Soldier
+20694	Helron Evil Sorcerer
+20695	Cold Blooded Helron Evil Sorcerer
+20696	Devil Sorcerer Herion
+20697	Cursed Dark Giant
+20698	Butcher of Madness
+20699	Vicious Dark Giant
+20700	Butcher of Chaos
+//오전 11:27 2010-06-11
+//오후 5:18 2010-06-16
+16221	Shadow Spy
+20667	Architect of Helron's Castle
+//오후 3:38 2010-06-21
+20701	Decomposed Mutant
+20702	Dotumbuki
+//오후 5:27 2010-07-12
+20703	Liberation Army Deputy Commander Galenos
+20704	Adjutant Bunyan
+20705	Adjutant Magellan
+20706	Magic Barrier Device of the Red Seal
+20707	Magic Barrier Device of the Black Seal
+20708	Magic Barrier Device of the Corrupt Seal
+20709	Magic Barrier Device of the Foul Seal
+20711	Valkyrie Clan Deputy Commander Theresa
+20712	Adjutant Flora
+20713	Proliferous Cell
+20714	Mutated Proliferous Cell
+20715	Small Proliferous Cell
+20716	Helron Explosion Inspector
+20717	Helron Mine Inspector
+20718	Helron Explosion Soldier
+20719	Helron Mine Soldier
+20720	Totem of the Red Seal
+20721	Totem of the Black Seal
+20722	Totem of the Corrupt Seal
+20724	Guardian of the Red Totem
+20725	Guardian of the Black Totem
+20726	Guardian of the Corrupt Totem
+20727	Guardian of the Foul Totem
+20728	Guardian of the Red Seal
+20729	Guardian of the Black Seal
+20730	Guardian of the Corrupt Seal
+20731	Guardian of the Foul Seal
+20732	Guardian of the Seal
+20733	Master of Magic Barrier
+20734	Follower of the Seal
+20735	Mutated Proliferous Cell
+20736	Gigantic Proliferous Cell
+20737	Evolved Helron Soldier
+//오후 4:10 2010-07-19	
+20723	Totem of the Foul Seal
+//오후 4:44 2010-08-02	
+20738	Dirty Big Rat
+20739	Dirty Little Rat
+//오후 4:39 2010-08-09	
+51003	Aukra
+//오후 6:48 2010-08-11	
+20740	Confined Swamp Monster
+20741	Galois
+//오후 5:08 2010-08-16	
+18200	Bloody Slime
+18201	Crimson Slime
+18202	Ferocious Rat
+18203	Violent Spider
+18204	Crystal Monster
+18205	Erzsebeto
+18206	Scarlet Dragon
+18207	Noble Dragon
+18208	Infernotous
+18209	Tanatokus
+18210	Betrayer of the Temple
+18211	Fallen Angel
+//오후 5:09 2010-09-02	
+16228	Crazy Sentry
+16229	Helron Guard
+16230	Head Knight Nargal
+16231	Behemoth
+16232	Obsidian Chaser
+16233	Vindictive Spirit of Kalbus
+16234	Vindictive Spirit of Brukelt
+16235	Vindictive Spirit of Rumanka
+16236	Vindictive Spirit of Klausen
+16237	Schwartz Pramme
+16238	Klausen
+//오후 5:21 2010-09-02	
+16226	Defective Etherain Spearmen
+16227	Reinforced Beast Scout
+//오후 4:33 2010-09-07	
+20710	Magic Barrier Controller
+//오전 1:09 2010-09-28	
+16239	Central Power Device
+//오후 11:14 2010-10-07	
+20742	Evolved Proliferous Cell
+20743	Mutant of Proliferous Cells
+20744	Soul Watcher
+20745	Soul Watcher
+20746	Soul Watcher
+20747	Soul Watcher
+20748	Adjutant Diogenes
+20749	Liberation Army Deputy Commander Erhard
+20750	Liberation Army Commander Adenauer
+20751	Liberation Army Deputy Commander Brandt
+20752	Adjutant Schmitt
+20753	Scout Enrique
+20754	Scout Roberto
+20755	Wiseman Lara
+20756	Sorcerer Bakoyanis
+20757	Ignis' Elite Guard Caliope
+20758	Ignis' Elite Guard Cleio
+20759	Ignis' Elite Guard Euterpe
+//오후 6:34 2010-10-12	
+20760	Stumpy
+20761	Crabby
+20762	Griffin
+20763	Pigboy
+20764	Pelican
+20765	Bone Head
+20766	Piglet
+20767	King Crab
+20768	Colossus
+20769	Sailor
+20770	Swadi
+20771	Ice Dog
+20772	Pot Fox
+20773	Scarecrow
+20774	Old Stumpy
+20775	Frost Queen
+20776	Siren Look
+20777	Sloth
+20778	Siren Bishop
+20779	Siren Pawn
+//오후 4:07 2010-10-14	
+16240	Mysterious Valkyrie
+16241	Mysterious Elemental
+16242	Mysterious Shadow
+16243	Mysterious Berserker
+16244	Mysterious Dragon Knight
+16245	Ibett of Illusion
+16246	Destroyer Beathe
+16247	Madame Audrey
+//오후 6:23 2010-10-14	
+55025	Ruined Etherain
+//오전 10:57 2010-10-21	
+20780	Flying Vessel Pilot 1
+20781	Flying Vessel Pilot 2
+//오후 6:29 2010-10-21	
+51004	Flying Vessel
+51005	Flying Vessel
+//오후 4:59 2010-10-26	
+16248	Kortoq Coast Centipede
+16249	Orange Tail Centipede
+16250	Kortoq Coast Crayfish
+16251	Big Pincer Crayfish
+16252	Seras
+16253	Mutant Hook Worm
+16254	Iron Hook Worm
+16255	Bitesaurus
+16256	Violent Bitesaurus
+16257	Katus
+16258	Kortoq Coast Hermit Crab
+16259	Thorny Shell Hermit Crab
+16260	Kortoq Coast Turtle Monster
+16261	Iron Jaw Turtle Monster
+16262	Golden Lizard Tribe Warrior
+16263	Golden Lizard Tribe Scout
+16264	Katan
+16265	Jade Beetle Tribe Warrior
+16266	Jade Beetle Tribe Guard
+16267	Dida
+16268	Golden Lizard Tribe Chaser
+16269	Guillotine the Sealing Stone Watchman
+16270	Pointy Shell Turtle Monster
+16271	Magical Sealing Stone
+16272	Man-eating Hook Worm
+16273	Ent the Earth Guardian
+16274	Blue Beak Tribesman
+16275	Lantern Swallow Tribesman
+16276	Golden Lizard Tribe Wall
+16277	Kortoq Village Front Gate
+//오후 4:59 2010-10-26	
+20782	Timu (General Goods)
+20783	Estel (Elementalist Store)
+20784	Kurt (Berserker Store)
+20785	Darkus (Dragon Knight Store)
+20786	Maenas (Valkyrie Store)
+20787	Hartz (Shadow Store)
+20788	Ezio (Guild Manager)
+20789	Roche (Mission Ranking Manager)
+20790	Hank (Enhancement)
+20791	Vincent (Crafting)
+20792	Uger (Storage)
+20794	Chieftain Siede
+20795	Blacksmith Vamud
+20796	Healer Binayo
+20797	Bard Chaya
+20798	Hunter Pedetu
+//오후 6:47 2010-10-26	
+16278	Patu the Sealing Stone Watchman
+//오후 4:30 2010-10-30	
+16279	Guardian of the Seal
+//오후 6:23 2010-11-03	
+16282	Examiner Urania
+16283	Examiner Erato
+16284	Examiner Urania
+16285	Etherain Escort Grivas
+16286	Etherain Escort Alcibiades
+//오후 8:32 2010-11-03	
+16287	Guard
+16288	Guard Captain
+//오후 3:22 2010-11-10
+16289	Deputy Captain Ganbanthein
+16290	Flying Vessel Guard
+16291	Flying Vessel Crew
+16292	Chief Engineer Hugin
+16293	Engineer Gerry
+16294	Deputy Captain Balmung
+16295	Chief Engineer Munin
+16296	Engineer Preky
+16280	Captain Grunhilt
+16281	Captain Gerhilde
+//오후 3:11 2010-11-12	
+16297	Golden Lizard Tribe Watcher
+16298	Jade Beetle Guard
+16299	Watchman Captain Brooke
+16300	Guard Captain Gilgano
+//오전 10:39 2010-11-16	
+52024	First Stronghold Secured
+50007	Green Earth
+50008	Shelter for Spirits
+50009	Boreas Mountains
+50010	Valley of Life
+51006	Kortoq
+51007	Old Esmara
+51009	Esmara Village
+50573	Kortoq Coastline
+50574	Galenoa Jungle
+50575	Noble Scarlet Cave
+51569	Green Earth#Kortoq Coastline
+51570	Green Earth#Galenoa Jungle
+51571	Green Earth#Noble Scarlet Cave
+//오후 3:35 2010-11-30	
+20799	Santa Toffee Seller
+//오전 10:47 2010-12-06	
+51574	Shelter for Spirits#Land of Eternal Castle
+51575	Shelter for Spirits#Astorea Canyon
+51576	Shelter for Spirits#Resting place of the Ancients
+51579	Boreas Mountains#Old Esmara
+51580	Boreas Mountains#Hills of Sky Path
+51581	Boreas Mountains#Ether Mist Ridge
+51582	Boreas Mountains#Gate of Heaven
+51585	Valley of Life#Road for Ascetic
+51586	Valley of Life#Desert of Fantasy
+51587	Valley of Life#Navel of the World Oasis
+51588	Valley of Life#Noscalia Camping Ground
+51589	Valley of Life#Lost Stigma
+50577	Land of Eternal Castle
+50578	Astorea Canyon
+50579	Resting Place of the Ancients
+50583	Old Esmara
+50584	Hills of Sky Path
+50585	Ether Mist Ridge
+50586	Gate of Heaven
+50589	Way for Ascetics
+50590	Desert of Fantasy
+50591	Navel of the World Oasis
+50592	Noscalia Camping Ground
+50593	Lost Stigma
+//오후 6:35 2010-12-06	
+20800	Mini Kalbus
+//오후 2:29 2010-12-10	
+16301	Violent Kortoq Coast Centipede
+16302	Hungry Orange Tail Centipede
+16303	Violent Kortoq Coast Crayfish
+16304	Hungry Big Pincer Crayfish
+16305	Hungry Bitesaurus
+16306	Iron Horn Bitesaurus
+16307	Hungry Kortoq Coast Crayfish
+16308	Pointy Shell Hermit Crab
+16309	Golden Lizard Tribe Watchman
+16310	Golden Lizard Tribe Guard
+16311	Golden Lizard Tribe Sentry
+16312	Jade Beetle Tribe Watchman
+16313	Jade Beetle Tribe Guard
+16314	Jade Beetle Tribe Sentry
+//오전 11:10 2010-12-20	
+20801	Mad Ruler
+//오전 9:14 2011-01-03	
+16317	Kortoq Expedition Captain Humbolt
+16318	Kortoq Expedition Security
+16319	Kortoq Expedition Vice Captain Droysen
+16320	Kortoq Expedition Warrior
+16321	Expedition Member Bodies
+16322	Trina
+16323	Valkyrie Clan Ludvina
+16324	Mercenary Yansen
+16325	Blue Beak Tribe Chieftain
+16326	Blue Beak Tribe Warrior
+16327	Lantern Swallow Tribe Chieftain
+16328	Scholar Alkapen
+16329	Castaway Paulo
+16330	Kortoq Expedition Messenger
+16331	Mage Iona
+16332	Mage Plavin
+16333	Drake Knight Reben
+16334	Golden Lizard Tribe Assassin
+16335	Large Hooked Insect
+16336	Small Hooked Insect
+16337	Kortoq King Centipede
+16338	Jade Beetle Assassin
+16339	Trained Bitesaurus
+//오후 2:32 2011-01-04	
+16345	Vicious Bitesaurus
+16346	Brutal Bitesaurus
+16347	Mad Rhinosaurus
+16348	Giant-strength Rhinosaurus
+16349	Speedy Hook Raptor
+16350	Cruel Hook Raptor
+16351	Rex
+16352	Strong Muscul
+16353	Honest Muscul
+16354	Clever Muscul
+16355	Muscular Muscul
+16356	Perna
+16357	Bloody Fang Scout
+16359	Bloody Fang Security
+16361	Liddell
+16366	Beepy
+16367	Bloody Fang Elite Escort
+16368	Great Chieftain Campeon
+//오전 11:01 2011-01-06	
+16369	Vindictive Spirit of Fire
+16370	Vindictive Spirit of Water
+16371	Vindictive Spirit of Wind
+16372	Vindictive Spirit of Earth
+16373	King of Darkness
+//오후 4:42 2011-01-12	
+20802	Spini
+//오후 3:57 2011-01-17	
+20803	Edumen (Storage)
+20804	Mortiel (General Store)
+//오전 10:45 2011-01-18	
+52030	Capital Capture
+52031	Crashed Pride
+52032	Sealed Rage
+52033	Crack of Dimension
+52034	RoadforAscetic_MissionName
+52035	DesertofFantasy_MissionName
+52036	NaveloftheWorld_MissionName
+52037	NoscaliaCampingGround_MissionName
+52038	LostStigma_MissionName
+//오전 10:53 2011-01-18
+52025	Power Battle
+//오후 3:22 2011-01-29
+16374	Nepenes
+16375	Young Hook Hunter
+16376	Violent Hook Hunter
+16377	Pointy Thorn Hunter
+16378	Char
+16379	One-eyed Barnacle
+16380	One-eyed Stone Golem
+16381	One-eyed Wood Golem
+16382	One-eyed Gora
+16383	Corrupted Temple Guardian
+16384	Galenoa Battle Rhinoceros
+16385	Wild Popotu
+16386	Bloody Fang Warrior
+16387	Bloody Fang Pursuer
+16388	Dark Assassin
+16389	Pale Deinos
+16390	Ashen Gorilla Chieftain Auka
+16391	Ashen Gorilla Warrior
+16392	Guard Umbaumba
+16393	Wounded Ashen Gorilla Tribesman
+16394	Spotted Owl Warrior
+16395	Kid Chisa
+16396	Kid Por
+16397	Kid Ein
+16398	Kid Pin
+16399	Kid Altos
+16400	Kid Enroys
+16401	Kid Mona
+16402	Kid Mello
+16403	Kid Ishuni
+//오후 3:56 2011-02-07	
+19055	Person weak to Earth
+19056	Person weak to Water
+//오후 6:05 2011-02-10	
+19057	Tree of Privilege
+//오후 1:37 2011-02-19	
+20805	Ardor Recruiter J. J. Island
+20806	Tame Kortoq Coast Crayfish
+//오후 5:54 2011-02-21	
+16315	Flying Vessel Transport Device Manager
+16316	Flying Vessel Transport Device Manager Kripica
+//오후 9:43 2011-02-21	
+20807	Drifting Kortoq Coast Crayfish
+//오후 9:57 2011-02-21	
+16404	Stone Statue of the Sun
+//오전 11:49 2011-02-22	
+16405	Kid Misti
+//오전 11:51 2011-02-22	
+16340	Browning Nepenes
+16341	Arboreal Nepenes
+16342	Bloody Nepenes
+//오후 12:21 2011-02-28	
+15833	Beast Forest Defender
+15834	Beast Supply Defender
+15835	Beast Hill Defender
+15836	Beast Old Tree Defender
+15837	Beast Stream Defender
+15838	Beast Woodlands Defender
+15839	Beast Valley Defender
+15840	Beast Castle Defender
+15841	Beast Sand Defender
+15842	Beast Tree Defender
+15843	Beast Lake Defender
+15844	Beast Cliff Defender
+15845	Beast Thunder Defender
+15846	Beast Shadow Defender
+15847	Beast Cave Defender
+15848	Beast Gray Defender
+15849	Beast Thorn Defender
+15850	Beast Rock Captain
+15851	Beast Forest Captain
+15852	Beast Gray Captain
+15853	Beast Hill Captain
+15854	Beast Old Tree Captain
+15855	Beast Tree Captain
+15856	Beast Lake Captain
+15857	Beast Shadow Captain
+15858	Beast Cave Captain
+15859	Beast Thunder Captain
+15860	Beast Valley Captain
+15861	Beast Shadow Captain
+15862	Beast Thorn Captain
+15863	Sewer Wandering Defender
+15864	Sewer Immortal Defender
+15865	Sewer Straggled Defender
+15866	Sewer Prisoner Defender
+15867	Sewer Ghoul Defender
+15868	Sewer Archer Defender
+15869	Sewer Torture Room Defender
+15870	Sewer Cursed Defender
+15871	Sewer Rebel Defender
+15872	Sewer Corrupt Defender
+15873	Sewer Siegel Defender
+15874	Sewer Defender of Restraint
+15875	Sewer Undead Defender
+15876	Sewer Soul Defender
+15877	Sewer Prison Defender
+15878	Sewer Dark Defender
+15879	Sewer Silent Defender
+15880	Sewer Ghoul Defender
+15881	Sewer Immortal Captain
+15882	Sewer Ghoul Captain
+15883	Sewer Straggled Captain
+15884	Sewer Cursed Captain
+15885	Sewer Corrupt Captain
+15886	Sewer Siegel Captain
+15887	Sewer Dark Captain
+15888	Sewer Undead Captain
+15889	Sewer Torture Room Captain
+15890	Sewer Examiner Captain
+15891	Sewer Warden Captain
+15892	Sewer Cruel Captain
+15893	Snowy Plains Castle Defender
+15894	Snowy Plains Lake Defender
+15895	Snowy Plains Guard Post Defender
+15896	Snowy Plains Wolf Defender
+15897	Snowy Plains Hut Defender
+15898	Snowy Plains Imperial Defender
+15899	Snowy Plains Castle Gate Defender
+15900	Snowy Plains Rock Defender
+15901	Snowy Plains Snowflower Tree Defender
+15902	Snowy Plains Waterfall Defender
+15903	Snowy Plains Tunnel Defender
+15904	Snowy Plains Crystal Defender
+15905	Snowy Plains Ruins Defender
+15906	Snowy Plains Castle Captain
+15907	Snowy Plains Guard Post Captain
+15908	Snowy Plains Imperial Captain
+15909	Snowy Plains Castle Gate Captain
+15910	Snowy Plains Waterfall Captain
+15911	Snowy Plains Guard Captain
+15912	Snowy Plains Crystal Captain
+15913	Snowy Plains Ruins Captain
+15914	Dragonkin Valley Defender
+15915	Dragonkin Beast Defender
+15916	Dragonkin Holy Ground Defender
+15917	Dragonkin Lava Defender
+15918	Dragonkin Flame Defender
+15919	Dragonkin Sealed Defender
+15920	Dragonkin Slave Defender
+15921	Dragonkin Volcano Defender
+15922	Dragonkin Knight Defender
+15923	Dragonkin Violent Defender
+15924	Dragonkin Drake Knight Defender
+15925	Dragonkin Red Flame Defender
+15926	Dragonkin Drake Defender
+15927	Dragonkin Imperial Defender
+15928	Dragonkin Cerberus Defender
+15929	Dragonkin Protection Defender
+15930	Dragonkin Archer Defender
+15931	Dragonkin Warrior Defender
+15932	Dragonkin Magic Defender
+15933	Dragonkin Valley Captain
+15934	Dragonkin Sealed Captain
+15935	Dragonkin Dragon Captain
+15936	Dragonkin Flame Captain
+15937	Dragonkin Red Flame Captain
+15938	Dragonkin Holy Ground Captain
+15939	Dragonkin Drake Captain
+15940	Dragonkin Protection Captain
+15941	Dragonkin Imperial Captain
+15942	Dragonkin Knight Captain
+15943	Dragonkin Volcano Captain
+15944	Dark Fanatic Defender
+15945	Dark Priest Defender
+15946	Dark Gladiator Defender
+15947	Dark Guard Dog Defender
+15948	Dark Gatekeeper Defender
+15949	Dark Knight Defender
+15950	Dark Magic Defender
+15951	Dark Gravekeeper Defender
+15952	Dark Storage Keeper Defender
+15953	Dark Slime Defender
+15954	Dark Corpse Spider Defender
+15955	Dark Dead Spirit Defender
+15956	Dark Corrupt Defender
+15957	Dark Hall Defender
+15958	Dark Altar Defender
+15959	Dark Stone Statue Captain
+15960	Dark Altar Captain
+15961	Dark Returned Captain
+15962	Dark Decayed Captain
+15963	Dark Corrupt Captain
+15964	Dark Hungry Captain
+15965	Dark Flame Magic Captain
+15966	Dark Summon Captain
+15967	Dark Sealed Captain
+15968	Dark Dead Spirit Captain
+15969	Dark Evil Spirit Captain
+15970	Dark Stone Chamber Captain
+15971	Dark Cursed Captain
+15972	Dark Priest Captain
+15973	Dark Hell Captain
+//오후 6:16 2011-03-08
+16411	Volcano Seal Stone
+//오전 11:34 2011-03-09
+20808	Strange Traveler
+20809	Temple Gladiator
+17163	Appearance of Aeshma-deva
+17164	Appearance of Beelzebub
+17165	Appearance of Lucifer
+17166	Appearance of Astaroth
+17167	Appearance of Arz
+//오후 2:55 2011-03-09
+16414	Berdio
+16415	Negro
+//오후 3:56 2011-03-14	
+16416	[Best Zard Trader] Hora
+16417	[High Grade Zard Trader] Signier
+16418	[Medium Grade Zard Trader] Repto
+16419	[Low Grade Zard Trader] Asto
+16420	[Best Zard Trader] Kura
+16421	[High Grade Zard Trader] Mignier
+16422	[Medium Grade Zard Trader] Ryde
+16423	[Low Grade Zard Trader] Masto
+16424	[Online Point Merchant] Cronous
+16425	[Online Point Merchant] Temps
+//오전 11:33 2011-03-17
+20810	[Fallen Purity Armor Trader] eva
+//오후 12:20 2011-03-26	
+20811	[Incomplete Fallen Purity Armor Trader] Abed
+//오후 5:56 2011-04-01	
+20817	[Liberation Army Quartermaster] Cargo Thomas
+20818	[Ardor Expedition Quartermaster] Miller Thomas
+//오후 6:49 2011-04-13	
+20853	Watchman Moose
+20854	Watchman Luse
+20855	Watchman Raptor
+20856	Dipenbakia
+//오후 2:55 2011-04-21
+50128	Cursed Tower (Enter now)
+50129	Cursed Tower
+50130	Event
+50131	PvP
+50132	Monster Coliseum Lv. 1
+50133	Monster Coliseum Lv. 2
+50134	Monster Coliseum Lv. 3
+50135	Monster Coliseum Lv. 4
+//오후 7:25 2011-04-29	
+20819	Forest of Beasts Recording Officer Melpomene
+20820	Forest of Beasts Recording Officer Byblis
+20821	Sewer Recording Officer Harmonia 
+20822	Sewer Recording Officer Semele 
+20823	Frozen Palace Recording Officer Eirede
+20824	Frozen Palace Recording Officer Ortia 
+20825	Valley of the Dragonkin Recording Officer Iulus
+20826	Valley of the Dragonkin Recording Officer Cabeiri
+20827	Aiort Recording Officer Galatea
+20828	Aiort Recording Officer Doris
+20829	Aiort Recording Officer Maia
+20830	Helron's Castle Recording Officer Asteria
+20831	Helron's Castle Recording Officer Bellona
+20832	Helron's Castle Recording Officer Hilara
+20833	Captain Arrhenius
+20834	Adjutant Pregl
+20835	Expedition Member Van't Hof
+20836	Scholar Mary
+20837	 Lambrakis
+20838	Scout Richard
+20839	Scout Walter
+20840	Scout Otto
+20841	Scout Fisher
+20842	Captain Bergius
+20843	Bloody Fang Fever
+20844	Scout Kuznets
+20845	Theodorakis
+20846	Doctor Meyerhof
+20847	Korotok's Kaunos
+20848	Assault Soldier Frisch
+20849	Assault Soldier Suttner
+20850	Assault Soldier Nata
+20851	Recording Officer Lamia
+20852	Recording Officer Scylla
+//오후 4:48 2011-05-04	
+16426	Mysterious Man D.
+16427	Enigmatic Woman L.
+//오후 7:24 2011-05-18	
+16343	Pebble House Suak
+16344	Rock House Suak
+16358	Bloody Fang Manhunter
+16360	Bloody Fang Escort
+//오후 12:15 2011-05-19	
+20858	[Liberation Army Senior Quartermaster] Bai Ameira
+//오전 11:46 2011-05-24
+16362	Golden Lizard Tribe Guardian
+16363	Golden Lizard Tribe Hunter
+16364	Golden Lizard Tribe Guard
+16365	Golden Lizard Tribe Ranger
+//오후 3:30 2011-05-24	
+20857	Golden Lizard Messenger
+//오전 11:44 2011-06-08	
+16428	[Wing Trader] Leona Light
+16429	[Wing Trader] Da Vinci Light
+//오후 11:28 2011-06-08	
+10110	Fierce warriors who have transcended human boundaries through training of unimaginable magnitude. They handle giant swords and two-handed axes effortlessly to pulverize the enemy with overpowering strength. The sheer power exploding from their fury borders on barbarism and is enough to shame even the proud Dragon Knights. Their ability to shine at critical moments makes them an invaluable resource in the fight against the Empire.
+10111	"The sight of these warriors elegantly traversing battlefields while armed with a pair of swords and two-handed spears can be described as almost picturesque. The blood of the Dragonkin coursing through their veins will only help perfect them as powerful Dragon Knights through one victory after another. However, even after the formation of the Alliance, their pride has been the root of much discord with other races."
+10112	"Half-human, half-demon... Dark assassins who possess the accursed blood of the Helrons. Ironically, their honed daggers and swift whipswords were intended to be used against the Alliance. However, they sided with the humans and turned these blades against the Empire. The Shadows have thus turned against their own kind to uphold that will. Coldness... faceless darkness... the Shadows... Without shape or sound, they approach. They leave with a fatal wound at the nape of evil."
+10113	"Warriors who worship nature and communicate with spirits. Because they have grown in harmony with nature, they are a gentle and tender people. Yet, in the face of evil, they are able to silence the enemy with an arrow sharper than a hawk's talons and faster than the light itself. Faster. Stronger. So they fight on, with the spirits on their side, to protect the providence of nature and their peaceful way of life."
+10114	"Sorcerers of Circle armed with the elements: Water, Fire, Wind and Earth. Originally, they were a group of mages who studied the four elements and the secrets of Ether. However, as the threat of the Geist Empire loomed over the Brakion Continent, they picked up orbs and staffs in place of magic tomes. To protect the innocents from injustice. Their noble cause and determination to give their all in resisting the Geist Empire's thrall will not be in vain."
+//오전 11:55 2011-06-17	
+16430	[F.A.K.E.] Real Sharmani
+//오후 5:07 2011-12-02	
+16431	Scarlet Bat
+16432	Scarlet Vampire Bat
+16433	Painful Capipu
+16434	Mad Capipu
+16435	Earth Echidna
+16436	Virulent Echidna
+16437	Hydra
+16438	Pillar Uak
+16439	Stala Uak
+16440	Hungry Scarlet Centipede
+16441	Brutal Scarlet Centipede
+16442	Venomous Fang Hooked Insect
+16443	Soldier Hooked Insect
+16444	Red Queen Bee Worker
+16445	Red Queen Bee Hunter
+16446	Red Queen Bee Overseer
+16447	Red Queen Bee Guard
+16448	Princess Bien
+16449	Thorn Climer
+16450	Big Thorn Climer
+16451	Jade Beetle Toco
+16452	Altered Bat
+16453	Violent Vampire Bat
+16454	Altered Uak
+16455	Violent Uak
+16456	Altered Hooked Insect
+16457	Violent Hooked Insect
+16458	Red Queen Bee Worker
+16459	Red Queen Bee Hunter
+16460	Red Queen Bee Overseer
+16461	Red Queen Bee Guard
+16462	Jade Beetle Scout
+16463	Jade Beetle Watchman
+16464	Red Queen Bee Defender
+16465	Jade Beetle Defender
+16466	Red Queen Bee Guardian
+16467	Jade Beetle Guardian
+16468	Princess Beepy
+16469	Commander Zebut
+16470	Uno
+16471	Dos
+16472	Tres
+//오후 3:30 2011-07-01	
+16473	Queen Beenabee
+16474	Red Queen Bee Escort
+//오후 4:18 2011-07-05	
+16475	Red Queen Bee Search Squad
+16476	Red Queen Bee Chaser
+//오후 3:02 2011-07-11	
+50136	Battle of Mondschein
+//오후 6:34 2011-07-14	
+16477	Stalagmite
+//오전 11:38 2011-07-19	
+16478	Jade Beetle Guard
+16479	Jade Beetle Guardian Captain
+16480	Red Queen Bee Guardian Infantryman
+16481	Red Queen Bee Guardian Infantry Captain
+16482	Red Queen Bee Guardian Archer
+16483	Red Queen Bee Guardian Archer Captain
+52026	Green Earth
+//오후 3:44 2011-08-01	
+16484	Honored Merchant Shylock
+16485	Honored Merchant Rubens
+//오후 7:19 2011-08-12	
+16486	Mysterious Man W.
+//오후 4:30 2011-08-18	
+20013	Lauren
+20014	Sena
+20040	Christine
+20042	Jessica
+20056	Berta
+20065	Ingrit
+20090	Belita
+20091	Adeline
+20233	Miran
+//오후 4:43 2011-08-19	
+16487	Expeditionary Operations Officer Morris
+16488	Research Leader Albarez
+16489	Miner Appleton
+16490	Research Member Gascoigne
+16491	Research Member Barkla
+16492	Miner Bunch
+16494	Worker Aiger
+16495	Worker Schusker
+16496	Worker Bashevis
+16497	Scholar Shutark
+16498	Scholar Bednorz
+16499	Scholar Veltman
+16500	Expeditionary Operations Officer Stern
+16501	Expeditionary Soldier Wigner
+16502	Expeditionary Soldier Kastle
+16503	Expeditionary Soldier Smoot
+16504	Virulent Scarlet Centipede
+16505	Small Virulent Centipede
+16506	Parasitic Plant
+16507	Ferocious Thorn Climer
+16508	Red Queen Bee's Plague Manager
+//오후 4:04 2011-09-15
+20812	Corrupted Temple Combatant Bwivez
+20813	Corrupted Temple Combatant Lehikeul
+20814	Corrupted Temple Combatant Dorayts
+20815	Corrupted Temple Combatant Giaray
+20816	Corrupted Temple Combatant Aemssia
+//오후 2:58 2011-09-16	
+20900	Waldchen Council's Chairman Waywood
+20901	Recruit Training Commander Leadrill
+20902	Waldchen Trainee
+20903	Distracted Trainee
+20904	Sleepy Trainee
+20905	Hungry Trainee
+20906	Trainee's Distractions
+20907	Trainee's Sleepy Spell
+20908	Trainee's Hunger
+20909	Aiort Reconstruction Chairman Proud
+20910	Aiort Guard Member
+20911	Guard Captain Von Frintz
+20913	Fallen Adventurer
+20914	Cooking Expert Garden Chung
+20915	Cooking Master Harsen Jung
+20916	Research Member Ozy
+20917	Research Member Oz
+20918	Ardor Expedition Delegate
+20919	Mysterious Delegate
+20923	Captive Expeditionary Force
+20924	"Captive ""Madness B."""
+20925	Captive Helron
+20926	Aukra Vigilante
+20927	Specimen No. 4885
+20928	Specimen No. 9
+//오전 11:42 2011-09-29	
+20912	[Gate of Heaven] Vincent
+20920	[Faceless Watcher] Watcher's Mouth
+20921	[Faceless Watcher] Watcher's Sword
+20922	[Aukra Priesthood] Sertrup
+//오후 3:19 2011-10-05	
+20939	[Halloween Pumpkin Trader] Elin
+20940	[Halloween Pumpkin Trader] Irellia
+//오전 11:58 2011-10-18	
+20859	Rudolph the Christmas Hater
+//오후 4:10 2011-10-19	
+51008	Snowy Waldchen
+//오후 8:16 2011-10-26	
+20946	Steel Death Dragon
+20947	Bronze Dragon's Puppet
+//오전 10:42 2011-11-01	
+20879	Life Spirit
+20880	War-Battler
+20881	Destroyer
+//오후 4:09 2011-11-03	
+16509	Giant Wasp
+16510	Fierce Giant Wasp
+16511	Eternal Centipede
+16512	Brutal Eternal Centipede
+16513	Eternal Muscul
+16514	Agile Eternal Muscul
+16515	Eternal Raptor
+16516	Hungry Eternal Raptor
+16517	Virulent Wasp
+16518	Agile Virulent Wasp
+16519	Eternal Echidna
+16520	Vicious Eternal Echidna
+16521	Skira
+16522	Forest Watchman
+16523	Forest Guardian
+16524	Amumu
+16525	Red Beak Scout
+16526	Red Beak Hunter
+16527	Red Beak Elite Scout
+16528	Red Beak Elite Hunter
+16529	Red Beak Kuzan
+16530	Eternal Mane Baldir
+16531	Eternal Mane Hodir
+16532	Eternal Mane Frey
+16533	Eternal Mane Chieftain Torr
+16534	Iron Shell Centipede
+16535	Hungry Iron Shell Centipede
+16536	Mutant Wasp
+16537	Fierce Mutant Wasp
+16538	Eternal Hook Raptor
+16539	Hungry Eternal Hook Raptor
+16540	Altar Echidna
+16541	Sanctuary Echidna
+16542	Tamed Forest Guardian
+16543	Tamed Hook Raptor
+16544	Red Beak Manhunter
+16545	Red Beak Archer
+16546	Red Beak Manhunter Captain
+16547	Red Beak Sentry
+16548	Red Beak Hunter
+16549	Red Beak Sentry Captain
+16550	Red Beak Guard
+16551	Red Beak Assassin
+16552	Red Beak Guard Captain
+16553	Red Beak Chaser
+16554	Red Beak Shooter
+16555	Red Beak Watchman
+16556	Red Beak Assaulter
+16557	Red Beak Plunderer
+16558	Red Beak Overseer
+16559	Karnatus Berserker Legionnaire
+16560	Ether Shield of Eternal Mane
+16561	Red Beak Raid Infantryman
+16562	Red Beak Raid Archer
+16563	Lightning Totem
+16564	Schattenspiel
+//오후 7:48 2011-11-04	
+16565	Urudi
+//오후 9:48 2011-11-07	
+20967	Homunculus Gluttony
+//오후 3:07 2011-11-10	
+16566	Eternal Mane Nord
+//오전 11:22 2011-12-06	
+16567	Enigmatic Woman S.
+16568	[Black Wings] Lucy Light
+//오후 5:19 2011-11-21	
+20968	Drunkard Santa
+//오후 4:15 2011-11-24	
+20969	Patrolman Aiman
+20970	Patrolman Seidt
+20971	Apprentice Alchemist Wulff
+20972	Etherain Guard Joschka
+20973	Sewer Watchman Johachim
+20974	The Captured Beast Sentry
+//오후 6:14 2011-11-30
+55016	Corrupted Temple
+55017	Corrupted Temple
+55018	Corrupted Temple
+55019	Corrupted Temple
+55020	Corrupted Temple
+55021	Corrupted Temple
+//오후 12:03 2011-12-05
+16548	Red Beak Guard
+//오전 10:36 2011-12-16
+52027	Tree of Knowledge
+50080	Nightmare Trials
+20860	 Scholars of Dreamland Mods
+20861	Scholars of Dreamland Laneige
+//오전 12:18 2012-01-05
+52039	[Nightmare] Forest of Beasts
+52040	[Nightmare] Etherain Sewer
+52041	[Nightmare] Frozen Palace
+52042	[Nightmare] Valley of the Dragonkin
+52043	[Nightmare] Aiort Graveyard
+52044	[Nightmare] Helron's Castle
+52045	[Nightmare] Green Earth
+52046	[Nightmare] Shelter for Spirits
+52047	[Nightmare] Boreas Mountains
+52048	[Nightmare] Valley of Life
+//오후 6:26 2012-01-10	
+20975	Ramakrishu the Pilgrim
+20976	Sadat the Pilgrim
+20977	Amartia the Pilgrim
+20978	Ounset the Pilgrim
+20979	"Agrawal, Guardian of the Forest"
+20980	"Krishna, Sentry of the Forest"
+20981	"Aishiwara, Sentry of the Forest"
+20982	"Shastry, Guardian of the Godtree"
+20983	"Millstein, Expeditionary Operations Officer"
+20984	Violent Tree Spirit
+20985	Violent River Spirit
+20986	Violent Wind Spirit
+20987	Violent Rock Spirit
+//오후 12:29 2012-01-19	
+20979	"Agrawal, Guardian of Earth"
+20980	"Krishna, Sentry of Earth"
+20981	"Aishiwara, Sentry of Earth"
+//오후 5:55 2012-01-26	
+20988	Tree Guardian
+20989	Tree Guardian
+20990	"Rapaklua, Merchant of Knowledge"
+//오후 2:26 2012-01-27	
+16569	Fire Totem
+//오후 4:48 2012-02-03	
+20862	Lottery Ticket Trader
+20863	Treasure Hunter Agent
+//오전 10:30 2012-02-06	
+55026	Monster Coliseum Lv. 1
+55027	Monster Coliseum Lv. 2
+55028	Monster Coliseum Lv. 3
+55029	Monster Coliseum Lv. 4
+//오후 3:55 2012-02-23
+55030	Monster Coliseum Lv. 5
+//오후 5:59 2012-03-07
+20103	Walchen
+20104	Ranthartz
+20105	Rante
+20106	Irhanna
+20107	Rosenfelt
+//오후 3:33 2012-03-26
+20782	Timu
+20783	Estel
+20784	Kurt
+20785	Darcas
+20786	Maenas
+20787	Hartz
+20788	Ejio
+20789	Roche
+20790	Hank
+20791	Vincent
+20792	Yuger
+20793	Shart
+50782	General Store Merchant
+50783	Elementalist Merchant
+50784	Berserker Merchant
+50785	Dragon Knight Merchant
+50786	Valkyrie Merchant
+50787	Shadow Merchant
+50788	Guild Manager
+50789	Ranking Manager
+50790	Enhancement Merchant
+50791	Crafting Merchant
+50792	Storage Keeper
+50793	Rilke Merchant
+20001	Yubet
+20002	Emelda
+20003	Bjorn
+20004	Nomer
+20005	Pavka
+20006	Waterain
+20007	Dwayne
+20008	Grimaldi
+20013	Lauren
+20014	Sena
+20015	Laman
+20016	Drayan
+20017	Mino
+20018	Clay
+20019	Clay
+20026	Nihil
+20027	Otter
+20028	Claude
+20029	Nahoom
+20030	Obis
+20031	Sephere
+20032	Lavina
+20033	Anna
+20034	Asha
+20035	Bestia
+20036	Aries
+20037	Seren
+20038	Dick
+20039	Gelb
+20040	Christine
+20045	Manfred
+20046	Bilte
+20057	Enas
+20058	Matti
+20059	Luz
+20060	Avis
+20061	Mystel
+20062	Udo
+20063	Shumacher
+20064	Helga
+20066	Siebold
+20067	Kornix
+20068	Serr
+20069	Peniche
+20070	Reese
+20079	Aris
+20080	Ares
+20092	Wilot
+20093	Guirandor
+20094	Isloge
+20095	Kerden
+20096	Hanen
+20097	Arbenheno
+20098	Lardohen
+20099	Helbarm
+20102	Alon Khater
+50100	Librarian
+//오전 10:10 2012-03-27
+20232	Grit
+//오후 6:54 2012-03-27	
+20290	Goddard
+20291	Doherty
+20292	Dibdin
+20293	Arnold
+20294	Francis
+20295	Bernard
+20296	Gabriel
+20297	Theodor
+20302	Christopher
+20199	Coleman
+20200	Teovaldo
+20230	Ralph
+20231	Schtor
+20234	Zayanti
+20235	Madav
+20236	Nikil
+20237	Nisa
+20238	Ganesa
+20239	Yamil
+20240	Kalidas
+20241	Abha
+20242	Lilinan
+20243	Izzi
+20244	Oboe
+20245	Rudy
+20246	Larhart
+20247	Alf
+20248	Dienne
+20249	Karnankumari
+20250	Wilwayne
+20251	Croliversa
+20254	Anse
+20255	Hobin
+20256	Dorr
+20571	Agent Firenz
+20572	Michael
+20573	Brandon
+50794	Vigilante Leader
+50795	Magic Lab
+50796	Senator
+50797	Mercenary Guild
+50799	Head Priest
+16324	Yansen
+16484	Shylock
+16485	Rubens
+20103	Balchen
+20104	Lanteuhartz
+20105	Rante
+20106	Eirhanna
+20107	RojenPelt
+//오전 02:25 2012-04-10	
+50582	Astorea Canyon
+51575	Shelter for Spirits#Astorea Canyon
+50751	Karnatus Army
+50752	Ardor Expedition
+16570	Withered Mandragora
+16571	Greenleaf Mandragora
+16572	Deafening Mandragora
+16573	Shrieking Mandragora
+16574	Bensirut
+16575	Shattered Crystal of Ruin
+16576	Shifting Crystal of Ruin
+16577	Old Scoparius
+16578	Energetic Scoparius
+16579	Perbilius
+16580	Keen-Eared Stone-Eater
+16581	Sharp-Eared Stone-Eater
+16582	Crack Devourer
+16583	101st Supply Corps Valkyrie Squadmate
+16584	101st Supply Corps Valkyrie Decurion
+16585	101st Supply Corps Berserker Squadmate
+16586	101st Supply Corps Berserker Decurion
+16587	101st Supply Corps Elementalist Squadmate
+16588	101st Supply Corps Elementalist Decurion
+16589	Red Back Scoparius
+16590	Red Chin Scoparius
+16591	130th Supply Corps Berserker Patrolman
+16592	130th Supply Corps Berserker Patrol Captain
+16593	130th Supply Corps Valkyrie Patrolman
+16594	130th Supply Corps Valkyrie Patrol Captain
+16595	Dullhorn Stone-Eater
+16596	Steeltooth Stone-Eater
+16597	Wideleaf Mandragora
+16598	Thickleaf Mandragora
+16599	130th Supply Corps Berserker Defender
+16600	130th Supply Corps Berserker Defender Captain
+16601	130th Supply Corps Elementalist Defender
+16602	130th Supply Corps Elementalist Defender Captain
+16605	Damaged Crystal of Ruin
+16606	Intact Crystal of Ruin
+16607	Supply Advisor Haren
+16608	Tricurion Captain Pabel
+16609	Tricurion Captain Clara
+16610	Tricurion Captain Painan
+16611	Sexturion Captain Kolthus
+16612	Sexturion Captain Mirian
+16613	Sexturion Captain Sanan
+16614	Sexturion Captain Rotos
+16615	Sexturion Captain Belania
+16616	Sexturion Captain Hamia
+16619	Karnatus War Battler
+16620	Karnatus Destroyer
+16621	Karnatus Life Spirit
+16625	Ruwanna
+16626	Akeira
+16627	Portotan
+16628	Shakam
+16629	Wounded Ardor Soldier
+16630	Colosseum Executioner Odran
+16631	Crystal of Desperation
+16632	Forest Arbiter Arkenes
+16633	Sewer Arbiter Pablos
+16634	Snowy Plains Arbiter Hadras
+16635	Volcano Arbiter Vulcatos
+16636	Graveyard Arbiter Desras
+16637	Helron Arbiter Hamanel
+16638	Green Arbiter Kanelas
+16639	Spirit Arbiter Orkan
+16640	Mountain Arbiter Aleskan
+16641	Life Arbiter Kranos
+20864	Phobos
+20865	Spooky
+//오전 5:54 2012-05-01	
+20148	Marlone
+20291	Doherty
+20094	Isloge
+20019	Harte
+20618	Michelle
+20619	Narisha
+20620	Misea
+20621	O'Sherley
+50782	General Goods Store
+50783	Elementalist Equipment Store
+50784	Berserker Equipment Store
+50785	Dragon Knight Equipment Store
+50786	Valkyrie Equipment Store
+50787	Shadow Equipment Store
+50788	Guild Manager
+50789	Ranking Manager
+50790	Enhancement Store
+50791	Crafting Store
+50792	Storage Keeper
+//오전 11:53 2012-05-03	
+16642	Forest Hermit
+16643	Sewer Hermit
+16644	Snowy Plains Hermit
+16645	Volcano Hermit
+16646	Graveyard Hermit
+16647	Helron Hermit
+16648	Green Hermit
+16649	Spirit Hermit
+16650	Mountain Hermit
+16651	Life Hermit
+//오후 1:13 2012-05-04	
+20866	Dr. M.D.
+20867	Mister Fortune
+20868	Examiner Maedoms
+//오후 2:50 2012-05-08	
+50778	Horseman
+50779	Secret Agent
+50780	Honored Merchant
+50781	Invite Friends
+//오후 6:32 2012-05-16
+50137	Battle of Enhanced Mondschein
+//오전 11:24 2012-05-17
+20041	Shuzet
+//오후 6:00 2012-05-18	
+50798	Clan
+50777	Eclipse
+20899	Raze
+//오후 3:25 2012-05-24	
+16652	Keen Wasp
+16653	Bloody Wasp
+16654	Agile Canyon Centipede
+16655	Violent Canyon Centipede
+16656	Colosseum Enforcer
+16657	Colosseum Executioner
+16658	Odran
+16659	Mutated Berus
+//오후 3:49 2012-05-24
+20929	Chairman Dyurendal
+20930	Toure
+20931	Yaya
+20932	Siena Alba
+20933	Food Distributor Foody
+20934	Hungry Guard Hungler
+20935	Director Simon
+20936	Meomi Jones
+20937	Member Yoko
+20938	Member Anike
+20941	Alpha
+20942	Beta
+20943	Gamma
+20944	Guard Luna
+20945	Guard Maria
+20948	Chairman Mason. J 
+20949	Member Bacchus
+20950	Tired Member Tired
+20951	Edward Photon
+20952	Alfonso Photons
+20953	Roy Photons
+20954	Seondal
+20955	Columbas
+20956	Bogo
+20957	Hungry Guard Hungreer
+20958	Store Manager Mayo
+20959	Juratick Parker
+20960	Member Pitch
+20961	Cellars
+20965	Guard Kata
+20966	Guard Aka
+50929	Tringel Council
+50930	Tringel Guard Unit
+50931	Hall of Knowledge - Librarian
+50932	Hall of Knowledge - Assistant
+50933	Sewer Excavation Party
+50934	Etherain City Council
+50935	Etherain Guard Unit
+50936	Alchemists Council
+50937	Trade Union
+50941	Test Server Exclusive Store
+50958	TwoPot Lunch - Etherain Branch
+50959	Ancient Dragon Excavator
+50961	Alchemy Supply Store
+//오후 3:56 2012-05-24	
+20967	Gluttony
+50967	Homunculus
+//오전 9:56 2012-05-31
+20962	[Boss]Captain Ermunt
+20963	[Boss]Master of the Castle
+20964	[Boss]Death Dragon Master
+//오후 12:06 2012-06-18	
+50995	Guild Store - Waldchen Branch
+50996	Guild Store - Tringel Branch
+50997	Guild Store - First Etherain Branch
+50998	Guild Store - Second Etherain Branch
+50999	Guild Store - Aukra Branch
+20051	Robert
+20052	Hendolph
+20044	Otma
+20284	Shuttlewoth
+20285	Bernstein
+20043	Vito
+20148	Marlon
+20149	graham
+20150	Binte
+20151	Allan Wood
+20047	Beeonte
+50994	Event Alchemist
+//오후 3:49 2012-06-20	
+50993	Guild Store - Kortoq Branch
+//오후 4:00 2012-06-20	
+20869	Beluran
+20870	Tris
+20871	Metrian
+20872	Etrian
+20873	Lakris
+20874	Tors
+//오후 5:54 2012-07-09	
+20882	Master A.S.
+20883	Fly
+50883	Jumping Parts Trader
+//오후 5:18 2012-07-11
+16412	Poor Salesman Chinchin
+16413	Poor Salesman Chingching
+//오후 5:02 2012-07-17	
+16660	Guardian of the Relics
+16661	Guardian of the Relics
+16662	Guardian of the Relics
+16663	Lamus the Bandit
+16664	Coleth the Bandit
+16665	Liift the Bandit
+16666	Immortal Allaune
+16667	Demon's Puppet
+16668	Karnatus Elite Sorcerer
+16669	Karnatus Elite Warrior
+16670	Karnatus Elite Hunter
+16671	Expeditioner Kumar
+16672	Treasure Hunter Samir
+16673	Worn Box
+16674	Worn Box
+16675	Worn Box
+16676	Amar the Archaeologist
+16677	Explorer's Map
+16678	Explorer's Map
+16679	Explorer's Journal Vol. 1
+16680	Explorer's Journal Vol. 2
+16681	Explorer's Journal Vol. 3
+16682	Owl Tribesman Hugo
+16683	Owl Secret Agent
+16684	Owl Secret Agent
+16685	Owl Secret Agent
+16686	Assault Squad Captain Schultz
+16687	Assault Squad Humwelt
+16688	Assault Squad Krawulli
+16689	Assault Squad Captain Schultz
+16690	Assault Squad Wultmann
+16691	Deputy Assault Captain Heidegger
+16692	Curio Merchant Izmail
+//오후 7:52 2012-07-23
+16603	Guard 112 Valkyrie Nightwatch
+16604	Guard 112 Elemental Nightwatch
+16617	Guard 112 Valkyrie Sniper
+16618	Guard 112 Valkyrie Sniper
+16623	Guard Post
+16693	Corrupted Chief
+16694	Front Gate of the Supply Base
+16695	Supply Carriage
+16696	Catapult Cannon Ball
+16697	Berserker Guard
+16698	Elemental Guard
+16699	Valkyrie Guard
+16700	Colosseum Berserker
+16701	Colosseum Berserker Leader
+16702	Colosseum Berserker Captain
+16703	Colosseum Berserker Elite
+16704	Colosseum Valkyrie 
+16705	Colosseum Valkyrie Leader
+16706	Colosseum Valkyrie Captain
+16707	Colosseum Valkyrie Elite
+16708	Colosseum Elementalist
+16709	Colosseum Elemental Leader
+16710	Colosseum Elemental Elite
+16711	Colosseum Elemental Captain
+16712	Colosseum Stone-Eater
+16713	Colosseum Mandragora
+16714	Colosseum Crystal of Ruin
+16715	Colosseum Wasp
+16716	Catapult
+//오후 2:51 2012-08-02	
+50988	True Excavation! Research Party: Headquarters
+50989	Guardians of Swamp
+50990	Followers of Star
+50991	True Excavation! Research Party: Helron Subdivision
+50992	Dozing Guardian of the Swamp
+20992	Sleepy
+20993	Arman
+20994	Noth
+21000	Nabesh
+50987	Helron's Ghost in the Relics
+//오후 5:41 2012-08-02	
+16622	Death Merchant Hassan
+16624	Second Squad Captain Jimmy
+52028	Supply Route Prevention
+//오후 4:19 2012-08-10	
+10115	"When a legendary being materialized, people worshipped its presence and called it Mystic. Mystic uses the Gauntlet optimized for melee attacks and the Ethersythe to lay judgment upon the wicked and reap their souls."
+10116	"This race is more physically capable than the others, making them naturally gifted warriors. Not having a centralized order of their own, they often join mercenary guilds. Their achievements in battles all across the world have been well documented for centuries. Legends from the northern continent say that their name originates from a mythical giant bird that lived long ago. Eminent scholars proclaim that their progenitor, Luke, was born from the egg of this bird."
+10117	"Within the veins of this race runs the noblest blood of the Dragonkin. The fearless Dragonkin is always the first to jump into battle, slaying their enemies valiantly. Exceedingly exclusive, they have an ill-fated rivalry with the Death Dragons controlled by the Empire, engage in hostilities with the Eysher Valkyries for sovereignty, and openly fight with the Imperial Helron Shadows for legitimacy."
+10118	"As a race with demon blood in their veins, these people have characteristics of both the higher and lower dimensions. Helron's Castle was once their home, but when the King of Immortality vanished, those that had once worked as assassins for the Imperial Herald soon declared themselves loyal to the Ardor Expedition. Their pallid and gangly look should not be mistaken for weakness. These demons are skilled at using both physical and magical attacks."
+10119	This race consists mainly of women centered around a strongly maternal society.  They can communicate freely with spirits and have better sight and agility than other races. Some even say that they are the direct descendants of beings from the higher dimension. They threaten their enemies with their penetrating eyes and break through any and all obstacles in front of them with ease.
+10120	"This race is almost singularly devoted to studying Ether.  They gather young girls who have no resistance to Ether and systematically teach them how to use it. Their power structure is almost entirely dominated by women. Similar to Eysher men, the Karin men are focused internally on society and family, and are rarely seen outside of their homes."
+10121	"The people of this bestial race are known in legends as the Lions of God.  They were just recently rediscovered living in a forest in Serient. They are a highly advanced, if reclusive, society. Born young and beautiful, most of these girls stay that way their entire lives, never appearing to age. It is virtually impossible to discern how old one is by looking at them. Their name comes from the word for a similar-looking cat in the language of the western continent."
+10122	Luke
+10123	Rodile
+10124	Helron
+10125	Eysher
+10126	Karin
+10127	Mio
+//오후 8:09 2012-08-20	
+16717	Confined Butcher
+16718	Bewitched Butcher
+16719	Canyon Gladiator
+16720	Golden Lizard Defense Warrior
+16721	Golden Lizard Defense Knight
+16722	Golden Lizard Defense Archer
+16723	Golden Lizard Defense Hunter
+16724	Vile Mage
+16725	Mage of Death
+//오후 4:59 2012-09-04	
+20885	Moreeb
+20886	Miley
+20887	Pria
+20888	Angell
+20889	Bruna
+20890	Azmo
+20891	Milley
+20892	Inovi
+20893	Emila
+20894	Arma
+50776	Mystic Equipment Store
+//오후 6:06 2012-09-07	
+15974	Moonlight Assaulter
+15975	Moonlight Archer
+15976	Moonlight Assault Warrior
+15977	Moonlight Berserker
+15978	Full Moon Berserker
+//오후 7:33 2012-09-10	
+55031	Full Moon Rush
+//오후 4:20 2012-10-04
+50500	Free Battle Room
+//오전 11:49 2012-10-18
+50942	Test Server Mystic's Exclusive Store
+//오후 5:22 2012-11-19
+55032	Kid Snowman
+//오전 11:39 2013-01-17
+50501	Zapir Battlefield
+//오후 4:07 2013-01-17
+50882	Return Event Ticket Trader
+//오후 3:40 2013-01-17
+55033	Archaeologist
+55034	Mongez
+55035	Felix
+55036	Labeison
+55037	Molian
+55038	Ivan
+55039	Toma
+55040	Chrisostom
+55041	Renoir
+55042	Antoine
+55043	Evans
+55044	McCaun
+//오후 5:52 2013-01-21	
+50773	Battle Field Manager
+50774	Repair Merchant
+50775	Blacksmith Union
+20995	Schmitt
+20996	Diezel
+20997	Severus
+20875	Love-seeking John
+//오후 7:57 2013-02-04	
+18197	Marshmallow of Fear
+//오후 6:18 2013-02-25	
+20876	Angela who likes candy
+//오전 10:54 2013-03-22
+52029	Shelter for Spirits
+16726	Spotted Muscool
+16727	Punch Muscool
+16728	Big Nail Raptor
+16729	Posionbag Raptor
+16730	Deadly Poison Viro
+16731	Female Coast Crawfish
+16732	Male Coast Crawfish
+16733	Red Foot Coast Crawfish
+16734	Aged Turtle Monster
+16735	Stiff Turtle Monster
+16736	Giant Turtle Riga
+16737	Bigfoot Yeti
+16738	Horned Yeti
+16739	Long neck Icekel
+16740	Sharp Icekel
+16741	Strong horn Klete
+16742	Sensitive Deathworm
+16743	Flaming Deathworm
+16744	Dark Scorpion
+16745	Dark Emperor Scorpion
+16746	Negeul of Poison Sting
+16747	Broken Guardian
+16748	Siege Guardian
+16749	Iron Guardian
+16750	Storm Herrme
+16751	Small Capipu
+16752	Fast Capipu
+16753	Poisoned Bat
+16754	Violent Bat
+16755	Cold Crystal
+16756	Bloody Crystal
+16757	Siege Guardian
+16758	King Stone Guardian
+16759	Giant Lobster
+16760	Durable Lobster
+16761	Ice Kellone
+16762	Stiff Kellone
+16763	Horrify Boar
+16764	Chilliness Boar
+16765	Frore Boar
+16766	Longtail Scorpion
+16767	Big Tongs Scorpion
+16768	Deadly Poison Scorpion
+16769	Docile Raptor
+16770	Ferocious Raptor
+16771	Tight Muscool
+16772	Denatured Muscool
+16773	Crazed Muscool
+16774	Small Hermit Crab on Coast
+16775	Hermit Crab on Coast
+16776	Deathworm of Ground
+16777	Deathworm of Desert
+16778	Agilely Capipu
+16779	Prickle Capipu
+16780	Wild Capipu
+16781	Freezing Stone Statue
+16782	Flaming Stone Statue
+16783	Summoned Creature of Jungle
+16784	Summoned Creature of Coast
+16785	Summoned Creature of Desert
+16786	Summoned Creature of ice
+16787	Summoned Creature of Repose
+16788	Ruler of the Jungle
+16789	Ruler of the Coast
+16790	Ruler of the Desert
+16791	Ruler of the Ice
+16792	Sanctuary Guardian
+16793	Sanctuary Destruction Man
+16794	Sanctuary Ruler
+16795	Montrose
+16796	Montrose Extinction
+16797	Montrose Destruction
+16798	Montrose Revival
+16799	Mutated Bat
+16800	Ferocious Bat
+16801	Water Elemental Recall Circle
+16802	Fire Elemental Recall Circle
+16803	Earth Elemental Recall Circle
+16804	Wind Elemental Recall Circle
+16805	Scarf Mushroom
+16806	Spores Mushroom
+16807	.
+16808	Daniela
+16809	Recall Circle
+16810	Avengel
+16812	Dishope
+16814	Research Member Draxler
+16815	Research Member kieisling
+16816	Research Member Tenardiei
+16817	Thief Yacob
+16818	Thief Moras
+16819	Research Member Hayieldal
+16820	Guardian of Ice
+16821	Guardian of Jungle
+16822	Guardian of Water
+16823	Guardian of Desert
+16824	Research Member BainBerk
+16825	Research Member Schneider
+16826	Oldest Guardian
+16827	Oldest Spirit
+16828	Sneak Thief
+16829	Tomb Robber 
+16830	Spirit of Bomb
+16831	Black Hooded Thief
+16832	Fence Barbosa
+16833	Ice Guardian's Creature
+16834	Jungle Guardian's Creature
+16835	Water Guardian's Creature
+16836	Desert Guardian's Creature
+//오전 18:54 2013-05-16
+20895	Dispatch Merchant Bob
+//오후 8:01 2013-05-23	
+20884	Mr A.S.
+//오후 2:31 2013-06-19	
+16811	Venomin
+16813	Edmund
+//오전 11:12 2013-06-20	
+50938	A secret organization determined to die
+//오후 18:12 2013-07-17	
+16838	Sorcerer Yoriche
+16839	Schwartz Pramme enveloped in clouds madness
+//오후 10:59 2013-07-18	
+55053	Chamber of Secrets
+//오후 14:50 2013-08-05	
+55054	Counterattacks of Helron(Cash)
+55055	Counterattacks of Helron
+//오후 6:11 2013-08-16	
+16493	Supervisor Asturias
+//오후 12:10 2013-11-06
+50848	Helroid Equipment Store
+60020	HEL-M16
+60021	HEL-K11
+60022	HEL-AK47
+60023	HEL-SA80
+60024	HEL-CR21
+60025	HEL-AKM
+//오전 11:46 2013-12-05
+60010	For Good Children Only
+60015	Snowman of the Cold Country
+60016	Snowman of the Northern Country
+60017	Chilly Snowman
+60018	Pure White Snowman
+60019	Gift Merchant Santa
+//오전 10:46 2014-01-13
+60026	Anna
+60027	Sarael
+60028	Blou
+60029	Tiang
+60030	Lucia
+60031	Kalcheu
+60032	Chesare
+60033	Ceria
+60034	Hancell
+60035	Mufasa
+60036	Jason
+60037	Marzana
+60038	HEL-AK9
+//오후 01:46 2014-01-13
+16840	Garrison Berserker Patrol
+16841	Garrison Berserker Inspector
+16842	Garrison Valkyrie Patrol
+16843	Garrison Valkyrie Inspector
+16844	Garrison Elemental Patrol
+16845	Garrison Elemental Inspector
+16846	Domesticated Beast Guard Dog
+16847	Royal Guard Beast Trainer
+16848	Red Beak Heeler
+16849	Red Beak Fanatic
+16850	Bloody Fangs Heeler
+16851	Bloody Fangs Fanatic
+16852	Temple Monster Bird
+16853	Trained Monster Bird
+16854	Royal Guard Carnegi Shooter
+16855	Royal Guard Carnegi Senior Shooter
+16856	Royal Guard Assault Charger
+16857	Royal Guard Senior Assault Charger
+16858	Royal Guard Fighter
+16859	Royal Guard Heavily armed Fighter
+16860	Karnatus Torturer
+16861	Karnatus Executor
+16862	Mutations Guard Dog
+16863	Faithful Chief Guard Dog
+16864	Ignis's Gaze
+16865	Helminth of Magic Seal
+16866	Larva of Magic Seal
+16867	Spirit of Magic Seal
+16868	Ignis Seal Stone Guardian
+16869	East Seal Stone
+16870	West Seal Stone
+16871	Material Warehouse
+16872	Senior Beast Trainer Cis
+16873	Senior Beast Manger Dayte
+16874	Snap Shooter Jail
+16875	Snap Shooter Akwareu
+16876	Temple Guards Horack
+16877	Supply Captain Narunal
+16878	Operation Staff Eslray
+16879	Royal Guard Captain Kail
+16880	Gray Gorilla Tribe Dungga
+16881	Gray Gorilla Tribe Umba-umba
+16882	Eternal Mane Tribe Baldir
+16883	Eternal Mane Tribe Thor
+16884	Esmara Chief Hafael
+16885	Stray Forest Guardian
+16886	Fallen Forest Guardian
+16887	Daemonic Woobo
+16888	Jade Beetle Slave
+16889	Jade Beetle Heeler
+16890	Golden Gecko Thief
+16891	Cobringya
+16892	Faint Magic Seal Spirit
+16893	Wandering Magic Seal Spirit
+16894	Polluted Magic Seal Helminth
+16895	Polluted Magic Seal Winged insect
+16896	Wandering Magic Seal Warden
+16897	Mandragora of Life
+16898	Mandragora Guard
+16899	Famished Beast Guard Dog
+16900	Hulking Beast Guard Dog
+16901	Temple Monster Bird
+16902	Violent Monster Bird
+16903	Black Wing Crow 
+16904	Straggling Carnegi Shooter
+16905	Straggling Carnegi Senior Shooter
+16906	Hungry Berserk Squad
+16907	Hungry Berserk Squad Leader
+16908	Tired Elemental Squad
+16909	Tired Elemental Squad Leader
+16910	Weary ValkyrieSquad
+16911	Weary Valkyrie Squad Leader
+16912	Assassin Scope
+16913	Old Esmara Wraith
+16914	Wrath of Wraith
+16915	Heavy Blind
+16916	Ancient Warrior Brock
+16917	Horror Beast Guard Dog
+16918	Gray Gorilla Tribe Berserker
+16919	Eternal Mane Tribe Spear Knight
+//오후 5:08 2014-01-15
+60039	Attendance Check
+60040	Agent Daily
+//오후 4:45 2014-01-20
+50884	2014 Return Event Equipment Exchange Center
+55045	Lunar New Year Event
+55046	Challenge of the Marshmallow
+18198	Angry Marshmallow
+//오후 6:34 2014-01-28
+17169	Research Member Samir
+17170	Research Member Alehandra
+17171	Officer Drake
+17172	Scholar Matthias
+17173	Investigator Bayrada
+17174	Investigator Rashid
+17175	Investigator Larijani
+17176	Research Member Hashim
+17177	Operations Officer Aruman
+17178	Recorder Cloto
+17179	Supervisor Flavius
+17180	Specter of Ruins
+//오후 4:06 2014-02-25
+20877	Independence Movement Day Event
+20878	Love of Country Messenger
+//오후 6:47 2014-02-28
+50014	Test Intelligent NPC
+//오후 6:47 2014-02-28
+52049	Dark Death Dragon
+16920	Yapeupan Stained in dark
+16921	Revived Death Dragon Elite Soldier
+//오후 6:46 2014-03-24	
+16922	Body Snatcher Spider
+16923	Frost Breath Archer
+16924	Frost Breath Warrior
+16925	Ruthless Graverobber 
+16926	Bone Crushing Golem
+16927	Exiled Ancient Heroes
+16928	Guider of Desire
+16929	Contorted Roshfelt
+16930	Incarnation of Desire
+//오후 6:01 2014-03-28	
+16931	Ability Extractor Corbett
+16932	Ability Extractor Ahjajel
+16933	Ability Extractor Najeu
+16934	Ability Extractor Seigineo
+//오후 6:01 2014-03-28	
+20896	Mondschein Passageway
+//오후 2:37 2014-04-22	
+55047	Trial of Light
+//오후 2:37 2014-04-22
+55047	Trial of Light
+//오후 2:37 2014-04-23
+20998	Mikel
+20999	Pasto
+//오후 6:11 2014-05-09		
+20897	Patrol Harry
+//오전 10:07 2014-06-30		
+20897	Bloodstained Token Trader
+20898	black-Market Operator
+//오전 11:53 2014-07-01
+16935	Long-tailed Highland Eagle
+16936	Long-tailed Armor Highland Eagle
+16937	Released Olriphant
+16938	Olripeonteu Plunder
+16939	Flair Ether Eater
+16940	Sharp sense of smell Ether Eater
+16941	Wandering Ether Extract Monitors
+16942	Wandering Ether Extract Supervisor
+16943	Wandering Ice Golem
+16944	Wandering Hard Ice Golem
+16945	Berserk Squad tired of the cold
+16946	Berserk Squad Leader tired in the cold
+16947	Elementalist Squad tired of the cold
+16948	Elementalist Squad Leader tired of the cold
+16949	Valkyrie Sentinel tired of the cold
+16950	Valkyrie Sentinel Leader tired of the cold
+16951	Berserk Platoon leader tired of the cold
+16952	Elementalist Platoon leader tired of the cold
+16953	Valkyrie Sentinel Leader tired of the cold
+16954	Steel Blades
+16955	Ether Predators
+16956	Tardi Oribooth
+16957	Eseuka
+16958	Lalique Tomb
+16959	Ether Extract Monitors
+16960	Ether Extract Supervisor
+16961	Domesticated Olriphant
+16962	Chase Olriphant Rirder
+16963	Eesperate Berserk Squad
+16964	Eesperate Berserk Squad Leader
+16965	Eesperate Elementalist Squad
+16966	Eesperate Elementalist Squad Leader
+16967	Eesperate Valkyrie Sentinel
+16968	Eesperate Valkyrie Sentinel Leader
+16969	Eesperate Berserk Platoon leader
+16970	Eesperate Elementalist Platoon leader
+16971	Eesperate Valkyrie Sentinel Leader
+16972	Scouting Messenger Kodeulun
+16973	Magin Bant of Iron Wall Magin Bant
+16974	Scouting Captain Garb Fly
+16975	Supply Captain Basseo jikeo
+16976	Administrator Abshooterts
+16977	Defense Captain Shelters
+16978	Captain Chuck Anchor
+50939	The 3 Flight Solidarity
+16979	Commander Kaput
+16980	Angry Horns Tusk 
+//오후 2:42 2014-07-04
+15979	Berserker Follower_Melee_Elite
+15980	Berserker Follower_Ranged_Leader
+15981	Berserker Follower_Captain
+15982	Berserker Class C Boss
+15983	Berserker Class B Boss
+15984	Berserker Class A Boss
+15985	Dragon Knight Follower_Melee_Elite
+15986	Dragon Knight Follower_Ranged_Leader
+15987	Dragon Knight Follower_Captain
+15988	Dragon Knight Class C Boss
+15989	Dragon Knight Class B Boss
+15990	Dragon Knight Class A Boss
+15991	Valkyrie Follower_Melee_Leader
+15992	Valkyrie Follower_Ranged_Elite
+15993	Valkyrie Follower_Captain
+15994	Valkyrie Class C Boss
+15995	Valkyrie Class B Boss
+15996	Valkyrie Class A Boss
+15997	Helroid Follower_Melee_Elite
+15998	Helroid Follower_Ranged_Leader
+15999	Helroid Follower_Captain
+16000	Helroid Class C Boss
+16981	Shadow Follower_Melee_Leader
+16982	Shadow Follower_Ranged_Elite
+16983	Shadow Follower_Captain
+16984	Shadow Class C Boss
+16985	Shadow Class B Boss
+16986	Shadow Class A Boss
+16987	Elly Follower_Melee_Elite
+16988	Elly Follower_Ranged_Leader
+16989	Elly Follower_Captain
+16990	Elly Class C Boss
+16991	Elly Class B Boss
+16992	Elly Class A Boss
+16993	Mystic Follower_Melee_Elite
+16994	Mystic Follower_Ranged_Leader
+16995	Mystic Follower_Captain
+16996	Mystic Class C Boss
+16997	Mystic Class B Boss
+16998	Mystic Class A Boss
+16999	Helroid Class B Boss
+17000	Helroid Class A Boss
+//오후 2:42 2014-07-08
+50119	Israphil Land
+50120	Zapir Battlefield 10vs10
+50121	Zapir Battlefield 6vs6
+50122	Zapir Battlefield 1vs1
+50123	Frost Battlefield 6vs6
+50124	Frost Battlefield
+50125	Frost Battlefield 1vs1
+50126	Gold Rush
+50127	Special area
+50138	Tomb of desire 6vs6
+50139	Tomb of desire 3vs3
+50140	Tomb of desire 1vs1
+50141	Battle of Mondschein
+50885	Event Meista
+//오후 5:26 2014-07-14	
+60042	Examiner of Quest Challenge
+//오후 6:44 2014-07-14	
+17181	Operations Officer Ajman
+17182	Officer Lorenzo
+17183	Commander Lombard 
+17184	Senior Investigator Karano
+17185	Researcher Dmitris
+17186	Scout Parisian
+17187	Apprentice Datsun
+17188	Apprentice Faber
+17189	Scout Ham
+17190	Scout officer Widemon
+17191	Castaway Gustav
+17192	Officer HER-MIT
+17193	Action Crew HER-K9
+17194	Mutant Meadow Slime
+17195	Ether Addict
+//오전 10:09 2014-07-21
+52963	[Mission] Sinister Rumor
+52964	[Mission] Conspiracy of Iron Beast Tribe
+52965	[Mission] Foiled Conspiracy
+52966	[Mission] Forest of Beasts
+52967	[Mission] Hidden Passage
+52968	[Mission] Access Road to Etherain
+52969	[Mission] Grave of the Siegel Knights
+52970	[Mission] Etherain Sewer
+52971	[Mission] Restraining Imperial Messenger
+52972	[Mission] Battle of the Castle Outskirts
+52973	[Mission] Second Attack on Snowfield
+52974	[Mission] Frozen Palace
+52975	[Mission] Scout the Valley Entrance
+52976	[Mission] Clue of Track
+52977	[Mission] Rescue the Dragonkin chief
+52978	[Mission] Valley of the Dragonkin
+52979	[Mission] Tracking the Great Ritual
+52980	[Mission] Hidden Danger
+52981	[Mission] Toward the Hall of Darkness
+52982	[Mission] Altar of Darkness
+52983	[Mission] Aiort Graveyard
+52984	[Mission] The Tainted Shrine
+52985	[Mission] Black Ether Revealed
+52986	[Mission] Desperate Resurrection Ritual
+52987	[Mission] Helron's Castle
+52988	[Mission] First Stronghold Secured
+52989	[Mission] Power Battle
+52990	[Mission] Green Earth
+52991	[Mission] Tree of Knowledge
+52992	[Mission] Supply Route Prevention
+52993	[Mission] Shelter for Spirits
+52994	[Mission] Capital Capture
+52995	[Nightmare] Forest of Beasts
+52996	[Nightmare] Etherain Sewer
+52997	[Nightmare] Frozen Palace
+52998	Chamber of Secrets
+//오후 5:14 2014-07-22
+16837	Goat Bomb-Destroyer of Iron Wall
+//오후 4:37 2014-07-23	
+60041	Shiny Token
+60043	Waldchen Branch Operator
+60044	Tringel Branch Operator
+60045	Etherain Branch Operator
+60046	Aukra Branch Operator
+60047	Kortoq Branch Operator
+//오후 6:00 2014-07-24
+15979	Heeler of Hughes
+15980	Heeler of Roland
+15981	Henchmen of Hekseuteo
+15982	Betrayer Roland
+15983	Betrayer Hughes
+15984	Betrayer Hekseuteo
+15985	Heeler of Lesthor
+15986	Heeler of Herrmeus
+15987	Henchmen of Thorles
+15988	Betrayer Herrmeus
+15989	Betrayer Lesthor
+15990	Betrayer Thorles
+15991	Heeler of Amelia
+15992	Heeler of Angheles
+15993	Henchmen of Anghela
+15994	Betrayer Amelia
+15995	Betrayer Angheles
+15996	Betrayer Anghela
+15997	Heeler of P6-Z
+15998	Heeler of P6-N
+15999	Henchmen of P6-S
+16000	Dominated P6-N
+16981	Heeler of Ruben
+16982	Heeler of Lougehrig
+16983	Henchmen of Ludwig
+16984	Betrayer Ruben
+16985	Betrayer Lougehrig
+16986	Betrayer Ludwig
+16987	Heeler of Manuela
+16988	Heeler of Marissa
+16989	Henchmen of Mercedes
+16990	Betrayer Marissa
+16991	Betrayer Manuela
+16992	Betrayer Mercedes
+16993	Heeler of Pilar
+16994	Heeler of Rosa
+16995	Henchmen of Miriam
+16996	Betrayer Rosa
+16997	Betrayer Pilar
+16998	Betrayer Miriam
+16999	Dominated  P6-Z
+17000	Dominated  P6-S
+//오후 9:20 2014-07-30
+17196	Decryption Panel
+//오전 11:11 2014-07-31	
+18023	Dependent Cerberus
+//오후 10:47 2014-08-05
+52050	[Nightmare]Trial of Light
+50986	UP Operator
+//오후 6:35 2014-08-14
+52999	[Mission] Crashed Pride
+//오후 22:35 2014-08-20
+60048	Glutton King Rabbit
+60049	Silver-Tongued King Rabbit
+60050	Mighty King Rabbit
+60051	Gourmet King Rabbit
+60052	King Rabbit of the Full Moon
+60053	Rice Cake Expedition
+60054	Harvest Festival Gift Exchange
+17196	Dream Guardian
+17197	Wine Cake Devotee
+17198	Rabbit Hell Grass
+17199	Juragon Battle Slave
+17200	Juragon Charger
+17201	Juragon Rabbit Hunter
+17202	Juragon Rabbit Beater
+17203	Juragon Mind Dominator
+17204	Moonland Butcher
+17205	Rice Cake Destroyer Tiramisu
+17206	Juragon Monarch
+55056	The Half-Moon Rice Cake from the Dream
+//오전 11:44 2014-09-29
+17207	Skull Jake
+//오후 6:56 2014-10-20	
+60055	Alena
+60056	Yulia
+60057	Kayla
+60058	Jessica
+60059	Rachel
+60060	Beatrice
+60061	Samantha
+50849	WitchBlade Equipment Store
+//오후 7:00 2014-10-20
+17208	Head Rudolph
+17209	Striking Rudolph
+17210	Anti-Christmas Rudolph
+17211	Anti-Christmas Leader
+17212	Juragon Biochemical Unit
+17213	Poisoned Santa Claus
+17214	Juragon Test Subject
+17215	Santa Claus
+17216	Detached Contaminant
+17217	Juragon Elite Warrior
+17218	Juragon Berserker
+17219	Enhanced Battle Slave
+17220	Childhood Destroyer Adult Dragon
+17221	Suspicious Livestock
+17222	Suspicious Doll
+17223	Sage of Brachion
+17224	Troubled Imperial Survivor
+//오후 9:15 2014-10-20
+17225	Halloween Festival Participant
+17226	Devdin
+17227	Sillen
+17228	Emilia
+//오전 9:15 2014-10-22
+55057	Rudolph General Strike
+55058	Santa Claus's Secret
+//오전 11:22 2014-10-23
+16920	Yapeupan Stained in dark
+//오후 4:24 2014-11-05	
+17229	Greed Judas
+17230	Smack Revived Offering
+17231	Poisonous Revived Offering
+17232	Bulging Revived Offering
+//오전 11:22 2014-11-11	
+17233	Christmas Event
+17234	Christmas Guardian
+17235	Merry
+17236	Chris
+17237	Mas
+17238	Carol
+17239	Kevin
+//오전 11:15 2014-11-18	
+19058	Chaos Eye Trader
+17240	Jijel
+17241	Pedro
+//오후 6:29 2015-01-09	
+52051	Death Dragon of Darkness - Avid Disciple
+52052	Death Dragon of Darkness - Fallen Wiseman
+//오후 6:29 2015-01-09	
+17242	Carnivorous Wolf Spider
+17243	Cannibal Wolf Spider
+17244	Toxicity Diadem spider
+17245	Deadly Poison Diadem spider
+17246	Seeds looting Wolf Spider
+17247	Seed Predation Diadem spider
+17248	Bayaba Tribe Warrior
+17249	Bayaba Tribe Monster Man
+17250	Bayaba Tribe Mortician
+17251	Fog Warriors Ahdon
+17252	Hawk Eye Cutler
+17253	Addict Berge
+17254	Psychedelic Ether Plants
+17255	Ddeathly Ether Plants
+17256	Kartanus Researcher
+17257	Kartanus Mental Lords
+17258	Kartanus Horror Atendants
+17259	Training Captain Habip
+17260	War Slavery of Other World
+17261	Combatant of Other World
+17262	Centurion of Other World
+17263	Grand Marshal Maximilian
+17264	Fog Hill Searcher
+17265	Fog Hill Ranger
+17266	Ether Blunt Weapon Probationer
+17267	Ether Blunt Weapon Outlaw
+17268	Immature Heavy Blind
+17269	Overwhelming Heavy Blind
+17270	Bayaba Tribe Cannibal Crocodile
+17271	Bayaba Tribe Monster Crocodile
+17272	Deadly Tentacles
+17273	Ether Sap Cannibal Flowers
+17274	Tarnished Totem
+17275	Guide Koru
+17276	Highland Wolf Spider
+17277	Variant Highland Wolf Spider
+17278	Cave Armor Spider
+17279	Soldier Armor Spider
+17280	Fog Hill Bine
+17281	Fog Hill Red Flower
+17282	Bayaba Tribe Debilitating Warrior
+17283	Bayaba Tribe Addicted Warrior
+17284	Researcher soul out
+17285	Wandering Perform Aents
+17286	Ether Research Foreman
+17287	Bayaba Tribe Madness Priest
+17288	Abysmal Guard
+17289	Abysmal Priests
+17290	Wild Heavy Blind
+17291	Sleepless Man
+17292	Rock Fist GolfKeane
+17293	Fog Hill Swamp Crocodile
+17294	Fog Hill Ether crocodile
+17295	Swamp Tyrant Big Teeth
+17296	Bounty Hunting Chase Corps
+17297	Bounty Hunting Death Squads
+17298	Spirits of the Forest
+17299	Living Toxic Bine
+17300	Poison-Bill Hornbills Hunter
+17301	Poison-Bill Hornbills Guardian
+17302	Fog Hill Thorn Tentacles
+17303	Leader Canseco
+17304	Abysmal Priest
+17305	Abysmal Blood Knight
+17306	Fog Hill Tentacle
+17307	Expedition Officer Benson
+17308	Guide Koru
+17309	Captain Investigation horasioh
+17310	Undercover Investigators Smooth
+17311	Undercover Investigator Anthony
+17312	Chef kusina
+17313	Expedition Vanguard General Kolmun
+17314	Senior Technician Grantes
+17315	Professional Hunter Panao
+17316	Exorcist Felix
+17317	Apprentice Exorcist Lira
+17318	Explorer Charles Jones
+17319	Police Officer Donovan
+17320	Expedition Officer Jeremy
+17321	Summoner of Other World
+17322	Devil Sytry
+17323	Abysmal Minion
+//오전 11:23 2015-01-22	
+17325	Enigmatic Woman J.
+//오후 2:58 2015-03-27	
+55048	Monster Invasion
+50943	The 1 Rear Penetration Forces
+50944	The 2 Rear Penetration Forces
+50945	The 3 Rear Penetration Forces
+50946	The 4 Rear Penetration Forces
+50947	The 5 Rear Penetration Forces
+50948	The 6 Rear Penetration Forces
+50949	Elite Penetration Forces Member
+50950	Elite Penetration Forces Commander
+//오후 6:19 2015-04-06	
+50142	Serient Spa
+50065	Ticket Sales
+50066	Spa Guide
+50067	Spa General Goods Store
+50068	Spa Guards
+50069	Mousse
+50070	Aya
+50071	Sya
+50072	Miya
+50073	Alicia
+50074	Marianna
+50075	Katie
+50076	Veteran Spa Professional
+50077	Palombo
+//오후 6:24 2015-04-07	
+60062	Immoral Silver Coin Collector
+60063	Collector Bon Tio
+60064	Collector Bil Lode
+//오후 10:13 2015-04-21	
+60065	Siege War Master Mr A.
+60066	Siege War Master Mr T.
+60067	Siege War Master Mr K.
+60068	Siege War Master Miss D.
+60069	Siege War Master Miss P.
+60070	Siege War Master Miss S.
+60071	Mondschein Siege War Event
+//오후 10:13 2015-06-15	
+17326	Dimension Monarch Narcissus
+17327	Guardians of Dimension
+17328	Achim Reinhardt
+17329	Reinhardt Housecarl
+17330	Reinhardt Ranger
+17331	Ice Giants Moraeseu
+17332	Firm Ice Spirits
+17333	Forgotten  Ice Spirits
+17334	Mattery Neve Spores
+17335	Neve Spores
+17336	High Priest Gideon
+17337	God Acolyte
+17338	Violent Demon Warrior
+17339	Watcher of Evil 
+17340	Servants of Evil 
+17341	Warmonger Ahkum
+17342	Battle Yeti Assault Warrior
+17343	Battle Yeti Berserker
+17344	Tyrant Monsmack
+17345	Howling Steel Thorns Bear
+17346	Snow Hoof Steel Beast
+17347	Quick cause Frostbite Spider
+17348	Spider causing frostbite
+17349	Aweless Frost Snail
+17350	Relaxed Frost Snail
+17351	Water Key Magic Controller
+17352	Water Key Excavation Member
+17353	P4 Elite Legionnaire
+17354	P4 New Polar Commando
+17355	P4 Polar Guards
+17356	Blizzard Scout Sniper
+17357	Blizzard Patrol Squad Leader
+17358	Drifting P4 Giant Machine
+17359	Lost Self P4 Helroid
+17360	Drifting Ice Giants
+17361	Gate of Heaven Ice Spirits
+17362	Heaven Delegation Investigator
+17363	Heaven Delegation Fanatic
+17364	Heaven Delegation Dark Priest
+17365	Lower Demons
+17366	Devil Soldier
+17367	Boss Brutal
+17368	Wild Snow Hoof Beast 
+17369	Wild Steel Thorns Bear
+17370	Yeti predators Ursa
+17371	Dangerous Ice Spores
+17372	Highly toxic  Ice Spores
+17373	Sloth Ice Snail
+17374	Tackled  Ice Snail
+17375	Dulled Polar Spider
+17376	Stiff Polar Spider
+17377	Frost Claw Snowman
+17378	Frost Claw Broiler
+17379	Beast Slayer Jacob
+//오전 12:09 2015-06-24	
+17324	Costumes Exchanger
+50772	SUMMER FESTIVAL
+//오후 12:25 2015-06-25	
+53000	[Mission] Sealed Rage
+//오후 12:25 2015-06-25	
+17380	Vanguard General Kolmun
+17381	Live Monitoring Device
+//오후 9:34 2015-06-29	
+50143	Serient Beach
+50078	Cheerful Palombo
+50079	Tipsy Mousse
+50081	Vacationer Marianna
+50082	Vacationer Katie
+50083	Vacationer Elisha
+50084	Vacationer Arenius
+50085	Beach Guard
+50086	Guard Captain Ronken Von Michael Without a Swimsuit
+50087	Vacationing Drake Knight Reben
+50088	Alchemist Ein Without a Swimsuit
+//오후 9:34 2015-07-09	
+17382	P4 Power Generating Machinery
+17383	Ahkum
+17384	Wraith Imbued Excavation Member
+17385	Steel Thorns Bear Corpse
+17386	Battle Yeti Corpse
+17387	Summoned Warrior of Dimension
+17388	Descended Guardian of Dimension
+//오후 9:34 2015-07-09	
+17389	Expedition Vanguard General Randall
+17390	Gate of Heaven Inspection Team Stevenson
+17391	Gate of Heaven Inspection Team Brown
+17392	Slaughterman Sengicook
+17393	Anatomist Pallhales
+17394	Botanist Dogma
+17395	Pagan Hunter Franchi
+17396	Demon Hunter Hikson
+17397	Power Collector HER-AK74
+17398	Captured Kakagi
+17399	Seal Mage of Dimension Gate Riply 
+17400	Expedition Guard Baran
+17401	Expedition Guard Maseuke
+17402	Frozen Exploration Crews
+17403	Gate of Heaven Researcher Jessibel
+//오후 2:38 2015-08-11
+//오후 2:38 2015-08-11	
+17404	Boca Grande
+17405	Seopen Zeiss
+17406	Crimson Tooth
+//오후 5:03 2015-08-17	
+17407	Waterway Berserker
+17408	Stench Magician
+17409	Magician of the Frozen Heart
+17410	Severe Cold Seal Watchmen
+17411	Heatwave Seal Watchman
+17412	Priests of Darkness
+17413	Dark Spellcaster
+17414	Dragon Zombie
+17415	Destruction Knight Captain
+17416	Underground Scion
+17417	High Priest of Snowy Plains
+17418	Severe Cold Watchman
+17419	Heatwave Knight Captain
+17420	Mutant Dragon
+17421	Obsidian Knight Captain
+17422	High Priest of Darkness
+17423	Wild Knight-Commander
+17424	Dark Knight-Commander
+17425	Severe Cold Archmage
+17426	Scorching Beast-Commander
+17427	Sonen Shine Fortress Lord
+//오후 12:03 2015-08-18	
+52962	[Mission] Crack of Dimension
+//오후 5:21 2015-08-24	
+17428	War recovery shaman
+17429	Stone Statue of Destruction
+//오후 3:41 2015-10-02	
+55059	Sonen Shine Fortress
+//오후 3:53 2015-10-20
+55060	Snowman met with distress
+55061	Snowman met with distress(Chance Time)
+17430	Cloned Rudolph
+17431	Cloned Santa
+17432	Pluto
+17433	Juragon Covert Operations Agent
+17434	Cloned Enhance Rudolph
+17435	Cloned Enhance Santa
+17436	Uranus
+17437	Juragon Secret Commander
+//오후 9:41 2015-11-02	
+55062	Crossing Space of Time
+//오후 9:14 2015-11-09	
+50984	Magic Research Institute Mirarami
+50985	Guild manage union president Butler
+//오전 11:30 2015-11-18	
+50982	Secret Infiltrator Raemol
+50983	Elite Secret Infiltrator Schumers
+//오전 11:30 2015-11-18		
+17438	Costume Craftsmen Prada
+//오후 3:13 2015-11-27
+18199	Remnant of Magic
+//오전 11:30 2015-11-18	
+17439	Pit Angler
+17440	Evolved Pit Angler
+17441	Jeweled Pit Angler
+17442	Hell Angler Perkhan
+17443	Spore Tentacle completely mashed
+17444	Spore Tentacle spread the curse
+17445	Pit Imp
+17446	Vicious Pit Imp
+17447	Fire Pit Imp
+17448	Fully armed Kosworth
+17449	Rotten moss Scream Mask
+17450	Mud Mire Scream Mask
+17451	Deep Cave Horror Mask
+17452	Echoes of Scream
+17453	Malodorous flower Pit Crustacean
+17454	Acid Flower Pit Crustacean
+17455	Red Flower Pit Crustacean
+17456	Blood Rake blak
+17457	Pit Sentinel
+17458	Hot Pit Sentinel
+17459	Hell Fire Sentinel
+17460	Boiling Howres
+17461	Pit Ogre
+17462	Daemonic Pit Ogre
+17463	Elite Ogre Outlaws
+17464	Crushing Dagor
+17465	Maid Rupeat
+17466	Maid Cenchi
+17467	Hell duke Jagan
+17468	Explorer Harrison
+17469	Thorn Horn Angler
+17470	knuckle-dragger Angler
+17471	Ruby Thorn Horn Angler
+17472	Monster Angler Scoopi
+17473	Crumble Spore Tentacle
+17474	Injecting Poison Spore Tentacle
+17475	Imp Seeds
+17476	Naughty Imp
+17477	Severe Sergeant Imp
+17478	Raiders kakiz
+17479	Skull Mask Ascetic
+17480	horrible Skull Mask Ascetic
+17481	Hell Mask Ascetic
+17482	Forgotten Ascetic Wooldara
+17483	Blue Petal Crustacean
+17484	Toxic Petal Crustacean
+17485	Red Maple Captain Crustacean
+17486	Venom Rake Chicara
+17487	Flame Sentinel
+17488	Athletic Flame Sentinel
+17489	sentinel of the lava
+17490	Burning Executioner Hakandes
+17491	Rock Jaw Warrior
+17492	Strong Rock Jaw Combatant
+17493	Elite Rock Jaw Hunter
+17494	Rock Jaw Chief Thelog
+//오후 6:20 2016-01-07	
+17495	Brown Cell [Å]
+17496	Red Monkey evolving [Ⅰ]
+17497	Red Monkey evolving [Ⅱ]
+17498	Red Monkey evolving [Ⅲ]
+17499	Red Monkey evolving [Ⅳ]
+17500	Red Monkey evolving [Ⅴ]
+17501	Red Monkey evolving [Ⅵ]
+17502	Golden Monkey evolving [Ω]
+405300	Seal Keeper
+405301	Reborn Seal Exchange
+end
