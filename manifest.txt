@@ -1,5 +1,5 @@
 # S.U.N Reborn patch manifest
-# generated 2026-09-14 21:59:22 by make-patch.ps1 -- do not hand-edit
+# generated 2026-09-14 22:23:09 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
 PATCH 2026-09-14
@@ -3287,5 +3287,6 @@ pack c6137ea22a9d74265a3d8e7a37b8cbd78dd84697efd22a16dab02d647f37416e 43832 Data
 pack 9443003a6490cc18a6bb602c21ab708560701dcf925ec89abec75d04ea6ad19a 26462 Data\Interface\N233_newbie_gift.iwz
 pack 4bfb421149b8866390d16da62316613559bc8ebff8700f65a9e6d66d6b2304ed 3321 Data\Interface\25_Menu.iwz
 pack 4762962a4443fe88f180ae57d104a69b8332f940e23725f1a5752f4f59bd3332 1890 Data\Interface\N110_HUDAutoBattle.iwz
+pack d96d41aed85b62103d655de725a243c9a8e29339a0f562154ca5194b23c3fe5c 2097196 Data\Interface\all_butten5_01.tga
 script ced6e65c94998ba308f0b6865d9a6a5711e623d1625d069317fa52beff201daa 282380 Data\ShopInfo.txt
 script 81c6a6c03e42667415a966b7a1c6c553c8b86f2977157736fabcfc04c73279fa 32806 Data\MissionRewardInfo.txt
