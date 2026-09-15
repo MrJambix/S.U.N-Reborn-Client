@@ -20,6 +20,12 @@
 
 FORMAT 1
 
+[2026-09-14] update | Reborn Seals: battle zones from level 100 up now pay Reborn Seals on every clear, with a bigger bonus the first time. Spend them at the Examiner of Quest Challenge in Etherain on Mayan materials, Zards and potions.
+
+[2026-09-13] update | Reborn Seals dry build (not published)
+
+[2026-09-13] update | baseline dry build (not published)
+
 [2026-09-13] fix | Fixed an error that could stop the game while it was loading
 
 [2026-09-12] fix | The Newbie Gift now has its own icon on the menu bar, next to the Daily Log, and its window lists the seven days and their rewards properly. Also fixes some item and stat names that showed a code instead of a name.

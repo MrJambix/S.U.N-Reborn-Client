@@ -34753,4 +34753,14 @@ start
 302410	Newbie Gift
 302411	Collect a gift on each of your first seven days of play. Days 6 and 7 need level 80.
 302412	Day %s
+59100	Cash Vault
+59101	Store All
+59102	Stored %d items in the Cash Vault.
+59103	Stored %d items. %d could not be stored.
+59104	The Cash Vault only holds Shop, Supply and Trial items.
+59105	That item is already in use and cannot be stored.
+405100	Reborn Seal
+405101	Earned by clearing battle zones. Exchange it for rewards at a Seal merchant.
+405102	Boss Fragment
+405103	Torn from a battle zone boss. A crafter can combine them into rare rewards.
 end
