@@ -2,11 +2,12 @@
 # generated 2026-09-14 22:48:53 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
-PATCH 2026-09-14
+PATCH route-picker
 script f2ec81ad74d5a721f2d99f104a4d21261050f90568f4232fcdc65c3ae595fdc2 23208 Data\Attendance.txt
 script 25f6a40e5b289812d3d94b7d58a25754da12501b0adcf9762417e776ae1333a1 487219 Data\RewardInfoList.txt
 loose 55c4117ba15e728d153446bef316e52dac3958a9c39c77460711cbb393c48bb2 8377344 Sungame.exe
-loose 5d121203ac74d8ad1f582f7a82833032d6ebbf0cd73203db8ef7e88a61fb459e 3304448 Launcher.exe
+loose f099eb0a2af66dddf3413e9e45f5fe6dbd6a816d7790e8b7860977aaa74b0952 3323392 Launcher.exe
+loose 5ec30a8fbe97628dc2f6d5e1522ceef8dc0ede532d65471c6504b51a33226fa9 4439 Launcher.ini
 script 82d68c40fd6a9e2617fb0f2d98006576dfba7d9509d34602e483488fc61ac531 990950 Data\ChargeIteminfo.txt
 script 27344e5232cad40c27ec5960684eb350daf97f717ca230124d91adfcfd5ff6b9 3743386 Data\ArmorItemInfo.txt
 script 28c3796db5c60be9294beb95758fc1cedf7497e5da99d20b3b62769b2f0b5579 857655 Data\WeaponItemInfo.txt

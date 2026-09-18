@@ -20,6 +20,10 @@
 
 FORMAT 1
 
+[2026-09-18] update | Connection route picker: choose Europe, Asia or South America, or let Automatic pick the fastest.
+
+[2026-09-15] update | The Seal Keeper in Etherain has new stock.
+
 [2026-09-14] update | The Reborn Seal shop has moved to its own trader: the Seal Keeper in Etherain, beside the material traders. The Examiner of Quest Challenge is back to normal.
 
 [2026-09-14] fix | Fixed a white box that could cover the messages next to the auto-hunting bar.
