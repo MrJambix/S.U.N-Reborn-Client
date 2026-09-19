@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-09-18] update | A new story questline for Lv.140 and above begins in Etherain.
+
 [2026-09-18] update | Connection route picker: choose Europe, Asia or South America, or let Automatic pick the fastest.
 
 [2026-09-15] update | The Seal Keeper in Etherain has new stock.

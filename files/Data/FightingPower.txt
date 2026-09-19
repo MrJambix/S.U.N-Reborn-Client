@@ -1,0 +1,11 @@
+// FightingPower.txt -- Combat Power comparison bands.
+//
+// Index is the band; minFP/maxFP bound the DIFFERENCE between the target's
+// Combat Power and your own (target minus you), so a negative band is a weaker
+// target. StringCode is the line shown on the target, and takes the target's
+// name as %s.
+Index	minFP	maxFP	StringCode	FieldEnd
+1	-1000000	-5001	4684	
+2	-5000	5000	4685	
+3	5001	10000	4686	
+4	10001	1000000	4687	

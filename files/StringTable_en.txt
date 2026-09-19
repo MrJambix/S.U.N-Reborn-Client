@@ -34754,7 +34754,7 @@ start
 302411	Collect a gift on each of your first seven days of play. Days 6 and 7 need level 80.
 302412	Day %s
 59100	Cash Vault
-59101	Store All
+59101	Deposit All
 59102	Stored %d items in the Cash Vault.
 59103	Stored %d items. %d could not be stored.
 59104	The Cash Vault only holds Shop, Supply and Trial items.
@@ -34763,4 +34763,45 @@ start
 405101	Earned by clearing battle zones. Exchange it for rewards at a Seal merchant.
 405102	Boss Fragment
 405103	Torn from a battle zone boss. A crafter can combine them into rare rewards.
+59106	The Cash Vault is full.
+59107	The Cash Vault is not available right now.
+406098	Second Sun
+406099	The Second Sun
+406100	A Page That Does Not Match
+406101	The Librarian's Second Copy
+406102	What Was Cut
+406103	Fritz Refuses
+406104	The Calibration Rig
+406105	A Word for the Machine
+406106	Green Where It Should Be Grey
+406107	Three Readings, One Answer
+406108	Ask the Woman Who Fixed It
+406109	Driesch's Correction
+406110	The Dead City Is Still Warm
+406111	Specimen No. 4
+406112	What the Filter Remembers
+406113	Overseer No. 5 Has Been Waiting
+406114	The Fifth Column
+406115	Four Lanterns, One Lock
+406116	Adenauer Will Not Sign It
+406117	Where Alicia Went
+406118	The Empty Chest
+406119	The Tree Is Being Used
+406120	Siphons, Not Thieves
+406121	An Envoy at the Pass
+406122	Ignis's Terms
+406123	The Hand on the Lever
+406124	Node Seven
+406125	The Grass Begins to Die
 end
+405110	The Spear of Dawn
+405111	Complete your class change-up. The Order of the Dawn will take you, and you may create a Paladin.
+406200	The Battle Zone opens in 5 minutes.
+406201	The Battle Zone is now open.
+406202	The Battle Zone closes in 5 minutes.
+406203	The Battle Zone is now closed.
+4684	This player's combat power is lower than yours.
+4685	This player's combat power is similar to yours.\nCombat Power sums a character's overall strength; a fight can still go either way.
+4686	This player's combat power is higher than yours.\nCombat Power sums a character's overall strength; a fight can still go either way.
+4687	This player's combat power is far higher than yours.\nCombat Power sums a character's overall strength; a fight can still go either way.
+4688	Combat Power

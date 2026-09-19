@@ -16474,3 +16474,8 @@ dwCode	szFileName	FieldEnd
 20734 Data\NPC\M5706\Bloodcastle_Knight_Leader.WZU
 20735 Data\NPC\M5707\Bloodcastle_Knight_Cap.WZU
 20736 Data\NPC\M5708\Boss_DarkKnight.WZU
+14096 Data\NPC\M5310\jp_Boss_Tanatos.WZU
+14097 Data\NPC\M5510\jp_MR_Boss_Bellias.WZU
+86464 Data\NPC\R0002\Hell_sprint_cap.WZU
+41378 Data\NPC\M2008\BossGigas_gold.wzu
+41377 Data\NPC\M2008\BossGigas_B.wzu

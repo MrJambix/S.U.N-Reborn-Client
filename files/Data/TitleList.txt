@@ -92,3 +92,4 @@
 	89	405038	1		//	Eternal Lightbringer	SUN Ranking MasterOfHeal rank 1
 	90	405039	1		//	Hand of Mercy	SUN Ranking MasterOfHeal rank 2
 	91	405040	1		//	Oathkeeper of Life	SUN Ranking MasterOfHeal rank 3
+	92	406098	1		//	Second Sun	The Second Sun questline completion

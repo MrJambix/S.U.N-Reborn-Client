@@ -4915,4 +4915,24 @@ start
 17502	Golden Monkey evolving [§Ù]
 405300	Seal Keeper
 405301	Reborn Seal Exchange
+17503	Archivist Vela
+17504	Warden Iskel
+17505	Specimen No. 4
+17506	Engineer-Adept Miron
+17507	Karnatus Envoy Verrick
+17508	Node Seven
+17632	Zerstro the Destroyer
+17633	Uverlauel the Betrayer
+17634	Eifer the Fanatic
+17635	Shadow of the Abyss
+17636	Twilight of the Abyss
+17782	Kurma the Ancient
+17783	Ascendant of the Abyss
+18250	Mad Slaughterer
+18251	Destroyer of Endless Wrath
+18252	Sovereign of the Deep
+18323	Draka the Beast
+19061	Conqueror of Dimensions
+19517	Thanatos, Netherworld Blademaster
+19518	Tatius, Netherworld Fistmaster
 end
