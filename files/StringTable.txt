@@ -34811,3 +34811,4 @@ end
 4686	This player's combat power is higher than yours.\nCombat Power sums a character's overall strength; a fight can still go either way.
 4687	This player's combat power is far higher than yours.\nCombat Power sums a character's overall strength; a fight can still go either way.
 4688	Combat Power
+406204	Boss Invasion
