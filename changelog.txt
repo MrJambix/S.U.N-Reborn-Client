@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-09-20] update | Character and guild names can now use the Russian alphabet - requested by a player. A name must be all Latin or all Russian, not a mix.
+
 [2026-09-18] update | A new story questline for Lv.140 and above begins in Etherain.
 
 [2026-09-18] update | Connection route picker: choose Europe, Asia or South America, or let Automatic pick the fastest.
