@@ -1,0 +1,80 @@
+//·ОµщБЯµµїтё»		
+//		
+Index	HelpString	FieldEnd
+	//ґЬГаЕ°	
+2	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Нажмите M, чтобы открыть карту мира.</sdwcolor></shadow></color>	
+3	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Нажмите кнопку меню в правом нижнем углу, чтобы открыть основное меню и список горячих клавиш.</sdwcolor></shadow></color>	
+4	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Передвигайтесь, щёлкая левой кнопкой мыши по земле, или клавишами W, S, Q и E.</sdwcolor></shadow></color>	
+5	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Щёлкните правой кнопкой мыши в инвентаре, чтобы надеть снаряжение или использовать расходуемый предмет.</sdwcolor></shadow></color>	
+6	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Чтобы помочь участнику группы, щёлкните по нему правой кнопкой мыши в окне группы.</sdwcolor></shadow></color>	
+7	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Ячейки быстрого доступа можно использовать клавишами 1–0 и Alt+1–Alt+0.</sdwcolor></shadow></color>	
+8	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Нажмите Tab, чтобы выбрать ближайшего монстра.</sdwcolor></shadow></color>	
+9	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Когда окно инвентаря активно, нажмите U, чтобы развернуть или свернуть его.</sdwcolor></shadow></color>	
+10	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Нажмите правый Alt, чтобы увидеть предметы, выпавшие поблизости.</sdwcolor></shadow></color>	//20151026јцБ¤
+11	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Нажмите F1, чтобы выбрать себя, и F2–F10, чтобы выбрать участников группы.</sdwcolor></shadow></color>	
+12	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Нажмите PrintScreen — снимок экрана автоматически сохранится в папку Screenshot в каталоге игры.</sdwcolor></shadow></color>	
+	//NPC	
+14	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Храните предметы и игровую валюту — хайм — у NPC-хранителя.</sdwcolor></shadow></color>	
+15	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Доска личных лавок показывает все личные лавки, открытые на вашем канале.</sdwcolor></shadow></color>	
+	//№иЖІБё	
+17	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Заходите в Боевую зону (F11), чтобы играть вместе с другими игроками.</sdwcolor></shadow></color>	
+18	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Используйте запись в очередь Боевой зоны — вас оповестят прямо в игре, когда будет создана нужная комната миссии.</sdwcolor></shadow></color>	
+19	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Пройдите карту миссии до конца, чтобы получить предметы, опыт и хайм.</sdwcolor></shadow></color>	
+20	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Чем больше участников в группе, тем сильнее монстры и тем больше опыта вы получаете.</sdwcolor></shadow></color>	
+	//PK	
+22	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] В пограничных зонах за PK растёт ваш показатель Хаоса.</sdwcolor></shadow></color>	//20151026јцБ¤
+23	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] В зонах конфликта показатель Хаоса не растёт даже за PK.</sdwcolor></shadow></color>	//20151026јцБ¤
+//24	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Tip] АЪАЇєРАпБцїЄАє PKё¦ ЗШµµ Д«їА јцДЎ°Ў »уЅВµЗБц ѕКАёёз, »зёБ ЅГ ѕЖАМЕЫА» µе¶шЗХґПґЩ.</sdwcolor></shadow></color>	//20151026јцБ¤
+25	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] В зонах свободного конфликта можно атаковать принудительно (Ctrl + левый щелчок) даже участников своей группы или гильдии.</sdwcolor></shadow></color>	
+	//ДіёЇЕНБ¤єё	
+27	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] За повышение уровня вы получаете бонусные очки характеристик и очки умений.</sdwcolor></shadow></color>	
+28	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Бонусные очки можно вложить в Силу, Ловкость, Живучесть, Интеллект и Дух.</sdwcolor></shadow></color>	
+29	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Сила влияет на базовую силу атаки.</sdwcolor></shadow></color>	
+30	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Ловкость влияет на точность атаки, скорость атаки и шанс критического удара.</sdwcolor></shadow></color>	//20151026јцБ¤
+31	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Живучесть влияет на максимум HP, восстановление HP, базовую защиту и шанс успешной защиты.</sdwcolor></shadow></color>	//20151026јцБ¤
+32	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Интеллект влияет на силу умений.</sdwcolor></shadow></color>	
+33	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Дух влияет на максимум SP/MP, восстановление SP/MP и длительность накладываемых вами ослаблений.</sdwcolor></shadow></color>	//20151026јцБ¤
+34	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] В окне умений 20 очков, вложенных в текущий ряд, открывают умения следующего ряда.</sdwcolor></shadow></color>	
+35	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Повышение уровня умения очками умений усиливает его характеристики.</sdwcolor></shadow></color>	
+	//ѕЖАМЕЫ°­И­	
+38	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Оружие и броню можно зачаровать у торговца усилением. Зачарованное снаряжение получает более высокие характеристики.</sdwcolor></shadow></color>	
+39	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Неудача при среднем или высоком зачаровании может понизить уровень зачарования. Синий реагент не даёт уровню понизиться при неудаче.</sdwcolor></shadow></color>	
+40	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Неудача при высшем зачаровании может уничтожить снаряжение. Красный реагент не даёт снаряжению разрушиться при неудаче.</sdwcolor></shadow></color>	
+41	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Если у оружия или брони есть гнёзда, с помощью Зардов им можно придать дополнительные свойства.</sdwcolor></shadow></color>	
+42	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Принесите 3 Зарда одного ранга торговцу усилением — с определённым шансом их можно сплавить в Зард более высокого ранга.</sdwcolor></shadow></color>	
+43	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Добавка для сплава Зардов повышает шанс успеха при сплаве.</sdwcolor></shadow></color>	
+44	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Максимум Зардов на предмет: 1 наилучший, 2 высшего ранга, 3 среднего ранга и 5 низшего ранга.</sdwcolor></shadow></color>	
+45	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Свойства гнёзд суммируют очки всех Зардов и активируются на 1P, 10P, 30P и 50P.</sdwcolor></shadow></color>	
+46	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Гнёзда можно открыть только на оружии и броне. Максимум гнёзд — 5.</sdwcolor></shadow></color>	
+47	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Для предметов с неопознанными гнёздами используйте действие «Проверить ранг гнёзд», чтобы узнать их число.</sdwcolor></shadow></color>	
+	//Жк	
+49	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Питомца нельзя призвать, когда его сытость равна 0. Однако в городе призвать его можно.</sdwcolor></shadow></color>	
+50	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Свойства питомца открываются на разных уровнях в зависимости от его преданности.</sdwcolor></shadow></color>	
+51	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Сытость питомца растёт от корма или со временем, пока он ждёт в городе.</sdwcolor></shadow></color>	
+52	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Преданность питомца растёт от премиум-корма или со временем, пока он призван в поле или на миссиях.</sdwcolor></shadow></color>	
+	//ДїЅєЕТ ЖРЅГєк	
+54	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Наденьте особую пассивку и охотьтесь на монстров, чтобы копить её опыт и повышать уровень.</sdwcolor></shadow></color>	
+55	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Если надеть 2 и более особые пассивки одного типа, действует штраф.</sdwcolor></shadow></color>	//20151026јцБ¤
+56	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Одинаковые особые пассивки одного типа не меняют скорость накопления их опыта.</sdwcolor></shadow></color>	
+57	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Опыт за задания не засчитывается в опыт особых пассивок.</sdwcolor></shadow></color>	
+66	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Особые пассивки находятся на средней вкладке окна умений (K).</sdwcolor></shadow></color>	
+67	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Одновременно можно надеть до 4 особых пассивок.</sdwcolor></shadow></color>	
+	//ЕҐєк	
+59	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Список недавних сплавов куба хранит до 15 записей; самые старые удаляются первыми.</sdwcolor></shadow></color>	
+60	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Функция блокировки в списке недавних сплавов куба сохраняет запись навсегда.</sdwcolor></shadow></color>	
+61	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] В кубе предметы можно разобрать и получить другие материалы.</sdwcolor></shadow></color>	
+	//±вЕё	
+63	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Красная часть полосы HP после удара — это участок восстановления (автолечение).</sdwcolor></shadow></color>	
+64	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Установите на оружие Разрядник эфира, чтобы тратить заряды эфира/майя и наносить мощный удар.</sdwcolor></shadow></color>	
+65	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Удерживайте левый Ctrl и наведите курсор на снаряжение в инвентаре, чтобы сравнить его с надетым.</sdwcolor></shadow></color>	
+68	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] В каждом городе есть Кристальный столп, дающий бафф на определённое время.</sdwcolor></shadow></color>	
+69	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Баффы Кристального столпа действуют только на персонажей 1–115 уровня и персонажей максимального уровня.</sdwcolor></shadow></color>	//20151026јцБ¤
+70	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Бафф Кристального столпа длится 30 минут, а если получить его в партнёрском заведении SUN Premium — 60 минут.</sdwcolor></shadow></color>	
+	//БЎ·ЙАь	
+71	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Гильдейская миссия «Возвращение Зонненшайна» проходит каждое воскресенье с 21:00 до 21:45.</sdwcolor></shadow></color>	
+72	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] В гильдейской миссии «Возвращение Зонненшайна» награды выдаются за пройденные этапы, даже если последний этап не пройден.</sdwcolor></shadow></color>	
+73	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Каждый вход в гильдейскую миссию «Возвращение Зонненшайна» расходует один предмет «Клятва королей».</sdwcolor></shadow></color>	
+74	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Монстры в гильдейской миссии «Возвращение Зонненшайна» с определённым шансом роняют «Сложный Улулу» с эффектами зелий сущности Медведя, Сокола, Волка и Змеи.</sdwcolor></shadow></color>	
+75	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] «Сложный Улулу» из гильдейской миссии «Возвращение Зонненшайна» используется автоматически при подборе и действует 45 минут.</sdwcolor></shadow></color>	
+76	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] В гильдейской миссии «Возвращение Зонненшайна» могут участвовать до 200 членов гильдии.</sdwcolor></shadow></color>	
+76	<color=ffffffff><shadow=1><sdwcolor=ffff4800>[Совет] Баффы печатей захвата региона / Мондшайна / Зонненшайна не суммируются. Действует только наивысший бафф каждого вида.</sdwcolor></shadow></color>	

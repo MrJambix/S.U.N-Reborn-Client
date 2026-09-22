@@ -24758,7 +24758,7 @@ start
 //오후 4:37 2012-11-16	
 29961	Set off an Active Volcano under the ground where the target is to inflict %s damage and cause a burn with a %s chance to inflict %s damage.
 //오후 12:06 2012-11-19	
-28952	Scratch your enemy with a flaming weapon to inflict %s damage and scarring them with a %s chance to inflict %s damage.
+28952	Scratch your enemy with a flaming weapon to inflict %s damage and set them on fire with a %s chance to inflict %s burn damage.
 28954	Perform an upper-cut blow with flames on an enemy to inflict %s damage. Knocks back the enemy with a %s chance.
 //오후 6:28 2012-11-19	
 11898	Cooldown:  %sh %sm
@@ -27497,7 +27497,7 @@ start
 28977	Rotate your upper body and strike enemies strongly to inflict %s damage.
 28978	Jumps up highly towards the selected target and squash enemy by your weight. Inflicts %s damage to the target and nearby enemies.
 28980	Inject blaster's ether into enemy to inflict %s damage and knock back.
-28982	Switch the selected target's position. Decrease the target's defence power to %s, knocks down by %s chance. (Can not be used to monster)
+28982	Switch places with the selected enemy. Decrease the target's defence power to %s, knocks down by %s chance. (Cannot be used on bosses)
 29970	Bump your head into selected target to inflict %s damage.
 29971	Fire sphere of energy into selected target to inflict %s damage.
 29972	Swing your blaster strongly at the enemy's legs to inflict %s damage and knocks down by %s chance.
@@ -29218,7 +29218,7 @@ start
 43170	a Sapphire Iron Costume (Helroid)
 43171	[Reinforcement]a Sapphire Iron Costume (Helroid)
 //오후 2:30 2014-06-24
-26055	Revives a corpse with dark spirit to use it in battle. An ability of %s. A maximum of %s souls can be revived.
+26055	Raises every fallen enemy within 10m to fight for you. No target needed. Revived souls rise with %s of their HP. A maximum of %s souls can be under your control.
 //오후 3:01 2014-06-24
 43147	[Real] [프리미엄] 수수께끼 상자 조각 1/5
 43148	[Real] [프리미엄] 수수께끼 상자 조각 2/5
@@ -30038,7 +30038,7 @@ start
 29942	Rise up a wind of chill around you and attack enemies. Nearby enemy receives %s damage and puts them frozen status by %s chance.
 29943	Jump into the air and throw sword energy toward surrounding. Nearby enemy receives %s damage and wounded with a %s chance receives %s damage every second for 10 seconds.
 29944	Consume 5 FP to summon Freeze Witch Cielis for 5 seconds. Increase attack and defence of alliance by %s and recovers HP of alliance by %s within the area of Cielis every second. Cielis is unable to summon Titania or Banshee at the same time.
-29945	Increase HP Recovey Amount by %s.
+29945	Increase your MP/SP Recovery Amount by %s.
 29946	Consume all of the FP and summon Fallen Appointee Magnetic Gravito when FP is full. Recovers HP of nearby alliance by %s and inflicts %s damage on enemies. Also Puts them fear status by %s chance.
 29947	Strike downward strongly empowers the sword. Inflict %s damage on nearby enemies and puts them down status by %s chance for 5 seconds.
 //오전 11:13 2014-09-19
@@ -30503,7 +30503,7 @@ start
 12512	Dark Dyed Morrighu Belt
 12513	Dark Dyed Morrighu Shirt
 12514	The 3rd half Elite Item
-29410	Launches powerful bomb under enemy's feet to inflict %s \ndamage. The wounded enemy is upper down state by %s chance.
+29410	Launches powerful bomb under enemy's feet to inflict %s \ndamage. The wounded enemy is knocked down by %s chance.
 //오후 5:18 2014-11-04
 45546	EXP Potion
 46563	Use of the EXP Potion at 130 level, which increases to 170 level.

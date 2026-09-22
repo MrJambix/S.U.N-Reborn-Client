@@ -1,7 +1,7 @@
 start	
-1	Start Game
+1	Начать игру
 2	Back to Lobby
-3	Exit Game
+3	Выйти из игры
 4	Open
 5	Close
 18	Change
@@ -34,16 +34,16 @@ start
 46	Earth
 47	Fire
 48	Select Server
-49	Exit Game
-50	Select character
+49	Выйти из игры
+50	Выбор персонажа
 51	Key Mapping
 52	Kick
 53	Battle Zone Name
-54	Type
+54	Тип
 55	Area
 56	Limit Settings
 57	Number of participants
-58	Creator
+58	Создатель
 59	Time
 60	Display Settings
 61	Refresh
@@ -58,7 +58,7 @@ start
 72	Class Restriction
 73	Field map
 74	Monster type
-75	Bonus
+75	Бонус
 76	MISSION
 77	CUSTOM
 78	Berserker possible
@@ -71,8 +71,8 @@ start
 85	Weak physical strength
 86	Slow speed
 87	All appear
-88	EXP
-89	Item
+88	Опыт
+89	Предмет
 90	Enter creator's character name.
 91	Enter password
 92	No Battle Zone created by that character.
@@ -85,7 +85,7 @@ start
 101	Cancel
 102	Select
 103	Select World
-104	Create
+104	Создать
 105	Cancel
 106	Make public? Yes or No
 107	Battle Zone Name
@@ -96,7 +96,7 @@ start
 112	Max level exceeds the limit. Please enter again.  
 113	"Please confirm Battle Zone creation information. (Map, Battle Zone Name, and Restriction)"
 114	This Battle Zone name has been taken. Please enter again.
-115	Start Game
+115	Начать игру
 116	Move to Village
 117	Party moves to Forest of Beasts map. Will you accompany them?
 118	Party moves to Sewer map. Will you accompany them?
@@ -167,19 +167,19 @@ start
 185	Rotate camera to left
 186	Rotate camera to right
 187	Change Viewpoint 1
-188	Delete
-189	Create
-190	Type %d
-191	Type %d
+188	Удалить
+189	Создать
+190	Тип %d
+191	Тип %d
 192	%s
-193	Name
+193	Имя
 194	Customize Character
 195	Face
 196	Height
 197	Profile
 198	Basic Stats
 199	Previous screen
-201	All
+201	Все
 202	Guild
 203	Party
 204	Trade
@@ -193,7 +193,7 @@ start
 221	HP
 222	MP
 223	SP
-224	EXP
+224	Опыт
 225	%d
 226	%d
 227	%d
@@ -257,8 +257,8 @@ start
 333	%s
 334	%s
 335	Free
-336	Normal
-337	Busy
+336	Нормально
+337	Занято
 338	%s
 339	%s
 340	%s
@@ -319,13 +319,13 @@ start
 409	Fighting Style
 411	Content
 412	Description
-413	Dragonic
-414	Berserk
-415	Combat
-416	Offensive
-417	Summon
-418	Ether
-419	Circle
+413	Драконий
+414	Берсерк
+415	Бой
+416	Наступление
+417	Призыв
+418	Эфир
+419	Круг
 420	Defender
 422	In progress
 423	Buy
@@ -347,7 +347,7 @@ start
 442	Sound Options
 443	Resolution
 444	Texture Quality
-447	Shadow
+447	Тень
 448	Glow
 449	Fog
 450	Background
@@ -426,7 +426,7 @@ start
 548	%d
 549	Please select an item to buy.
 550	Please select an item to sell.
-551	Not enough Heim.
+551	Недостаточно хайма.
 552	Sales Message
 553	%s
 554	%s
@@ -446,9 +446,9 @@ start
 573	Slot 4
 574	Slot 5
 600	-
-601	All
-602	Mission
-603	Hunting
+601	Все
+602	Миссия
+603	Охота
 605	Limit Settings
 606	Level Limit
 607	%d
@@ -459,20 +459,20 @@ start
 612	Class Limit
 613	Select Field
 614	Difficulty
-615	Bonus
-616	Shortcut
+615	Бонус
+616	Быстрый доступ
 617	Mission Battle Zone
 618	Hunting Battle Zone
 620	Enter Battle Zone
 621	Create Battle Zone
-622	Public
-623	Private
+622	Открытая
+623	Закрытая
 624	%s
 625	%d
 626	%s
 627	%s
 628	Player Info.
-629	Players
+629	Игроки
 630	%d
 631	%d
 632	Area Info
@@ -480,10 +480,10 @@ start
 634	Restrictions
 635	Lobby Chat
 637	Search
-638	Room Title
+638	Название комнаты
 639	Password
-640	Mission
-641	Hunting
+640	Миссия
+641	Охота
 642	%s
 643	Invited Players
 644	Party Lead
@@ -495,7 +495,7 @@ start
 650	Field 2
 651	Field 3
 652	Hard
-653	Normal
+653	Нормально
 654	Easy
 655	%s
 656	%s
@@ -545,16 +545,16 @@ start
 700	Switch Team
 701	Please select a reward.
 702	%d
-703	EXP
+703	Опыт
 704	%d
-705	EXP
+705	Опыт
 721	Please select an item to enchant.
 722	%s
 723	will be enchanted.
 724	Enchant success!
 725	Item cannot be enchanted.
 726	Check the enchant level of the item.
-727	Enchant failed.
+727	Зачарование не удалось.
 728	You need more materials.
 729	Please place item to enchant.
 730	High grade enchantment costs %d Heim.
@@ -571,7 +571,7 @@ start
 741	%d
 742	%s
 743	%d
-744	Enchant
+744	Зачарование
 745	Reset
 746	High Grade Enchant
 747	Materials
@@ -599,7 +599,7 @@ start
 779	Place required materials.
 780	Item Creation
 781	Item Crystallization
-782	Create
+782	Создать
 783	Craft Accessory
 784	Craft Materials
 790	Select a Gem to place in the socket.
@@ -645,7 +645,7 @@ start
 845	%d
 846	%s
 847	%d
-848	Create
+848	Создать
 849	%s %s crafted successfully.
 850	You will lose your materials if crafting fails.
 861	%s
@@ -656,18 +656,18 @@ start
 866	Remove option
 871	My Offer
 872	%s
-873	Offer
+873	Предложить
 874	Revise Offer
-875	Trade Complete
+875	Обмен завершён
 876	%d
 877	Received Offer
 878	%d
 879	Accept Trade
-880	Offer Complete
-881	Trade cancelled.
-882	Trade completed.
+880	Предложение готово
+881	Обмен отменён.
+882	Обмен завершён.
 883	%s
-884	Please enter amount.
+884	Введите количество.
 891	Character has died.
 892	From Lv.11, you receive durability reduction penalty.
 893	If you press 'Resurrect on the Spot', you can resurrect at the current spot.
@@ -773,7 +773,7 @@ start
 5004	Waiting for server response.
 5005	Please check your password.
 5006	Connection to server failed.
-5007	Please select server.
+5007	Выберите сервер.
 5050	To delete the character, please enter your password.
 5099	Do you really want to quit?
 5101	%s obtained.
@@ -808,7 +808,7 @@ start
 7003	You need to equip %s to use the skill.
 7004	You need to be level %d to use the skill.
 7005	You do not have enough proficiency.
-7006	Use after selecting a target.
+7006	Используйте после выбора цели.
 7007	You do not have enough HP.
 7008	You do not have enough MP.
 7009	You do not have enough SP.
@@ -849,7 +849,7 @@ start
 11157	MP use
 11158	Required proficiency for next level : %d
 11159	Next required skill point: %d
-11160	Next required level: %d
+11160	Требуемый уровень для следующего: %d
 11164	Combat requirement: %d
 11165	Dragonic requirement: %d
 11168	Offensive requirement: %d
@@ -874,7 +874,7 @@ start
 11240	Debuff
 11241	Heal
 11242	Transformation
-11243	Summon
+11243	Призыв
 11244	Resurrection
 11245	Magic
 11246	Divine
@@ -884,7 +884,7 @@ start
 11301	Duration
 11302	Minute(s)
 11303	Second(s)
-11501	Normal
+11501	Нормально
 11502	Leader
 11503	Elite
 11504	Captain
@@ -922,7 +922,7 @@ start
 30093	Tin
 30094	Cast Iron
 30095	Guardian
-30096	Valley of the Dragonkin
+30096	Долина драконьего рода
 30097	Miraculous
 30098	Dawn Opener
 30099	Lava-heated
@@ -995,7 +995,7 @@ start
 30275	Prophet's
 30276	Circle's
 30277	Holy Spirit's
-30278	Elemental
+30278	Элементаль
 30279	Dreadful Silence
 30281	Strong Patience
 30282	Wanderer Epios
@@ -1279,13 +1279,13 @@ start
 60007	Secret Fortress
 60008	Hidden Waterway
 65001	The player does not exist.
-65002	You are not the party leader.
+65002	Вы не лидер группы.
 65003	You are not a party member.
-65004	Party does not exist.
+65004	Группа не существует.
 65006	Does not meet the level requirement.
 65007	Invalid room status. Please try again.
-65008	You can't change the party leader.
-65009	You are already in a party.
+65008	Нельзя сменить лидера группы.
+65009	Вы уже в группе.
 65010	The player did not invite you to a party.
 65011	Invalid data type. Please try again.
 65012	Unknown error occurred (1). Please contact GM
@@ -1449,13 +1449,13 @@ start
 50102	It has been told that the beast riders of the Dark Order, #well adapted to this wild forest, exist here. #Forest of Beasts has been known to swallow all living things.
 50103	However, you must pass through this forest#to go to Etherain.
 50104	Sewers stretch like cobwebs in the underground of Etherain.#These sewers of unknown origin, #were hard-fought battle fields during the height of territorial dispute# and never ending destruction and death in the past.
-50105	Violent temper of the battle field brought fourth dark and damp underground air#luring evil energy.#This presence keeps the dead from their eternal rest and sleep.
+50105	Яростный нрав поля боя породил тёмный и сырой подземный воздух,#влекущий злую энергию.#Это присутствие не даёт мёртвым обрести вечный покой и сон.
 50106	Place for the undead who lost humanity and have only an aggressive temper and strength.#in order to punish the master of Etherain, who is a mere servant of Schwartz.# This place must be passed through as quickly as possible.
 50107	The castle was situated among the mountain ridges above a pure white Snowy Plains. #It was a location where people had been reluctant to enter because of the harsh terrain and severe cold.#However, it was also a place beauty with glowing snow and ice.
 50108	However, the evil forces of the Black Demon have penetrated this place# and turned the innocent chill into a deadly coldness that #snatches everything away from all beings without mercy.
 50109	A world where time seems to have stopped.#Under neath the cold ice, where living creatures, sleeping refrained from breathing lay, #await for a hero who will bring time back to this world once again.#
 50110	A place of exile, where the Dragonkins were restrained by black magic.#They were expelled to a lava plateau in the remote region with their power sealed by the Demons#who were jealous and feared the Dragonkin's power.
-50112	They will surely lend their help to people #who keep the promise to help them regain their lost power.
+50112	Они непременно помогут тем, #кто сдержит обещание вернуть им утраченную силу.
 50113	A fertile soil blessed by the God of Wind and Goddess of Earth.#But, after the benevolent and clever monarch fell into evil doctrines ,#God's blessing departed this land.
 50114	Now, the land of heretics who admire destruction and death, #it will be hard to see the glory of the past again.#The Lord of Castle who posseses the heart of Ether and#owes their resurection to the Emperor, #devastated this land with more evil forces.
 50115	In order to recover the fertile land,#the one who caused the destruction must be defeated.
@@ -1465,7 +1465,7 @@ start
 1401	First Reward
 1402	Second Reward
 1403	Mission Points
-1404	Complete
+1404	Готово
 1405	%s
 1406	%d
 5605	Automatically return to the village due to lack of player input.
@@ -1479,8 +1479,8 @@ start
 5614	The fight is over!
 5615	Blue team
 5616	Red Team
-5209	Whisper to %s: %s
-5210	Whisper from %s: %s
+5209	Шёпот для %s: %s
+5210	Шёпот от %s: %s
 751	25%
 752	50%
 753	75%
@@ -1651,7 +1651,7 @@ start
 30004	Spear
 30007	One-Handed Crossbow
 30008	Ether Weapon
-30009	Staff
+30009	Посох
 30010	Orb
 35001	Armor
 35002	Protector
@@ -1685,7 +1685,7 @@ start
 1054	Guild Mark
 1101	Allows overall guild management.
 1041	Guild member: %d persons
-1055	Guild name: %s
+1055	Гильдия: %s
 1056	Control village: %s
 1057	Guild UP: %I64u
 1058	Private UP: %d
@@ -1695,7 +1695,7 @@ start
 1063	Honor war: %d times Win %d times Defeat
 1064	Rank war: Win %d times Semifinal Win %d times
 1065	Siege war: %d times defend
-1017	Guild Master: %s
+1017	Глава гильдии: %s
 1018	Guild Level: %s
 1071	Allied Guilds
 1072	Hostile Guilds
@@ -1732,7 +1732,7 @@ start
 23104	Panic
 23105	Impotence
 23106	Weaken
-23107	Failed
+23107	Неудача
 23108	Frustration
 23109	Shackle
 23110	Slow
@@ -1813,7 +1813,7 @@ start
 23303	Invisible
 23304	Fear
 23305	Unable to attack
-23306	Summon
+23306	Призыв
 23307	Recharge Sword power
 24001	"Subject is unable to identify friend or foe, so it attacks anyone."
 24002	"Eyesight of the subject is reduced to 1, making it unable to identify things beyond that range."
@@ -2385,7 +2385,7 @@ start
 12007	MP consumption:
 12008	SP consumption:
 12009	Additional effect(s):
-12011	Level %d
+12011	Уровень %d
 12012	Equipped weapon required
 12013	Cast Time: Instant
 12100	Weapon
@@ -2473,8 +2473,8 @@ start
 8253	Insert
 8254	Home
 8255	Page Up
-8256	Delete
-8257	End
+8256	Удалить
+8257	Конец
 8258	Page Down
 8259	Prt Scr
 8260	Scroll Lock
@@ -2502,20 +2502,20 @@ start
 8287	Selected action is not possible to lock.
 8288	%s
 8289	%s
-8290	None
+8290	Нет
 8291	"Key overlapped. ""%s"" key is set to ""none""."
 8292	"Select an action and press a key to set a new short-cut. Overlapped key will be set to ""none""."
 8293	Restore Defaults
 8294	Defaults
 8295	Category
 8296	Spear
-8297	Combat
+8297	Бой
 8298	System
 8299	Miscellaneous
 8300	Shortcut key setup
 8301	%s
 8302	Help
-11259	Manual Attack
+11259	Ручная атака
 11260	Stop
 11263	Cancel summoning
 487	Disable Voice chat
@@ -2535,7 +2535,7 @@ start
 8199	F12
 9001	%s
 9002	%s
-9003	Mission
+9003	Миссия
 9004	Mission In Progress
 9005	%s
 9006	Reward
@@ -2561,7 +2561,7 @@ start
 9028	%s
 9029	%d
 9030	%s
-8108	All
+8108	Все
 8109	Unlock Target
 8126	%s
 8248	;
@@ -2639,7 +2639,7 @@ start
 9955	Ranking
 9956	Party No.
 9957	Time Record
-9958	Name
+9958	Имя
 9959	Sub Mission 
 9960	Area
 9961	%s
@@ -2701,7 +2701,7 @@ start
 5308	Cannot use extra stone.
 91001	%s Area Conquest
 91002	Collection
-91011	Hunting
+91011	Охота
 91012	%s
 91013	%d / %d
 91014	%s
@@ -3224,7 +3224,7 @@ start
 40342	Dark Ether Crystal
 41341	Natural Ether that has a mysterious energy around it.
 41342	Ether that has been changed by Geist Empire's black magic. It serves as the foundation of the Imperial army.
-604	Hunting
+604	Охота
 619	Hunting Zone
 17	Enter message
 14	Key configuration
@@ -3507,11 +3507,11 @@ start
 91159	Spy of Empire Ditto
 91160	Spiritual body of Brukelt
 91163	Priest Sitnarta
-91164	Rumanka
+91164	Руманка
 91165	Bartashu
 91168	Suraky
-91169	Flame Drake
-91170	Kalbus
+91169	Огненный дрейк
+91170	Кальбус
 91171	Captain Killed
 91143	Treasure map
 91144	Treasure Box
@@ -3685,7 +3685,7 @@ start
 5411	Voice chat port already in use.
 5412	No sound channel for voice chat.
 91101	Common
-91102	Mission
+91102	Миссия
 91103	Event
 91104	Hidden
 9062	Time Remained: %d hours %d mins %d secs
@@ -3695,9 +3695,9 @@ start
 40116	Strength Crystal
 41116	A material needed to craft an Extra Stone.
 40017	Special Accessory
-590	Progress
-591	In Progress
-592	Waiting
+590	Ход
+591	Идёт
+592	Ожидание
 5212	You cannot limit your own class.
 4901	Lv. 2 Wind Potion X10
 4902	Lv. 2 Rejuvenation Potion X5
@@ -3723,7 +3723,7 @@ start
 5331	"Due to limitation setup, you cannot enter the map."
 5332	You can join the room.
 5333	Suggested rooms are availible.
-5334	You are not the party leader.
+5334	Вы не лидер группы.
 5335	Competitive hunting is in progress. You cannot create or enter a waiting room.
 5336	You cannot change the options for this type of room.
 5337	Cannot establish link to other hunting group.
@@ -3753,7 +3753,7 @@ start
 5345	You cannot use this function. 
 5346	Incorrect information.
 5347	You cannot drop the item. 
-5348	Item does not exist.
+5348	Предмет не существует.
 5349	Item not for sale
 5350	This item cannot be traded. 
 5351	You cannot drop this item.
@@ -3856,7 +3856,7 @@ start
 45076	Dry Leaf
 45077	Dark Ether
 45078	Condiment
-45079	Medium
+45079	Средний
 45080	Abrasive
 45081	Combiner
 45082	Piece of Wood
@@ -4141,7 +4141,7 @@ start
 12015	Cast time:
 12016	Cooldown:
 5061	You have been muted for spamming.
-5062	Please try again later.
+5062	Попробуйте позже.
 1000	%s
 887	Move to Village
 5120	[%s]sold for %d Heim.
@@ -4162,7 +4162,7 @@ start
 8339	%s
 8340	%s
 1501	%s
-1502	Ignis
+1502	Игнис
 1503	%s
 1504	%s
 9091	Opposing team has entered.
@@ -4353,7 +4353,7 @@ start
 400020	About Mission Map
 400023	Source of the sinister rumor
 400024	Area Conquest (AC) System
-400025	Marduk the Brutal
+400025	Мардук Жестокий
 300035	Heavy Box
 301035	Heavy box that contains special items
 5118	You do not meet the proficiency requirements for item [%s].
@@ -4383,7 +4383,7 @@ start
 5160	That guild doesn't exist.
 5161	You cannot join the guild.
 5162	Guild information could not be retreived.
-5163	Please try again later.
+5163	Попробуйте позже.
 5164	Please try again. Information was incomplete.
 869	Select 'Resurrect at the entrance' to revive at the entrance.
 5364	You cannnot brought back to life.
@@ -4555,7 +4555,7 @@ start
 233	Chat
 234	Shout
 2000	https://www.gathertheguilty.com/account/register
-235	Channel
+235	Канал
 50301	"<FONT=m212>Congratulations. <COLOR=FF99CC00><HERONAME/></FONT></COLOR><FONT=mn12> has successfully completed the </FONT><FONT=m212><COLOR=FFCC99FF>Forest of Beasts</COLOR> main mission.</FONT><FONT=mn12>The main mission can be played again, but the rewards will change.</FONT>"
 50302	<FONT=m212>Congratulations. <COLOR=FF99CC00><HERONAME/></FONT></COLOR><FONT=mn12> has successfully completed the </FONT><FONT=m212><COLOR=FFCC99FF>Forest of Beasts</COLOR> main mission.</FONT>
 50303	"<FONT=m212>Congratulations. <COLOR=FF99CC00><HERONAME/></FONT></COLOR><FONT=mn12> has successfully completed the </FONT><FONT=m212><COLOR=FFCC99FF>Forest of Beasts</COLOR> sub mission.</FONT><FONT=mn12><RETURN=1/>Sub mission can be played again, but the rewards will be changed.</FONT>"
@@ -4621,8 +4621,8 @@ start
 1703	System Message ON
 1704	System Message OFF
 1705	You have not joined a channel.
-1706	Shout ON
-1707	Shout OFF
+1706	Крик ВКЛ.
+1707	Крик ВЫКЛ.
 1708	&channel
 1709	Channel Name: %s
 1710	Number of People: %d
@@ -4841,7 +4841,7 @@ start
 201176	If you succeed in your mission, we can open the road to Etherain. Please do this quickly, as I cannot stand to see my brothers continue to die.
 201177	Be on your way to complete your mission. I will stay with my soldiers here to fight and protect the tower. We will meet again if we are successful.
 4545	Private Shop List
-4546	No.
+4546	№
 4547	Seller
 4548	%d
 47987	Grade C Liberation Army Endowment
@@ -4852,7 +4852,7 @@ start
 1653	Hunting Level Requirement
 1654	Range of levels available for selection at your current level: %d - %d
 1655	Sub-mission: %s
-1656	Field %d
+1656	Поле %d
 1631	Revenge List <points: %d>
 5271	%s has been added to the Revenge List.
 5272	%s has been deleted from the Revenge List.
@@ -5587,7 +5587,7 @@ start
 5789	Not valid event.
 5907	Decrease murderer state duration by %s.
 5908	Decrease pre-murderer state duration by %s.
-283	Channel
+283	Канал
 5909	Murderer state
 5910	Pre-murderer state
 1720	[%s] has entered in [%s] channel.
@@ -5666,7 +5666,7 @@ start
 5551	Please enter the password.
 5553	Confirm the password.
 5554	No password specified. Please specify one.
-5555	Incorrect password.
+5555	Неверный пароль.
 578	Slot 6
 579	Slot 7
 580	Slot 8
@@ -5815,7 +5815,7 @@ start
 5377	Elite items can't be ranked up.
 558	View Quest Progress
 155300	%d
-155301	Normal
+155301	Нормально
 155303	Affiliated Premium
 5862	Enter account
 5863	Enter password
@@ -5854,7 +5854,7 @@ start
 5931	There is no flag item of the field battle commander.
 284	Item Shop (\)
 1345	Drop
-1346	Delete
+1346	Удалить
 1347	Move to Storage
 1348	Impossible
 1349	It is impossible to make a transaction, sale, drop, deletion or move to storage.
@@ -5880,7 +5880,7 @@ start
 23245	Mental curse
 23246	Mental vitality
 5823	Trade has failed.
-5824	Trade cancelled.
+5824	Обмен отменён.
 5825	Not enough space in inventory.
 5826	Not enough space in the player's inventory.
 5827	The player doesn't have enough Heim.
@@ -5954,7 +5954,7 @@ start
 1140	M
 1141	Enter
 1142	Shift
-1143	Delete
+1143	Удалить
 1144	Keyboard Input
 1145	Mouse Input
 1146	%d
@@ -6312,13 +6312,13 @@ start
 1829	LORD OF SUN
 1830	Guild Master
 1831	Defender
-1832	Berserk
-1833	Combat
-1834	Dragonic
-1835	Offensive
-1836	Summon
-1837	Ether
-1838	Circle
+1832	Берсерк
+1833	Бой
+1834	Драконий
+1835	Наступление
+1836	Призыв
+1837	Эфир
+1838	Круг
 1839	Adult User
 1840	Male User
 1841	Female User
@@ -6548,7 +6548,7 @@ start
 5084	The script version is not the same.
 5060	The Shout function can be used by level 20 and up.
 1361	Write Inquiry
-1364	Waiting
+1364	Ожидание
 1365	Registration Number: %d
 1366	Person in waiting: %d
 1367	Estimated time: %d hour(s) %d minute(s) %d second(s)
@@ -6796,7 +6796,7 @@ start
 5253	You can't use skill.
 5836	An error related to the private shop has occurred.
 5144	%d hour(s) %d min(s) remaining.
-5145	The slot has already been registered.
+5145	Ячейка уже назначена.
 5146	You cannot use the function of this item.
 5147	The durability of %s has become 0.
 5148	Do you want to add random option to [%s]?
@@ -7025,7 +7025,7 @@ start
 301146	A container for the spirit of the frozen dead woodcutter
 1762	Points Earned
 1766	No. of players
-1767	Remaining time
+1767	Оставшееся время
 1768	The battle begins in %d seconds.
 1908	Do you want to cancel Write Inquiry?
 1421	Change Room Title
@@ -7292,7 +7292,7 @@ start
 301158	Two copies of a knight's oath
 301159	Unpleasant gray ash found in the field of the Ice Crystal Palace
 301160	"A letter that Marcy, a scholar in Etherain, asked to have delivered"
-528	Exclude item
+528	Убрать предмет
 46158	A proof given to those who conquer the Forest of Beasts.
 46160	A proof given to those who conquer the Frozen Land.
 46161	A proof given to those who conquer the Valley of Dragonkin.
@@ -7485,7 +7485,7 @@ start
 1224	Open guild storage
 6190	You are not allowed to withdraw items from the guild storage.
 6191	Another guild member is using the guild storage. Please try again in a moment.
-6192	Not enough Heim.
+6192	Недостаточно хайма.
 6193	Unstorable item.
 6195	You can't grant a position to a high-level guild member.
 6196	You must choose a guild member to which to grant a position.
@@ -7613,7 +7613,7 @@ start
 11327	Submaster
 11328	Templar
 11329	Bishop
-11330	Escort Captain
+11330	Капитан сопровождения
 11331	Elite
 11332	Ace
 11333	Guard Captain
@@ -7790,7 +7790,7 @@ start
 9075	%s
 158063	Coyote Elixir 2
 1354	Disband
-1355	Create
+1355	Создать
 1352	%s
 1453	Switch Corps
 1455	First Corps
@@ -7800,7 +7800,7 @@ start
 1459	Fifth Corps
 1460	Sixth Corps
 1466	Submaster
-1467	Escort Captain
+1467	Капитан сопровождения
 1468	Guard Captain
 1470	Soldier
 1353	Trainee
@@ -7973,7 +7973,7 @@ start
 1873	Gift Delivery Window
 1874	Delivery Completed
 203108	You've brought 10 gift boxes for me?
-1287	Unlimited
+1287	Без ограничений
 1854	%d
 45177	Lv.1 Mayan Jewel
 46177	Ingredient of Lv.2 Mayan Jewel
@@ -8592,9 +8592,9 @@ start
 //2008-02-26	
 6371	Caution! You have entered a conflict area.
 6372	Caution! You have enetered a skirmish area.
-1636	Busy
+1636	Занято
 1637	Operating
-1638	Smooth
+1638	Свободно
 48057	"A coupon that reads ""A."" Take it to Ein and receive a New Year's present."
 48058	"A coupon that reads ""Happy."" Take it to Ein and receive a New Year's present."
 48059	"A coupon that reads ""Greetings."" Take it to Ein and receive a New Year's present."
@@ -8797,7 +8797,7 @@ start
 //2008-03-07	
 11025	Rebuy Price: %s Heim
 //2008-03-10	
-1089	Max
+1089	Макс
 1267	Enter the GP to convert.
 //2008-03-11	
 6330	Luck item authentication has failed. Please try again.
@@ -8902,9 +8902,9 @@ start
 158100	Falcon Elixir
 7206	Guild rank level is too low or not authorized for change notice.
 //2008-03-27	
-11373	Low
-11374	High
-11375	Medium
+11373	Низкий
+11374	Высокий
+11375	Средний
 11376	Best
 11462	Ether projectile compatible
 11463	Ether projectile incompatible
@@ -9234,7 +9234,7 @@ start
 1798	Revert
 1799	%s
 1816	"You can try on the weapons and armor in the game without having to meet the requirements. But it's only possible to try them, you don't actually get to wear them in the game."
-1817	Create
+1817	Создать
 9178	Dano Festival Event
 9179	Make Special Meat Dumpling
 9180	Make Special Red-Bean Dumpling
@@ -9386,7 +9386,7 @@ start
 400288	Securing the Southern Supply Route
 400289	Call for Support
 400290	Fighting Alone
-400291	Etherain
+400291	Этерейн
 400292	Fisherman's Request
 400293	Stolen Fishing Rod
 400295	Legendary Fish
@@ -9447,7 +9447,7 @@ start
 203152	Inflicts additional 100% of the damage done. Increases damage by 2 when attacking lucky monster. Available only when ether discharger is mounted.
 23311	Invincible
 23312	Concentration
-23313	Berserk
+23313	Берсерк
 24311	Protects the caster from all attacks.
 24312	Increases damage from skills greatly.
 24313	Increases Summoned Creature abilities greatly.
@@ -9477,7 +9477,7 @@ start
 400321	Recovery of Honor
 400323	Reason For Being
 400324	Lost Past
-400325	Boss Ohma
+400325	Босс Ома
 400326	Looking For Power
 400327	Magic Research
 400328	Evil Cerberus
@@ -9623,7 +9623,7 @@ start
 41547	A manual containing the list of materials required to create a low-grade soul defender.
 41548	A manual containing the list of materials required to create a high-grade soul defender.
 //2008-08-01	
-400322	Marduk the Brutal
+400322	Мардук Жестокий
 //2008-08-05	
 6333	Maximize Number of Icons
 6334	Minimize Number of Icons
@@ -10135,7 +10135,7 @@ start
 400351	Regaining Trust 1
 400352	Regaining Trust 2
 400353	Regaining Trust 3
-400354	Shadow
+400354	Тень
 400355	Imperial Herald
 400356	Silent Movement
 400357	Shadow Alliance 1
@@ -10182,11 +10182,11 @@ start
 46324	Pledge of Magician alliance
 46325	A map showing secret passages within Etherain
 46326	A secret document belonging to the traitor Turncoat. It shows the location of the Frozen Palace mission area.
-1879	No.
-1880	Type
-1881	Progress
-1882	Room Title
-1883	Players
+1879	№
+1880	Тип
+1881	Ход
+1882	Название комнаты
+1883	Игроки
 1884	Map Name
 31161	Steel
 31162	Mithril
@@ -10610,7 +10610,7 @@ start
 159233	Elemental Resistance Rate increased by 30%
 159234	Elemental Resistance Rate increased by 45%
 1663	Arrange
-1664	Progress
+1664	Ход
 //2009-01-14	
 41391	Increases critical chance for 10 minutes
 41392	Increases critical chance for 10 minutes
@@ -10677,8 +10677,8 @@ start
 //2009-02-03	
 9086	%s
 9087	Arrange
-9088	Progress
-9089	Complete
+9088	Ход
+9089	Готово
 //2009-02-04	
 1640	Select a chapter.
 1643	%d/%d
@@ -11131,7 +11131,7 @@ start
 400547	Collect Supplies
 400548	Scout Captain Hartwin
 400549	Hartwin! What happen to Imperial Messenger?
-400550	White Mage
+400550	Белый маг
 400551	Could It be the Deserter?
 400552	Paperwork Whereabouts
 400553	Hartwin's Blunder
@@ -11169,7 +11169,7 @@ start
 400587	(Retry) Mission Second Attack on Snowfield
 400588	Where Is the Ether Plant?
 400589	Look Again!
-400590	Tower of Ruins
+400590	Башня руин
 400591	Tower of Ruins Exploration
 400592	Locate the South Scout
 400596	Eliminate the Crystal Tunnel Tribe
@@ -11188,7 +11188,7 @@ start
 400611	Scouting Speed 2
 400612	Ancient Dragon grave scout captain's anguish
 400613	Scout Jen
-400614	Flame Cerberus
+400614	Огненный цербер
 400615	Jen's Report
 400616	Scout Zach
 400617	Gray Earth Soldier
@@ -11205,7 +11205,7 @@ start
 400628	(Retry) Mission Scout the Valley Entrance (Party Recommended)
 400629	Results of Mistrust
 400630	To a Messenger
-400631	Red Lava Valley
+400631	Долина красной лавы
 400632	Valkyrie Clan Suspected
 400633	Traces of Spirits 1
 400634	Traces of Spirits 2
@@ -11216,7 +11216,7 @@ start
 400639	(Retry) Mission Clue of Track (Party Recommended)
 400640	Valkyrie Clan's Innocence
 400641	Wailing Valley Manhunter
-400642	Wailing Valley
+400642	Долина стенаний
 400643	Captured Scout
 400644	Captured Scout
 400645	Prepare for Interrogation
@@ -11318,7 +11318,7 @@ start
 400741	Intense Battle 2
 400742	Dimension Creature
 400743	Hungry Ravager
-400744	Blue Flame Warrior
+400744	Воин синего пламени
 400745	The Depraved
 400746	Stopping the Great Ritual
 400747	West Ritual Offering
@@ -11569,7 +11569,7 @@ start
 302145	Admission Ticket for Monster Rush Event
 302146	Wind's Badge
 302147	Wind's Free Gift Token
-302148	Chick
+302148	Цыплёнок
 303144	Wind's Event Invitation\n\n'Collect 10 of them'
 303145	Click to move to the event map.
 303146	Collect 10 Wind's Event Invitations to win a Wind's Free Gift Token!
@@ -11636,16 +11636,16 @@ start
 400806	Ominously Contaminated Creature 1
 400807	Ominously Contaminated Creature 2
 400808	Ominously Contaminated Creature 3
-400809	Ether Seal
+400809	Печать эфира
 400810	Captured Mages
 400811	Manhunter's Insignia 1
 400812	Manhunter's Insignia 2
 400813	Manhunter's Insignia 3
 400814	Manhunter's Insignia 4
-400815	Evil Sorcerer
+400815	Злой колдун
 400816	Obstacle
 400817	Order
-400818	Chieftain Omadu
+400818	Вождь Омаду
 400819	Search
 400820	The Spell of Sorcerer
 400821	Deciphering the Spell of Sorcerer
@@ -11670,17 +11670,17 @@ start
 400840	Manhunter Koblentz
 400841	Charmed Mage
 400842	Breakthrough
-400843	Proprietress Rosemary
+400843	Хозяйка Розмари
 400844	Ghoul of Altar
 400845	Seal of Bone
 400846	The Dead of Blood
 400847	Seal of Time
 400848	The Dead of Flesh
-400849	Knight Eldin
+400849	Рыцарь Элдин
 400850	Unseal 1
 400851	Unseal 2
 400852	Unseal 3
-400853	Vice-Captain Vern
+400853	Заместитель капитана Верн
 400854	Knights' Soul
 400855	Assault Charger Oste
 400856	Dangerous Device
@@ -11692,26 +11692,26 @@ start
 400862	Otto Von Roshfelt
 400863	"Cursed Tower, Trial of Earth"
 400864	Trial of Earth
-400865	Beastman Master
+400865	Мастер зверолюдов
 400866	Conqueror of Earth
 400867	"Cursed Tower, Trial of Water"
 400868	Trial of Water
-400869	Master of the Castle
+400869	Владыка замка
 400870	Conqueror of Water
 400871	"Cursed Tower, Trial of Fire"
 400872	Trial of Fire
-400873	Prince of the Flames
+400873	Принц пламени
 400874	Conqueror of Fire
 400875	"Cursed Tower, Trial of Wind"
 400876	Trial of Wind
-400877	Kalbus
+400877	Кальбус
 400878	Conqueror of Wind
 400879	"Cursed Tower, Trial of Darkness"
 400880	Trial of Darkness
 400881	Champion of Darkness
 400882	Conqueror of Darkness
 400883	Cursed Tower
-400884	Blood Seal
+400884	Печать крови
 302149	Head of Cerberus
 302150	Manhunter's Insignia 1
 302151	Manhunter's Insignia 2
@@ -11790,7 +11790,7 @@ start
 11171	Circle required
 11200	Basic Defense
 11381	Available Class
-1926	Channel
+1926	Канал
 //2009-05-27	
 23252	SD
 23253	Recommendation
@@ -12561,7 +12561,7 @@ start
 401171	Search the northeastern Graveyard of Pain.
 401172	Search the central chapel area of Graveyard of Pain.
 //2009-07-28	
-2119	Delete
+2119	Удалить
 2120	Letters don't match. Please enter correctly.
 //2009-07-30	
 401173	Chain quest
@@ -12735,7 +12735,7 @@ start
 3278	Enter
 3280	Manage Takeover
 3281	Request / Manage Mercenaries
-3282	Date
+3282	Дата
 3284	Bet
 3285	The lowest entry bid is %d Heim.
 3286	Guild fund
@@ -12893,7 +12893,7 @@ start
 //їАИД 5:20 2009-10-13	
 3309	%s
 //їААь 10:23 2009-10-19	
-6457	Failed
+6457	Неудача
 6458	Unable to find the rider's information.
 6459	This item is not for a rider.
 6460	This item has expired.
@@ -13890,7 +13890,7 @@ start
 2151	%d
 2152	%d
 2153	%s
-2154	Start
+2154	Начало
 2155	Heims to spend
 2156	Title
 //їАИД 17:45 2010-02-02	
@@ -14047,7 +14047,7 @@ start
 47357	Enigmatic Cube
 //їАИД 5:52 2010-03-10	
 964	Collecting
-965	Hunting
+965	Охота
 966	Clear
 //їАИД 3:52 2010-03-11	
 4116	%d
@@ -14767,12 +14767,12 @@ start
 11531	Lv. 81-100
 11532	Lv. 101-115
 11533	Lv. 115-130
-11534	Forest of Beasts
-11535	Etherain Sewer
-11536	Frozen Palace
-11537	Valley of the Dragonkin
-11538	Aiort Graveyard
-11539	Helron's Castle
+11534	Лес зверей
+11535	Стоки Этерейна
+11536	Замёрзший дворец
+11537	Долина драконьего рода
+11538	Кладбище Айорт
+11539	Замок Хелрона
 11540	Cursed Tower
 11541	Corrupted Temple
 11542	Quest
@@ -14809,7 +14809,7 @@ start
 158999	NONE
 159000	NONE
 //їАИД 3:00 2010-08-11	
-158541	Start
+158541	Начало
 158542	Stop
 158543	Quit
 158544	Settings
@@ -15459,11 +15459,11 @@ start
 2541	Head Equipment
 2542	Body Equipment
 2543	Leg Equipment
-2545	Berserker
-2546	Dragon
-2547	Valkyrie
-2548	Elemental
-2549	Shadow
+2545	Берсерк
+2546	Дракон
+2547	Валькирия
+2548	Элементаль
+2549	Тень
 2550	All Sets
 2551	Berserker Set
 2552	Dragon Set
@@ -15608,10 +15608,10 @@ start
 5392	You cannot use this function while trading.
 //їАИД 4:28 2010-10-19	
 11470	%s \nLv. %d %d Heim (Click to move.)
-11471	Not enough Heim.
+11471	Недостаточно хайма.
 11472	Your level is not high enough to move.
 11473	You can board the Flying Vessel in the air.\nDo you want to move?
-11474	Not enough Heim.
+11474	Недостаточно хайма.
 11475	Your level is not high enough to move.
 //їАИД 4:38 2010-10-19	
 2141	C-coin
@@ -15668,9 +15668,9 @@ start
 6493	Congratulations! %s has been created.
 12116	Scroll for checking socket level
 12117	Mysterious scroll that you can use to check unchecked socket item level <Double click to use.>
-12119	Low
-12120	Medium
-12121	High
+12119	Низкий
+12120	Средний
+12121	Высокий
 12122	Best
 40063	Medium Grade Zard
 40064	Best Zard
@@ -16999,7 +16999,7 @@ start
 //їАИД 1:54 2011-02-14	
 42036	Medium-grade Crafting Ring
 //їАИД 4:39 2011-02-14	
-9046	All
+9046	Все
 //їАИД 5:17 2011-02-14	
 3437	Bonuses
 3439	Socket Option
@@ -18003,20 +18003,20 @@ start
 45603	Red Seal Scroll
 45604	Blue Seal Scroll
 //їААь 12:13 2011-03-25	
-11382	Berserker
-11383	Valkyrie
-11384	Elementalist
+11382	Берсерк
+11383	Валькирия
+11384	Элементалист
 11385	Dragon Knight 
-11388	Shadow
+11388	Тень
 11313	________ Set Bonus ________
 11343	Full Set Bonus
 11344	________ Package Item_________
 11314	%d Bonuses:
 //їАИД 6:02 2011-03-25	
 5730	Very Low
-5731	Low
-5732	Medium
-5733	High
+5731	Низкий
+5732	Средний
+5733	Высокий
 5734	Very High
 //їАИД 7:11 2011-03-25	
 11595	A Hero's weapon yet to be completed.\nEffective when battling monsters. Can be strengthened by the crafter NPC.
@@ -18153,33 +18153,33 @@ start
 155741	Sinister Rumor
 155742	Conspiracy of Iron Beast Tribe
 155743	Foiled Conspiracy
-155744	Forest of Beasts
+155744	Лес зверей
 155745	Break through Etherain Sewer.
 155746	Hidden Passage
-155747	Access Road to Etherain
-155748	Grave of the Siegel Knights
-155749	Etherain Sewer
+155747	Дорога к Этерейну
+155748	Могила рыцарей Сигеля
+155749	Стоки Этерейна
 155750	Break through Frozen Palace.
 155751	Restraining Imperial Messenger
 155752	Battle of the Castle Outskirts
 155753	Second Attack on Snowfield
-155754	Frozen Palace
+155754	Замёрзший дворец
 155755	Break through Valley of the Dragonkin.
 155756	Scout the Valley Entrance
 155757	Clue of Track
 155758	Rescue the Dragonkin chief
-155759	Valley of the Dragonkin
+155759	Долина драконьего рода
 155760	Break through Aiort Graveyard.
 155761	Tracking the Great Ritual
 155762	Hidden Danger
 155763	Toward the Hall of Darkness
 155764	Altar of Darkness
-155765	Aiort Graveyard
+155765	Кладбище Айорт
 155766	Attack Helron's Castle.
 155767	The Tainted Shrine
 155768	The Identity of Black Ether
 155769	Desperate Resurrection Ritual
-155770	Helron's Castle
+155770	Замок Хелрона
 155771	Purity Green Earth
 155772	First Stronghold Secured
 155774	Green Earth_Sub 3 (String change required)
@@ -18426,7 +18426,7 @@ start
 //їАИД 9:25 2011-04-04	
 5393	The equipment effect disappeared because of the removal of the equipment worn.
 //їАИД 2:35 2011-04-05	
-158303	Kalbus
+158303	Кальбус
 //їАИД 5:55 2011-04-05	
 158770	[Mission] Seal Schwartz Pramme in Helron's Castle
 //їАИД 3:20 2011-04-06	
@@ -19072,7 +19072,7 @@ start
 155974	Add Character Slot.
 158974	Used to add 1 slot to create a character. You can view the added slot in Character Selection. Up to 10 character slots can be owned (including default slots). 
 //їАИД 4:10 2011-06-09	
-5993	You can create a character.
+5993	Можно создать персонажа.
 //їАИД 6:32 2011-06-09	
 9590	Change Old Materials of the Corrupted Temple
 9591	Trade Old Winner Rewards.
@@ -19190,7 +19190,7 @@ start
 6505	Celebrity
 6506	Great
 6508	Neutral
-6509	Medium
+6509	Средний
 6510	Good
 6511	Very Good
 6512	%s Fame has increased by %s.
@@ -19255,9 +19255,9 @@ start
 6635	Collect Item: 9 Mounts
 6636	Very Special Mount
 6637	King Slayer
-6638	Schwartz Pramme
+6638	Шварц Прамме
 6639	Destroyer Berserker
-6640	Kalbus
+6640	Кальбус
 6641	Miracle Resurrection
 6642	Killed by monsters 50 times
 6643	Killed by monsters 100 times
@@ -19352,7 +19352,7 @@ start
 6581	Guardian
 6583	Raise Fame by completing the Brakion Liberation Army Reputation AC.
 6584	Liberation Army Council
-6588	Etherain
+6588	Этерейн
 6589	Aiort
 //їАИД 8:53 2011-07-18	
 155495	%s
@@ -19391,7 +19391,7 @@ start
 155529	Gift
 155530	Buy
 155531	Unequip
-155533	Delete
+155533	Удалить
 155534	OK
 155535	Move
 155975	Storage Box for Expedition
@@ -19648,8 +19648,8 @@ start
 47556	Crystal of Darkness
 48556	"A crystal that emits strong energies of darkness. It is said that the Mysterious Man W., who showed up in Waldchen, can craft a Darkness Elite Weapon with this crystal. Like K., he prefers to trade in secret ..."
 //їАИД 5:16 2011-08-16	
-155550	Success
-155551	Failed
+155550	Успех
+155551	Неудача
 155553	Available after placed into the inventory
 155554	Message
 155555	Receive
@@ -21142,7 +21142,7 @@ start
 //їАИД 7:03 2011-11-14	
 155598	Spinning Hamster
 155599	Pot Fox
-155600	Dragon
+155600	Дракон
 158598	Summons the Spinning Hamster (Bonus is offered when summoned; additional bonus is offered when its loyalty is 60% & 100%.).
 158599	Summons the Pot Fox (Bonus is offered when summoned; additional bonus is offered when its loyalty is 60% & 100%.).
 158600	Summons the Dragon (Bonus is offered when summoned; additional bonus is offered when its loyalty is 60% & 100%.).
@@ -21318,8 +21318,8 @@ start
 45649	Hot Ancient Treasure Chest
 46649	A mysterious box containing the soul of Ancient Divine Creature. You can feel the energy of the Phoenix's Wings from it.
 //їАИД 5:12 2011-11-22	
-6586	Waldchen
-6587	Tringel
+6586	Вальдхен
+6587	Трингель
 6590	Aukra
 //їАИД 5:45 2011-11-22	
 6519	"Waldchen, a rear base of the Liberation Army, puts all its efforts to train recruits and provide supplies for the army. Its primary goal is to keep peace in the Forest of Beasts so that it can transport soldiers and supplies safely.<RETURN=1/><COLOR=FFE46D0A>- You can carry out a daily quest in Waldchen after you become Lv. 90.<RETURN=1/>- It affects the Fame of the Liberation Army Council.</COLOR>"
@@ -21378,7 +21378,7 @@ start
 402174	Seidt's Investigation 1
 402175	Seidt's Investigation 2
 402176	Seidt's Investigation 3
-402177	Forest Entrance
+402177	Вход в лес
 402179	The Captured Beastman Scout 2
 402180	Beserk of Blue City Beast Berserker
 402181	Beserk of Narrow Valley Scout Captain
@@ -21421,16 +21421,16 @@ start
 402220	Village Restoration 3
 402221	Village Restoration 4
 402222	The Tringel Council's Order 2
-402223	Rusty Floodgate Sewer
+402223	Сток с ржавым шлюзом
 402224	Scout Kaior's Task
 402225	Eliminate Skeleton Foot Soldiers
 402226	Eliminate Dark Sewer Foot Soldiers
 402227	Eliminate Criminal Wanderers
 402228	Ghost's Remains
-402229	West Sewer of Maze
+402229	Западный сток лабиринта
 402230	Dark Sewer Watchmen
 402231	Dark Sewer Archer
-402232	Dark Skeleton Foot Soldier
+402232	Тёмный скелет-пехотинец
 402233	Dark Sewer Watchman Captain
 402234	Wandering Vindictive Spirits
 402235	Exorcism 1
@@ -21854,7 +21854,7 @@ start
 402277	[Nightmare Trial] Valley of Life
 //їАИД 3:00 2012-01-09	
 47655	Currency
-47656	Type
+47656	Тип
 47657	Owned
 //їАИД 6:23 2012-01-10	
 402278	Hungry Pilgrims
@@ -22160,7 +22160,7 @@ start
 7321	Eclipse
 7323	Magic Lab
 2450	Submaster
-2451	Escort Captain
+2451	Капитан сопровождения
 2452	Soldier
 //їААь 8:00 2012-02-02	
 5633	You cannot use recovery magic on spirits or undead.
@@ -24161,7 +24161,7 @@ start
 2616	Failed to create a room.
 2617	Failed to enter a room.
 2618	Unable to create a room for now.
-2619	The room does not exist.
+2619	Комната не существует.
 //їАИД 12:54 2012-09-19
 2397	That item is already sold.
 //їАИД 4:08 2012-09-19	
@@ -25359,7 +25359,7 @@ start
 2686	Leave Battlefield
 2687	Red Team
 2688	Blue Team
-2689	All
+2689	Все
 2690	Time Spent: %s minutes % seconds
 //їААь 11:09 2013-01-24	
 45801	Crystal Palace
@@ -26156,7 +26156,7 @@ start
 2818	Effect Quality
 2819	Level of Detail(LOD)
 2820	Brightness
-2821	Shadow
+2821	Тень
 2822	Glow
 2823	Fog
 2824	Tile blending
@@ -28472,7 +28472,7 @@ start
 2951	Extracting
 2952	%s
 2953	%s (%s)
-2954	All
+2954	Все
 2955	%s
 2956	%s / %s
 2957	Level
@@ -28525,7 +28525,7 @@ start
 2938	All,Only me,Off
 2939	5
 //їАИД 3:35 2014-03-27	
-3237	All
+3237	Все
 3238	Confirmed Monster
 3239	%s
 3240	LV %s
@@ -33297,7 +33297,7 @@ start
 //їАИД 9:12 2015-11-24
 11142	Progress : 
 11143	In progress
-11144	Waiting
+11144	Ожидание
 11145	Remaining time : %dMin %2dSec
 //їААь 11:12 2015-11-25	
 402655	Christmas Luxury Costume
@@ -33527,6 +33527,23 @@ start
 48799	Thank you very much with SUN for the year 2015\n\nThis badge is a time-limited items available until April 07, 2016 Periodic inspection.
 48831	Thank you very much with SUN for the year 2015\n\nThis badge is a time-limited items available until March 10, 2016 Periodic inspection.
 48838	Thank you very much with SUN for the year 2015\n\nThis badge is a time-limited items available until February 18, 2016 Periodic inspection.
+404039	A sacred race that has protected the Moraine royal family for so long that even the beginning of history cannot be remembered. Known as the 'Spear of Dawn,' the Arcana were essentially the heart of the Moraine Kingdom. However, after falling into deep despair upon witnessing the royal family walk the path of corruption, having forgotten their sacred oath, they vanished from the world. Now, after thousands of years, as the world is consumed by chaos and despair due to 'Ignis,' they have reappeared as if it were only natural. Sensing the crisis of the world, they are no longer bound by the despair of the past and have taken up their spears once more to become true guardians.
+404040	The tip of their spears that punish evil was like the dawn's light piercing through darkness, and their protecting people with warm light was like a steadfast shield. Thus, people named them Paladins, who suddenly appeared along with the schemes of Ignis. At times ruthless judges, at times devoted guardians, wherever the spear of light can reach, they will appear and protect the world.
+404529	Paladin
+404530	Arcana
+405001	W-Coin Voucher (100)
+405002	Use this voucher to add 100 W-Coin (c) to your ACCOUNT.\nThe voucher is consumed when used, and an open Cash Shop shows the new balance straight away.
+405003	Account Item
+405004	Beta Tester Badge
+405005	Awarded to the players who tested S.U.N Reborn before it opened.\nRight-click the badge to show or hide the BETA mark above your head.
+405006	S.U.N Reborn Beta
+405007	Thank You, Beta Tester
+405008	Hamsalot
+405009	Summons Hamsalot. A perfectly ordinary hamster, as far as anyone has been able to establish.\nIt keeps its own counsel, never asks to be fed, and stays exactly as devoted on the first day as on the last.
+405010	Grand Adventurer's Emblem
+405011	Worn in a Cash Slot. While it is equipped:\n\n- Items and Heim that drop within reach are collected automatically\n- +15% experience from monsters\n- +50% Heim from monsters\n- +500 maximum SD\n- +5% chance of success when crafting\n\nExpires 7 days after purchase. Cannot be traded or sold.
+405012	Sir Hogsalot
+405013	Summons Sir Hogsalot, a hog of vast appetite and absolutely no manners.\n\nWhile his loyalty is at 100% he snuffles up every item and coin that drops within reach and brings it to you.\n\nAnywhere below 100% he cannot be bothered, and his loyalty runs out twice as fast as a well-raised pet's. Keep hunting with him out and he will come round again.
 70800	Berserker Wings
 70801	Dragon Knight Wings
 70802	Shadow Wings
@@ -33638,23 +33655,6 @@ start
 59003	You cannot sort your inventory again just yet.
 59010	Online
 59011	The online list was just refreshed. Try again in a moment.
-404039	A sacred race that has protected the Moraine royal family for so long that even the beginning of history cannot be remembered. Known as the 'Spear of Dawn,' the Arcana were essentially the heart of the Moraine Kingdom. However, after falling into deep despair upon witnessing the royal family walk the path of corruption, having forgotten their sacred oath, they vanished from the world. Now, after thousands of years, as the world is consumed by chaos and despair due to 'Ignis,' they have reappeared as if it were only natural. Sensing the crisis of the world, they are no longer bound by the despair of the past and have taken up their spears once more to become true guardians.
-404040	The tip of their spears that punish evil was like the dawn's light piercing through darkness, and their protecting people with warm light was like a steadfast shield. Thus, people named them Paladins, who suddenly appeared along with the schemes of Ignis. At times ruthless judges, at times devoted guardians, wherever the spear of light can reach, they will appear and protect the world.
-404529	Paladin
-404530	Arcana
-405001	W-Coin Voucher (100)
-405002	Use this voucher to add 100 W-Coin (c) to your ACCOUNT.\nThe voucher is consumed when used, and an open Cash Shop shows the new balance straight away.
-405003	Account Item
-405004	Beta Tester Badge
-405005	Awarded to the players who tested S.U.N Reborn before it opened.\nRight-click the badge to show or hide the BETA mark above your head.
-405006	S.U.N Reborn Beta
-405007	Thank You, Beta Tester
-405008	Hamsalot
-405009	Summons Hamsalot. A perfectly ordinary hamster, as far as anyone has been able to establish.\nIt keeps its own counsel, never asks to be fed, and stays exactly as devoted on the first day as on the last.
-405010	Grand Adventurer's Emblem
-405011	Worn in a Cash Slot. While it is equipped:\n\n- Items and Heim that drop within reach are collected automatically\n- +15% experience from monsters\n- +50% Heim from monsters\n- +500 maximum SD\n- +5% chance of success when crafting\n\nExpires 7 days after purchase. Cannot be traded or sold.
-405012	Sir Hogsalot
-405013	Summons Sir Hogsalot, a hog of vast appetite and absolutely no manners.\n\nWhile his loyalty is at 100% he snuffles up every item and coin that drops within reach and brings it to you.\n\nAnywhere below 100% he cannot be bothered, and his loyalty runs out twice as fast as a well-raised pet's. Keep hunting with him out and he will come round again.
 12829	Returning Hero's
 204715	[E-7] Anuket
 204716	[E-7.5] Anuket of Ambition
@@ -34548,6 +34548,8 @@ start
 406027	Material
 406028	Current
 406029	After
+406030	This skill can be liberated.
+406031	You are not carrying a liberation stone.
 59040	Craft chance %d%% (%s)
 59041	Craft chance %d%% (%s, +%d%% gear)
 59042	Most you can craft now: %d
@@ -34593,7 +34595,7 @@ start
 59082	Use Quickslot 78
 59083	Use Quickslot 79
 59084	Use Quickslot 80
-59030	Max
+59030	Макс
 59031	Show: All
 59032	Show: Can make
 59033	Crafting %d uses %s
@@ -34735,6 +34737,10 @@ start
 31225	[E-3] Nemesis'
 31226	[E-3.5] Dark Dyed Nemesis
 31227	[E-4] Fenrir's
+405014	Wanderer's Crate
+405015	Sealed by a traveller who never came back for it. Opens to one mount, chosen at random and kept for good. <Right-click to open>
+405016	Festival Crate
+405017	Fireworks, pet feed, a repair kit or a bundle of Vigor elixirs  whatever was left over from the last celebration. <Right-click to open>
 405018	Lizzard
 405019	Summons Lizzard, a golden reptile with a nose for treasure and a habit of helping himself.\n\nWhile he is out he grants +200% experience and +100% Heim from monsters, gathers up every item and coin that drops within reach, drinks a healing potion for you below 70% HP and a mana potion below 50% MP, and makes rare drops far more likely.\n\nHe never needs feeding.
 59085	Equipment Details Panel
@@ -34793,7 +34799,6 @@ start
 406123	The Hand on the Lever
 406124	Node Seven
 406125	The Grass Begins to Die
-end
 405110	The Spear of Dawn
 405111	Complete your class change-up. The Order of the Dawn will take you, and you may create a Paladin.
 406200	The Battle Zone opens in 5 minutes.
@@ -34806,3 +34811,4 @@ end
 4687	This player's combat power is far higher than yours.\nCombat Power sums a character's overall strength; a fight can still go either way.
 4688	Combat Power
 406204	Boss Invasion
+end

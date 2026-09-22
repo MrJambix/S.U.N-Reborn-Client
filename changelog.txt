@@ -20,6 +20,10 @@
 
 FORMAT 1
 
+[2026-09-22] update | You can now play in Russian. Pick your language at the top right of the launcher: the launcher switches with it, and the game starts in the language you chose. Translation is still under way, so a lot of the text is English for now and will fill in with later updates.
+
+[2026-09-22] update | Soul Control now raises every fallen enemy within 10m with no need to pick a target, and can keep up to 12 risen fighters. Air Blow, Flame Claw and Low Blow now set up their follow-up attacks properly, Witchblade party HP recovery is stronger, and self buffs last longer.
+
 [2026-09-20] update | Character and guild names can now use the Russian alphabet - requested by a player. A name must be all Latin or all Russian, not a mix.
 
 [2026-09-18] update | A new story questline for Lv.140 and above begins in Etherain.

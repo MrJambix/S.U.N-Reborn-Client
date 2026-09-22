@@ -1,0 +1,468 @@
+StrCode	Str	FieldEnd
+1	Information Officer Elin	
+2	Welcome, <heroclass/> <heroname/>.<RETURN=1/>I am '<COLOR=FFE46D0A>Information Officer Elin</COLOR>', and I am in charge of your training.<RETURN=1/>Press the '<COLOR=FF0070C0>View Info</COLOR>' button below and I will explain the basics to you.	
+3	Are you all right, <heroname/>?!<RETURN=1/>Let me show you <COLOR=FFE46D0A>how to recover from death</COLOR> right away.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+4	So you have earned <COLOR=FFE46D0A>Online Points</COLOR>?<RETURN=1/>The longer you stay here, the more points you can earn.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+5	Oh dear... you have struck down another player.<RETURN=1/>Since this is your first time it ends at the '<COLOR=FFE46D0A>pre-murderer</COLOR>' state, but please be careful from now on.<RETURN=1/>While you are a pre-murderer, NPCs may refuse to cooperate with you.	
+6	How disappointing, <heroname/>...<RETURN=1/>By decision of the high command, we have no choice but to brand you a '<COLOR=FFFF0000>murderer</COLOR>'.<RETURN=1/>While you are a murderer, most NPCs will avoid you.	
+8	So <heroname/> has become the master of a <COLOR=FFE46D0A>guild</COLOR>.<RETURN=1/>But founding one is hardly all there is to running a guild, is it?<RETURN=1/>To read about managing and operating a guild, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+9	You have obtained an enhancement item.<RETURN=1/>With this magic stone called a '<COLOR=FFE46D0A>Photon</COLOR>' you can make your equipment even stronger.	
+10	You have obtained a <COLOR=FFE46D0A>Divine item</COLOR>.<RETURN=1/>Divine items are powerful equipment with holy power added to ordinary gear.<RETURN=1/>They are <COLOR=FF7030A0>shown with purple names</COLOR>, so you can recognize them easily.	
+11	You have obtained a <COLOR=FFE46D0A>Rare item</COLOR>.<RETURN=1/>Rare items carry special options on top of their basic attack and defense, so they perform better than ordinary items.<RETURN=1/>They are <COLOR=FF0070C0>shown with blue names</COLOR>, so you can recognize them easily.	
+12	You have got your hands on an <COLOR=FFE46D0A>Elite item</COLOR>!<RETURN=1/>Elite items are the finest equipment known to us so far.<RETURN=1/>They are shown with <COLOR=FFFFC000>yellow names</COLOR> and are divided into types for fighting monsters and types for fighting players.	
+13	<heroname/>, you have <COLOR=FFE46D0A>leveled up</COLOR>. Congratulations!<RETURN=1/>Each level up grants you <COLOR=FFE46D0A>5</COLOR> <COLOR=FFE46D0A>stat points</COLOR>.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+14	You have earned <COLOR=FFE46D0A>skill points</COLOR>.<RETURN=1/>Open the <COLOR=FF0070C0>Skill window (K)</COLOR> and strengthen your skills.<RETURN=1/>After raising them you must press the '<COLOR=FF0070C0>Apply button</COLOR>', or the changes will not take effect.	
+15	<heroname/>, have you made many friends here?<RETURN=1/>The <COLOR=FF0070C0>Community (F) </COLOR>menu makes it much easier to keep track of them.<RETURN=1/>Press the <COLOR=FF0070C0>F key</COLOR> to open the Community window.	
+16	You seem to be growing steadily, <heroname/>.<RETURN=1/>How about forming a <COLOR=FFE46D0A>guild</COLOR> to share the long journey ahead with you?<RETURN=1/>Whenever you feel ready, look for the '<COLOR=FFE46D0A>Guild Manager</COLOR>' in town.	
+17	Have you seen people traveling with a <COLOR=FFE46D0A>pet</COLOR>?<RETURN=1/>Adopt your own pet, which grants options just by staying at your side, at the <COLOR=FF0070C0>Item Shop (\)</COLOR> right now.<RETURN=1/>Oh, and never forget to give it <COLOR=FFE46D0A>feed</COLOR>!	
+18	Have you tried trading directly with other people?<RETURN=1/>Click another player and then <COLOR=FF0070C0>right-click the target info window</COLOR> to <COLOR=FF0070C0>request a trade</COLOR>.<RETURN=1/>Using the <COLOR=FF0070C0>Private Store</COLOR> on the Action tab of the <COLOR=FF0070C0>Skill window (K)</COLOR> is another good way.	
+19	Were the supplies we handed you when you first arrived enough?<RETURN=1/>Useful goods that will help your adventure are stocked at the <COLOR=FF0070C0>Item Shop (\)</COLOR>.<RETURN=1/>Press the <COLOR=FF0070C0>\ key</COLOR> now and visit the <COLOR=FFE46D0A>Item Shop</COLOR>!	
+20	<COLOR=FFE46D0A>Brandon the Groom</COLOR> of Waldchen asked us to let him know when we saw you, <heroname/>.<RETURN=1/>He has an urgent favor to ask, and would like you to <COLOR=FFE46D0A>come to Waldchen</COLOR> when you have time.	
+21	Curious about what the <COLOR=FFE46D0A>Ranking Manager</COLOR> does?<RETURN=1/>A party of five or more formed through the Battle Zone can compete with other parties for clear times.<RETURN=1/>The Ranking Manager awards prizes to the first, second and third place parties of each mission.	
+22	Have you visited the <COLOR=FFE46D0A>Cursed Tower</COLOR> that the priests of trial speak of?<RETURN=1/>Besides missions, the Ranking Manager also keeps the <COLOR=FFE46D0A>point ranking</COLOR> of the Cursed Tower.<RETURN=1/>That one is an individual ranking rather than a party ranking, so make good use of it.	
+23	Have you seen the <COLOR=FFE46D0A>Strange Traveler</COLOR> in Etherain?<RETURN=1/>They are looking for seasoned warriors, and by now they most likely have business with <heroname/> as well. <COLOR=FFE46D0A>Go and find the Strange Traveler in Etherain.</COLOR>	
+24	Have you seen the <COLOR=FFE46D0A>Temple Passages</COLOR> raised across the continent?<RETURN=1/>Guild members can fight for control of the <COLOR=FFE46D0A>Temple of Blood</COLOR>.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+25	<COLOR=FFE46D0A>Secret Agent O'Sherley</COLOR> in <COLOR=FFE46D0A>Aukra</COLOR> is looking for you.<RETURN=1/>Travel to Aukra and find Secret Agent O'Sherley.	
+26	You have accepted a <COLOR=FFE46D0A>quest</COLOR>.<RETURN=1/>Shall we learn a little more about quests?<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+27	You have gained <COLOR=FFE46D0A>experience</COLOR>.<RETURN=1/>Shall we learn a little more about experience?<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+28	Are quests still unfamiliar to you?<RETURN=1/>There is more information about quests ready for you.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+29	Wondering where you should get items?<RETURN=1/>If you would like to know how items are obtained, press the '<COLOR=FF0070C0>View Info</COLOR>' button.	
+30	Equipment you receive as a reward is useless unless you wear it.<RETURN=1/>You can equip it by <COLOR=FF0070C0>right-clicking</COLOR> it in your <COLOR=FF0070C0>Inventory (I)</COLOR>.	
+32	<COLOR=FF0070C0>Mount a Zard</COLOR> and defeat the <COLOR=FFE46D0A>summoned monsters</COLOR>!<RETURN=1/><COLOR=FFFF0000>If you failed to complete the quest, </COLOR>you can <COLOR=FF0070C0>abandon it and accept it again</COLOR> to try once more.	
+33	This world is governed by a law known as the '<COLOR=FFE46D0A>affinity of the elements</COLOR>'.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+35	Not sure how to <COLOR=FFE46D0A>gather</COLOR>?<RETURN=1/>Press the '<COLOR=FF0070C0>View Info</COLOR>' button below and I will explain gathering in detail.	
+36	<COLOR=FFE46D0A>Passive skills</COLOR> let you strengthen the abilities you want.<RETURN=1/>For details about <COLOR=FFE46D0A>Custom Passives</COLOR>, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+37	To travel to another place or another dimension you must use a <COLOR=FFE46D0A>portal</COLOR>.<RETURN=1/>For details about portals, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+38	Have you tried the <COLOR=FFE46D0A>elixirs</COLOR> we supplied you with?<RETURN=1/>Drinking an elixir grants you a <COLOR=FFE46D0A>temporary enhancement</COLOR>.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+39	In mission areas you can <COLOR=FFE46D0A>operate the objects around you</COLOR> to work your way through the task.<RETURN=1/>For details about these devices, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+40	<COLOR=FFE46D0A>Consumables</COLOR> such as potions are far handier once you <COLOR=FF0070C0>register them on a quick slot</COLOR>.<RETURN=1/>Only <COLOR=FFE46D0A>skills </COLOR>and <COLOR=FFE46D0A>items that can be used or worn</COLOR> can be registered on quick slots.	
+41	To open a door or operate a device, <COLOR=FF0070C0>left-click the target </COLOR>with your mouse.	
+43	If you are not sure <COLOR=FFE46D0A>how to travel to Waldchen</COLOR>, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+44	Every town has a <COLOR=FFE46D0A>Crystal Pillar</COLOR> that casts helpful spells on warriors.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+45	Defeat the <COLOR=FFE46D0A>summoned monsters</COLOR>!<RETURN=1/><COLOR=FFFF0000>If you failed to complete the quest, </COLOR>you can <COLOR=FF0070C0>abandon it and accept it again</COLOR> to try once more.	
+46	In town you can use the many services NPCs provide, such as the <COLOR=FFE46D0A>shop</COLOR>, the <COLOR=FFE46D0A>warehouse</COLOR>, <COLOR=FFE46D0A>crafting </COLOR>and <COLOR=FFE46D0A>enhancement</COLOR>.<RETURN=1/><COLOR=FFE46D0A>Equipment repairs</COLOR> can be done by any merchant.	
+47	Now and then you will be asked to find <COLOR=FFE46D0A>something hidden that is not marked</COLOR>.<RETURN=1/>If you are not sure how to handle that, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+48	The <COLOR=FFE46D0A>continent map</COLOR> shows you the whole continent and which faction holds what.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+49	A place where many enemies live packed close together is called a <COLOR=FFE46D0A>monster camp</COLOR>.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+50	Using a '<COLOR=FFE46D0A>Recall Scroll</COLOR>'<COLOR=FF0070C0> </COLOR>takes you straight back to <COLOR=FFE46D0A>the last town you visited</COLOR>.<RETURN=1/>Try the <COLOR=FF0070C0>Recall Scroll</COLOR> in your <COLOR=FF0070C0>Inventory (I)</COLOR>.	
+51	To continue your task you must enter through the <COLOR=FFE46D0A>mission portal</COLOR> next to Heinrich.<RETURN=1/><COLOR=FFFF0000>The enemies inside mission areas are very aggressive, so take care!</COLOR>	
+53	With a <COLOR=FFE46D0A>Cube</COLOR> you can <COLOR=FFE46D0A>combine</COLOR> items.<RETURN=1/>For details about Cube combining, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+54	You can also use a <COLOR=FFE46D0A>Cube</COLOR> to <COLOR=FFE46D0A>break down</COLOR> items.<RETURN=1/>For details about Cube disassembly, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+55	If you are not sure what to do during a mission, the '<COLOR=FFE46D0A>Mission Progress Info</COLOR>' can help you.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+56	If you have a long way to travel, make good use of the <COLOR=FFE46D0A>waypoints</COLOR>.<RETURN=1/>For details about waypoints, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+57	Wait, <heroname/>. You are heading into a <COLOR=FFE46D0A>conflict zone</COLOR>?<RETURN=1/>Conflict zones are dangerous places, so please hear the full explanation before you go.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+58	There is a saying: '<COLOR=FFE46D0A>many hands make light work</COLOR>'.<RETURN=1/>Problems you cannot solve alone, or things you simply cannot find, are often settled surprisingly easily once you ask someone else. When that happens, do not hesitate to borrow the knowledge of more experienced warriors.	
+59	Have you ever formed a <COLOR=FFE46D0A>party</COLOR> with your comrades, <heroname/>?<RETURN=1/>Missions that are too hard to handle alone can be taken on together as a party.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+60	You can <COLOR=FFE46D0A>crystallize</COLOR> items with the <COLOR=FF0070C0>[Crystallize] action on the Action/Emotion tab of the Skill window (K)</COLOR>.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+61	You can <COLOR=FFE46D0A>craft</COLOR> items by giving a crafting NPC the materials and a fee.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+62	This is Etherain, the heart of the Rochel Republic.<RETURN=1/>For details about the <COLOR=FFE46D0A>jump portals</COLOR> that Etherain is known for, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+63	You have obtained a fine warhorse. Congratulations.<RETURN=1/>Besides warhorses there are many other <COLOR=FFE46D0A>mounts</COLOR> as well.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+64	Let me explain <COLOR=FFE46D0A>how to board a Flying Vessel</COLOR>.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+65	Let me explain <COLOR=FFE46D0A>how to travel by Flying Vessel</COLOR>.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+66	So you are going to the <COLOR=FFE46D0A>Corrupted Temple</COLOR>, the battlefield where everyone is an enemy.<RETURN=1/>Let me tell you what kind of place it is.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+67	The compass is pointing toward <COLOR=FFE46D0A>Etherain</COLOR>.<RETURN=1/>The <COLOR=FFE46D0A>treasure of Rochel</COLOR> must be hidden somewhere in Etherain.	
+68	Are you <COLOR=FFE36C0A>ready for battle</COLOR>, <heroname/>?<RETURN=1/>Let us go over wearing your gear and targeting.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+69	Using <COLOR=FFE46D0A>skills</COLOR> makes battle far easier and turns the fight in your favor.<RETURN=1/>For details about skills, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+70	Many other warriors besides <heroname/> live in this world.<RETURN=1/>Have you ever spoken with them?<RETURN=1/>For the many ways to <COLOR=FFE46D0A>talk with your fellow warriors</COLOR>, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+9999	New information has been added.<RETURN=1/>Check the list in the <COLOR=FF0070C0>Information Room (H)</COLOR>.	
+10009	Information Room	
+10010	Basic Information	
+10020	Practical Information (Beginner)	
+10030	Practical Information (General)	
+10100	Area Information	
+10200	Faction Information	
+10300	Character Information	
+10400	Monster Encyclopedia	
+15000	Rotnem's Private Lessons (1)	
+15001	Portals	
+15002	Devices	
+15003	To Waldchen...	
+15004	Character Death	
+15005	Quest Basics (1)	
+15006	Experience	
+15007	Quest Basics (2)	
+15008	Stat Points	
+15009	Loot	
+15010	Item Gathering	
+15011	Quest Basics (3)	
+15012	Continent Map	
+15013	Waypoints	
+15014	Party Play	
+15015	HP Recovery	
+15016	Online Points	
+15017	Sockets	
+15018	Elements	
+15019	Custom Passives	
+15020	Enhancement Elixirs	
+15021	Crystal Pillar	
+15022	Monster Camps	
+15023	Battle Zone	
+15024	Battle Zone	
+15025	Cube (1)	
+15026	Cube (2)	
+15027	Mission Progress Info	
+15028	Conflict Zones and PK	
+15029	Crystallization	
+15030	Crafting	
+15031	Jump Portals	
+15032	Mounts	
+15033	Flying Vessel (1)	
+15034	Flying Vessel (2)	
+15035	Esod	
+15036	Вальдхен	
+15037	Лес зверей	
+15038	Трингель	
+15039	Стоки Этерейна	
+15040	Этерейн	
+15041	Дворец ледяных кристаллов	
+15042	Долина драконьего рода	
+15043	Кладбище Айорт	
+15044	Aukra	
+15045	Castle Helron	
+15046	Cursed Tower	
+15047	Corrupted Temple	
+15048	Castle Montshine	
+15049	Temple of Blood	
+15050	Flying Vessel	
+15051	Kortoq	
+15052	Green Earth	
+15053	Guidance Liberation Army	
+15054	Geist Empire	
+15055	Rochel Republic	
+15056	Ardor Expedition	
+15057	Karnatus Army	
+15058	Игнис	
+15059	Schwertz Prammes	
+15060	Otto von Roshfelt	
+15061	Лес зверей	
+15062	Стоки Этерейна	
+15063	Дворец ледяных кристаллов	
+15064	Долина драконьего рода	
+15065	Кладбище Айорт	
+15066	Castle Helron	
+15067	Green Earth	
+15068	Greetings	
+15069	Basic Shortcut Keys	
+15070	Rotnem's Private Lessons (2)	
+15071	Rotnem's Private Lessons (3)	
+15072	Rotnem's Private Lessons (4)	
+20000	Basic Controls of SUN	
+20001	Basic Controls - Movement (Keyboard)	
+20002	Basic Controls - Movement (Mouse)	
+20003	Basic Controls - Camera	
+20004	Basic Controls - Inventory	
+20005	Basic Controls - Skills	
+20006	Basic Controls - Quick Slots	
+20007	Basic Controls - Talking (Players)	
+20008	Normal Chat	
+20009	Shout	
+20010	Party Chat	
+20011	Guild Chat	
+20012	Channel Chat	
+20013	Basic Controls - Talking (NPCs)	
+20015	What is a Portal?	
+20016	Types of Portal	
+20017	To Spirit Woods	
+20018	Devices in Missions	
+20019	Entering Spirit Woods	
+20020	Stone of Dimensional Travel	
+20021	How to Revive	
+20022	No Blessing of the Goddess?	
+20023	What is a Quest?	
+20024	What is Experience?	
+20025	Extra Info Tooltips	
+20026	Quest Navigation	
+20027	Stat Points	
+20028	Obtaining Loot	
+20029	Item Gathering	
+20030	Invisible Quests	
+20031	Continent Map	
+20032	Area Occupation Info	
+20033	Quest Location Info	
+20034	What is a Waypoint?	
+20035	What is a Party?	
+20036	Inviting	
+20037	Leaving a Party	
+20038	Damage and Recovery	
+20039	What are Online Points?	
+20040	What is a Socket?	
+20041	How to Mount	
+20042	Zard Points and Socket Options	
+20043	Socket Limits	
+20044	Zard Extraction Stone	
+20045	What are Elements?	
+20046	What is a Passive Skill?	
+20047	How to Register	
+20048	How to Remove	
+20049	Passive Experience	
+20050	The Fifth Skill	
+20051	Elixir Effects	
+20052	Need More Elixirs?	
+20053	The Crystal Pillar in Town	
+20054	Monster Camps	
+20055	What is the Battle Zone?	
+20056	Prerequisite Quest	
+20057	Free Pass Level	
+20058	What is the Battle Zone?	
+20059	Prerequisite Quest	
+20060	Free Pass Level	
+20061	What is a Cube?	
+20062	Combining	
+20063	Disassembly	
+20064	Hidden Recipes	
+20065	Mission Progress Info	
+20066	What is a Conflict Zone?	
+20067	PK - Self Defense	
+20068	PK - Pre-Murderer	
+20069	PK - Murderer	
+20070	Conflict Zone	
+20071	Free Conflict Zone	
+20072	Safe Zone	
+20073	Crystallization	
+20074	Item Crafting	
+20075	Jump Portals of Etherain	
+20076	Convenient Transport	
+20077	Harness - Mount Equipment	
+20078	Wax	
+20079	Boarding a Flying Vessel	
+20080	Traveling by Flying Vessel	
+20081	Western Continent, the Ancient Temple	
+20082	Soulless Fighters, an Endless Battle	
+20083	Earthquakes and Collapse	
+20084	Lightning	
+20085	The Central Barrier	
+20086	Memoirs of the Federal Council Chairman	
+20087	Strife within the Guidance Liberation Army	
+20088	Building of the Temple	
+20089	The Crystal and the Three Rings	
+20090	The Imprint Ritual	
+20091	Temple Passage	
+20092	Information Room	
+20093	Shortcut Key Info	
+20094	Hiding the Mini Info Window	
+20095	Basic Controls - Targeting	
+20096	Basic Controls - Attacking	
+25000	Press the I key to open your inventory.	
+25001	Press the K key to open the Skill window.	
+25002	Press the Enter key to open the chat input box.	
+25003	Press the C key to open the Character window.	
+25004	Double-click the Cube to open the Cube window.	
+25005	Press the K key to open the Skill window, then click the Custom Passive tab.	
+30000	Welcome.<RETURN=1/>This is the library of knowledge, the '<COLOR=FFE46D0A>Information Room</COLOR>'.<RETURN=1/>Here you can browse all sorts of practical information gathered from the advice of adventurers and scholars across the continent, as well as records such as the history of the continent.	
+30001	The default shortcut keys are shown in the picture above.	
+30003	You can move your character with the keyboard.<RETURN=1/>Use the <COLOR=FF0070C0>W key</COLOR> and the <COLOR=FF0070C0>S key</COLOR> to move forward and backward.	
+30005	You can move your character with the keyboard.<RETURN=1/>Use the <COLOR=FF0070C0>Q key</COLOR> and the <COLOR=FF0070C0>E key</COLOR> to strafe left and right.	
+30006	Press the <COLOR=FF0070C0>Space Bar </COLOR>to make your character <COLOR=FFE46D0A>jump</COLOR>.<RETURN=1/>Some terrain can only be crossed by jumping.	
+30007	<COLOR=FFE46D0A>Press </COLOR><COLOR=FF0070C0>Q, W, E or S </COLOR>together with the <COLOR=FF0070C0>Space Bar</COLOR> to jump in that direction.	
+30010	<COLOR=FF0070C0>Hold the left or right mouse button and drag</COLOR> on empty background, where there is no UI or usable object, to <COLOR=FFE46D0A>turn your character</COLOR> or <COLOR=FFE46D0A>turn only the camera</COLOR>.	
+30012	You can check what your character is carrying by opening the <COLOR=FF0070C0>Inventory (I)</COLOR>.<RETURN=1/>Open the <COLOR=FF0070C0>Inventory (I)</COLOR> and press the '<COLOR=FF0070C0>Next Page (>)</COLOR>' button.	
+30013	<COLOR=FFE46D0A>Equipment</COLOR> items can be worn by <COLOR=FF0070C0>right-clicking</COLOR> them.<RETURN=1/><COLOR=FFE46D0A>Equip the weapon </COLOR>that is in your inventory.<RETURN=1/>However mighty a hero may be, <COLOR=FFFF0000>bare hands will not bring an enemy down!</COLOR>	
+30014	You can learn and strengthen skills in the <COLOR=FF0070C0>Skill window (K)</COLOR>.<RETURN=1/>Open the <COLOR=FF0070C0>Skill window (K)</COLOR> and press the '<COLOR=FF0070C0>Next Page (>)</COLOR>' button.	
+30018	Press the <COLOR=FF0070C0>` key</COLOR> to <COLOR=FFE46D0A>switch</COLOR> to the second quick slot bar.<RETURN=1/>Press the <COLOR=FF0070C0>- key</COLOR> to use <COLOR=FFE46D0A>two rows of quick slots</COLOR> at once. In that case the <COLOR=FFE46D0A>shortcut keys apply to the lower bar</COLOR>.	
+30019	To gather a party, trade items or simply ask a question, you need to <COLOR=FFE46D0A>talk with other players</COLOR>.<RETURN=1/>Things you could never manage alone can be solved when many people work together.	
+30020	Press the <COLOR=FF0070C0>Enter key</COLOR> to open the <COLOR=FFE46D0A>chat input box</COLOR>.<RETURN=1/>Open the <COLOR=FF0070C0>chat input box (Enter)</COLOR> and press the '<COLOR=FF0070C0>Next Page (>)</COLOR>' button.	
+30021	Type your message and press the <COLOR=FF0070C0>Enter key</COLOR> to <COLOR=FFE46D0A>send it</COLOR> to other players.<RETURN=1/>By <COLOR=FF0070C0>putting a special character in front of your message</COLOR> you can easily send it to <COLOR=FFE46D0A>a different chat group</COLOR>.	
+30022	Normal chat: (message)<RETURN=1/>The message reaches players close to your character.	
+30023	There are two kinds of shout.<RETURN=1/><RETURN=1/>Normal shout: <COLOR=FF0070C0>(@message)<RETURN=1/></COLOR>The message reaches players in the same area.<RETURN=1/><RETURN=1/>World shout: <COLOR=FFFFCC00>(@@message)<RETURN=1/></COLOR>The message reaches every player on the same server.<RETURN=1/>It requires a <COLOR=FFE46D0A>Proclamation of the Liberation Army </COLOR>item.	
+30024	Party chat: <COLOR=FF00B050>(#message)<RETURN=1/></COLOR>The message reaches your party members.	
+30025	Guild chat: <COLOR=FF9966FF>($message)<RETURN=1/></COLOR>The message reaches your guild members.	
+30027	When you move the mouse over an NPC a speech bubble appears, and <COLOR=FF0070C0>left-clicking</COLOR> starts a <COLOR=FFE46D0A>conversation</COLOR>.	
+30028	Now go ahead and speak to <COLOR=FFE46D0A>'Lucid'</COLOR> in front of you.	
+30030	A <COLOR=FFE46D0A>portal</COLOR> is a passage through space and time that lets you <COLOR=FFE46D0A>travel to another place or dimension</COLOR>.<RETURN=1/>There are several kinds, from the basic <COLOR=FFE46D0A>portal</COLOR> that carries you to a neighboring area, to the <COLOR=FFE46D0A>mission portal</COLOR> that leads into a particular mission area.	
+30031	The portal above is a <COLOR=FFE46D0A>mission portal</COLOR>, which takes you into a particular mission area. The one on the left leads to a <COLOR=FFE46D0A>sub mission</COLOR>, the one on the right to a <COLOR=FFE46D0A>main mission</COLOR>.	
+30032	The portal above is a <COLOR=FFE46D0A>field portal</COLOR>, which takes you to a neighboring area.	
+30033	Now please <COLOR=FF0070C0>travel to Spirit Woods</COLOR> through the mission portal.	
+30034	In a mission area, when you <COLOR=FF0070C0>place the mouse pointer </COLOR>over <COLOR=FFE46D0A>an object you can operate</COLOR> the cursor changes into a <COLOR=FFE46D0A>padlock</COLOR>.<RETURN=1/>At that point you can <COLOR=FF0070C0>left-click</COLOR> to operate the object.<RETURN=1/><COLOR=FFFF0000>If you get stuck during a mission, look around for an object you can operate.</COLOR>	
+30035	First, operate the <COLOR=FFE46D0A>lever</COLOR> in front of you to connect the bridge.	
+30036	<COLOR=FF0070C0>Press the W key and the Space Bar together </COLOR>to jump forward.<RETURN=1/>Narrow gaps in cliffs can be crossed by jumping.	
+30037	First, as '<COLOR=FFE46D0A>Id</COLOR>' told you, operate the <COLOR=FFE46D0A>stone monument in front of you</COLOR>.<RETURN=1/>Then <COLOR=FF0070C0>click the portal </COLOR>the monument creates to leave this place.	
+30038	If your character dies, an <COLOR=FFE46D0A>Elementalist</COLOR> can bring you back with a <COLOR=FF0070C0>resurrection skill</COLOR>.<RETURN=1/>Ask an Elementalist nearby or in your party for help.	
+30039	You can also use a '<COLOR=FF0070C0>Blessing of the Goddess</COLOR>' to revive <COLOR=FFE46D0A>every party member around you</COLOR>.<RETURN=1/>Try the <COLOR=FF0070C0>Blessing of the Goddess</COLOR> in your <COLOR=FF0070C0>Inventory (I)</COLOR>.	
+30040	Do you need more of the <COLOR=FFE46D0A>Blessing of the Goddess</COLOR>?<RETURN=1/>You can <COLOR=FF0070C0>buy</COLOR> it at the <COLOR=FF0070C0>Cash Shop (\)</COLOR>.<RETURN=1/>To <COLOR=FFE46D0A>charge cash</COLOR>, please visit the <COLOR=FFE46D0A>website</COLOR>.	
+30046	You gain <COLOR=FFE46D0A>experience</COLOR> from <COLOR=FFE46D0A>quests</COLOR> and from <COLOR=FFE46D0A>fighting</COLOR> monsters.<RETURN=1/>In most cases quests give far more experience.	
+30049	The edge of the minimap shows where you have to go to carry out your quest.<RETURN=1/><COLOR=FFE46D0A>Move</COLOR> your character in the <COLOR=FFE46D0A>direction the arrow points</COLOR>.	
+30050	<COLOR=FFE46D0A>Stat points</COLOR> are your character's <COLOR=FFE46D0A>Strength, Agility, Vitality, Intelligence and Spirit</COLOR> values.<RETURN=1/>To check your stat points, open the <COLOR=FF0070C0>Character window (C)</COLOR> and press the '<COLOR=FF0070C0>Next Page (>)</COLOR>' button.	
+30053	Items such as loot are normally obtained by <COLOR=FFE46D0A>defeating monsters</COLOR>.<RETURN=1/>Monsters drop what they carry on the ground nearby as they die.	
+30054	While carrying out quests you will often need to <COLOR=FFE46D0A>gather</COLOR> items.<RETURN=1/>Items you can gather are marked with a <COLOR=FFE46D0A>red exclamation mark</COLOR>, and <COLOR=FF0070C0>left-clicking</COLOR> begins the gathering.	
+30055	<COLOR=FFFF0000>Gathering is interrupted if you move or are attacked while it is in progress.<RETURN=1/></COLOR>Gathering is delicate work. Get into the habit of concentrating somewhere safe.	
+30056	Sometimes a quest has <COLOR=FFE46D0A>no scroll marker shown at all</COLOR> and stays hidden.<RETURN=1/>In that case you can advance the quest by <COLOR=FFE46D0A>clicking the object or NPC that is your objective</COLOR>.<RETURN=1/>Try <COLOR=FF0070C0>clicking the suspicious guard</COLOR> standing in front of <COLOR=FFE46D0A>Irhanna (Clan member) </COLOR>.	
+30057	The <COLOR=FFE46D0A>continent map</COLOR> shows the whole of the Brakion continent or the Serient continent.<RETURN=1/>Press the <COLOR=FF0070C0>B key</COLOR> to open the continent map.	
+30058	The <COLOR=FFE46D0A>slot</COLOR> on each area shows <COLOR=FFE46D0A>the mark of the guild currently holding that area</COLOR>.<RETURN=1/>When no guild holds the area, an empty slot like the one above is shown.	
+30059	While you are on a quest, <COLOR=FFE46D0A>the areas where you must carry out or complete it are marked with arrows</COLOR>.<RETURN=1/><COLOR=FF0070C0>Place the mouse pointer </COLOR>over a quest navigation arrow to see the quest information.	
+30060	For a small amount of Heim you can use a <COLOR=FF0070C0>waypoint</COLOR> to travel quickly and comfortably to a distant area.<RETURN=1/>To protect apprentice warriors, <COLOR=FFFF0000>travel to dangerous high level areas is restricted</COLOR>. We ask for your understanding.	
+30061	A <COLOR=FFE46D0A>party</COLOR> is a <COLOR=FFE46D0A>group of comrades</COLOR> that can hold <COLOR=FFE46D0A>up to 10 members</COLOR>.<RETURN=1/>In a party you can handle hard work that you could never manage on your own.<RETURN=1/>The <COLOR=FFE46D0A>mission areas</COLOR> you enter through a <COLOR=FF0070C0>mission portal</COLOR> are the prime example.	
+30063	Once the <COLOR=FF0070C0>player you invited accepts</COLOR>, the party is formed.<RETURN=1/>Party member information appears below your own information at the top left of the screen.	
+30064	If you wish to leave the party, <COLOR=FF0070C0>click the X button </COLOR>that appears <COLOR=FFE46D0A>to the right of the experience bar</COLOR>.<RETURN=1/>As with inviting, it is polite to tell the other members before you leave.	
+30065	If enemies have worn your HP down, it is wise to <COLOR=FFE46D0A>recover</COLOR> it before the next fight. The red part that appears the moment you are hit will gradually refill over time, but <COLOR=FFFF0000>the black part will not recover on its own.</COLOR>	
+30066	You can restore the black part of the HP gauge in the following ways.<RETURN=1/><COLOR=FF0070C0>- Using a recovery potion<RETURN=1/>- Using the sit action</COLOR>	
+30067	You can check your <COLOR=FFE46D0A>Online Points</COLOR> in the <COLOR=FF0070C0>Character window (C)</COLOR>.<RETURN=1/>First press the <COLOR=FF0070C0>C key</COLOR> to open the Character window, then press the '<COLOR=FF0070C0>Next Page (>)</COLOR>' button.	
+30069	Pressing the <COLOR=FF0070C0>Claim Reward </COLOR>button opens the <COLOR=FFE46D0A>Online Point roulette</COLOR>.<RETURN=1/>You can set 1 to 10 spins at a time, and the prizes may change from day to day.<RETURN=1/><COLOR=FFFF0000>You cannot do anything else while the roulette is spinning</COLOR>, so please use it somewhere safe.	
+30070	Besides the roulette, Online Points can also be <COLOR=FFE46D0A>used to buy goods</COLOR> from some merchants who ask for Online Points instead of Heim.	
+30071	Weapons and armor have <COLOR=FFE46D0A>sockets</COLOR> that hold enhancement gems called <COLOR=FFE46D0A>Zards</COLOR>.<RETURN=1/>Using the <COLOR=FF0070C0>Check Socket action</COLOR> on an <COLOR=FFE46D0A>item with unidentified sockets</COLOR> reveals how many sockets it has.<RETURN=1/>The '<COLOR=FFE46D0A>Check Socket</COLOR>' action is on the <COLOR=FF0070C0>Action/Emotion tab</COLOR> of the <COLOR=FF0070C0>Skill window (K)</COLOR>.	
+30072	<COLOR=FF0070C0>Double-click </COLOR>a <COLOR=FFE46D0A>Zard</COLOR> and then <COLOR=FF0070C0>click</COLOR> the <COLOR=FFE46D0A>equipment item</COLOR> you want to mount it in.<RETURN=1/><COLOR=FFFF0000>* Careful! Zards cannot be mounted in equipment you are wearing. Always take the item off into your inventory first, and mount the Zard carefully!</COLOR>	
+30073	When you <COLOR=FF0070C0>mount a Zard</COLOR> in an item with an <COLOR=FFE46D0A>empty socket</COLOR>, the Zard's '<COLOR=FFE46D0A>points</COLOR>' are applied.<RETURN=1/>Once <COLOR=FFE46D0A>the points of the mounted Zards reach a certain total, a 'socket option' is triggered</COLOR>.<RETURN=1/>Open the <COLOR=FF0070C0>Character window (C)</COLOR> right now and check the '<COLOR=FFE46D0A>socket option status</COLOR>'.	
+30075	The <COLOR=FFE46D0A>Zard Extraction Stone</COLOR> is a magic tool that <COLOR=FFE46D0A>removes Zards mounted</COLOR> in equipment.<RETURN=1/>The chance depends on its grade, but sometimes the mounted Zard is <COLOR=FFE46D0A>recovered instead of destroyed</COLOR>.<RETURN=1/>A <COLOR=FFE46D0A>higher grade</COLOR> Zard Extraction Stone has a <COLOR=FFE46D0A>better chance of recovering the Zard intact</COLOR>.<RETURN=1/>This handy Zard Extraction Stone can be bought easily at the <COLOR=FF0070C0>Item Shop (\)</COLOR>.	
+30076	Among the ether that forms the basic energy of this world there are five substances that gather in a far stronger form than the rest, and Elementalists call them the '<COLOR=FFE46D0A>five great elements</COLOR>'.	
+30077	Not only monsters such as beasts and undead, but most humanoid enemies such as the Imperial Army and the Karnatus Army are affected by the elements as well. (Of course, some enemies are not affected at all!)<RETURN=1/>An enemy under elemental influence gives off the aura of its <COLOR=FFE46D0A>strongest element</COLOR>, so you can tell at a glance.<RETURN=1/><COLOR=FF0070C0>- Place the mouse cursor on a monster and its outline shows the color.<RETURN=1/>- Select it with the TAB key or a click and the target window at the top center of the screen shows the color.</COLOR>	
+30078	Monsters of the <COLOR=FFE46D0A>Fire element</COLOR> are shown in <COLOR=FFFF0000>red</COLOR>.<RETURN=1/>Raise your Fire resistance and <COLOR=FF0070C0>attack with the Water element</COLOR> for the best result.	
+30079	Monsters of the <COLOR=FFE46D0A>Water element</COLOR> are shown in <COLOR=FF0070C0>blue</COLOR>.<RETURN=1/>Raise your Water resistance and <COLOR=FFFFCC00>attack with the Earth element</COLOR> for the best result.	
+30080	Monsters of the <COLOR=FFE46D0A>Earth element</COLOR> are shown in <COLOR=FFFFCC00>yellow</COLOR>.<RETURN=1/>Raise your Earth resistance and <COLOR=FF92D050>attack with the Wind element</COLOR> for the best result.	
+30081	Monsters of the <COLOR=FFE46D0A>Wind element</COLOR> are shown in <COLOR=FF92D050>light green</COLOR>.<RETURN=1/>Raise your Wind resistance and <COLOR=FF7030A0>attack with the Dark element</COLOR> for the best result.	
+30082	Monsters of the <COLOR=FFE46D0A>Dark element</COLOR> are shown in <COLOR=FF7030A0>purple</COLOR>.<RETURN=1/>Raise your Dark resistance and <COLOR=FFFF0000>attack with the Fire element</COLOR> for the best result.	
+30083	Monsters that are not tied to any element are shown in white.<RETURN=1/>Since there is no information about a dominant element, the only way to learn which attacks they are weak to is to fight them a few times.	
+30085	<COLOR=FF0070C0>Left-click</COLOR> to pick up whichever of the <COLOR=FFE46D0A>passive skills shown below</COLOR> you like, then <COLOR=FF0070C0>left-click</COLOR> a <COLOR=FFE46D0A>passive slot</COLOR> above to register it and the effect is applied.<RETURN=1/>You may <COLOR=FFE46D0A>register the same skill several times</COLOR>, but be aware that <COLOR=FFFF0000>stacking too many of one skill carries a penalty</COLOR>.	
+30086	Removing a registered passive skill is very simple.<RETURN=1/><COLOR=FF0070C0>Click the X button below</COLOR> the passive slot you want to clear.	
+30087	When you <COLOR=FF0070C0>defeat monsters with a passive skill equipped</COLOR>, part of the experience you gain goes to the passive skill as well. Just like your character, <COLOR=FFE46D0A>a passive skill levels up once its experience reaches 100%</COLOR>.	
+30088	Reached the maximum level and no longer gaining experience? Do not worry.<RETURN=1/><COLOR=FFE46D0A>Even at maximum level, your passive skills will keep collecting their own share of experience.</COLOR>	
+30089	Unfortunately, experience from <COLOR=FFFF0000>quests</COLOR> and from completing <COLOR=FFFF0000>missions</COLOR> is <COLOR=FFFF0000>not collected as passive skill experience.<RETURN=1/></COLOR>Also, note that <COLOR=FFFF0000>equipping several copies of the same skill</COLOR> gains skill experience <COLOR=FFFF0000>exactly as if you had equipped only one</COLOR>.	
+30090	Cannot equip a passive skill in the <COLOR=FFE46D0A>fifth slot</COLOR>?<RETURN=1/>The fifth slot is reserved for <COLOR=FFE46D0A>more special skills</COLOR>, far more effective ones that stand apart from those in slots 1 to 4.<RETURN=1/>Those special skills can be bought at the <COLOR=FF0070C0>Item Shop (\)</COLOR>.	
+30091	If you look in your <COLOR=FF0070C0>Inventory (I)</COLOR> you will find the <COLOR=FFE46D0A>supply elixirs</COLOR> issued to warriors who volunteered for the expedition. Using an elixir raises your abilities for a while.	
+30092	If your condition has been temporarily strengthened or weakened, you can check it with the <COLOR=FF0070C0>status icons at the top left of the screen</COLOR>.<RETURN=1/><COLOR=FF0070C0>Place the mouse cursor on an icon </COLOR>to see the <COLOR=FFE46D0A>status details</COLOR> and the <COLOR=FFE46D0A>time remaining</COLOR>.<RETURN=1/>They are sorted from the left with the least time left first, and a <COLOR=FFE46D0A>blinking icon</COLOR> means that status is about to expire.	
+30093	Handy enhancement elixirs like these can be bought easily at the <COLOR=FF0070C0>Item Shop (\)</COLOR>.	
+30094	Once you arrive in town, please make use of the <COLOR=FFE46D0A>Crystal Pillar</COLOR>.<RETURN=1/>The command set these pillars up, and they may be used <COLOR=FFE46D0A>free of charge</COLOR> and <COLOR=FFE46D0A>at any time</COLOR>. Whenever the pillar's magic wears off, simply return and receive it again.	
+30095	An area marked with a tent icon on the map is a <COLOR=FFE46D0A>monster camp</COLOR>.<RETURN=1/>Camps are usually home to <COLOR=FFFF0000>powerful elite and captain grade monsters</COLOR>, and they <COLOR=FFFF0000>tend to move in groups</COLOR>, so please be careful.	
+30096	Mission areas you have already cleared can be re-entered easily through the <COLOR=FFE46D0A>Battle Zone</COLOR>.<RETURN=1/>The <COLOR=FFE46D0A>Battle Zone</COLOR> is made up of a <COLOR=FFE46D0A>lobby and rooms </COLOR>that take you straight into a mission area without going through a mission portal.<RETURN=1/>You can enter the lobby through the <COLOR=FF0070C0>Battle Zone NPCs</COLOR> in each town.	
+30097	To enter a mission area through the Battle Zone you must first <COLOR=FFE46D0A>complete the prerequisite quest</COLOR>. If you are already on the <COLOR=FFE46D0A>'[Mission] quest'</COLOR> for that mission area, you have completed the prerequisite quest.	
+30098	The <COLOR=FFE46D0A>free pass level</COLOR> is the <COLOR=FFE46D0A>level at which you may enter and leave the Battle Zone freely</COLOR> without completing the prerequisite quest.<RETURN=1/>Each area has its own free pass level, and the free pass level for the <COLOR=FFE46D0A>Forest of Beasts </COLOR>is <COLOR=FFE46D0A>Lv. 20 </COLOR>.	
+30100	To enter a mission area through the Battle Zone you must first <COLOR=FFE46D0A>complete the prerequisite quest</COLOR>. If you are already on the <COLOR=FFE46D0A>'[Mission] quest'</COLOR> for that mission area, you have completed the prerequisite quest.	
+30102	The <COLOR=FFE46D0A>Cube</COLOR> is a magic tool that <COLOR=FFE46D0A>combines</COLOR> several items or <COLOR=FFE46D0A>breaks down</COLOR> existing ones to <COLOR=FFE46D0A>create new items</COLOR>.<RETURN=1/>First open your <COLOR=FF0070C0>Inventory (I)</COLOR> and <COLOR=FF0070C0>double left-click</COLOR> the <COLOR=FFE46D0A>Cube</COLOR> you received from Sentry Captain Bachen.	
+30103	<COLOR=FF0070C0>Right-click</COLOR> the <COLOR=FFE46D0A>Beast Blood</COLOR> and <COLOR=FFE46D0A>Purified Ether</COLOR> in your <COLOR=FF0070C0>Inventory (I)</COLOR> to <COLOR=FFE46D0A>place them in the Cube</COLOR>.<RETURN=1/>Once both are in, <COLOR=FF0070C0>click the 'Combine' button</COLOR> in the Cube window.	
+30105	<COLOR=FF0070C0>Right-click</COLOR> the <COLOR=FFE46D0A>Liberation Army weapon</COLOR> in your <COLOR=FF0070C0>Inventory (I)</COLOR> to <COLOR=FFE46D0A>place it in the Cube</COLOR>.<RETURN=1/>Once it is in, <COLOR=FF0070C0>click the 'Disassemble' button</COLOR> in the Cube window.	
+30106	Beyond the recipes the crafting NPCs know, there are many more Cube combinations and disassembly formulas that have not yet been discovered.<RETURN=1/>Finding out what can be combined and what can be broken down may well become a pleasure of its own.	
+30108	A <COLOR=FFE46D0A>conflict zone</COLOR> is an area of <COLOR=FFFF0000>low security</COLOR> where the command's rules do not reach.<RETURN=1/>By security grade, areas are classed as <COLOR=FF00B050>safe zone</COLOR>, <COLOR=FFFFC000>alert zone</COLOR>, <COLOR=FFE46D0A>conflict zone</COLOR> and <COLOR=FFFF0000>free conflict zone</COLOR>.<RETURN=1/>Most areas are ordinary <COLOR=FFFFC000>alert zones</COLOR>, where <COLOR=FFFF0000>attacking another player carries a penalty</COLOR> and killing one counts as <COLOR=FFFF0000>PK (Player Killing)</COLOR>.	
+30109	The moment you <COLOR=FF0070C0>hold the Ctrl key and attack another player</COLOR> in an <COLOR=FFFFC000>alert zone</COLOR>, you enter the '<COLOR=FF7030A0>self defense state</COLOR>', in which other players may attack you freely.<RETURN=1/>The <COLOR=FF7030A0>self defense state</COLOR> <COLOR=FF0070C0>wears off a short while after you stop attacking</COLOR>, and while it lasts your name appears in <COLOR=FF7030A0>purple</COLOR> to other players.	
+30110	If you do not stop attacking while in the <COLOR=FF7030A0>self defense state</COLOR> and finally <COLOR=FF0070C0>strike the other player down</COLOR>, you enter the <COLOR=FFE46D0A>pre-murderer state</COLOR>, the mark of a first offender.<RETURN=1/>From the <COLOR=FFE46D0A>pre-murderer state</COLOR> onward a status timer bar appears beneath the clock, and the state ends when the time runs out.<RETURN=1/>And the NPCs of this world are not very fond of first offenders!<RETURN=1/><COLOR=FFE46D0A>- While in the pre-murderer state, some NPC services may be restricted.</COLOR>	
+30111	If you <COLOR=FF0070C0>kill yet another player</COLOR> while in the <COLOR=FFE46D0A>pre-murderer state</COLOR>, you enter the <COLOR=FFFF0000>murderer state</COLOR>, the mark of a criminal.<RETURN=1/>If you <COLOR=FF0070C0>keep committing PK</COLOR> while in the <COLOR=FFFF0000>murderer state</COLOR>, <COLOR=FFE46D0A>the duration keeps growing longer</COLOR>.<RETURN=1/>And the NPCs of this world are downright hostile toward criminals!<RETURN=1/><COLOR=FFFF0000>- While in the murderer state, most NPC services cannot be used at all.</COLOR>	
+30112	Because a <COLOR=FFE46D0A>conflict zone</COLOR> has a low security grade, <COLOR=FFE46D0A>there is no punishment for PK there. </COLOR>Since anyone may attack without fear of becoming a murderer, take particular care when you enter one.<RETURN=1/>- Conflict zones are marked in <COLOR=FFE46D0A>orange</COLOR> on the map.<RETURN=1/>- If you have fog effects turned on, <COLOR=FFE46D0A>orange mist</COLOR> rises around you.	
+30113	A <COLOR=FFFF0000>free conflict zone</COLOR> has an extremely low security grade, a place where <COLOR=FFE46D0A>even allies in the same guild or the same party may attack one another without any restriction</COLOR>. Before you step into one, it is worth asking yourself once more whether your companions can truly be trusted.<RETURN=1/>- Free conflict zones are marked in <COLOR=FFFF0000>red</COLOR> on the map.<RETURN=1/>- If you have fog effects turned on, <COLOR=FFFF0000>red mist</COLOR> rises around you.	
+30114	A <COLOR=FF00B050>safe zone</COLOR> is a place of very high security.<RETURN=1/>Under powerful protective magic nothing that stays here can attack anything else, and <COLOR=FFE46D0A>not even monsters can attack warriors.<RETURN=1/></COLOR>If you need rest after a long battle, seek out the nearest safe zone.<RETURN=1/>- Safe zones are marked in <COLOR=FF00B050>green</COLOR> on the map.	
+30115	<COLOR=FFE46D0A>Crystallization</COLOR> means <COLOR=FFE46D0A>breaking an item down</COLOR> and <COLOR=FFE46D0A>extracting it as a gem</COLOR> holding magic power. The gems extracted this way are then used to craft other items.<RETURN=1/>To crystallize something, <COLOR=FF0070C0>speak to a nearby enhancement NPC.</COLOR>	
+30116	You can ask the <COLOR=FFE46D0A>crafting NPCs</COLOR> in town to <COLOR=FFE46D0A>craft items</COLOR> for you.<RETURN=1/>You can see which items can be crafted and which materials each one needs.<RETURN=1/>Once you have the required <COLOR=FFE46D0A>materials</COLOR> and the crafting <COLOR=FFE46D0A>fee</COLOR>, <COLOR=FF0070C0>speak to a crafting NPC</COLOR>.	
+30117	Etherain has <COLOR=FFE46D0A>jump portals</COLOR> installed so that you can move around inside the town more quickly.<RETURN=1/>If your destination is far away, do not simply run for it, try a jump portal instead.	
+30118	The small green jump portals move you <COLOR=FFE46D0A>in one direction only</COLOR>, and there are <COLOR=FFE46D0A>four</COLOR> of them in total.<RETURN=1/>The directions are shown in the picture above, and the moment you step onto a portal you are carried to the next one.	
+30119	Animals tamed by the expedition can be ridden.<RETURN=1/>We call such animals <COLOR=FFE46D0A>mounts</COLOR>, and you can climb on one easily by <COLOR=FF0070C0>right-clicking the mount icon</COLOR> in your <COLOR=FF0070C0>Inventory (I)</COLOR>.<RETURN=1/>While riding, your speed is governed by <COLOR=FFE46D0A>the mount's movement speed</COLOR> rather than your running speed.	
+30120	Once you have summoned a mount, you can fit it with a <COLOR=FFE46D0A>harness</COLOR>.<RETURN=1/>It is divided into <COLOR=FFE46D0A>three parts, head, chest and legs</COLOR>, and fitting the parts gives a small but noticeable <COLOR=FFE46D0A>speed increase</COLOR>.	
+30121	Several kinds of <COLOR=FFE46D0A>wax</COLOR> can be applied to the harness parts of a mount.<RETURN=1/>Wax is <COLOR=FFE46D0A>purely for polish</COLOR> and has no other function.	
+30122	To board a Flying Vessel you must <COLOR=FF0070C0>left-click</COLOR> the <COLOR=FFE46D0A>Flying Vessel transporter</COLOR> next to Krapaka.	
+30123	Speak to the <COLOR=FF0070C0>Flying Vessel captain</COLOR> and he will show you the continent map.<RETURN=1/>The places marked with a <COLOR=FFE46D0A>Flying Vessel icon</COLOR> are the destinations you can travel to, and you can travel there by <COLOR=FF0070C0>left-clicking the Flying Vessel icon</COLOR>.	
+30124	Long ago the <COLOR=FFE46D0A>Corrupted Temple</COLOR> was a holy temple in the west of the continent, where offerings were made and rites held for the gods.<RETURN=1/>But the vengeful spirits of those unjustly sacrificed drew demons to the place, and the temple hired warriors to drive them out.<RETURN=1/>The priests of the temple could bind the demons, but they had no power to destroy them.<RETURN=1/>At first, because the demons were so dangerous, no one but the warriors was allowed inside. Before long, however, spectators were admitted so that many could watch the warriors fight the demons, and an entrance fee was charged until it became a regular entertainment.<RETURN=1/><RETURN=1/>Worn down by the endless battles with the warriors, and with the ether of the continent growing calm, the demons gradually lost their strength and stopped appearing at the temple altogether.<RETURN=1/>It was a relief that the demons no longer came, but the town also lost the exorcism battles that had been its great entertainment, its tourist attraction and a fine source of income.<RETURN=1/>Neither warriors nor adventurers came anymore, and so the ancient temple and the town around it were slowly forgotten.	
+30125	Around the time <COLOR=FFE46D0A>Schwertz Prammes, called the immortal sovereign,</COLOR> appeared, a strange rumor spread that the forgotten ancient temple had risen into the sky in the east of the continent. The vengeful spirits of the demons began to appear once more, but something was different from before.<RETURN=1/>The souls of the warriors who had lost to the demons in the exorcism battles, their spirits stolen, had been bound to that temple. All that remained to them was a blind urge to strike down whatever stood before them. Even now those warriors go on fighting an endless, meaningless battle, sealed inside armor black with resentment, nothing but murderous light showing in their eyes.<RETURN=1/><RETURN=1/>A <COLOR=FFE46D0A>Strange Traveler</COLOR> from that town set out to find a way to save the souls trapped in the Corrupted Temple, and at last reached Etherain, the capital of the east.<RETURN=1/>According to the Strange Traveler, <COLOR=FFE46D0A>only you and your companions can bring their endless fighting to an end.</COLOR>	
+30126	The temple was destroyed and lost long ago, and only the vengeful spirits of the fighters keep its illusion standing, so as the number of fighters in battle drops and as time passes the Corrupted Temple struggles to hold its shape. Each time enough time goes by, or enough vengeful or warrior spirits vanish, a violent earthquake shakes the temple and the weakest outer stairways begin to crumble first.<RETURN=1/><COLOR=FFE46D0A>Stairways about to collapse can be spotted in advance by the magic circles that appear as the illusion magic breaks down.</COLOR>	
+30127	Places and beings, living or otherwise, that hold strong magic react powerfully to magnetic fields. The Corrupted Temple is a magical illusion floating high in the sky, so lightning strikes it and the fighters within it quite often, and lightning burns flesh and soul alike, dealing heavy damage to the living and the lifeless.	
+30128	For reasons unknown, a huge barrier is spread across the center of the temple, and a powerful spell is said to be laid on it that nothing living or lifeless can endure. Adventurers say it is tied to the number of fighters and to how long the temple has stood, just as the earthquakes are. One adventurer who held out to the very end claims to have seen the central barrier disappear...	
+30129	'That fight was truly a pointless war of attrition. Judged by the way it was fought, it was fiercer and more brutal than the war against the Imperial Army. But how could people who want more and want to stand above others ever go against their own nature? At a time when the continent had no ruler, I sometimes think the blood spilled between brothers may have been unavoidable in forming the federation we have today.'<RETURN=1/>- an excerpt from the memoirs of Federal Council Chairman Ernest	
+30130	As the Imperial Army gradually withdrew, the end of the long war finally came into sight. With stability settling over the Liberation Army as well, people slowly began to take an interest in their own share of the spoils. Figures who argued forcefully for their own interests appeared within the Liberation Army, and quite naturally each began building a faction to keep the others in check and take a larger share. Before long everyone was joining one faction or another according to their beliefs or to where the advantage lay, and the situation spread out of control until it turned into open factional warfare.<RETURN=1/>In the end this tore the Liberation Army apart in civil strife, splitting it into separate federations, and another war began, this one over who would hold which lands.	
+30131	The 'Kingdom of Altheim' and the 'House of Roshfelt', which had stood against the great power of the 'Geist Empire', joined together as the 'Rochel Republic' and, refusing to bow to the magic of the immortal sovereign, set about building a temple to defend their rule.<RETURN=1/>The temple they raised with every scrap of magic at their command was named the '<COLOR=FFE46D0A>Temple of Blood</COLOR>' in honor of the freedom won with the blood of countless comrades, and it was made so that no territory of the Rochel Republic could be ruled without first taking that temple.	
+30132	Binding the rule of the temple into an object required an enormous amount of magic. As a vessel to seal so much ether they created a vast, hard crystal of magic power, gathered all of that magic into it and set it at the center of the temple. This giant crystal, glowing red, is called the '<COLOR=FFE46D0A>Crystal of Blood</COLOR>' after the temple itself.<RETURN=1/>But with so much magic concentrated in one place, a device was needed to control that power, so the mages of the republic set three linked crystals around the outside of the temple to spread its magic out.<RETURN=1/>The three amber crystals called the '<COLOR=FFE46D0A>Rings of Blood</COLOR>' disperse and regulate the ether of the Crystal of Blood, which means that <COLOR=FFE46D0A>any damage done to the Rings of Blood is passed straight on to the Crystal of Blood.</COLOR>	
+30133	If you wish to take rule over one of the republic's areas, you must shatter the Crystal of Blood to release all of the sealed ether, then prove yourself master of the temple through the <COLOR=FFE46D0A>imprint ritual</COLOR> in the imprint chamber.<RETURN=1/>Once the imprint ritual begins, the released ether gathers in the imprint chamber and the strong magnetic field it creates causes <COLOR=FFE46D0A>every physical and magical effect cast on the one performing the imprint to disappear.</COLOR>	
+30134	The Temple of Blood is hidden by magic from ordinary eyes, so to enter it you must use one of the red structures called a <COLOR=FFE46D0A>Temple Passage</COLOR>.<RETURN=1/>But finding a Temple Passage does not mean that just anyone may enter.	
+30135	To hide the window you are looking at now and return to it later, <COLOR=FF0070C0>click the fold button at the top left</COLOR>.<RETURN=1/>While the <COLOR=FFE46D0A>mini info window is hidden</COLOR>, <COLOR=FF0070C0>clicking the mini info window button</COLOR> brings this page back.	
+30136	With a target selected you can <COLOR=FFE46D0A>attack</COLOR> by using the <COLOR=FF0070C0>auto attack action</COLOR> or by <COLOR=FF0070C0>left-clicking the monster</COLOR>.<RETURN=1/>- The <COLOR=FFE36C0A>auto attack action</COLOR> is set on <COLOR=FF0070C0>shortcut key 1</COLOR> by default.	
+// 10:48 2011-11-30
+71	How has your year been, <heroname/>? It is already <COLOR=FFE46D0A>the Christmas season</COLOR>!<RETURN=1/>This continent has no change of season, but Christmas is a festival everyone looks forward to.<RETURN=1/>Oh, and <COLOR=FFE46D0A>Brandon the Groom</COLOR> of <COLOR=FF0070C0>Waldchen</COLOR> is looking for you. He says it is important, so would you please go and see him?	
+10500	Event Information	
+15073	Christmas Event	
+// 11:28 2012-07-05
+30074	It is said that <COLOR=FFE46D0A>a single item can have 1 to 5 sockets</COLOR>.<RETURN=1/>To protect the gear, however, <COLOR=FFE46D0A>the number of high grade Zards that can be mounted is limited</COLOR>.<RETURN=1/>The number of Zards of each grade that can be mounted in one item is as follows.<RETURN=1/><COLOR=FFE46D0A>- Highest grade: 1<RETURN=1/>- High grade: 2<RETURN=1/>- Medium grade: 3<RETURN=1/>- Low grade: 5</COLOR>	
+// 8:56 2012-11-09
+30002	Greetings, <COLOR=FFE46D0A><heroname/> </COLOR>!<RETURN=1/>I am the newly appointed <COLOR=FFE46D0A>Training Officer Rotnem</COLOR>.<RETURN=1/>From here on I will teach you the basics of SUN Online, including the basic controls.<RETURN=1/>Please take it one page at a time and learn at your own pace.<RETURN=1/>To go to the next page, press the '<COLOR=FF0070C0>Next Page (>)</COLOR>' button.	
+30004	You can turn your character with the keyboard.<RETURN=1/>Use the <COLOR=FF0070C0>A key</COLOR> and the <COLOR=FF0070C0>D key</COLOR> to turn left and right.	
+30009	<COLOR=FF0070C0>Left-click</COLOR> the <COLOR=FFE46D0A>ground</COLOR> where you want to go and your character will move there.<RETURN=1/>To change which mouse button is used for movement, check the 'System Menu > Settings > Game Options > <COLOR=FF0070C0>Swap Left/Right Mouse Button</COLOR>' option.	
+30011	<COLOR=FF0070C0>Rolling the mouse wheel up and down</COLOR> <COLOR=FFE46D0A>adjusts the distance between your character and the camera</COLOR>.<RETURN=1/>Checking the 'System Menu > Settings > Game Options > <COLOR=FF0070C0>Extend Camera Distance</COLOR>' option lets you pull the camera even further back.	
+30008	The <COLOR=FF0070C0>Tab </COLOR>key lets you <COLOR=FFE46D0A>target </COLOR>monsters easily.<RETURN=1/>When many monsters are nearby, pressing <COLOR=FF0070C0>Tab</COLOR> <COLOR=FFE46D0A>targets them one after another</COLOR>.<RETURN=1/>You can change the <COLOR=FFE46D0A>targeting</COLOR> options to your taste under 'System Menu > Settings > Game Options > Attack Behavior Settings'.	
+30015	Skills with a darkened icon are ones you have not learned yet.<RETURN=1/>Every class in SUN has <COLOR=FF0070C0>two skill trees</COLOR> with completely different styles.<RETURN=1/>Each <COLOR=FF0070C0>level up</COLOR> grants <COLOR=FF0070C0>1</COLOR> <COLOR=FF0070C0>skill point</COLOR>, and you can <COLOR=FFE46D0A>strengthen a skill</COLOR> by investing your skill points in it (<COLOR=FF0070C0>click the '+' button</COLOR>).<RETURN=1/>Every skill can be <COLOR=FF0070C0>raised up to level 10</COLOR>.<RETURN=1/>Once you have <COLOR=FF0070C0>invested 20 skill points in one row</COLOR>, you can learn the skills in the next row.	
+30016	Registering the skills and items you use often on the '<COLOR=FF0070C0>quick slots</COLOR>' lets you use them easily with a <COLOR=FF0070C0>shortcut key</COLOR>.<RETURN=1/>You can also change them to your taste under 'System Menu > Settings > <COLOR=FF0070C0>Shortcut Key Settings</COLOR>'.	
+30017	First <COLOR=FF0070C0>left-click</COLOR> the skill (or item) you want to register in the Skill window or Inventory to pick it up.<RETURN=1/>Then carry it to the quick slot of the key you want and <COLOR=FF0070C0>left-click</COLOR> to finish registering it.	
+30026	Channel chat: <COLOR=FFE46D0A>(&message)<RETURN=1/></COLOR>The message reaches players in the same channel.<RETURN=1/>Use the '<COLOR=FFE46D0A>/join (channel name)</COLOR>' command to open or enter the channel chat room you want.<RETURN=1/>Use the '<COLOR=FFE46D0A>/Channel Information</COLOR>' command to see which players are in the current channel.<RETURN=1/>Use the '<COLOR=FFE46D0A>/quit</COLOR>' command to leave the channel chat room you are in.	
+30045	When your <COLOR=FFE46D0A>experience</COLOR> reaches 100% you gain 1 <COLOR=FFE46D0A>level</COLOR>.<RETURN=1/>You can check your experience on the <COLOR=FFE46D0A>EXP gauge</COLOR> at the top left of the screen.<RETURN=1/>The red blocks under the grey gauge each stand for 10%.	
+30047	<COLOR=FF0070C0>Placing the mouse cursor </COLOR>over the specially colored words in a quest description <COLOR=FFE46D0A>shows extra information</COLOR>.<RETURN=1/>It is useful for finding the location of a monster or NPC, or details about an item.	
+30048	When you accept a quest, the list of objectives for the quests you are on is shown on the right of the screen.<RETURN=1/>It shows what you must do and how far along you are, and quests whose conditions are met have their checkbox ticked.	
+30051	Each <COLOR=FFE46D0A>level up</COLOR> grants you <COLOR=FFE46D0A>5 bonus points</COLOR>.<RETURN=1/>After distributing your bonus points among your stats you must press the '<COLOR=FFE46D0A>Apply button</COLOR>'.<RETURN=1/>Not sure which stat to raise?<RETURN=1/>In that case, invest in the stats required by the equipment you want to wear.	
+30052	Up to a certain level you can <COLOR=FFE46D0A>reset </COLOR>the stat points you have distributed with the '<COLOR=FF0070C0>Reset button (R)</COLOR>'.	
+30062	To invite another warrior of the expedition to your party, follow the steps below.<RETURN=1/>It is polite to ask the other player first.<RETURN=1/>- <COLOR=FF0070C0>Right-click</COLOR> to select the <COLOR=FFE46D0A>player you want to invite</COLOR><RETURN=1/>- <COLOR=FF0070C0>Right-click the </COLOR><COLOR=FFE46D0A>target info window</COLOR> at the top center of the screen<COLOR=FF0070C0><RETURN=1/></COLOR>- Click <COLOR=FF0070C0>'Invite to Party'</COLOR> in the <COLOR=FFE46D0A>menu that appears to the right</COLOR> of the target info window	
+30068	The top of the Character window (C) shows how long your character has been online.<RETURN=1/>The longer you stay in this world, the more '<COLOR=FFE46D0A>Online Points</COLOR>' you earn at regular intervals.	
+30084	A <COLOR=FFE46D0A>passive skill</COLOR> is a skill whose effect lasts without you having to use it.<RETURN=1/>Registering and changing these passive skills is called the <COLOR=FFE46D0A>Custom Passive </COLOR>system.<RETURN=1/>Press the <COLOR=FF0070C0>K key</COLOR> to open the <COLOR=FF0070C0>Skill window (K)</COLOR>, then click the <COLOR=FF0070C0>Custom Passive tab</COLOR> to see it.	
+30104	Equipment you no longer need can be broken down with a <COLOR=FFE46D0A>Cube</COLOR>.<RETURN=1/>Open the Cube, put in the gear you have no more use for and break it down!<RETURN=1/>See for yourself what comes out.	
+30107	If you cannot find your way forward in a mission area, open the <COLOR=FF0070C0>full map (M)</COLOR> to check the <COLOR=FFE46D0A>Mission Progress Info</COLOR>.	
+30041	You have accepted a <COLOR=FFE46D0A>quest</COLOR>!!<RETURN=1/>A <COLOR=FFE46D0A>quest</COLOR> is a task an NPC asks of you or gives to you.<RETURN=1/>Through quests you can experience the fascinating stories of this world.<RETURN=1/>An NPC with a <COLOR=FFE46D0A>quest</COLOR> to offer you has a <COLOR=FFE46D0A>rolled 'golden' scroll</COLOR> above their head, and appears as a <COLOR=FFE46D0A>yellow exclamation mark</COLOR> on the <COLOR=FF0070C0>minimap (N)</COLOR> at the top right of the screen and on the <COLOR=FF0070C0>full map (M)</COLOR>.	
+72	Are you getting used to the basic controls?<RETURN=1/>Then shall we look at something even more important than the controls, the <COLOR=FFE46D0A>quests</COLOR>?	
+73	To meet <COLOR=FFE46D0A>Sentry Captain Bachen</COLOR> you have to travel through a <COLOR=FFE46D0A>portal</COLOR>.<RETURN=1/>Shall we learn about <COLOR=FFE46D0A>portals</COLOR>?	
+20014	Start!!	
+30029	Well then, shall we begin the journey?<RETURN=1/>Go to <COLOR=FFE46D0A><Clan> Irhanna</COLOR> over there and accept a quest!!	
+30042	Cannot quite remember what your task was?<RETURN=1/>Do not worry! The quests you are on can be checked in the <COLOR=FF0070C0>Quest Log (L)</COLOR>, and clicking a quest shows its details again.<RETURN=1/><COLOR=FFE46D0A>'In most cases, reading the quest text carefully will give you the clue you need.'</COLOR>	
+30043	An NPC you must report a quest to has an <COLOR=FFE46D0A>open 'grey' scroll</COLOR> above their head, which turns into an <COLOR=FFE46D0A>open 'golden' scroll</COLOR> once every condition of that <COLOR=FFE46D0A>quest</COLOR> is met.<RETURN=1/>NPCs you must report to are shown as a <COLOR=FFE46D0A>yellow question mark</COLOR> on the <COLOR=FF0070C0>minimap (N)</COLOR> and the <COLOR=FF0070C0>full map (M)</COLOR>.	
+30044	Now then! Shall we take a look at the <COLOR=FFE46D0A>New Recruit Training 1</COLOR> quest you accepted?<RETURN=1/>Hmm... a very simple task, just go and see <COLOR=FFE46D0A>Guard Captain Von Carloan</COLOR>.<RETURN=1/><COLOR=FFE46D0A>Guard Captain Von Carloan</COLOR> is always watching over the entrance of Waldchen.<RETURN=1/>Open the <COLOR=FF0070C0>full map (M)</COLOR>, find the <COLOR=FFE46D0A>yellow question mark</COLOR> and click it!<RETURN=1/>You will start moving to <COLOR=FFE46D0A>Guard Captain Von Carloan</COLOR> automatically!<RETURN=1/>Make good use of this from now on.	
+34	You have obtained an <COLOR=FFE46D0A>AC item</COLOR>.<RETURN=1/>Conquering each area step by step is called <COLOR=FFE46D0A>AC (Area Conquest)</COLOR>.<RETURN=1/>Right-click the <COLOR=FFE46D0A>AC item</COLOR> you just obtained in your <COLOR=FF0070C0>Inventory (I)</COLOR> to use it and raise your completion rate.<RETURN=1/>To check your AC completion rate, press the <COLOR=FF0070C0>J key</COLOR>.	
+7	Your HP is not full. <RETURN=1/>To fight steadily you must pay attention to <COLOR=FFE46D0A>recovery</COLOR> as well.<RETURN=1/>For details about recovery, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+42	You have entered the field.<RETURN=1/>If you look at the <COLOR=FFE46D0A>full map</COLOR>, <COLOR=FFE46D0A>nearby enemies are shown as red dots</COLOR>.<RETURN=1/>Press the <COLOR=FF0070C0>M key</COLOR> to open the full map and use it to carry out your task.	
+52	The <COLOR=FFE46D0A>Battle Zone</COLOR> lets you enter mission areas.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+31	You have obtained a <COLOR=FFE46D0A>Zard item</COLOR>.<RETURN=1/>A Zard is a gem that can be mounted in the <COLOR=FFE46D0A>socket</COLOR> of a piece of equipment.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below.	
+74	You have obtained a <COLOR=FFE46D0A>currency item</COLOR>.<RETURN=1/>Right-click the <COLOR=FFE46D0A>currency item</COLOR> you just obtained in your <COLOR=FF0070C0>Inventory (I)</COLOR> to use it and add it to your currency wallet.<RETURN=1/>For details, press the '<COLOR=FF0070C0>View Info</COLOR>' button below	
+20097	What is the Currency Wallet?	
+15074	Currency Wallet	
+30137	Right-clicking a <COLOR=FFE46D0A>currency item</COLOR> obtained from a quest or a monster adds it to your <COLOR=FFE46D0A>currency wallet</COLOR>.<RETURN=1/>You can check your <COLOR=FFE46D0A>currency wallet</COLOR> in the <COLOR=FF0070C0>Character window (C)</COLOR>.	
+30138	Stored currency can be <COLOR=FFE46D0A>used to buy goods</COLOR> from certain merchants who ask for a particular currency instead of Heim.	
+75	Congratulations! You have reached <COLOR=FFE46D0A>level 10</COLOR>.<RETURN=1/>When you reach certain levels you can open a gift box filled with all sorts of items.<RETURN=1/>Open the <COLOR=FFE46D0A>Ardor Gift Box</COLOR> in your <COLOR=FF0070C0>Inventory (I)</COLOR>.	
+30099	Mission areas can be entered conveniently through the <COLOR=FFE46D0A>Battle Zone</COLOR>.<RETURN=1/>The <COLOR=FFE46D0A>Battle Zone</COLOR> is made up of a <COLOR=FFE46D0A>lobby and rooms </COLOR>that take you straight into a mission area without going through a mission portal.<RETURN=1/>You can enter the lobby by <COLOR=FF0070C0>clicking the Battle Zone icon</COLOR> to the left of the minimap or by pressing the <COLOR=FF0070C0>F11 key</COLOR>.	
+25006	Click the Battle Zone icon or press the F11 key.	
+25007	Click the Create Room button.	
+20098	Creating a Mission Room	
+20099	Entering a Mission Room	
+30139	The <COLOR=FF0070C0>Create Room</COLOR> function lets you create the <COLOR=FFE46D0A>mission room</COLOR> you want.<RETURN=1/>Now then, shall we create a <COLOR=FFE46D0A>Sinister Rumor</COLOR> mission room?<RETURN=1/>First click the <COLOR=FF0070C0>Create Room</COLOR> button at the bottom of the lobby.	
+30140	In the <COLOR=FF0070C0>mission list</COLOR> that appears,<RETURN=1/><COLOR=FF0070C0>double-click</COLOR> <COLOR=FFE46D0A>Mission > Forest of Beasts > Sinister Rumor</COLOR><RETURN=1/>or select it and click the <COLOR=FF0070C0>Create</COLOR> button, and the mission room is created.<RETURN=1/><RETURN=1/>The <COLOR=FFE46D0A>free pass level</COLOR> is the <COLOR=FFE46D0A>level at which you may enter and leave the Battle Zone freely</COLOR> without completing the prerequisite quest.<RETURN=1/>Each area has its own free pass level, and the free pass level for the <COLOR=FFE46D0A>Forest of Beasts </COLOR>is <COLOR=FFE46D0A>Lv. 20 </COLOR>.	
+30101	If the mission room you want to join <COLOR=FFE46D0A>already exists in the Battle Zone lobby,</COLOR><RETURN=1/><COLOR=FF0070C0>double-click that mission room</COLOR> to enter it.<RETURN=1/>You can then take on the mission together with other players.	
+// 06:45 2013-07-23
+15075	Zard	
+10600	Useful Tips	
+20100	Types of Zard	
+20101	Using Zards Efficiently	
+30141	Here we will look at <COLOR=FFE36C0A>Zards</COLOR> in a little more detail.<RETURN=1/>There are many kinds of Zard, so it matters that you pick the <COLOR=FFE36C0A>option</COLOR> you need.<RETURN=1/>The options you will commonly see are these.<RETURN=1/>Sun Zard <COLOR=FFFFC000>Max HP</COLOR>, Full Moon Zard <COLOR=FFFFC000>Max MP</COLOR>, Falcon Zard <COLOR=FFFFC000>critical rate</COLOR>, Spell Zard <COLOR=FFFFC000>skill attack power.</COLOR><RETURN=1/>Protection Zard <COLOR=FFFFC000>basic defense</COLOR>, Onslaught Zard <COLOR=FFFFC000>basic attack power</COLOR>, Diamond Zard <COLOR=FFFFC000>all elemental resistance</COLOR>,<RETURN=1/>Cheetah Zard <COLOR=FFFFC000>movement speed</COLOR>, Resolution Zard <COLOR=FFFFC000>block rate</COLOR>, Wolf Zard <COLOR=FFFFC000>attack speed.<RETURN=1/></COLOR>Sharp Ruby/Sapphire/Topaz/Emerald/Onyx Zard <COLOR=FFFFC000>Fire, Water, Earth, Wind and Dark elemental attack power.<RETURN=1/></COLOR>Hard Ruby/Sapphire/Topaz/Emerald/Onyx Zard <COLOR=FFFFC000>Fire, Water, Earth, Wind and Dark elemental resistance.</COLOR><RETURN=1/>To learn how to use Zards even more efficiently, see the '<COLOR=FF0070C0>Next Page (>)</COLOR>'.	
+30142	To use Zards efficiently you need to understand how their <COLOR=FFE36C0A>effects</COLOR> are applied. <RETURN=1/>First press the <COLOR=FF0070C0>Character window (C)</COLOR> key and open the <COLOR=FF0070C0>Socket Option </COLOR>tab to see the <COLOR=FFE36C0A>socket option status</COLOR>.<RETURN=1/>- The <COLOR=FFE36C0A>option names</COLOR> on the left of the panel show the options of the Zards you currently have mounted.<RETURN=1/>- The <COLOR=FFE36C0A>9 cells</COLOR> in the middle of the panel show your equipped weapon and 8 pieces of armor.<RETURN=1/><COLOR=FFE36C0A>- Total</COLOR> and <COLOR=FFE36C0A>Effect</COLOR> show the sum of the points of the Zards mounted in your equipment and the actual effect it produces.<RETURN=1/>- Zard points strengthen the effect at each <COLOR=FFE36C0A>total </COLOR>of 1, 10, 20, 30 and 50 <COLOR=FFE36C0A>points</COLOR>.<RETURN=1/><COLOR=FFFF0000>* Once the total of your Zard points passes 50 no further effect is gained, so take care not to waste points.</COLOR>	
+15076	Private Store	
+20102	Registering Goods in a Private Store	
+20103	Buying from a Private Store	
+30143	With a <COLOR=FFE36C0A>private store</COLOR> you can buy and sell goods without having to meet the other player in person.<RETURN=1/>To register goods and start selling, first press the <COLOR=FF0070C0>Skill window (K)</COLOR> key and open the <COLOR=FF0070C0>Action/Emotion </COLOR>tab. Then click the '<COLOR=FFE36C0A>Private Store</COLOR>' button in the action window.<RETURN=1/>When the private store window opens, place the items you wish to sell in it and set the <COLOR=FFE36C0A>price</COLOR> (the price per unit).<RETURN=1/>Once your goods are registered, press the <COLOR=FF0070C0>Start </COLOR>button at the bottom left to begin selling. <RETURN=1/><COLOR=FFFF0000>* Private store trading is only possible in a safe town, and you cannot sell through a private store while riding a mount.<RETURN=1/></COLOR>If you want to buy goods from other players, see the '<COLOR=FF0070C0>Next Page (>)</COLOR>'.	
+30123	Speak to the <COLOR=FF0070C0>Flying Vessel captain</COLOR> and he will show you the continent map.<RETURN=1/>The places marked with a <COLOR=FFE46D0A>Flying Vessel icon</COLOR> are the destinations you can travel to, and you can travel there by <COLOR=FF0070C0>left-clicking the Flying Vessel icon</COLOR>.	
+30070	Besides the roulette, Online Points can also be <COLOR=FFE46D0A>used to buy goods</COLOR> from some merchants who ask for Online Points instead of Heim.<RETURN=1/><COLOR=FF0070C0>Online Point merchants</COLOR> sell their goods in the towns of Waldchen and Aukra.	
+30144	To buy goods from other players you must visit a <COLOR=FFE36C0A>private store board</COLOR>.<RETURN=1/>There is a private store board in every town.<RETURN=1/>Click a private store board and you can search by <COLOR=FFE36C0A>store name </COLOR>or <COLOR=FFE36C0A>seller</COLOR>, or look for exactly the item you need with the <COLOR=FF0070C0>Item Search </COLOR>button at the bottom right.<RETURN=1/><COLOR=FFFF0000>Note that to buy, you must use a private store board in </COLOR><COLOR=FFFFC000>the same town</COLOR><COLOR=FFFF0000> as the player who is selling. </COLOR>	
+30145	Normally you pay Heim and use a waypoint to travel between areas. <RETURN=1/>But when you have to move around often that can become tiresome, <RETURN=1/>and that is when you should try the <COLOR=FFE36C0A>Runestone</COLOR> stocked at the <COLOR=FF0070C0>Item Shop (\)</COLOR>! <RETURN=1/>A Runestone is simple to use and remembers coordinates, so you can travel conveniently to any destination you like.<RETURN=1/>First <COLOR=FF0070C0>right-click</COLOR> the Runestone to activate it, then press the <COLOR=FF0070C0>Personal Waypoint List (Y)</COLOR> key. <RETURN=1/>Press the <COLOR=FFE36C0A>Add </COLOR>button at the bottom of the window that appears and your current location is added to the list.<RETURN=1/>Click a point registered in your personal waypoint list and press the <COLOR=FFE36C0A>Move</COLOR> button to travel there. <RETURN=1/>* You may use it freely with no further cost until the Runestone expires.	
+30146	The <COLOR=FFE36C0A>Hourglass</COLOR> is a special item that re-rolls the options of accessories and special accessories.<RETURN=1/>For ordinary accessories the option grade runs from <COLOR=FFE36C0A>1 to 5</COLOR>, which you can tell from the <COLOR=FFE36C0A>dice </COLOR>icon shown in front of the option.<RETURN=1/>Using an Hourglass re-rolls the option grade, and for special accessories the option itself may be re-rolled as well. The chance of getting a high option grade is low, however, and <COLOR=FFFF0000>the grade may even drop, so please be careful. <RETURN=1/></COLOR>The NPCs who sell Hourglass items and their locations are as follows.<RETURN=1/>'<COLOR=FFFFC000>Poor Salesman Chinchin</COLOR>' in Etherain <RETURN=1/>'<COLOR=FFFFC000>Poor Salesman Chingching</COLOR>' in Aukra	
+30147	<COLOR=FFE36C0A>Enchanting</COLOR> improves the performance of weapons and armor.<RETURN=1/>Enchanting basically requires the materials <COLOR=FFE36C0A>Heim</COLOR> and <COLOR=FFE36C0A>Photon</COLOR>. <RETURN=1/>The grades of Photon used in enchanting are as follows.<RETURN=1/>-<COLOR=FFFF00FF>Photon </COLOR>: used for enchants from +1 to +6 <RETURN=1/>-<COLOR=FFFF00FF>Packing Photon </COLOR>: used for enchants from +7 to +9<RETURN=1/>-<COLOR=FFFF00FF>Trans Photon </COLOR>: used for enchants from +10 to +12<RETURN=1/>-<COLOR=FFFF00FF>Extra Photon </COLOR>: used for enchants from +13 to +15<RETURN=1/><COLOR=FFFF0000>* From +7 the item grade may drop, and from +12 the item may be destroyed, so please take care.<RETURN=1/></COLOR>Worried about losing the grade or the item itself? Try the <COLOR=FF0070C0>Blue Reagent</COLOR> and the <COLOR=FFFF0000>Red Reagent</COLOR>. The Blue Reagent <COLOR=FFE36C0A>prevents the grade from dropping</COLOR>, and the Red Reagent <COLOR=FFE36C0A>prevents the item from being destroyed</COLOR>.<RETURN=1/>Enchanting goes up to +15, and the extra options of the highest enchants are as follows.<RETURN=1/>- Armor at +14: attacker critical rate -1% <RETURN=1/>- Armor at +15: attacker critical rate -2%<RETURN=1/><COLOR=FFFF0000>Weapons and wings gain no extra option.</COLOR>	
+30148	If you want the <COLOR=FFE36C0A>Limited Mark</COLOR> shining above your character's head, try obtaining a <COLOR=FFE36C0A>badge </COLOR>item.<RETURN=1/>The badge item <COLOR=FFE36C0A>'Medal of Honor from the Liberation Army'</COLOR> can be bought from Quartermaster 'Cargo Thomas' in the town of Aukra. Badge items raise your attack and defense, and take effect once you activate them by <COLOR=FF0070C0>right-clicking</COLOR> them in your inventory. A badge is a reward for seasoned warriors, however, so to buy one you must meet the following two conditions.<RETURN=1/>1. Complete the town <COLOR=FF0070C0>daily quests</COLOR> of Waldchen, Tringel, Etherain and so on, available from level 90, until your reputation with the Liberation Army council reaches '<COLOR=FFE36C0A>Well Known</COLOR>'.<RETURN=1/>2. Look at the <COLOR=FF0070C0>Currency </COLOR>tab in the <COLOR=FF0070C0>Character window (C)</COLOR>, where the Battle Zone currencies are kept: you need 31 Certificates of the Liberation Army. Certificates of the Liberation Army are earned by completing the matching AC in the <COLOR=FF0070C0>Battle Zone </COLOR>menu of <COLOR=FF0070C0>Area Conquest (J)</COLOR>.	
+15076	Private Store	
+15077	Runestone	
+15078	Hourglass	
+15079	Enchanting	
+15080	Medal of Honor	
+20104	Convenient Area Travel	
+20105	Hourglasses and Accessories	
+20106	Equipment Enhancement	
+20107	The Limited Badge	
+30149	<COLOR=FFE46D0A>Crystallization</COLOR> means <COLOR=FFE46D0A>breaking an item down</COLOR> and <COLOR=FFE46D0A>extracting it as a gem</COLOR> holding magic power. <RETURN=1/>The gems extracted this way are then used to craft other items.<RETURN=1/><RETURN=1/>The <COLOR=FF0070C0>Crystallize </COLOR>button on the <COLOR=FF0070C0>Action/Emotion tab of the Skill window (K)</COLOR> lets you crystallize items right inside your inventory.	
+30150	When you use the <COLOR=FFE46D0A>Crystallize button</COLOR>, everything that cannot be crystallized is shown in black.<RETURN=1/>Place the cursor over an item that can be crystallized and <COLOR=FFFF00D9>you can see which item the crystallization will produce.<RETURN=1/></COLOR><COLOR=FFFF00DD>Click the item you want to crystallize and the process begins. You can crystallize several items at the same time. <RETURN=1/><RETURN=1/></COLOR>And if you click an important item by mistake, do not panic.<RETURN=1/><COLOR=FFFF0000>Click the item again before the crystallization finishes, or press the ESC key,<RETURN=1/>and the crystallization is cancelled.  </COLOR>	
+20108	What is Crystallization?	
+20109	Crystallizing Items	
+30151	<COLOR=FFE46D0A>Crystallization</COLOR> means <COLOR=FFE46D0A>breaking an item down</COLOR> and <COLOR=FFE46D0A>extracting it as a gem</COLOR> holding magic power. <RETURN=1/>The gems extracted this way are then used to craft other items.<RETURN=1/><RETURN=1/>The <COLOR=FF0070C0>Crystallize </COLOR>button on the <COLOR=FF0070C0>Action/Emotion tab of the Skill window (K)</COLOR> lets you crystallize items right inside your inventory.	
+30152	When you use the <COLOR=FFE46D0A>Crystallize button</COLOR>, everything that cannot be crystallized is shown in black.<RETURN=1/>Place the cursor over an item that can be crystallized and <COLOR=FFFF00D9>you can see which item the crystallization will produce.<RETURN=1/></COLOR><COLOR=FFFF00DD>Click the item you want to crystallize and the process begins. You can crystallize several items at the same time. <RETURN=1/><RETURN=1/></COLOR>And if you click an important item by mistake, do not panic.<RETURN=1/><COLOR=FFFF0000>Click the item again before the crystallization finishes, or press the ESC key,<RETURN=1/>and the crystallization is cancelled.  </COLOR>	
+// 06:45 2015-02-17
+15081	SUN Ranking	
+20110	Ranking Basics	
+20111	Ranking Honor Rewards 1	
+20112	Ranking Honor Rewards 2	
+20113	The Etherain Statue	
+30153	Greetings, <heroname/>!<RETURN=1/>Welcome to the SUN Ranking Information Room.<RETURN=1/>Here you can look over the information that forms the basis of the SUN Ranking.<RETURN=1/><RETURN=1/>The <COLOR=FFE46D0A>SUN Ranking</COLOR> is made up of these 7 categories: [Best of Best] [Elite Warriors] [King of Level] [Legendary Equipment] [Powerful One Attack]<RETURN=1/>[Best Striker] [Master of Healing],<RETURN=1/>and of these the <COLOR=FFE46D0A>[Best of Best] </COLOR>ranking is a <COLOR=FFE46D0A>combined ranking</COLOR> that converts and adds up the scores of the other 6.<RETURN=1/>The SUN Ranking is split into the 'personal ranking', which shows your place among all players in the game, and the 'guild member ranking', which shows your place within your guild.<RETURN=1/><RETURN=1/>Rankings are settled every Monday at 04:00, and the previous records are reset.<RETURN=1/><COLOR=FFFF0000>* The settlement day may change depending on events or circumstances.<RETURN=1/></COLOR>After settlement, the top players of each ranking receive an insignia as a reward, <RETURN=1/>and insignias are awarded based on the 'personal ranking'.<RETURN=1/>If you would like to know more about insignias, click the <COLOR=FF2E74B5>'Next Page (>)'</COLOR> button.	
+30154	Each ranking category is closely tied to the content of the game.<RETURN=1/>If you hold a high place when the rankings are settled, you receive 1 honorable <RETURN=1/><COLOR=FFE46D0A>insignia</COLOR> for that ranking category.<RETURN=1/>The insignia you receive is shown to the right of your character name.<RETURN=1/><RETURN=1/>For each ranking category the insignias come in three kinds, <COLOR=FFE46D0A>Grade 1 </COLOR>/ <COLOR=FFE46D0A>Grade 2 </COLOR>/ <COLOR=FFE46D0A>Grade 3 </COLOR>,<RETURN=1/>and they are awarded as follows.<RETURN=1/><RETURN=1/>Players who finish <COLOR=FFFF00D5>1st</COLOR> in a ranking category: <COLOR=FFFF00D5>Grade 1 insignia<RETURN=1/></COLOR>Players who finish <COLOR=FFFF00D5>2nd to 3rd</COLOR> in a ranking category: <COLOR=FFFF00D5>Grade 2 insignia<RETURN=1/></COLOR>Players who finish <COLOR=FFFF00D5>4th to 10th</COLOR> in a ranking category: <COLOR=FFFF00D5>Grade 3 insignia<RETURN=1/></COLOR>Players who finish 11th to 20th in a ranking category: common insignia<RETURN=1/><RETURN=1/>If <COLOR=FFFF0000>you qualify for the same grade of insignia in several categories</COLOR>,<RETURN=1/><COLOR=FFFF0000>you receive the insignia of whichever category sits higher in the ranking window</COLOR>.<RETURN=1/><RETURN=1/>Besides these, the <COLOR=FFE46D0A>[Best of Best] category, which measures the combined standing, has its own separate honor reward system</COLOR>.<RETURN=1/>To learn more about [Best of Best], click the <COLOR=FF2E74B5>'Next Page (>)'</COLOR>.	
+30155	[Best of Best] is a combined ranking based on the total score of the other ranking categories.<RETURN=1/>The score recorded in [Best of Best] is a new score calculated by converting the different score units of the 6 other categories into a standard value.<RETURN=1/><RETURN=1/>If you qualify for a [Best of Best] reward you receive, along with one of the three grades of insignia, a special effect that wraps around your whole body.<RETURN=1/><RETURN=1/>Player who finishes <COLOR=FFFFFF00>1st</COLOR> in Best of Best: <COLOR=FFFFFF00>Grade 1 insignia / Golden Dragon effect<RETURN=1/></COLOR>Player who finishes <COLOR=FFFF6699>2nd</COLOR> in Best of Best: <COLOR=FFFF6699>Grade 2 insignia / Phoenix (RED) effect<RETURN=1/></COLOR>Player who finishes <COLOR=FF2E74B5>3rd</COLOR> in Best of Best: <COLOR=FF2E74B5>Grade 3 insignia / Phoenix (BLUE) effect<RETURN=1/><RETURN=1/></COLOR>The honor rewards for 1st, 2nd and 3rd in [Best of Best] <COLOR=FFE46D0A>take precedence over the honor rewards of any other ranking</COLOR>, so even if you hold a high place in another category you will receive the honor reward for your [Best of Best] placing.<RETURN=1/><RETURN=1/>In addition, each time the rankings are settled, a statue of the hero who took 1st place in [Best of Best] is raised in the center of Etherain.<RETURN=1/>To learn more about the statue, click the <COLOR=FF2E74B5>'Next Page (>)' </COLOR>button.	
+30156	Every time the rankings are settled, <COLOR=FFE46D0A>a statue of the player who took 1st place in [Best of Best]</COLOR> is raised in the center of Etherain.<RETURN=1/><RETURN=1/>The statue is built from the player's equipment skin information, and does not reflect costumes, special accessories or Etheria appearance data.<RETURN=1/><RETURN=1/>Clicking the statue shows that player's information (character name / guild / guild mark), <RETURN=1/>and you can also inspect their gear through <COLOR=FFE46D0A>'View Equipment'</COLOR>.<RETURN=1/><RETURN=1/>The statue remains until the next ranking settlement.	
+15082	Equipment Awakening	
+15083	Equipment Evolution	
+15082	Equipment Awakening	
+15083	Equipment Evolution	
+20114	What is Equipment Awakening?	
+20115	Awakening Equipment	
+20116	What is Equipment Evolution?	
+20117	Evolving Equipment	
+30157	<COLOR=FFE46D0A>What is the Awakening system?</COLOR><RETURN=1/>It is a <COLOR=FFE46D0A>new equipment enhancement system</COLOR> that greatly improves the performance of weapons and armor.<RETURN=1/><RETURN=1/>To awaken equipment you need <COLOR=FFE46D0A>'Hephasto's equipment and an awakening additive'</COLOR>.<RETURN=1/>Hephasto's equipment and awakening additives can be obtained from crafting merchants.<RETURN=1/><RETURN=1/>The awakening success rate is <COLOR=FF2E74B5>100%</COLOR>, and equipment can be awakened up to <COLOR=FF2E74B5>level 9</COLOR>.<RETURN=1/>The <COLOR=FFE46D0A>enchant</COLOR> value and <COLOR=FFE46D0A>socket (Zard)</COLOR> information of awakened equipment is <COLOR=FFE46D0A>kept</COLOR>.<RETURN=1/><RETURN=1/>On awakening, a weapon gains a large increase to '<COLOR=FFE46D0A>attack power'</COLOR> and armor to '<COLOR=FFE46D0A>defense'</COLOR>.<RETURN=1/><COLOR=FF2E74B5>The higher the awakening level, and the higher the grade and tier of the equipment</COLOR>, the greater the increase.<RETURN=1/>Awakened equipment gives a crystallization reward that takes its awakening level into account.<RETURN=1/><RETURN=1/>For details on how to awaken equipment, please see the <COLOR=FF2E74B5>'Next Page (>)' </COLOR>.	
+30158	Select the <COLOR=FFE46D0A>Equipment Awakening</COLOR> menu of the <COLOR=FFE46D0A>enhancement merchant</COLOR> to perform an awakening.<RETURN=1/><RETURN=1/>1. First, <COLOR=FFE46D0A>register the equipment to be awakened</COLOR>.<RETURN=1/>Only weapons and armor of <COLOR=FF2E74B5>Gladiator's Elite, Elite and Unique</COLOR> grade can be awakened.<RETURN=1/><RETURN=1/>2. Once the equipment to be awakened is registered, <COLOR=FFE46D0A>register the matching Hephasto's equipment</COLOR>.<RETURN=1/>Hephasto's equipment is divided by grade, tier and body part,<RETURN=1/>and must be chosen <COLOR=FF2E74B5>to match the equipment being awakened</COLOR>.<RETURN=1/><COLOR=FFFF0000>*Hephasto's equipment can be crafted from Crystals of Destruction and Crystals of Protection.</COLOR><RETURN=1/><RETURN=1/>3. Finally, <COLOR=FFE46D0A>register the awakening additive</COLOR>.<RETURN=1/>The higher the tier of the equipment, the more awakening additives are required.<RETURN=1/><COLOR=FFFF0000>*Awakening additives can be crafted from Photons, Packing Photons and Trans Photons</COLOR>.<RETURN=1/><RETURN=1/>Once the awakening additive is registered as well, you can perform the awakening.<RETURN=1/>Try out the far more powerful equipment that awakening gives you.	
+30159	<COLOR=FFE46D0A>What is the Evolution system?</COLOR><RETURN=1/>It is a system that <COLOR=FFE46D0A>upgrades</COLOR> <COLOR=FF2E74B5>equipment at the highest awakening level</COLOR> to the next tier.<RETURN=1/><RETURN=1/>The evolution success rate is <COLOR=FF2E74B5>100%</COLOR>.<RETURN=1/>To evolve equipment you need <COLOR=FFE46D0A>equipment at awakening level 9 and an evolution additive</COLOR>.<RETURN=1/>*Evolution additives can be obtained from crafting merchants.<RETURN=1/><RETURN=1/><COLOR=FF2E74B5>Gladiator's Elite evolves into Gladiator's Elite equipment, and Elite into Elite equipment</COLOR>,<RETURN=1/>and it evolves into <COLOR=FFE46D0A>an item of the same class and the same body part</COLOR>.<RETURN=1/><RETURN=1/>Equipment of the highest tier in the game cannot be evolved any further,<RETURN=1/>(evolution becomes possible again once equipment of a new higher tier is added)<RETURN=1/><RETURN=1/>Evolved equipment has its <COLOR=FFE46D0A>enchant value reduced slightly</COLOR> according to a fixed formula.<RETURN=1/><COLOR=FFFF0000>*Socket information is reset after evolution, so please remove any important Zard items beforehand.</COLOR><RETURN=1/><RETURN=1/>For details on how to evolve equipment, please see the <COLOR=FF2E74B5>'Next Page (>)' </COLOR>.	
+30160	Select the <COLOR=FFE46D0A>Equipment Evolution</COLOR> menu of the <COLOR=FFE46D0A>enhancement merchant</COLOR> to perform an evolution.<RETURN=1/><RETURN=1/>1. First, <COLOR=FFE46D0A>register the equipment to be evolved</COLOR>.<RETURN=1/>Only weapons and armor of <COLOR=FF2E74B5>Gladiator's Elite and Elite</COLOR> grade can be evolved.<RETURN=1/><COLOR=FFFF0000>*Unique items cannot be evolved.</COLOR><RETURN=1/><RETURN=1/>2. Once the equipment to be evolved is registered, <COLOR=FFE46D0A>register the evolution additive item</COLOR>.<RETURN=1/>Evolution additives are divided by grade and tier,<RETURN=1/>and you must use the additive that <COLOR=FF2E74B5>matches the equipment being evolved</COLOR>.<RETURN=1/><COLOR=FFFF0000>*Evolution additives can be crafted from Mayan Jewel and Mayan Metal items.</COLOR><RETURN=1/><RETURN=1/>Once the evolution additive is registered, you can perform the evolution.<RETURN=1/>Become the owner of the finest equipment of all through equipment evolution.	
