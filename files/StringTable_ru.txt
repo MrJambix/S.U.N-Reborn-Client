@@ -1,189 +1,189 @@
 start	
 1	Начать игру
-2	Back to Lobby
+2	Вернуться в лобби
 3	Выйти из игры
-4	Open
-5	Close
-18	Change
-19	STR(Strong)
-20	AGI(Agility)
-21	VIT(Vital)
-22	INT(Intelligence)
-23	SPI(Spiritual)
+4	Открыть
+5	Закрыть
+18	Изменить
+19	СИЛ (Сила)
+20	ЛОВ (Ловкость)
+21	ЖИВ (Живучесть)
+22	ИНТ (Интеллект)
+23	ДУХ (Дух)
 24	EXT1
 25	EXT2
-27	Damage
-28	Attack
-29	Dodge rate
-30	Attack
-31	Success Rate
-32	Basic
-33	Defense power
-34	Fast
-35	Recovery
-36	Magic
-37	Damage
-38	Magic
-39	Defense power
-40	Critical
-41	Chance
-42	Additional damage
-43	Resistance power
-44	Water
-45	Wind
-46	Earth
-47	Fire
-48	Select Server
+27	Урон
+28	Атака
+29	Шанс уклонения
+30	Атака
+31	Шанс успеха
+32	Базовый
+33	Защита
+34	Быстро
+35	Восстановление
+36	Магия
+37	Урон
+38	Магия
+39	Защита
+40	Критический удар
+41	Шанс
+42	Дополнительный урон
+43	Сопротивление
+44	Вода
+45	Ветер
+46	Земля
+47	Огонь
+48	Выбор сервера
 49	Выйти из игры
 50	Выбор персонажа
-51	Key Mapping
-52	Kick
-53	Battle Zone Name
+51	Настройка клавиш
+52	Исключить
+53	Название Боевой зоны
 54	Тип
-55	Area
-56	Limit Settings
-57	Number of participants
+55	Область
+56	Настройки ограничений
+57	Число участников
 58	Создатель
-59	Time
-60	Display Settings
-61	Refresh
-64	Participate in Battle Zone
-65	Create Battle Zone
-66	General Settings
-67	Limit Settings
-68	Level limit
-69	Min.
-70	Max.
-71	No. of People
-72	Class Restriction
-73	Field map
-74	Monster type
+59	Время
+60	Настройки отображения
+61	Обновить
+64	Войти в Боевую зону
+65	Создать Боевую зону
+66	Общие настройки
+67	Настройки ограничений
+68	Ограничение по уровню
+69	Мин.
+70	Макс.
+71	Число игроков
+72	Ограничение по классу
+73	Карта поля
+74	Тип монстров
 75	Бонус
-76	MISSION
-77	CUSTOM
-78	Berserker possible
-79	Berserker impossible
-80	Dragon Knight possible
-81	Dragon Knight impossible
-82	Valkyrie possible
-83	Valkyrie impossible
-84	Weak attacking power
-85	Weak physical strength
-86	Slow speed
-87	All appear
+76	МИССИЯ
+77	СВОЙ ВАРИАНТ
+78	Берсерк допускается
+79	Берсерк не допускается
+80	Драконий рыцарь допускается
+81	Драконий рыцарь не допускается
+82	Валькирия допускается
+83	Валькирия не допускается
+84	Слабая сила атаки
+85	Слабое телосложение
+86	Низкая скорость
+87	Появляются все
 88	Опыт
 89	Предмет
-90	Enter creator's character name.
-91	Enter password
-92	No Battle Zone created by that character.
-93	No such Battle Zone.
-94	Unable to enter the Battle Zone you selected.
-95	No previous Battle Zones available.
-96	Unable to join your previous Battle Zone.
-97	Unable to join Battle Zone since the number of players exceeds the restriction.
-100	OK
-101	Cancel
-102	Select
-103	Select World
+90	Введите имя персонажа создателя.
+91	Введите пароль
+92	У этого персонажа нет созданных Боевых зон.
+93	Такой Боевой зоны нет.
+94	Не удалось войти в выбранную Боевую зону.
+95	Прежних Боевых зон нет.
+96	Не удалось вернуться в прежнюю Боевую зону.
+97	Не удалось войти в Боевую зону: превышено ограничение по числу игроков.
+100	ОК
+101	Отмена
+102	Выбрать
+103	Выбор мира
 104	Создать
-105	Cancel
-106	Make public? Yes or No
-107	Battle Zone Name
-108	Password
+105	Отмена
+106	Сделать открытой? Да или нет
+107	Название Боевой зоны
+108	Пароль
 109	%s
-110	Ready
-111	Min level is lower than the lowest limit. Please enter again.
-112	Max level exceeds the limit. Please enter again.  
-113	"Please confirm Battle Zone creation information. (Map, Battle Zone Name, and Restriction)"
-114	This Battle Zone name has been taken. Please enter again.
+110	Готов
+111	Минимальный уровень ниже допустимого. Введите заново.
+112	Максимальный уровень выше допустимого. Введите заново.
+113	"Проверьте данные создаваемой Боевой зоны (карта, название и ограничения)."
+114	Это название Боевой зоны уже занято. Введите другое.
 115	Начать игру
-116	Move to Village
-117	Party moves to Forest of Beasts map. Will you accompany them?
-118	Party moves to Sewer map. Will you accompany them?
-119	Only the party leader can choose whether or not to allow anyone to join the Battle Zone.
-120	Unable to join Battle Zone since the number of players exceeds the restriction.
-121	Repair All
-122	Close
-123	Purchase
-124	Sell
-125	Repair
-126	Left-click on the item you'd like to buy from the store.
-127	Left-click on the item you'd like to sell from your inventory.
-128	Left-click on the item you'd like to repair in your inventory.
-129	Repair All Cost
-130	You cannot purchase any more items. 
-131	Not enough money.
-132	Store
-133	Withdraw money 
-134	Close
-135	Withdraw
-136	Deposit
-137	Storage
-138	Left-click on the item in your inventory you'd like to deposit.
-139	Left-click on the item in the storage you'd like to withdraw.
-140	Unable to withdraw any more.
-141	Unable to deposit any more.
-142	Insufficient fund
-143	Please enter the amount you'd like to deposit. 
-144	Please enter the amount you'd like to withdraw. 
-145	Damage
-147	Start/Stop interaction between characters
-148	Start chatting/Sending messages
-149	View dropped item(s)
-150	Pick up Item
-151	Screenshot
-152	Open/Close Character window
-153	Open/Close Inventory/Equipment window
-154	Open/Close Skill window
-155	Open/Close Quest window
-156	Open/Close Guild window
-157	Open/Close Friends List
-158	Open/Close Map
-159	Show/Hide Party window
-160	Show/Hide Chat window
-161	Show/Hide Radar
-162	Forward (of camera center)
-163	Left forward (of camera center)
-164	Right forward (of camera center)
-165	Step back (from camera center)
-166	Sidestep left (from character center)
-167	Sidestep right (from character center)
-168	Step back (from character center)
-169	Next Slot
-170	Register
-172	Connect
-173	Announcement
-174	Go to homepage
-175	Account
-176	Password
-177	Quick Slot8
-178	Quick Slot9
-179	Quick Slot10
-180	Quick Slot11
-181	Quick Slot12
-182	Swap weapon
-183	Zoom In
-184	Zoom Out
-185	Rotate camera to left
-186	Rotate camera to right
-187	Change Viewpoint 1
+116	Переместиться в деревню
+117	Группа переходит на карту «Лес зверей». Пойдёте с ней?
+118	Группа переходит на карту «Стоки». Пойдёте с ней?
+119	Только лидер группы решает, открыта ли Боевая зона для всех.
+120	Не удалось войти в Боевую зону: превышено ограничение по числу игроков.
+121	Починить всё
+122	Закрыть
+123	Купить
+124	Продать
+125	Починить
+126	Щёлкните левой кнопкой по предмету, который хотите купить в лавке.
+127	Щёлкните левой кнопкой по предмету в инвентаре, который хотите продать.
+128	Щёлкните левой кнопкой по предмету в инвентаре, который хотите починить.
+129	Стоимость полной починки
+130	Больше предметов купить нельзя.
+131	Недостаточно денег.
+132	Лавка
+133	Снять деньги
+134	Закрыть
+135	Снять
+136	Положить
+137	Хранилище
+138	Щёлкните левой кнопкой по предмету в инвентаре, который хотите положить.
+139	Щёлкните левой кнопкой по предмету в хранилище, который хотите забрать.
+140	Больше забрать нельзя.
+141	Больше положить нельзя.
+142	Недостаточно средств
+143	Введите сумму, которую хотите положить.
+144	Введите сумму, которую хотите снять.
+145	Урон
+147	Начать или прекратить взаимодействие с персонажами
+148	Начать чат или отправить сообщение
+149	Показать выпавшие предметы
+150	Подобрать предмет
+151	Снимок экрана
+152	Открыть или закрыть окно персонажа
+153	Открыть или закрыть окно инвентаря и снаряжения
+154	Открыть или закрыть окно умений
+155	Открыть или закрыть окно заданий
+156	Открыть или закрыть окно гильдии
+157	Открыть или закрыть список друзей
+158	Открыть или закрыть карту
+159	Показать или скрыть окно группы
+160	Показать или скрыть окно чата
+161	Показать или скрыть радар
+162	Вперёд (от центра камеры)
+163	Вперёд влево (от центра камеры)
+164	Вперёд вправо (от центра камеры)
+165	Назад (от центра камеры)
+166	Шаг влево (от центра персонажа)
+167	Шаг вправо (от центра персонажа)
+168	Шаг назад (от центра персонажа)
+169	Следующая ячейка
+170	Регистрация
+172	Подключиться
+173	Объявление
+174	Перейти на сайт
+175	Учётная запись
+176	Пароль
+177	Быстрая ячейка 8
+178	Быстрая ячейка 9
+179	Быстрая ячейка 10
+180	Быстрая ячейка 11
+181	Быстрая ячейка 12
+182	Сменить оружие
+183	Приблизить
+184	Отдалить
+185	Повернуть камеру влево
+186	Повернуть камеру вправо
+187	Сменить вид 1
 188	Удалить
 189	Создать
 190	Тип %d
 191	Тип %d
 192	%s
 193	Имя
-194	Customize Character
-195	Face
-196	Height
-197	Profile
-198	Basic Stats
-199	Previous screen
+194	Настроить персонажа
+195	Лицо
+196	Рост
+197	Профиль
+198	Базовые характеристики
+199	Предыдущий экран
 201	Все
-202	Guild
-203	Party
-204	Trade
-205	System
+202	Гильдия
+203	Группа
+204	Обмен
+205	Система
 206	$guild
 207	@shout
 208	#party
@@ -226,14 +226,14 @@ start
 263	%d
 264	%s
 265	%s
-266	Leave Party
-267	Kick
-268	Change Leader
-270	Party Option
-271	Party Invite
-272	Kick this person?
-273	You will invite this person to your party
-281	Menu
+266	Покинуть группу
+267	Исключить
+268	Сменить лидера
+270	Настройки группы
+271	Пригласить в группу
+272	Исключить этого игрока?
+273	Вы пригласите этого игрока в свою группу
+281	Меню
 291	x :
 292	%d
 293	y :
@@ -256,7 +256,7 @@ start
 332	%s
 333	%s
 334	%s
-335	Free
+335	Свободно
 336	Нормально
 337	Занято
 338	%s
@@ -269,34 +269,34 @@ start
 348	%d
 349	%d
 350	%d
-351	Level
+351	Уровень
 352	%d
-353	Class
+353	Класс
 354	%s
 355	%s
-356	Guild
+356	Гильдия
 357	%s
 359	%d
 360	%d
-361	Magical Atk
+361	Магическая атака
 362	%d
 363	%d
 365	%d
 367	%d
-368	Magical Res
+368	Магическое сопротивление
 369	%d
 371	%d
 373	%d
 375	%d
-376	STR
+376	СИЛ
 377	%d
-378	AGI
+378	ЛОВ
 379	%d
-380	VIT
+380	ЖИВ
 381	%d
-382	INT
+382	ИНТ
 383	%d
-384	SPI
+384	ДУХ
 385	%d
 386	%s
 387	%d
@@ -306,19 +306,19 @@ start
 391	%d
 392	%d
 393	%d
-394	Bonus Points
+394	Бонусные очки
 395	%d
 396	%d
-397	Skill Points
-403	Action
-404	Active skill
-405	Passive skill
-406	Passive
+397	Очки умений
+403	Действие
+404	Активное умение
+405	Пассивное умение
+406	Пассивное
 407	%d
-408	Emotes
-409	Fighting Style
-411	Content
-412	Description
+408	Эмоции
+409	Стиль боя
+411	Содержание
+412	Описание
 413	Драконий
 414	Берсерк
 415	Бой
@@ -326,177 +326,177 @@ start
 417	Призыв
 418	Эфир
 419	Круг
-420	Defender
-422	In progress
-423	Buy
-424	Sell
-425	Repair
-426	Price
+420	Защитник
+422	Выполняется
+423	Купить
+424	Продать
+425	Починить
+426	Цена
 427	%d
-428	Total
+428	Всего
 429	%d
 430	%d
 431	%d
-432	You need Heim.
-433	You will obtain Heim.
-434	Proceed?
-435	Repair All
-437	Game Options
+432	Нужен хайм.
+433	Вы получите хайм.
+434	Продолжить?
+435	Починить всё
+437	Настройки игры
 439	%s
 440	%s
-442	Sound Options
-443	Resolution
-444	Texture Quality
+442	Настройки звука
+443	Разрешение
+444	Качество текстур
 447	Тень
-448	Glow
-449	Fog
-450	Background
-454	Key Configuration
-455	Default
-456	NPC Voice
+448	Свечение
+449	Туман
+450	Фон
+454	Настройка клавиш
+455	По умолчанию
+456	Голос NPC
 457	%s
 458	%s
 459	%s
-460	Options
-462	Window
-463	Basic screen
-464	Movement
-465	Hotkeys
-466	Set Camera View
-467	Action
-468	Current Keys
-469	Please select a new key.
-470	Change
-471	Save
-472	Help
-473	Start/Stop interaction between characters
-474	Start chatting/Send messages
-475	Pick up dropped items
-476	Screenshot
-477	Open/Close Character window
-478	Open/Close Inventory/Equipment window
-479	Open/Close Skill window
-480	Open/Close Quest window
-481	Open/Close Guild window
-482	Open/Close Friends list
-483	Open/Close Map
-484	Show/Hide Party window
-485	Show/Hide Chat window
-486	Show/Hide Radar
-488	Left forward (of camera center)
-489	Right forward (of camera center)
-490	Step back (from camera center)
-491	Sidestep left (from character center)
-492	Sidestep right (from character center)
-493	Step back (from character center)
-494	Next Slot
-508	Zoom In
-509	Zoom Out
-510	Rotate camera to left
-511	Rotate camera to right
-512	Change Viewpoint 1
-513	Change Viewpoint 2
-515	Show Damage
-516	Effect Quality
-521	Sell Item
-522	Quantity
+460	Настройки
+462	Окно
+463	Основной экран
+464	Передвижение
+465	Горячие клавиши
+466	Настроить вид камеры
+467	Действие
+468	Текущие клавиши
+469	Выберите новую клавишу.
+470	Изменить
+471	Сохранить
+472	Справка
+473	Начать или прекратить взаимодействие с персонажами
+474	Начать чат или отправить сообщение
+475	Подбирать выпавшие предметы
+476	Снимок экрана
+477	Открыть или закрыть окно персонажа
+478	Открыть или закрыть окно инвентаря и снаряжения
+479	Открыть или закрыть окно умений
+480	Открыть или закрыть окно заданий
+481	Открыть или закрыть окно гильдии
+482	Открыть или закрыть список друзей
+483	Открыть или закрыть карту
+484	Показать или скрыть окно группы
+485	Показать или скрыть окно чата
+486	Показать или скрыть радар
+488	Вперёд влево (от центра камеры)
+489	Вперёд вправо (от центра камеры)
+490	Назад (от центра камеры)
+491	Шаг влево (от центра персонажа)
+492	Шаг вправо (от центра персонажа)
+493	Шаг назад (от центра персонажа)
+494	Следующая ячейка
+508	Приблизить
+509	Отдалить
+510	Повернуть камеру влево
+511	Повернуть камеру вправо
+512	Сменить вид 1
+513	Сменить вид 2
+515	Показывать урон
+516	Качество эффектов
+521	Продать предмет
+522	Количество
 523	%d
-524	Total Sale Price
+524	Общая цена продажи
 525	%d
-526	Open Private Shop
-527	Close Private Shop
-529	Reset Price
-530	Purchase
-531	Item Name
+526	Открыть личную лавку
+527	Закрыть личную лавку
+529	Сбросить цену
+530	Купить
+531	Название предмета
 532	%s
 533	%d
-534	Purchase Price
+534	Цена покупки
 535	%d
-536	Purchase
-537	Price per Unit
+536	Купить
+537	Цена за штуку
 538	%d
 539	%d
-540	Total Amount
-541	Current Price
+540	Итоговая сумма
+541	Текущая цена
 542	%d
 544	%d
-545	Current Quantity
+545	Текущее количество
 546	%d
-547	Select Quantity
+547	Выберите количество
 548	%d
-549	Please select an item to buy.
-550	Please select an item to sell.
+549	Выберите предмет для покупки.
+550	Выберите предмет для продажи.
 551	Недостаточно хайма.
-552	Sales Message
+552	Рекламное сообщение
 553	%s
 554	%s
-555	Enter your sales message.
-561	%'s Storage
-562	Left-click on item in the storage to withdraw.
-563	Left-click on item in the inventory to deposit.
-564	Fee
-565	Please enter an amount.
-566	Deposit
-567	Withdraw
+555	Введите рекламное сообщение.
+561	Хранилище: %'s
+562	Щёлкните левой кнопкой по предмету в хранилище, чтобы забрать его.
+563	Щёлкните левой кнопкой по предмету в инвентаре, чтобы положить его.
+564	Плата
+565	Введите сумму.
+566	Положить
+567	Снять
 568	%d
-569	Sub-storage
-570	Slot 1
-571	Slot 2
-572	Slot 3
-573	Slot 4
-574	Slot 5
+569	Дополнительное хранилище
+570	Ячейка 1
+571	Ячейка 2
+572	Ячейка 3
+573	Ячейка 4
+574	Ячейка 5
 600	-
 601	Все
 602	Миссия
 603	Охота
-605	Limit Settings
-606	Level Limit
+605	Настройки ограничений
+606	Ограничение по уровню
 607	%d
 608	%d
-609	People
+609	Игроков
 610	%d
-611	Person(s)
-612	Class Limit
-613	Select Field
-614	Difficulty
+611	Игрок(ов)
+612	Ограничение по классу
+613	Выбор поля
+614	Сложность
 615	Бонус
 616	Быстрый доступ
-617	Mission Battle Zone
-618	Hunting Battle Zone
-620	Enter Battle Zone
-621	Create Battle Zone
+617	Боевая зона: миссия
+618	Боевая зона: охота
+620	Войти в Боевую зону
+621	Создать Боевую зону
 622	Открытая
 623	Закрытая
 624	%s
 625	%d
 626	%s
 627	%s
-628	Player Info.
+628	Сведения об игроке
 629	Игроки
 630	%d
 631	%d
-632	Area Info
-633	Lobby Type
-634	Restrictions
-635	Lobby Chat
-637	Search
+632	Сведения об области
+633	Тип лобби
+634	Ограничения
+635	Чат лобби
+637	Поиск
 638	Название комнаты
-639	Password
+639	Пароль
 640	Миссия
 641	Охота
 642	%s
-643	Invited Players
-644	Party Lead
-645	Area
-646	Recommended Level
+643	Приглашённые игроки
+644	Лидер группы
+645	Область
+646	Рекомендуемый уровень
 647	%d
 648	%d
-649	Field 1
-650	Field 2
-651	Field 3
-652	Hard
+649	Поле 1
+650	Поле 2
+651	Поле 3
+652	Сложно
 653	Нормально
-654	Easy
+654	Легко
 655	%s
 656	%s
 657	%s
@@ -527,40 +527,40 @@ start
 682	8
 683	9
 684	10
-685	PVP
-686	PVP Battle Zone
+685	PvP
+686	Боевая зона: PvP
 687	%s
-688	Select Rule
-689	PVP Mode
+688	Выбор правил
+689	Режим PvP
 690	%s
 691	%s
 692	%s
 693	%s
 694	%s
-695	10 Kills
-696	30 Kills
-697	No limit
-698	Duel
-699	Team Battle
-700	Switch Team
-701	Please select a reward.
+695	10 убийств
+696	30 убийств
+697	Без ограничения
+698	Дуэль
+699	Командный бой
+700	Сменить команду
+701	Выберите награду.
 702	%d
 703	Опыт
 704	%d
 705	Опыт
-721	Please select an item to enchant.
+721	Выберите предмет для зачарования.
 722	%s
-723	will be enchanted.
-724	Enchant success!
-725	Item cannot be enchanted.
-726	Check the enchant level of the item.
+723	будет зачарован.
+724	Зачарование удалось!
+725	Этот предмет нельзя зачаровать.
+726	Проверьте уровень зачарования предмета.
 727	Зачарование не удалось.
-728	You need more materials.
-729	Please place item to enchant.
-730	High grade enchantment costs %d Heim.
+728	Нужно больше материалов.
+729	Поместите предмет для зачарования.
+730	Высокое зачарование стоит %d хайма.
 731	%d
-732	High Grade Enchant level
-733	Warning! Enchant failure will destroy the item.
+732	Уровень высокого зачарования
+733	Внимание! При неудаче зачарования предмет будет уничтожен.
 734	%s
 735	%d
 736	%s
@@ -572,49 +572,49 @@ start
 742	%s
 743	%d
 744	Зачарование
-745	Reset
-746	High Grade Enchant
-747	Materials
-748	Enchant level of the item is now %d.
-749	Weapon/Armor
-750	Accessory
-761	Select an item to rank up
-762	and place it in the slot
-763	Rank-up
-764	Rank-up completed.
-765	Please place the item you wish to rank down in the slot.
-766	Rank-down costs %d Heim.
+745	Сбросить
+746	Высокое зачарование
+747	Материалы
+748	Уровень зачарования предмета теперь %d.
+749	Оружие и броня
+750	Аксессуар
+761	Выберите предмет для повышения ранга
+762	и поместите его в ячейку
+763	Повышение ранга
+764	Ранг повышен.
+765	Поместите в ячейку предмет, ранг которого хотите понизить.
+766	Понижение ранга стоит %d хайма.
 767	%s
-768	Item to Rank-down
+768	Предмет для понижения ранга
 769	%s
 770	%d
 771	%s
 772	%d
 773	%s
 774	%d
-775	Rank-down
-776	Rank-down completed.
+775	Понижение ранга
+776	Ранг понижен.
 777	%d
 778	%I64u
-779	Place required materials.
-780	Item Creation
-781	Item Crystallization
+779	Поместите нужные материалы.
+780	Создание предмета
+781	Кристаллизация предмета
 782	Создать
-783	Craft Accessory
-784	Craft Materials
-790	Select a Gem to place in the socket.
-791	You need more sockets.
+783	Изготовить аксессуар
+784	Материалы для изготовления
+790	Выберите камень, чтобы вставить его в гнездо.
+791	Нужно больше гнёзд.
 792	%s
-793	is inserted with a Gem.
-794	Socketing success!
-795	Place item to remove socket and needed materials to the slot.
-796	%d Heim is needed for socket removal.
+793	получает камень в гнездо.
+794	Вставка в гнездо удалась!
+795	Поместите в ячейку предмет и материалы для удаления гнезда.
+796	Для удаления гнезда нужно %d хайма.
 797	%d
-798	Remove Socket
-799	Socket removal success!
-800	Socket removal failed.
-801	Place item to add socket and needed materials to the slot.
-802	%d Heim is needed to add a socket.
+798	Удалить гнездо
+799	Гнездо удалено!
+800	Не удалось удалить гнездо.
+801	Поместите в ячейку предмет и материалы для добавления гнезда.
+802	Для добавления гнезда нужно %d хайма.
 803	%d
 804	%s
 805	%d
@@ -622,19 +622,19 @@ start
 807	%d
 808	%s
 809	%d
-810	Add Socket
-811	Socket addition success!
-812	Socket addition failed.
-813	[%s] has been destroyed due to enchant failure.
-814	[%s]'s level has fallen due to enchant failure.
-815	Transmitting item info.
-831	Please place item and needed materials to craft %s in the slot.
+810	Добавить гнездо
+811	Гнездо добавлено!
+812	Не удалось добавить гнездо.
+813	[%s] уничтожен из-за неудачного зачарования.
+814	Уровень [%s] понизился из-за неудачного зачарования.
+815	Передача данных предмета.
+831	Поместите в ячейку предмет и материалы для изготовления %s.
 832	%s
-833	High Grade
-834	Low Grade
-835	Ring
-836	Necklace
-837	Crafting %s %s costs %d Heim.
+833	Высокий ранг
+834	Низкий ранг
+835	Кольцо
+836	Ожерелье
+837	Изготовление %s %s стоит %d хайма.
 838	%s
 839	%d
 840	%s
@@ -646,33 +646,33 @@ start
 846	%s
 847	%d
 848	Создать
-849	%s %s crafted successfully.
-850	You will lose your materials if crafting fails.
+849	%s %s успешно изготовлен.
+850	При неудаче изготовления материалы будут потеряны.
 861	%s
-862	High Grade Enchant
-863	Rank-up
-864	Rank-down
-865	Add Socket
-866	Remove option
-871	My Offer
+862	Высокое зачарование
+863	Повышение ранга
+864	Понижение ранга
+865	Добавить гнездо
+866	Убрать свойство
+871	Моё предложение
 872	%s
 873	Предложить
-874	Revise Offer
+874	Изменить предложение
 875	Обмен завершён
 876	%d
-877	Received Offer
+877	Полученное предложение
 878	%d
-879	Accept Trade
+879	Принять обмен
 880	Предложение готово
 881	Обмен отменён.
 882	Обмен завершён.
 883	%s
 884	Введите количество.
-891	Character has died.
-892	From Lv.11, you receive durability reduction penalty.
-893	If you press 'Resurrect on the Spot', you can resurrect at the current spot.
-894	If you press 'Waiting for Resurrect',
-895	you maintain your current status until returning to the village or resurrected by another player.
+891	Персонаж погиб.
+892	С 11 уровня вы получаете штраф к прочности.
+893	Нажмите «Воскреснуть на месте», чтобы воскреснуть здесь же.
+894	Если нажать «Ожидать воскрешения»,
+895	вы сохраните текущее состояние, пока не вернётесь в деревню или пока вас не воскресит другой игрок.
 896	%s
 897	%s
 901	<Level %d>
@@ -717,768 +717,768 @@ start
 962	%s
 963	%d
 980	%d
-991	OK
-992	Default
-993	Cancel
-999	Heim
+991	ОК
+992	По умолчанию
+993	Отмена
+999	Хайм
 1002	%d
 1003	%d
 1004	%s
-1005	Required Rank
-1007	Guild Item
-1008	Guild Management
-1009	Guild Battle
-1019	Guild Member
-1020	LV
-1021	Class
-1022	Show Offline Members
+1005	Требуемый ранг
+1007	Предмет гильдии
+1008	Управление гильдией
+1009	Битва гильдий
+1019	Член гильдии
+1020	УР
+1021	Класс
+1022	Показывать offline-участников
 1023	%s
 1024	%d
-1025	Player Info
-1026	Critical Hit
-1027	Deaths
+1025	Сведения об игроке
+1026	Критический удар
+1027	Смертей
 1028	%s
 1029	%s
-1030	Blue Team
-1031	Red Team
-1032	Continue
-1033	Exit
-1034	Pressing ALT key will close it.
-1037	The guild leader has much responsibility. Think carefully before deciding.
-1038	Are you ready to be a guild leader?
-1039	Please enter character's name to invite.
-1040	%s has invited you to join the guild. %s?
+1030	Синяя команда
+1031	Красная команда
+1032	Продолжить
+1033	Выход
+1034	Нажатие клавиши ALT закроет это окно.
+1037	На главе гильдии лежит большая ответственность. Хорошо подумайте перед решением.
+1038	Вы готовы стать главой гильдии?
+1039	Введите имя персонажа для приглашения.
+1040	%s приглашает вас в гильдию. %s?
 1042	%d
-1043	Do you really want to leave the guild?
-1044	Warning! Expelling a guild member.
-1045	Guild Notice
-1046	Barrage
-1051	Grant Title
-1301	Message
-1302	Refuse Chat
-1303	Add Friend
-1304	Delete Friend
-1305	Write Message
-1306	Request Chat
-1308	Deleting %s from the list.
-1309	Enter the player to block.
-1310	Add List
-1311	Delete List
-1312	Friend List
-1313	Block List
+1043	Вы действительно хотите покинуть гильдию?
+1044	Внимание! Исключение члена гильдии.
+1045	Объявление гильдии
+1046	Шквал
+1051	Присвоить титул
+1301	Сообщение
+1302	Отказаться от чата
+1303	Добавить в друзья
+1304	Удалить из друзей
+1305	Написать сообщение
+1306	Запросить чат
+1308	Удаление %s из списка.
+1309	Введите имя игрока для блокировки.
+1310	Добавить в список
+1311	Удалить из списка
+1312	Список друзей
+1313	Список блокировок
 1314	%s
-5001	Unable to connect.
-5002	Enter account and password.
-5003	Logging in.
-5004	Waiting for server response.
-5005	Please check your password.
-5006	Connection to server failed.
+5001	Не удалось подключиться.
+5002	Введите учётную запись и пароль.
+5003	Выполняется вход.
+5004	Ожидание ответа сервера.
+5005	Проверьте пароль.
+5006	Не удалось подключиться к серверу.
 5007	Выберите сервер.
-5050	To delete the character, please enter your password.
-5099	Do you really want to quit?
-5101	%s obtained.
-5102	Gained %d EXP.
-5103	%d training points and %d skill points obtained.
-5104	%d until maintenance. Please close the game at a safe spot.
-5105	Leveled up to %d.
-5106	Please log in again for better server connection.
-5107	You do not meet the requirements for this item.
-5108	You cannot wear this item
-5109	Do you really wish to drop this item?
-5201	Party leader has been changed.
-5202	You left the party.
-5203	Party has been disbanded.
-5205	%s has entered the Battle Zone. Increases monsters' HP and EXP.
-5206	%s has left the party. Decreases monsters' HP and EXP.
-5207	Warning! Captain Monster has appeared on the field!
-5208	%s has joined the guild.
-5601	No Battle Zone created.
-5602	Appropriate Battle Zone was not found.
-5603	Unable to enter selected Battle Zone.
-5604	Not enough players.
-5701	There is no item to add socket.
-5702	Not enough materials.
-5703	Crafting success!
-5704	Crafting failed!
-5801	Trading with %s.
-5802	Trade with %s cancelled.
-5803	Completed trade with %s.
-7001	Skill has not been learned.
-7002	You don't have enough points.
-7003	You need to equip %s to use the skill.
-7004	You need to be level %d to use the skill.
-7005	You do not have enough proficiency.
+5050	Чтобы удалить персонажа, введите пароль.
+5099	Вы действительно хотите выйти?
+5101	Получено: %s.
+5102	Получено %d опыта.
+5103	Получено очков характеристик: %d, очков умений: %d.
+5104	До обслуживания %d. Закройте игру в безопасном месте.
+5105	Достигнут %d уровень.
+5106	Войдите снова для более стабильного соединения.
+5107	Вы не соответствуете требованиям этого предмета.
+5108	Вы не можете надеть этот предмет
+5109	Вы действительно хотите выбросить этот предмет?
+5201	Лидер группы сменился.
+5202	Вы покинули группу.
+5203	Группа распущена.
+5205	%s входит в Боевую зону. HP и опыт монстров увеличиваются.
+5206	%s покидает группу. HP и опыт монстров уменьшаются.
+5207	Внимание! На поле появился монстр-капитан!
+5208	%s вступает в гильдию.
+5601	Боевых зон не создано.
+5602	Подходящая Боевая зона не найдена.
+5603	Не удалось войти в выбранную Боевую зону.
+5604	Недостаточно игроков.
+5701	Нет предмета для добавления гнезда.
+5702	Недостаточно материалов.
+5703	Изготовление удалось!
+5704	Изготовление не удалось!
+5801	Обмен с %s.
+5802	Обмен с %s отменён.
+5803	Обмен с %s завершён.
+7001	Умение не изучено.
+7002	У вас недостаточно очков.
+7003	Чтобы использовать умение, нужно надеть %s.
+7004	Чтобы использовать умение, нужен %d уровень.
+7005	Недостаточно мастерства.
 7006	Используйте после выбора цели.
-7007	You do not have enough HP.
-7008	You do not have enough MP.
-7009	You do not have enough SP.
-7010	You cannot use another skill during casting motion.
-7011	Try again after the cooldown.
-7012	Target is out of range.
-7013	No power to use weapon. Use after charging.
-7014	Target cannot be healed.
-7015	Unable to move in current state.
-7016	You do not meet the requirement to use the skill.
-7017	Invalid target.
+7007	Недостаточно HP.
+7008	Недостаточно MP.
+7009	Недостаточно SP.
+7010	Во время произнесения нельзя использовать другое умение.
+7011	Попробуйте после перезарядки.
+7012	Цель вне досягаемости.
+7013	Нет заряда для оружия. Зарядите его.
+7014	Эту цель нельзя лечить.
+7015	В текущем состоянии двигаться нельзя.
+7016	Вы не соответствуете требованиям этого умения.
+7017	Недопустимая цель.
 10048	W
 10049	WEBZEN
 10050	Copyright Webzen. All Rights Reserved.
-11006	Wear Class
-11012	Defense power
-11013	Quantity
-11014	Price
-11016	Amount of recovery
-11101	Rank option (%s)
+11006	Класс для ношения
+11012	Защита
+11013	Количество
+11014	Цена
+11016	Величина восстановления
+11101	Свойство ранга (%s)
 11102	E
 11103	D
 11104	C
 11105	B
 11106	A
 11107	S
-11108	Rank E:
-11109	Rank D:
-11110	Rank C:
-11111	Rank B:
-11112	Rank A:
-11151	Socket option (%d)
-11152	Socket 1:
-11153	Socket 2:
-11154	Socket 3:
-11155	Casting time: %d
-11156	Cooldown: %d second(s)
-11157	MP use
-11158	Required proficiency for next level : %d
-11159	Next required skill point: %d
+11108	Ранг E:
+11109	Ранг D:
+11110	Ранг C:
+11111	Ранг B:
+11112	Ранг A:
+11151	Свойство гнезда (%d)
+11152	Гнездо 1:
+11153	Гнездо 2:
+11154	Гнездо 3:
+11155	Время произнесения: %d
+11156	Перезарядка: %d с
+11157	Расход MP
+11158	Мастерство для следующего уровня : %d
+11159	Очков умений для следующего уровня: %d
 11160	Требуемый уровень для следующего: %d
-11164	Combat requirement: %d
-11165	Dragonic requirement: %d
-11168	Offensive requirement: %d
-11169	Summon requirement: %d
-11170	Ether requirement: %d
-11171	Circle requirement: %d
-11220	Fast Recovery
-11221	Proficiency
-11222	Defense increase
-11223	Attack increase
-11225	HP increase
-11227	Skills
-11230	HP absorption (when monster dies)
-11231	MP/SP absorption (when monster dies)
-11233	Additional effect(s):
-11234	Weapon used:
-11235	Skill type:
-11236	Melee/Physical
-11237	Ranged/Physical
-11238	Secondary
-11239	Enhancement
-11240	Debuff
-11241	Heal
-11242	Transformation
+11164	Требование «Бой»: %d
+11165	Требование «Драконий»: %d
+11168	Требование «Наступление»: %d
+11169	Требование «Призыв»: %d
+11170	Требование «Эфир»: %d
+11171	Требование «Круг»: %d
+11220	Быстрое восстановление
+11221	Мастерство
+11222	Прибавка к защите
+11223	Прибавка к атаке
+11225	Прибавка к HP
+11227	Умения
+11230	Поглощение HP (при гибели монстра)
+11231	Поглощение MP/SP (при гибели монстра)
+11233	Дополнительные эффекты:
+11234	Используемое оружие:
+11235	Тип умения:
+11236	Ближний бой / физический
+11237	Дальний бой / физический
+11238	Вторичное
+11239	Усиление
+11240	Ослабление
+11241	Лечение
+11242	Превращение
 11243	Призыв
-11244	Resurrection
-11245	Magic
-11246	Divine
-11247	Skill use range
-11248	Current skill damage: %d
-11249	Next level damage: %d
-11301	Duration
-11302	Minute(s)
-11303	Second(s)
+11244	Воскрешение
+11245	Магия
+11246	Божественное
+11247	Дальность умения
+11248	Текущий урон умения: %d
+11249	Урон на следующем уровне: %d
+11301	Длительность
+11302	мин.
+11303	с
 11501	Нормально
-11502	Leader
-11503	Elite
-11504	Captain
-11505	Boss
-30031	Metal
-30032	Bronze
-30033	Alloy
-30034	Steel
-30035	Veron Family
-30036	Gruesome Punishment
-30037	Flame of Darkness
-30038	Resplendent Victory
-30039	Piercing Darkness
-30041	Judgment Day 
-30042	Lemures Tribe's
-30043	Mighty
-30044	Hateful
-30045	Pan-destroyer's
-30061	Metal
-30062	Bronze
-30063	Alloy
-30064	Steel
-30065	Hermit's
-30066	Grey Gust's
-30067	Grim Reaper's
-30068	Legendary Hero's
-30069	Guide Mac Lir
-30071	Sublime
-30072	Queen Saver
-30073	Master of Despair 
-30074	Judge Medio
-30075	Fate Holder
-30091	Metal
-30092	Bronze
-30093	Tin
-30094	Cast Iron
-30095	Guardian
+11502	Лидер
+11503	Элитный
+11504	Капитан
+11505	Босс
+30031	Металл
+30032	Бронза
+30033	Сплав
+30034	Сталь
+30035	Семьи Верон
+30036	Ужасная кара
+30037	Пламя тьмы
+30038	Блистательная победа
+30039	Пронзающая тьма
+30041	Судный день
+30042	Племени лемуров
+30043	Могучий
+30044	Ненавистный
+30045	Всеразрушителя
+30061	Металл
+30062	Бронза
+30063	Сплав
+30064	Сталь
+30065	Отшельника
+30066	Серого вихря
+30067	Жнеца
+30068	Легендарного героя
+30069	Проводник Мак Лир
+30071	Возвышенный
+30072	Спасительница королевы
+30073	Владыка отчаяния
+30074	Судья Медио
+30075	Хранитель судьбы
+30091	Металл
+30092	Бронза
+30093	Олово
+30094	Чугун
+30095	Страж
 30096	Долина драконьего рода
-30097	Miraculous
-30098	Dawn Opener
-30099	Lava-heated
-30101	Bloody Revenge
-30102	Fair Beltis
-30103	Soul Protector's
-30104	Shackle-cutting
-30105	Soaring Dragon's
-30121	Metal
-30122	Bronze
-30123	Tin
-30124	Cast Iron
-30125	Final Blow
-30126	Piercing Wind's
-30127	Lightning of Wrath
-30128	Clairvoyant
-30129	Furious Wind
-30131	Cleaving Abyss
-30132	Audacious Ariel
-30133	Brilliant
-30134	Archangel's
-30135	Revelation's
-30151	Shadow Weapon (whip)
-30152	Shadow Weapon
-30153	Shadow Weapon
-30154	Shadow Weapon
-30155	Shadow Weapon
-30156	Shadow Weapon
-30157	Shadow Weapon
-30158	Shadow Weapon
-30159	Shadow Weapon
-30160	Shadow Weapon
-30161	Shadow Weapon
-30162	Shadow Weapon
-30163	Shadow Weapon
-30164	Shadow Weapon
-30165	Shadow Weapon
-30211	Bamboo
-30212	Oak
-30213	Tin
-30214	Steel
-30215	Rapid Fire
-30216	Libe Lake
-30217	Wondrous Figure
-30218	Enraged Nazarin
-30219	Secret Forest
-30221	Humble Innoson
-30222	Archer Laufen
-30223	Ghastly Fury
-30224	Black Sun
-30225	Sky Garden
-30241	Metal
-30242	Bronze
-30243	Tin
-30244	Steel
-30245	Thunder
-30246	Cornic
-30247	Dead Shot
-30248	Super Marksman Konsi
-30249	Stranger's
-30251	Just Breeze
-30252	Tauru
-30253	Sting of Scorpion
-30254	Miraculous
-30255	Phoenix
-30271	Thorny Vine
-30272	Walnut
-30273	Ivory
-30274	Crystal
-30275	Prophet's
-30276	Circle's
-30277	Holy Spirit's
+30097	Чудесный
+30098	Открывающий рассвет
+30099	Раскалённый лавой
+30101	Кровавая месть
+30102	Светлая Белтис
+30103	Защитника души
+30104	Разрывающий оковы
+30105	Взмывающего дракона
+30121	Металл
+30122	Бронза
+30123	Олово
+30124	Чугун
+30125	Последний удар
+30126	Пронзающего ветра
+30127	Молния гнева
+30128	Ясновидящий
+30129	Яростный ветер
+30131	Рассекающая бездна
+30132	Дерзкая Ариэль
+30133	Сияющий
+30134	Архангела
+30135	Откровения
+30151	Теневое оружие (кнут)
+30152	Теневое оружие
+30153	Теневое оружие
+30154	Теневое оружие
+30155	Теневое оружие
+30156	Теневое оружие
+30157	Теневое оружие
+30158	Теневое оружие
+30159	Теневое оружие
+30160	Теневое оружие
+30161	Теневое оружие
+30162	Теневое оружие
+30163	Теневое оружие
+30164	Теневое оружие
+30165	Теневое оружие
+30211	Бамбук
+30212	Дуб
+30213	Олово
+30214	Сталь
+30215	Беглый огонь
+30216	Озеро Либе
+30217	Дивный облик
+30218	Разъярённый Назарин
+30219	Тайный лес
+30221	Скромный Инносон
+30222	Лучник Лауфен
+30223	Жуткая ярость
+30224	Чёрное солнце
+30225	Небесный сад
+30241	Металл
+30242	Бронза
+30243	Олово
+30244	Сталь
+30245	Гром
+30246	Корник
+30247	Меткий выстрел
+30248	Суперстрелок Конси
+30249	Незнакомца
+30251	Лёгкий бриз
+30252	Тауру
+30253	Жало скорпиона
+30254	Чудесный
+30255	Феникс
+30271	Колючая лоза
+30272	Орех
+30273	Слоновая кость
+30274	Хрусталь
+30275	Пророка
+30276	Круга
+30277	Святого духа
 30278	Элементаль
-30279	Dreadful Silence
-30281	Strong Patience
-30282	Wanderer Epios
-30283	Lost Angel's
-30284	Wizard Rad's
-30285	Harmony of Gaia
-30301	Glass
-30302	Garnet
-30303	Cat's Eye
-30304	Amethyst
-30305	Green Emerald
-30306	Purification
-30307	Moonstone
-30308	Sunstone
-30309	Latent Hope's
-30311	Prophet Naski's
-30312	Amiable Angela
-30313	Strong Protection
-30314	Resurrection's
-30315	Creator's
-31005	Shadow 1
-31006	Shadow 2
-31007	Offensive One-Handed Crossbow
-31008	Offensive Ether Weapon
-31009	Ether Staff
-31010	Ether Orb
-32005	Shadow Weapon
-32006	Shadow Weapon
-32007	Summon One-Handed Crossbow
-32008	Summon Ether Weapon
-32009	Circle Staff
-32010	Circle Orb
-35031	Brass
-35032	Black Iron
-35033	Metal Plate
-35034	Steel
-35035	Cool Alloy
-35036	Schutar Platinum
-35037	Bloody Resolution's
-35039	Warrior Ventus
-35040	Holy Shout's
-35051	Green Dragon Scale
-35052	Brown Dragon Scale
-35053	Purple Dragon Scale
-35054	Red Dragon Scale
-35055	Honorable Dragonkin's
-35056	Pure Revenge's
-35057	Breath of Black Dragon
-35059	Solemn Pledge
-35060	Celestial Dragon
-35071	Shadow Armor
-35072	Shadow Armor
-35073	Shadow Armor
-35074	Shadow Armor
-35075	Shadow Armor
-35076	Shadow Armor
-35077	Shadow Armor
-35078	Shadow Armor
-35079	Shadow Armor
-35080	Shadow Armor
-35091	Brown Rabbit Leather
-35092	Deer Leather
-35093	Eagle Leather
-35094	Red Bear Leather
-35095	Gotten the Archer's
-35096	Morning Dew Mythril
-35097	Tear of Mermaid
-35099	Ripening Victory's
-35100	Spirit of the Forest
-35111	Talc
-35112	Quartz
-35113	Amethyst
-35114	Cat's Eye
-35115	Sagaz
-35116	Awars
-35117	Brangloon
-35119	Brilliant Siegel's
-35120	Power of Nature
-35131	Berserker Plain
-35132	Berserker Cotton
-35133	Berserker Muslin
-35134	Berserker Linen
-35135	Berserker Herringbone
-35136	Berserker Chiffon
-35137	Berserker Satin
-35138	Berserker Silk
-35139	Berserker Holland
-35140	Berserker Taffeta
-35151	Dragon Plain
-35152	Dragon Cotton
-35153	Dragon Muslin
-35154	Dragon Linen
-35155	Dragon Herringbone
-35156	Dragon Chiffon
-35157	Dragon Satin
-35158	Dragon Silk
-35159	Dragon Holland
-35160	Dragon Taffeta
-35171	Shadow Shirt
-35172	Shadow Shirt
-35173	Shadow Shirt
-35174	Shadow Shirt
-35175	Shadow Shirt
-35176	Shadow Shirt
-35177	Shadow Shirt
-35178	Shadow Shirt
-35179	Shadow Shirt
-35180	Shadow Shirt
-35191	Valkyrie Plain
-35192	Valkyrie Cotton
-35193	Valkyrie Muslin
-35194	Valkyrie Linen
-35195	Valkyrie Herringbone
-35196	Valkyrie Chiffon
-35197	Valkyrie Satin
-35198	Valkyrie Silk
-35199	Valkyrie Holland
-35200	Valkyrie Taffeta
-35211	Elemental Plain
-35212	Elemental Cotton
-35213	Elemental Muslin
-35214	Elemental Linen
-35215	Elemental Herringbone
-35216	Elemental Chiffon
-35217	Elemental Satin
-35218	Elemental Silk
-35219	Elemental Holland
-35220	Elemental Taffeta
-36601	Offensive Armor
-36602	Offensive Protector
-36603	Offensive Helmet
-36604	Offensive Pants
-36605	Offensive Boots
-36606	Offensive Gloves
-36607	Offensive Belt
-36608	Offensive Shirt
-36701	Summon Armor
-36702	Summon Protector
-36703	Summon Helmet
-36704	Summon Pants
-36705	Summon Boots
-36706	Summon Gloves
-36707	Summon Belt
-36708	Summon Shirt
-36801	Ether Armor
-36802	Ether Protector
-36803	Ether Helmet
-36804	Ether Pants
-36805	Ether Boots
-36806	Ether Gloves
-36807	Ether Belt
-36808	Ether Shirt
-36901	Circle Armor
-36902	Circle Protector
-36903	Circle Helmet
-36904	Circle Pants
-36905	Circle Boots
-36906	Circle Gloves
-36907	Circle Belt
-36908	Circle Shirt
-40001	Low Grade Zard
-40002	High Grade Zard
-40003	Enchant Material
-40004	Socket Material
-40005	Accessory Material
-40006	Special Material
-40007	Crystal
-40008	Consumable Item
-40009	Special Item
-40071	Maxi Stone
-40072	Over Stone
-40073	Strength Stone
-40074	Mega Stone
-40075	Giga Stone
-40081	Packing Photon
-40082	Trans Photon
-40091	Ring Agate
-40092	Necklace Agate
-40101	Wings Gemstone
-40102	Cloak Gemstone
-40103	Crest Bone
-40104	Nova Bone
-40111	Protection Crystal
-40112	Shining Crystal
-40113	Unique Crystal
-40121	Recovery Potion Lv.1
-40122	Recovery Potion Lv.2
-40123	Recovery Potion Lv.3
-40124	Recovery Potion Lv.4
-40131	Mana Recovery (Small)
-40132	Mana Recovery (Medium)
-40133	SP Recovery (Small)
-40134	SP Recovery (Medium)
-40141	Rejuvenation Potion Lv.1
-40142	Rejuvenation Potion Lv.2
-40143	Rejuvenation Potion Lv.3
-40144	Rejuvenation Potion Lv.4
-40151	Movestone of Atan
-40152	Movestone of Hetan
-40153	Movestone of Katan
-40161	Special Recovery Potion Lv.1
-40162	Special Recovery Potion Lv.2
-40163	Special Recovery Potion Lv.3
-40201	Mach Potion
-40202	Aroid Gel
-40203	Raygid Gel
-40204	Poweroid Gel
-41011	Arrow to be mounted when using a crossbow
-41074	Mega Stone
-41075	Giga Stone
-41081	Socket material needed for item crafting.
-41082	Socket material needed for item crafting.
-41091	Accessory material needed for crafting ring.
-41092	Accessory material needed for crafting necklace.
-41101	Special accessory material needed for crafting.
-41102	Special accessory material needed for crafting.
-41103	Special accessory material needed for crafting.
-41104	Special accessory material needed for crafting.
-41111	Crystal material needed for crafting.
-41112	Crystal material needed for crafting.
-41113	Crystal material needed for crafting.
-42005	Low Grade Crest
-42006	High Grade Crest
-42007	Low Grade Elemental Stone
-42008	High Grade Elemental Stone
-42009	Low Grade Generator
-42010	High Grade Generator
-42011	Low Grade Wing
-42012	High Grade Wing
-42013	Low Grade Cloak
-42014	High Grade Cloak
-42031	Wind Stone Ring
-42032	Ice Stone Ring
-42033	Fire Stone Ring
-42034	Lightning Stone Ring
-42035	Blood Stone Ring
-42041	Helio Iron Ring
-42042	Fluo Iron Ring
-42043	Tiger's Iron Ring
-42044	Bluestar Iron Ring
-42045	Dark Axe Iron Ring
-42051	Grupin
-42052	Evil Eye
-42053	Side Onyx
-42054	Amazonite
-42055	Blue Aventurine
-42061	Chrysokolla
-42062	Snowflake
-42063	Malachite
-42064	Peach Ametrine
-42065	Rhodochrosite
-42071	Crest of Moderation
-42072	Crest of Courage
-42073	Crest of Friendship
-42081	Crest of Loyalty
-42082	Crest of Bravery
-42083	Crest of Protection
-42091	Stone of Purified Water
-42092	Stone of Flame
-42093	Stone of Breeze
-42094	Stone of Earth
-42101	Stone of Waterfall
-42102	Stone of Volcano
-42103	Stone of Windstorm
-42104	Stone of Continent
-42111	Guardian Spirit of Autumn
-42112	Demon Spirit of Winter
-42121	Guardian Spirit of Spring
-42122	Demon Spirit of Summer
-51100	Create map to carry out the mission.
-51101	Create map for hunting.
-51102	Setup minimum and maximum levels to enter the map.
-51103	Limit minimum and maximum numbers of people to enter the map.
-51104	You can limit class to enter the map.
-60001	Nova Temple Site
-60002	Griff River
-60003	Nova Temple
-60004	Screaming Fortress
-60005	Arqus Conference Hall
-60006	Statue of Disgrace
-60007	Secret Fortress
-60008	Hidden Waterway
-65001	The player does not exist.
+30279	Ужасающая тишина
+30281	Крепкое терпение
+30282	Странник Эпиос
+30283	Потерянного ангела
+30284	Волшебника Рада
+30285	Гармония Геи
+30301	Стекло
+30302	Гранат
+30303	Кошачий глаз
+30304	Аметист
+30305	Зелёный изумруд
+30306	Очищение
+30307	Лунный камень
+30308	Солнечный камень
+30309	Скрытой надежды
+30311	Пророка Наски
+30312	Приветливая Анжела
+30313	Крепкая защита
+30314	Воскрешения
+30315	Создателя
+31005	Тень 1
+31006	Тень 2
+31007	Наступательный одноручный арбалет
+31008	Наступательное оружие эфира
+31009	Посох эфира
+31010	Сфера эфира
+32005	Теневое оружие
+32006	Теневое оружие
+32007	Призывной одноручный арбалет
+32008	Призывное оружие эфира
+32009	Посох круга
+32010	Сфера круга
+35031	Латунь
+35032	Чёрное железо
+35033	Металлическая пластина
+35034	Сталь
+35035	Холодный сплав
+35036	Платина Шутара
+35037	Кровавой решимости
+35039	Воин Вентус
+35040	Священного клича
+35051	Чешуя зелёного дракона
+35052	Чешуя бурого дракона
+35053	Чешуя пурпурного дракона
+35054	Чешуя красного дракона
+35055	Достойного драконьего рода
+35056	Чистой мести
+35057	Дыхание чёрного дракона
+35059	Торжественная клятва
+35060	Небесный дракон
+35071	Теневая броня
+35072	Теневая броня
+35073	Теневая броня
+35074	Теневая броня
+35075	Теневая броня
+35076	Теневая броня
+35077	Теневая броня
+35078	Теневая броня
+35079	Теневая броня
+35080	Теневая броня
+35091	Кожа бурого кролика
+35092	Оленья кожа
+35093	Орлиная кожа
+35094	Кожа красного медведя
+35095	Добытый лучником
+35096	Мифрил утренней росы
+35097	Слеза русалки
+35099	Зреющей победы
+35100	Дух леса
+35111	Тальк
+35112	Кварц
+35113	Аметист
+35114	Кошачий глаз
+35115	Сагаз
+35116	Аварс
+35117	Бранглун
+35119	Блистательного Сигеля
+35120	Сила природы
+35131	Берсерк: холст
+35132	Берсерк: хлопок
+35133	Берсерк: муслин
+35134	Берсерк: лён
+35135	Берсерк: ёлочка
+35136	Берсерк: шифон
+35137	Берсерк: атлас
+35138	Берсерк: шёлк
+35139	Берсерк: голландское полотно
+35140	Берсерк: тафта
+35151	Дракон: холст
+35152	Дракон: хлопок
+35153	Дракон: муслин
+35154	Дракон: лён
+35155	Дракон: ёлочка
+35156	Дракон: шифон
+35157	Дракон: атлас
+35158	Дракон: шёлк
+35159	Дракон: голландское полотно
+35160	Дракон: тафта
+35171	Теневая рубаха
+35172	Теневая рубаха
+35173	Теневая рубаха
+35174	Теневая рубаха
+35175	Теневая рубаха
+35176	Теневая рубаха
+35177	Теневая рубаха
+35178	Теневая рубаха
+35179	Теневая рубаха
+35180	Теневая рубаха
+35191	Валькирия: холст
+35192	Валькирия: хлопок
+35193	Валькирия: муслин
+35194	Валькирия: лён
+35195	Валькирия: ёлочка
+35196	Валькирия: шифон
+35197	Валькирия: атлас
+35198	Валькирия: шёлк
+35199	Валькирия: голландское полотно
+35200	Валькирия: тафта
+35211	Элементаль: холст
+35212	Элементаль: хлопок
+35213	Элементаль: муслин
+35214	Элементаль: лён
+35215	Элементаль: ёлочка
+35216	Элементаль: шифон
+35217	Элементаль: атлас
+35218	Элементаль: шёлк
+35219	Элементаль: голландское полотно
+35220	Элементаль: тафта
+36601	Наступательная броня
+36602	Наступательный протектор
+36603	Наступательный шлем
+36604	Наступательные штаны
+36605	Наступательные сапоги
+36606	Наступательные перчатки
+36607	Наступательный пояс
+36608	Наступательная рубаха
+36701	Призывная броня
+36702	Призывной протектор
+36703	Призывной шлем
+36704	Призывные штаны
+36705	Призывные сапоги
+36706	Призывные перчатки
+36707	Призывной пояс
+36708	Призывная рубаха
+36801	Броня эфира
+36802	Протектор эфира
+36803	Шлем эфира
+36804	Штаны эфира
+36805	Сапоги эфира
+36806	Перчатки эфира
+36807	Пояс эфира
+36808	Рубаха эфира
+36901	Броня круга
+36902	Протектор круга
+36903	Шлем круга
+36904	Штаны круга
+36905	Сапоги круга
+36906	Перчатки круга
+36907	Пояс круга
+36908	Рубаха круга
+40001	Зард низшего ранга
+40002	Зард высшего ранга
+40003	Материал для зачарования
+40004	Материал для гнезда
+40005	Материал для аксессуара
+40006	Особый материал
+40007	Хрусталь
+40008	Расходуемый предмет
+40009	Особый предмет
+40071	Макси-камень
+40072	Овер-камень
+40073	Камень силы
+40074	Мега-камень
+40075	Гига-камень
+40081	Упаковочный фотон
+40082	Транс-фотон
+40091	Агат для кольца
+40092	Агат для ожерелья
+40101	Самоцвет для крыльев
+40102	Самоцвет для плаща
+40103	Кость герба
+40104	Кость новы
+40111	Кристалл защиты
+40112	Сияющий кристалл
+40113	Уникальный кристалл
+40121	Зелье восстановления ур.1
+40122	Зелье восстановления ур.2
+40123	Зелье восстановления ур.3
+40124	Зелье восстановления ур.4
+40131	Восстановление маны (малое)
+40132	Восстановление маны (среднее)
+40133	Восстановление SP (малое)
+40134	Восстановление SP (среднее)
+40141	Зелье омоложения ур.1
+40142	Зелье омоложения ур.2
+40143	Зелье омоложения ур.3
+40144	Зелье омоложения ур.4
+40151	Камень перемещения Атана
+40152	Камень перемещения Хетана
+40153	Камень перемещения Катана
+40161	Особое зелье восстановления ур.1
+40162	Особое зелье восстановления ур.2
+40163	Особое зелье восстановления ур.3
+40201	Мах-зелье
+40202	Ароид-гель
+40203	Рейгид-гель
+40204	Пауэроид-гель
+41011	Стрелы, которые заряжаются в арбалет
+41074	Мега-камень
+41075	Гига-камень
+41081	Материал для гнезда, нужный при изготовлении предметов.
+41082	Материал для гнезда, нужный при изготовлении предметов.
+41091	Материал для изготовления кольца.
+41092	Материал для изготовления ожерелья.
+41101	Особый материал для изготовления аксессуаров.
+41102	Особый материал для изготовления аксессуаров.
+41103	Особый материал для изготовления аксессуаров.
+41104	Особый материал для изготовления аксессуаров.
+41111	Кристаллический материал для изготовления.
+41112	Кристаллический материал для изготовления.
+41113	Кристаллический материал для изготовления.
+42005	Герб низшего ранга
+42006	Герб высшего ранга
+42007	Камень стихии низшего ранга
+42008	Камень стихии высшего ранга
+42009	Генератор низшего ранга
+42010	Генератор высшего ранга
+42011	Крылья низшего ранга
+42012	Крылья высшего ранга
+42013	Плащ низшего ранга
+42014	Плащ высшего ранга
+42031	Кольцо с камнем ветра
+42032	Кольцо с камнем льда
+42033	Кольцо с камнем огня
+42034	Кольцо с камнем молнии
+42035	Кольцо с кровавым камнем
+42041	Железное кольцо Гелио
+42042	Железное кольцо Флуо
+42043	Железное кольцо Тигра
+42044	Железное кольцо Голубой звезды
+42045	Железное кольцо Тёмной секиры
+42051	Групин
+42052	Дурной глаз
+42053	Боковой оникс
+42054	Амазонит
+42055	Синий авантюрин
+42061	Хризоколла
+42062	Снежинка
+42063	Малахит
+42064	Персиковый аметрин
+42065	Родохрозит
+42071	Герб умеренности
+42072	Герб отваги
+42073	Герб дружбы
+42081	Герб верности
+42082	Герб храбрости
+42083	Герб защиты
+42091	Камень чистой воды
+42092	Камень пламени
+42093	Камень бриза
+42094	Камень земли
+42101	Камень водопада
+42102	Камень вулкана
+42103	Камень бури
+42104	Камень континента
+42111	Дух-хранитель осени
+42112	Демон зимы
+42121	Дух-хранитель весны
+42122	Демон лета
+51100	Создать карту для прохождения миссии.
+51101	Создать карту для охоты.
+51102	Задайте минимальный и максимальный уровень для входа на карту.
+51103	Ограничьте минимальное и максимальное число игроков на карте.
+51104	Вы можете ограничить классы для входа на карту.
+60001	Место храма Новы
+60002	Река Грифф
+60003	Храм Новы
+60004	Кричащая крепость
+60005	Зал собраний Аркуса
+60006	Статуя позора
+60007	Тайная крепость
+60008	Скрытый водный путь
+65001	Такого игрока не существует.
 65002	Вы не лидер группы.
-65003	You are not a party member.
+65003	Вы не состоите в группе.
 65004	Группа не существует.
-65006	Does not meet the level requirement.
-65007	Invalid room status. Please try again.
+65006	Не соответствует требованию по уровню.
+65007	Недопустимое состояние комнаты. Попробуйте снова.
 65008	Нельзя сменить лидера группы.
 65009	Вы уже в группе.
-65010	The player did not invite you to a party.
-65011	Invalid data type. Please try again.
-65012	Unknown error occurred (1). Please contact GM
-150001	Please check the requirements.
-150002	There is no target.
-150003	You don't have enough funds.
-150004	No item to repair
-150005	Insufficient rage
-150006	Insufficient mana
-150007	You don't have enough points.
-150008	The target is located too far away.
-200101	Through me, you can travel to and from the continent with great ease.
-200102	Now is the time for a hero to stand up...and a hero should be where the enemy is.
-200103	You must defeat the slaves of the Empire before your vows are diminished.
-200104	Greetings.
-200105	Welcome.
-200106	Which region do you want to go?
-200107	I can help you.
-200108	Please shed some light on this chaotic world.
-200109	We need a hero. Please make sure you come again. And take care of yourself.
-200201	Valkyrie know best the items for Valkyrie.
-200202	You there, do you want something?
-200203	We have the best items for Valkyrie.
-200204	Any Valkyrie should feel ashamed, associating with Dragonkin.
-200205	Dragonkin are rascals who took our land. If the Empire disappears, then it'll be the Dragonkin's turn next.
-200206	Sell or buy? You must decide, quickly.
-200207	You aren't just browsing, eh?
-200208	What do you want?
-200209	Hey! You're still alive?
-200211	Go on your way.
-200212	The pleasure will be mine, if you leave sooner.
-200213	If you encounter any Dragonkin, first of all, give him a punch before you start anything.
-200214	If you want to go, go quickly.
-200301	Ha ha ha! Ha Ha~
-200302	We've got the best ale on the continent.
-200303	Burrrrpp...! I wonder who deposited this item.
-200304	Welcome. Come on over!
-200305	Hmmuha-ha! What do you want to deposit?
-200306	Really nice to meet you!
-200307	Goodbye!
-200308	See you again next time!
-200402	Hello, there. Look here, if you're a warrior. I have many items for warriors. 
-200403	What do you seek? It's all here.
-200404	What do you want?
-200405	Whatever.
-200406	Welcome.
-200407	What do you want to buy?
-200408	Come again!
-200409	You like it?
-200410	Bye-bye.
-200501	We have items for Dragonkin.
-200502	The qualities of my items are different from those in other stores.
-200503	If you are not a Dragonkin, step away please.
-200504	Looking for something?
-200505	What do you need?
-200506	Which item do you want to look at?
-200507	Greetings.
-200508	Come again!
-200509	I'll stay here until we recover the honor of Dragonkin.
-200510	Please come again.
-200601	An Elementalist would need items soaked in nature.
-200602	Nature is the mightiest power of all.
-200603	Buying something?
-200604	Can you listen to the conversation between the wind, tree, and the birds?
-200605	It's good to see you here.
-200606	Are you looking for something?
-200607	What do you need?
-200608	Tell me what you want.
-200609	I think our mission as Elementalists is to reorganize the links of cycle that got out of order.
-200611	See you later!
-200612	May nature protect you.
-200613	Go, and use your magical power to help your colleagues.
-200701	I...I have good items available.
-200702	I...I sell quality items at reasonable prices.
-200703	I...I deal in all kinds of items.
-200704	Huk! Yes, yes! What's the matter?
+65010	Этот игрок не приглашал вас в группу.
+65011	Недопустимый тип данных. Попробуйте снова.
+65012	Произошла неизвестная ошибка (1). Обратитесь к ГМ
+150001	Проверьте требования.
+150002	Цели нет.
+150003	У вас недостаточно средств.
+150004	Нет предметов для починки
+150005	Недостаточно ярости
+150006	Недостаточно маны
+150007	У вас недостаточно очков.
+150008	Цель находится слишком далеко.
+200101	Через меня вы легко попадёте в любой уголок континента и обратно.
+200102	Настало время герою подняться... а герой должен быть там, где враг.
+200103	Одолейте рабов Империи, пока ваши клятвы не угасли.
+200104	Приветствую.
+200105	Добро пожаловать.
+200106	В какой край вы хотите отправиться?
+200107	Я могу помочь вам.
+200108	Пролейте свет на этот мир, охваченный хаосом.
+200109	Нам нужен герой. Возвращайтесь непременно. И берегите себя.
+200201	Валькирии лучше всех знают, что нужно валькириям.
+200202	Эй, тебе что-то нужно?
+200203	У нас лучшие товары для валькирий.
+200204	Любой валькирии должно быть стыдно водиться с драконьим родом.
+200205	Драконий род — мерзавцы, забравшие нашу землю. Исчезнет Империя — следующими будут они.
+200206	Продаёшь или покупаешь? Решай, да побыстрее.
+200207	Ты ведь не просто поглазеть зашёл, а?
+200208	Чего тебе?
+200209	Эй! Ты ещё жив?
+200211	Ступай своей дорогой.
+200212	Чем скорее ты уйдёшь, тем приятнее мне будет.
+200213	Встретишь кого из драконьего рода — сперва врежь, а потом уже разбирайся.
+200214	Если уходишь — уходи быстрее.
+200301	Ха-ха-ха! Ха-ха~
+200302	У нас лучший эль на всём континенте.
+200303	Ик...! Интересно, кто это тут оставил на хранение.
+200304	Добро пожаловать. Заходи!
+200305	Хмм-ха-ха! Что желаешь сдать на хранение?
+200306	Очень рад знакомству!
+200307	До свидания!
+200308	До новой встречи!
+200402	Здравствуй. Загляни сюда, если ты воин. У меня много товаров для воинов.
+200403	Что ищешь? Тут есть всё.
+200404	Чего тебе?
+200405	Как угодно.
+200406	Добро пожаловать.
+200407	Что желаешь купить?
+200408	Заходи ещё!
+200409	Нравится?
+200410	Пока-пока.
+200501	У нас есть товары для драконьего рода.
+200502	Качество моих товаров не сравнить с другими лавками.
+200503	Если ты не из драконьего рода — отойди, будь добр.
+200504	Что-то ищешь?
+200505	Что тебе нужно?
+200506	Какой товар желаешь посмотреть?
+200507	Приветствую.
+200508	Заходи ещё!
+200509	Я останусь здесь, пока мы не вернём честь драконьему роду.
+200510	Заходите ещё.
+200601	Элементалисту нужны вещи, пропитанные природой.
+200602	Природа — могущественнее всего на свете.
+200603	Покупаешь что-нибудь?
+200604	Слышишь ли ты разговор ветра, дерева и птиц?
+200605	Рада видеть тебя здесь.
+200606	Ты что-то ищешь?
+200607	Что тебе нужно?
+200608	Скажи, чего ты хочешь.
+200609	Думаю, наш долг как элементалистов — восстановить нарушенные звенья круговорота.
+200611	До встречи!
+200612	Пусть природа хранит тебя.
+200613	Иди и обрати свою магию на помощь товарищам.
+200701	У... у меня есть хорошие товары.
+200702	Я... я продаю качественные вещи по разумным ценам.
+200703	Я... я торгую всякого рода товарами.
+200704	Ой! Да, да! В чём дело?
 200705	DoЎ¦ do you want to buy something?
 200706	WeЎ¦ welcome.
-200707	Th...thank you.
-200708	Thank you.
-200709	Goodbye.
-200801	Hey there, something good happening?
-200802	I'm not a magician, but the things I offer transcend their power.
-200803	I'll craft items in discounted prices only for you! Now, please come here!
-200804	I knew you'd come again.
-200805	A weapon without power is nothing more than an iron club.
-200806	What do you want to make?
-200807	Goodbye!
-200808	Um . . . That really is the discounted price. No more discount.
-200809	Thank you.
-200	Hair style
-400	Skill Proficiency
-21001	Auto Attack
-21002	Pick Up Item
-21003	Follow
-21004	Sit/Stand
-21005	Trade
-21006	Private Shop
-21008	Leave Party
-21009	Basic Attack
-21010	Add Friend
-21101	Greet
-21102	Farewell
-21103	Question
-21104	Sigh
-21105	Cheer
-21106	Refuse
-21107	Approve
-21108	Attack
-21109	Thank
-21110	Apology
-21111	Kiss
-21112	Laugh
-21113	Cry
-21114	Welcome
-21115	Applaud
-21116	Awe
-21117	Thumbsup
-21118	Sulk
-21119	Taunt
-21120	Sleep
-21121	Pose
-21122	Dance
-21123	Joke
-21124	Animal
-21125	Shock
-22002	Picks up item in the surrounding area. 
-22003	Follows the targeted player.
-22004	Sits down to rest.
-22005	Requests trade with targeted player.
-22006	Opens a private shop.
-22008	Leaves the party.
-22009	Attacks targeted opponent.
-22010	Adds targeted player as a friend.
-22101	Greets politely
-22102	Says goodbye
-22103	Feels doubtful
-22104	Gives a sigh
-22105	Shouts for joy
-22106	Shows the intent to refuse
-22107	Shows the intent to approve
-22108	Warns of an attack
-22109	Thanks
-22110	Apologizes
-22111	Sends a kiss
-22112	Laughs aloud
-22113	Cries
-22114	Welcomes
-22115	Gives applause
-22116	Shows respect
-22117	Gives praise
-22118	Sulks
-22119	Taunts
-22120	Lies down and sleeps
-22121	Makes a pose
-22122	Dances
-22123	Behaves in a silly way
-22124	Copies an animal
-22125	Acts as if shocked
-50101	The first road leading to the capital city, Etherain.#Since the Imperial Army occupied the peaceful and beautiful forest, it has started emitting a dark and damp energy,#and for anyone who enters, #it becomes the forest of death.
-50102	It has been told that the beast riders of the Dark Order, #well adapted to this wild forest, exist here. #Forest of Beasts has been known to swallow all living things.
-50103	However, you must pass through this forest#to go to Etherain.
-50104	Sewers stretch like cobwebs in the underground of Etherain.#These sewers of unknown origin, #were hard-fought battle fields during the height of territorial dispute# and never ending destruction and death in the past.
+200707	Сп... спасибо.
+200708	Спасибо.
+200709	До свидания.
+200801	Эй, случилось что-то хорошее?
+200802	Я не волшебник, но мои изделия превосходят любую магию.
+200803	Только для тебя изготовлю со скидкой! Подходи ближе!
+200804	Я знал, что ты снова придёшь.
+200805	Оружие без силы — не более чем железная дубина.
+200806	Что желаешь изготовить?
+200807	До свидания!
+200808	Кхм... Это и есть цена со скидкой. Больше не уступлю.
+200809	Спасибо.
+200	Причёска
+400	Мастерство умения
+21001	Автоатака
+21002	Подобрать предмет
+21003	Следовать
+21004	Сесть или встать
+21005	Обмен
+21006	Личная лавка
+21008	Покинуть группу
+21009	Обычная атака
+21010	Добавить в друзья
+21101	Приветствие
+21102	Прощание
+21103	Вопрос
+21104	Вздох
+21105	Ликование
+21106	Отказ
+21107	Согласие
+21108	Атака
+21109	Благодарность
+21110	Извинение
+21111	Поцелуй
+21112	Смех
+21113	Плач
+21114	Приветствовать
+21115	Аплодисменты
+21116	Восхищение
+21117	Одобрение
+21118	Обида
+21119	Насмешка
+21120	Сон
+21121	Поза
+21122	Танец
+21123	Шутка
+21124	Животное
+21125	Потрясение
+22002	Подбирает предметы вокруг вас.
+22003	Следует за выбранным игроком.
+22004	Садится отдохнуть.
+22005	Предлагает обмен выбранному игроку.
+22006	Открывает личную лавку.
+22008	Покидает группу.
+22009	Атакует выбранного противника.
+22010	Добавляет выбранного игрока в друзья.
+22101	Вежливо приветствует
+22102	Прощается
+22103	Выражает сомнение
+22104	Вздыхает
+22105	Кричит от радости
+22106	Показывает отказ
+22107	Показывает согласие
+22108	Предупреждает об атаке
+22109	Благодарит
+22110	Извиняется
+22111	Посылает поцелуй
+22112	Громко смеётся
+22113	Плачет
+22114	Приветствует
+22115	Аплодирует
+22116	Выражает почтение
+22117	Хвалит
+22118	Обижается
+22119	Насмехается
+22120	Ложится и засыпает
+22121	Принимает позу
+22122	Танцует
+22123	Дурачится
+22124	Подражает животному
+22125	Изображает потрясение
+50101	Первая дорога, ведущая к столице — Этерейну.#С тех пор как имперская армия заняла мирный и прекрасный лес, он источает тёмную и сырую энергию,#и для всякого, кто войдёт в него,#он становится лесом смерти.
+50102	Говорят, что здесь обитают звероводы Тёмного ордена, #хорошо приспособленные к этому дикому лесу. #Лес зверей, как известно, поглощает всё живое.
+50103	И всё же вам придётся пройти через этот лес,#чтобы добраться до Этерейна.
+50104	Стоки тянутся паутиной под Этерейном.#Эти стоки неизвестного происхождения #были полями жестоких сражений в разгар борьбы за земли# и местом нескончаемых разрушений и смертей в прошлом.
 50105	Яростный нрав поля боя породил тёмный и сырой подземный воздух,#влекущий злую энергию.#Это присутствие не даёт мёртвым обрести вечный покой и сон.
-50106	Place for the undead who lost humanity and have only an aggressive temper and strength.#in order to punish the master of Etherain, who is a mere servant of Schwartz.# This place must be passed through as quickly as possible.
-50107	The castle was situated among the mountain ridges above a pure white Snowy Plains. #It was a location where people had been reluctant to enter because of the harsh terrain and severe cold.#However, it was also a place beauty with glowing snow and ice.
-50108	However, the evil forces of the Black Demon have penetrated this place# and turned the innocent chill into a deadly coldness that #snatches everything away from all beings without mercy.
-50109	A world where time seems to have stopped.#Under neath the cold ice, where living creatures, sleeping refrained from breathing lay, #await for a hero who will bring time back to this world once again.#
-50110	A place of exile, where the Dragonkins were restrained by black magic.#They were expelled to a lava plateau in the remote region with their power sealed by the Demons#who were jealous and feared the Dragonkin's power.
+50106	Место для нежити, что утратила человечность и сохранила лишь свирепость и силу.#Чтобы покарать владыку Этерейна, который есть лишь слуга Шварца,# это место нужно пройти как можно быстрее.
+50107	Замок стоял среди горных хребтов над белоснежными Снежными равнинами. #Сюда не спешили заходить из-за сурового рельефа и лютого холода.#Но это было и место красоты — сияющих снега и льда.
+50108	Однако злые силы Чёрного Демона проникли сюда# и обратили безобидную прохладу в смертельный холод, #что без пощады отнимает у всех живых всё.
+50109	Мир, где время будто остановилось.#Подо льдом, где спят живые существа, не смея дышать, #ждут героя, который вернёт этому миру время.#
+50110	Место изгнания, где драконий род был скован чёрной магией.#Их сослали на лавовое плато в дальнем краю, запечатав их силу, Демоны,#что завидовали мощи драконьего рода и страшились её.
 50112	Они непременно помогут тем, #кто сдержит обещание вернуть им утраченную силу.
-50113	A fertile soil blessed by the God of Wind and Goddess of Earth.#But, after the benevolent and clever monarch fell into evil doctrines ,#God's blessing departed this land.
-50114	Now, the land of heretics who admire destruction and death, #it will be hard to see the glory of the past again.#The Lord of Castle who posseses the heart of Ether and#owes their resurection to the Emperor, #devastated this land with more evil forces.
-50115	In order to recover the fertile land,#the one who caused the destruction must be defeated.
-50116	Rumanka, a faithful subject of the Emperor and her clan, Helron's Castle. #Rumanka, who had the heart of Ether transplanted from the Emperor,#established a huge Ether plant here and#exercised strong power over the Demons.
-50117	In Helron's Castle, there have been studies #to strengthen their power using the Ether.
-50118	In order to assure the breakdown of the Empire spirit,#you should consider this place, the sanctuary and fortress of Helrons, #to be your strategic priority.
-1401	First Reward
-1402	Second Reward
-1403	Mission Points
+50113	Плодородная земля, благословлённая Богом Ветра и Богиней Земли.#Но когда добрый и мудрый государь впал в злые учения,#благословение богов покинуло этот край.
+50114	Теперь это земля еретиков, что чтут разрушение и смерть, #и былую славу здесь увидеть непросто.#Владыка Замка, что владеет сердцем Эфира и#обязан воскрешением Императору, #опустошил эту землю новыми силами зла.
+50115	Чтобы вернуть земле плодородие,#нужно одолеть того, кто принёс разрушение.
+50116	Руманка, верная подданная Императора, и её род — Замок Хелрона. #Руманка, которой Император пересадил сердце Эфира,#возвела здесь огромный завод Эфира и#обрела великую власть над Демонами.
+50117	В Замке Хелрона велись исследования, #как усилить свою мощь с помощью Эфира.
+50118	Чтобы падение духа Империи было неизбежным,#считайте это место — святилище и крепость Хелронов — #своей первоочередной целью.
+1401	Первая награда
+1402	Вторая награда
+1403	Очки миссии
 1404	Готово
 1405	%s
 1406	%d
-5605	Automatically return to the village due to lack of player input.
-5606	Please press any key.
-5607	%s is available for PVP.
-5608	If no input in %ld seconds, you will return to the village.
-5609	Fight will begin in %ld seconds.
-5611	[%s]gets in the last strike on [%s].
-5612	Prepare to fight!
-5613	Begin!
-5614	The fight is over!
-5615	Blue team
-5616	Red Team
+5605	Автоматическое возвращение в деревню из-за бездействия.
+5606	Нажмите любую клавишу.
+5607	%s доступен для PvP.
+5608	Если не будет действий в течение %ld с, вы вернётесь в деревню.
+5609	Бой начнётся через %ld с.
+5611	[%s] наносит последний удар по [%s].
+5612	Приготовьтесь к бою!
+5613	Начали!
+5614	Бой окончен!
+5615	Синяя команда
+5616	Красная команда
 5209	Шёпот для %s: %s
 5210	Шёпот от %s: %s
 751	25%
@@ -1498,212 +1498,212 @@ start
 936	<Level %d>
 937	<Level %d>
 398	%d
-11250	Highest Level
-11251	Inactive
-5114	Destroy %s item? Destoryed item cannot be recovered.
-5115	To withdraw %s item, you need %d Heim.
-5617	No list to delete.
-160101	Krrrr...
-160102	I am cursed with the pain of life after death! You shall suffer the same fate as well!
-160103	You do not know what true pain is like. Let me show you!  
-160104	I will destroy them all! I will kill every living being! Every single one of them!! 
-160105	You deserve whatever pain I give you! 
-160106	I will release you from your worthless existence!
-160108	I have awaited this moment for such a long time. May my eyes never open again.
+11250	Наивысший уровень
+11251	Неактивно
+5114	Уничтожить предмет %s? Уничтоженный предмет вернуть нельзя.
+5115	Чтобы забрать предмет %s, нужно %d хайма.
+5617	Нет списка для удаления.
+160101	Кррр...
+160102	Я проклят болью посмертной жизни! Та же участь ждёт и тебя!
+160103	Ты не знаешь, что такое настоящая боль. Позволь показать!
+160104	Я уничтожу их всех! Я убью всё живое! Каждого до единого!!
+160105	Ты заслуживаешь любой боли, что я тебе причиню!
+160106	Я избавлю тебя от твоего никчёмного существования!
+160108	Я так долго ждал этого мига. Пусть мои глаза больше не откроются.
 160109	Ah! Death!  What a sweet lovely name it isЎ¦ Thank you so much.
-160201	Glory to the emperor who has granted me my magic! 
-160202	I hate all living creatures! I'll never forgive those wretched humans who betrayed me.
-160203	Cursed Mana and horrid Ether. I cannot break the chain of this curse put upon me.
-160204	Did you think that I would never find you? 
-160205	Humans! I have devoted everything that I am to you! Why did you betray me? Why did you abandon me to the Emperor?
-160206	You ungrateful humans! I shall not spare your lives! 
-160207	Look at me! Do you see this monstrous figure? Humans, this is the symbol of betrayal you have spawned!
-160208	Artrum Tempestas!
-160209	My power will destroy you!
-160210	I will shatter your betraying heart into bits! 
-160301	AAh! My beautiful land. Cecil, isn't it so beautiful? 
-160302	I shall rule this land throughout my eternal life. By the way, why is it so cold? Why are you are just hanging around without making a fire?
-160303	Everlasting life! Eternal King! I am the God! 
-160304	Strange, white objects are appearing before my old eyes.  It is as if ice forms on them. Bring me the royal physician!
-160305	You disrespect me, peasant! Leave my Kingdom now! 
-160306	You dare to come to see me in person without permission. Flog that rude insect!
-160307	Guards! Where are my guards?!? How could you let a low-life get in?!	
-160308	My hall is getting dirty! These filthy bastards are treading on my hall!
-160309	Do you really think I'd let you get out of here alive?
-160310	Did you think that you can dare avoi" my observation? 	
-160401	The Empire shall never pass through this land! 
-160402	"On the honor of Siegel Knights, I will not let you pass!"
-160403	"How come you humans follow the Empire, don't you have a sence of shame at all?"
-160404	"The Empire is an enemy of the Continent! There would never, ever be any conclusion of agreements between us!"
-160405	Here goes sacred Bios' Sword attack! 
-160406	You will pay for what you owe to the Empire! 
-160407	Thank you for setting me free from a long dream...
-160408	...Thank you.
-170101	Ah! The forces of black Ether hanging over the forest bring me joy.
-170103	You voluntarily come to your burial place. 
-170104	Your fear makes me pleasant! Come on! 
-170105	My curse shall penetrate deep into the marrow of your bones!
-170106	Witness the power vested in me by the master! 
-170108	The power of Ether will raise me up again!
-170109	"Although you have defeated me, the fact that the Empire is strong will never change."
-170110	Someday...you will pay by rising in revolt against the Empire...
-170201	"Come on, this way, companions of death."
-170202	Huh! The living has come to this place. It is always worth trying to acquire the spirit of strong ones.  
-170203	When will the living arrive? What kind of people are they? I look forward to seeing them. 
-170204	Are you the rebel army who attempts to go to Etherain? Huh! Interesting.
-170205	"Speak to me your name, Oh! You the living, I  commend your bravery for coming to the land of the dead."
-170207	"Do you want everlasting life? Immortality comes after death, so I want you to just give up your life obediently and leave it to me."
-170208	Be a part of darkness! 
-170209	"Now, come into our world."
-170210	"It is a really  life  invoking, the desire to acquire. I must possess it by all means!"
-170211	"I am telling you, the living, in the physical body that experienced death once, there is no eternal death in that body any longer."
-170212	"The living fears death that occurs once; however, we don't even dread death several times."
-170213	"You the living, I am sending you a song of praise for your strength. I will surely see the path you follow."
-170301	I don't care whether my enemy is human or the Empire. You should bear in your mind that we are characters who guard Lucious! 
-170302	You people are the life raised by Lucious. I want you to remember that fact. 
-170303	"Are you going to harm Lucious? So then, you shall never pass through this place!"
-170305	You the living! Here goes the sword that will bring you death!
-170306	You shall never come near Lucious! 
-170307	"Even with my physical body of only bones, I will attack you to protect Lucious!"
-170308	"As long as Lucious exists, I'll protect him from all dangers."
-170309	"Actual death means nothing to me. Even though you have defeated me, you will not truly be regarded a winner."
-170310	"Lucious, please forgive the mistake made by this servant."
-170401	Even the carless rebel forces would not come into this cold place.
-170402	"Like the weak rebel forces coming into this place, they would be turned into ice statues right away."
-170403	"You people are admirable, for you have come this far. However, this will be your end!"
-170406	Look how weak and frail your physical bodies are!
-170407	"Having an insect-like appearance, you are better than expected! From now on, do not expect any favors from me!"
-170408	How can I be defeated by such insects... 
-170409	"You are admirable, for you have knocked me down. But do not ever think that you can defeat the Lord of Castle as well."
-180102	"Did you see a guy on scout duty thrown away by the chief immediately? If you don't want that, you must stay awake and be vigilant."
-180103	"It looks like there is something over there. Quick, look!"
-180105	Don't enter! This forest is ours!!! 
-180106	Enemies! Attack!!
-180107	"I am strong, STRONG I Say!"
-180108	You dare think you can beat me?
-180109	The energy of the Forest is with me.
-180110	"Hmm, even if I lose, nothing will change. You will never defeat the chief."
-180112	I am hurt.
-180201	Those rebel force rats can easily sneak into any place. Keep an eye on every nook and cranny. 
-180202	"If we keep this place safe, the master will reward us."
-180203	The master ordered us to kill all who trespass this forest. Kill them!
-180205	Do you think you can beat us? 
-180206	Watch the power the master has given us!
-180207	For the glory of the master!
-180208	"In all events, you cannot beat the Empire."
-180209	Oh! my master...
+160201	Слава императору, даровавшему мне мою магию!
+160202	Я ненавижу всё живое! Я не прощу этих жалких людей, что предали меня.
+160203	Проклятая мана и мерзкий эфир. Мне не разорвать цепь этого проклятия.
+160204	Ты думал, что я тебя не найду?
+160205	Люди! Я отдал вам всего себя! Почему вы предали меня? Почему бросили меня Императору?
+160206	Неблагодарные люди! Я не пощажу ваши жизни!
+160207	Взгляни на меня! Видишь это чудовище? Люди, вот символ предательства, что вы породили!
+160208	Артрум Темпестас!
+160209	Моя сила уничтожит тебя!
+160210	Я разобью твоё предательское сердце вдребезги!
+160301	Ах! Моя прекрасная земля. Сесиль, разве она не прекрасна?
+160302	Я буду править этой землёй вечно. Кстати, почему так холодно? Почему ты слоняешься без дела и не разожжёшь огонь?
+160303	Вечная жизнь! Вечный Король! Я — Бог!
+160304	Странные белые пятна появляются перед моими старыми глазами. Будто на них намерзает лёд. Позовите придворного лекаря!
+160305	Ты не чтишь меня, смерд! Прочь из моего королевства!
+160306	Ты смеешь являться ко мне без дозволения. Высечь это наглое насекомое!
+160307	Стража! Где моя стража?!? Как вы пропустили сюда этого оборванца?!	
+160308	Мой зал пачкается! Эти грязные твари топчут мой зал!
+160309	Ты правда думаешь, что я выпущу тебя отсюда живым?
+160310	Ты думал, что сможешь укрыться от моего взора?	
+160401	Империя никогда не пройдёт через эту землю!
+160402	"Клянусь честью рыцарей Сигеля, я не пропущу вас!"
+160403	"Как вы, люди, можете служить Империи? Неужели у вас совсем нет стыда?"
+160404	"Империя — враг Континента! Между нами никогда, никогда не будет никаких соглашений!"
+160405	Вот вам удар священного меча Биоса!
+160406	Ты заплатишь за всё, чем обязан Империи!
+160407	Благодарю за то, что избавил меня от долгого сна...
+160408	...Спасибо.
+170101	А! Силы чёрного эфира, нависшие над лесом, радуют меня.
+170103	Ты сам пришёл к месту своего погребения.
+170104	Твой страх мне приятен! Ну же!
+170105	Моё проклятие проникнет в самый мозг твоих костей!
+170106	Узри мощь, дарованную мне хозяином!
+170108	Сила эфира вновь поднимет меня!
+170109	"Пусть ты и одолел меня, но Империя от этого сильнее быть не перестанет."
+170110	Однажды... вы заплатите за мятеж против Империи...
+170201	"Сюда, спутники смерти."
+170202	Ха! Живой явился сюда. Дух сильного всегда стоит того, чтобы его забрать.
+170203	Когда же придут живые? Каковы они? Жду не дождусь встречи.
+170204	Ты из мятежной армии, что рвётся в Этерейн? Ха! Любопытно.
+170205	"Назови своё имя, о живой! Хвалю твою отвагу — прийти в землю мёртвых."
+170207	"Хочешь вечной жизни? Бессмертие приходит после смерти, так что отдай мне свою жизнь покорно."
+170208	Стань частью тьмы!
+170209	"Входи же в наш мир."
+170210	"Как же это будоражит — желание обладать. Я непременно завладею этим!"
+170211	"Говорю тебе, живой: в теле, что однажды познало смерть, вечной смерти больше нет."
+170212	"Живые страшатся смерти, что приходит однажды; мы же не боимся умирать много раз."
+170213	"Живой, я пою хвалу твоей силе. Я непременно увижу путь, которым ты пойдёшь."
+170301	Мне всё равно, кто враг — человек или Империя. Запомни: мы — стражи Люциуса!
+170302	Вы, люди, — жизнь, взращённая Люциусом. Запомните это.
+170303	"Ты хочешь навредить Люциусу? Тогда ты не пройдёшь здесь никогда!"
+170305	Живой! Вот меч, что принесёт тебе смерть!
+170306	Ты не подойдёшь к Люциусу!
+170307	"Даже телом из одних костей я нападу на тебя, чтобы защитить Люциуса!"
+170308	"Пока Люциус существует, я буду хранить его от всех бед."
+170309	"Настоящая смерть для меня ничто. Пусть ты и сразил меня, победителем тебя не назовут."
+170310	"Люциус, прости ошибку твоего слуги."
+170401	Даже безрассудные мятежники не сунутся в этот холод.
+170402	"Слабые мятежники, что забредают сюда, тут же обращаются в ледяные статуи."
+170403	"Вы достойны похвалы — дошли так далеко. Но здесь вам и конец!"
+170406	Взгляни, как слабы и хрупки ваши тела!
+170407	"С виду насекомые, а оказались лучше, чем я ждал! Отныне поблажек не будет!"
+170408	Как я мог пасть от таких насекомых...
+170409	"Ты достоин похвалы — сразил меня. Но не думай, что одолеешь и Владыку Замка."
+180102	"Видел, как вождь вышвырнул того, кто стоял в дозоре? Не хочешь так же — не смыкай глаз."
+180103	"Кажется, там что-то есть. Быстрее, взгляни!"
+180105	Не входи! Этот лес наш!!!
+180106	Враги! В атаку!!
+180107	"Я силён, СИЛЁН, говорю тебе!"
+180108	Ты смеешь думать, что победишь меня?
+180109	Сила Леса со мной.
+180110	"Хм, даже если я паду, ничего не изменится. Вождя вам не одолеть."
+180112	Мне больно.
+180201	Эти крысы из мятежной армии пролезут куда угодно. Следи за каждым закоулком.
+180202	"Убережём это место — хозяин наградит нас."
+180203	Хозяин велел убивать всех, кто ступит в этот лес. Убить их!
+180205	Думаешь, ты нас одолеешь?
+180206	Узри силу, что дал нам хозяин!
+180207	Во славу хозяина!
+180208	"Как ни крути, Империю вам не победить."
+180209	О, мой хозяин...
 180301	KrrrЎ¦I am tired of guarding the gate. I'm gonna go out and fight!
-180302	No enemies? I want to fight!
-180303	"Worthless human, weak! I'm big and strong!"
-180304	Battle! 
-180306	Enemies!? How exciting!!
-180308	Muh-hahahaha! 
-180309	I will break it down!! 
-180310	Hum...What's that? 
-180401	Hum...I can smell the scent emitting from the living. 
-180403	I am hungry. 
-180405	Kyahaha! Humans!
-180410	"I will remember you. Next time, you will be the first.."
-180411	"You do not think that this will be the end of the game, do you? "
-180501	What a miserable fate that I have become a slave of the Empire. There could be no other shameful incident than this.
-180502	I am a warrior of the Ice Dragons. What on earth am I here for. I wish I could recover my strength.
-180504	Don't blame me. I am now a slave of the Empire!
-180505	"If I lose you, I cannot keep my life any longer. I need to be alive in order to do more things whatever they are. I will not let you go."
-180506	"Are you a soldier from the Liberation Army? I do not want to harm you, but I have received an order from the Empire. I have no other choice!"
-180507	You watch the power of the Ice Dragons!
-180508	Take this!
-180509	I will admit my defeat.
-180510	You people seem to be able to defeat the Empire. I wish our liberation would come true sooner.
-180511	The Lord of Castle is protected by Ether Stone. You'd better be careful..
-180601	Feels like I'm having a long dream.
-180602	I wonder where those bastards from the Empire have come. 
-180603	Shall we be able to beat those chaps from the Empire? 
-180604	Are they the bastards from the Empire?!
-180605	"Come on, you Empire bastards!"
-180606	I am not afraid of you. Because I am a member of brave Siegel Knights! 
+180302	Врагов нет? А я хочу драться!
+180303	"Никчёмный человек, слабак! Я большой и сильный!"
+180304	Бой!
+180306	Враги!? Как здорово!!
+180308	Му-ха-ха-ха!
+180309	Я всё разнесу!!
+180310	Хм... Что это?
+180401	Хм... Чую запах живого.
+180403	Я голоден.
+180405	Кьяха-ха! Люди!
+180410	"Я тебя запомню. В следующий раз ты будешь первым.."
+180411	"Ты ведь не думаешь, что на этом игра окончена?"
+180501	Какая жалкая участь — стать рабом Империи. Нет позора страшнее.
+180502	Я воин Ледяных драконов. Зачем я здесь? Вернуть бы мне мою силу.
+180504	Не вини меня. Я теперь раб Империи!
+180505	"Если я упущу тебя, мне не сохранить жизнь. Мне нужно жить, чтобы успеть многое. Я не отпущу тебя."
+180506	"Ты воин Освободительной армии? Я не хочу вредить тебе, но у меня приказ Империи. У меня нет выбора!"
+180507	Узри мощь Ледяных драконов!
+180508	Получай!
+180509	Признаю своё поражение.
+180510	Похоже, вы способны одолеть Империю. Скорее бы пришло наше освобождение.
+180511	Владыку Замка защищает Камень эфира. Будь осторожнее..
+180601	Будто вижу долгий сон.
+180602	Откуда только взялись эти мерзавцы из Империи.
+180603	Сумеем ли мы одолеть этих типов из Империи?
+180604	Это те самые мерзавцы из Империи?!
+180605	"Ну же, имперские мерзавцы!"
+180606	Я тебя не боюсь. Ведь я из отважных рыцарей Сигеля!
 180607	"Now I remember. I have been dead, haven't I? At last Ў¦ I can rest for a while."
-180608	"I see. It is not the first death, and it will not be the last one either."
-180701	Don't be afraid. We will definitely win. 
-180702	"We should trust Ermunt and follow him.  Although its end will be death, we, Siegel Knights, are one united body."
-180703	"There have been more terrible things than this, but, in the end, we have obtained a victory. Let's trust Ermunt."
-180704	"Geder, you have family. Anyone who doesn't want to join this battle may do so. We will surely defeat those chaps from the Empire.."
-180705	They are the Imperial Army! Attack!
-180706	Siegel Knights never retreat! We will cut you down until the last minute before we leave! 
-180707	You shameless fellows from the Empire! I'll revenge my dead colleagues! 
-180708	Take this!
-180709	I'll dedicate your blood to the graves of my comrades!! 
-180710	"Am I nothing, but just a lump of bones? What about the battle..what about us..."
-180711	"That's right, we had been soundly defeated by the Empire. Since then, much time has passed by..."
-180712	"You people are not the Imperial Army. My apologies, we are just..."
-970	Main Mission
-971	Sub Mission 
-972	Sub Mission 2
+180608	"Понятно. Это не первая смерть и не последняя."
+180701	Не бойся. Мы непременно победим.
+180702	"Нужно верить Эрмунту и идти за ним. Пусть в конце нас ждёт смерть — мы, рыцари Сигеля, едины."
+180703	"Бывало и хуже, но в конце мы всегда побеждали. Будем верить Эрмунту."
+180704	"Гедер, у тебя семья. Кто не хочет идти в этот бой — может остаться. Мы и без того разобьём имперцев.."
+180705	Это имперская армия! В атаку!
+180706	Рыцари Сигеля не отступают! Мы будем рубить вас до последнего вздоха!
+180707	Бесстыжие имперцы! Я отомщу за павших товарищей!
+180708	Получай!
+180709	Я принесу вашу кровь на могилы моих собратьев!!
+180710	"Неужели я всего лишь груда костей? А как же битва.. как же мы..."
+180711	"Да, Империя разбила нас наголову. С тех пор прошло много времени..."
+180712	"Вы не имперская армия. Прошу прощения, мы просто..."
+970	Основная миссия
+971	Побочная миссия
+972	Побочная миссия 2
 973	%s
 974	%s
 975	%s
-410	Summoned creature
-50111	"Hotter than lava, hatred and vengance#boil in their hearts.#Even after losing the power of dragons, this is the home town of knights with still a strong sense of pride."
-21007	Guild Invite
-22007	Invites targeted player to guild.
-30001	Two-Handed Axe
-30002	Two-Handed Sword
-30003	One-Handed Sword
-30004	Spear
-30007	One-Handed Crossbow
-30008	Ether Weapon
+410	Призванное существо
+50111	"Горячее лавы в их сердцах#кипят ненависть и жажда мести.#Даже утратив силу драконов, это родина рыцарей, чья гордость всё ещё крепка."
+21007	Пригласить в гильдию
+22007	Приглашает выбранного игрока в гильдию.
+30001	Двуручная секира
+30002	Двуручный меч
+30003	Одноручный меч
+30004	Копьё
+30007	Одноручный арбалет
+30008	Оружие эфира
 30009	Посох
-30010	Orb
-35001	Armor
-35002	Protector
-35003	Helmet
-35004	Pants
-35005	Boots
-35006	Gloves
-35007	Belt
-35008	Shirt
+30010	Сфера
+35001	Броня
+35002	Протектор
+35003	Шлем
+35004	Штаны
+35005	Сапоги
+35006	Перчатки
+35007	Пояс
+35008	Рубаха
 1201	%s
-755	Low grade enchant
-756	Medium grade enchant
-757	High grade enchant
+755	Низкое зачарование
+756	Среднее зачарование
+757	Высокое зачарование
 759	%s
 758	%s
-51201	Go to %s village.
-51107	You need %I64u Heim for transferal charge.
+51201	Отправиться в деревню %s.
+51107	Для перемещения нужно %I64u хайма.
 1315	%s
-50201	Deep forest with thick trees.#Elite soldiers of the Dark Order of Imperial Army keep this place.#The first battle field for the rebel army to enter Etherain.
-50202	Souls roaming in the dark sewer for a long time#were resurrected as the undead by the power of Ether.#They seized the sewer and prey on human life.
-50203	Beautiful frozen palace#where severe chill and cold is felt to the bone.#You must get rid of the king who has become a slave of Ether in this palace. 
-50204	"Steep in the infertile valley of volcano, there is only dreadfully boiling lava.#The Drake Knights who have betrayed the Dragons,# block the road to freedom of the rebel army."
-11401	Main mission Recommended level
-11402	Mission minimum number of people
-11403	Hunting Recommended level
-11404	LV
-11405	Sub Mission 1 Recommended level
-11406	Sub Mission 2 Recommended level
-1035	Create Guild
-1053	Guild Level up
-1054	Guild Mark
-1101	Allows overall guild management.
-1041	Guild member: %d persons
+50201	Густой лес с частыми деревьями.#Здесь несут службу отборные воины Тёмного ордена имперской армии.#Первое поле боя для мятежников на пути в Этерейн.
+50202	Души, долго блуждавшие в тёмных стоках,#были подняты силой эфира как нежить.#Они захватили стоки и охотятся на людей.
+50203	Прекрасный замёрзший дворец,#где лютый холод пробирает до костей.#Здесь нужно покончить с королём, ставшим рабом эфира.
+50204	"В бесплодной вулканической долине нет ничего, кроме кипящей лавы.#Рыцари-дрейки, предавшие драконов,# преграждают мятежникам путь к свободе."
+11401	Рекомендуемый уровень основной миссии
+11402	Минимальное число игроков для миссии
+11403	Рекомендуемый уровень для охоты
+11404	УР
+11405	Рекомендуемый уровень побочной миссии 1
+11406	Рекомендуемый уровень побочной миссии 2
+1035	Создать гильдию
+1053	Повышение уровня гильдии
+1054	Знак гильдии
+1101	Позволяет управлять гильдией целиком.
+1041	Членов гильдии: %d
 1055	Гильдия: %s
-1056	Control village: %s
-1057	Guild UP: %I64u
-1058	Private UP: %d
-1059	Guild GP: %d
-1060	Convert GP
-1062	Guild record
-1063	Honor war: %d times Win %d times Defeat
-1064	Rank war: Win %d times Semifinal Win %d times
-1065	Siege war: %d times defend
+1056	Подконтрольная деревня: %s
+1057	UP гильдии: %I64u
+1058	Личные UP: %d
+1059	GP гильдии: %d
+1060	Обменять GP
+1062	Достижения гильдии
+1063	Битвы чести: побед %d, поражений %d
+1064	Рейтинговые битвы: побед %d, побед в полуфинале %d
+1065	Осады: успешных оборон %d
 1017	Глава гильдии: %s
-1018	Guild Level: %s
-1071	Allied Guilds
-1072	Hostile Guilds
-998	Skip
-11113	-A rank:
-11114	+A Rank:
-11115	-S Rank:
-11116	+S Rank:
+1018	Уровень гильдии: %s
+1071	Союзные гильдии
+1072	Враждебные гильдии
+998	Пропустить
+11113	Ранг -A:
+11114	Ранг +A:
+11115	Ранг -S:
+11116	Ранг +S:
 11131	E
 11132	D
 11133	C
@@ -1714,138 +1714,138 @@ start
 11138	#NAME?
 11139	S
 11140	#NAME?
-5705	Highest rank. You cannot rank up this item any more.
-5706	Enchant must be higher in order to Rank-up.
-23001	Chaos
-23002	Blind
-23003	Knockdown
-23004	Delay
-23005	Counterskill
-23006	Stun
-23007	Petrify
-23008	Sleep
-23009	Freeze
-23010	Lingering Effect
-23101	Poison
-23102	Wound
-23103	Burn
-23104	Panic
-23105	Impotence
-23106	Weaken
+5705	Высший ранг. Ранг этого предмета больше повысить нельзя.
+5706	Для повышения ранга нужно более высокое зачарование.
+23001	Хаос
+23002	Ослепление
+23003	Сбивание с ног
+23004	Задержка
+23005	Контрудар
+23006	Оглушение
+23007	Окаменение
+23008	Сон
+23009	Заморозка
+23010	Остаточный эффект
+23101	Отравление
+23102	Рана
+23103	Ожог
+23104	Паника
+23105	Бессилие
+23106	Ослабление
 23107	Неудача
-23108	Frustration
-23109	Shackle
-23110	Slow
-23111	Reversal
-23113	Decrease Physical Strength
-23114	Decline
-23115	Magic exposure
-23116	Absorption
-23117	Weakness
-23118	Obstacle
-23119	Shackles the attacker
-23120	Freezes the attacker
-23121	Slows the attacker
-23122	Stuns the attacker
-23123	Frightens the attacker
-23124	Elemental Attack Decrease
-23125	Decrease STR
-23126	Decrease AGI
-23127	Decrease VIT
-23128	Decrease SPI
-23129	Decrease INT
-23130	Basic Attack Decrease
-23131	Basic Defense Decrease
-23132	Fire Damage Decrease
-23133	Water Damage Decrease
-23134	Wind Damage Decrease
-23135	Earth Damage Decrease
-23136	Darkness Damage Decrease
-23137	Fire Resistance Rate Decrease
-23138	Water Resistance Rate Decrease
-23139	Wind Resistance Rate Decrease
-23140	Earth Resistance Rate Decrease
-23141	Darkness Resistance Rate Decrease
-23201	Rage
-23202	Defense
-23203	Protection
-23204	Fighting spirit
-23205	Balance
-23206	Vitality
-23207	Meditation
-23208	Vigor
-23209	Dash
-23210	Concentration
-23211	Sight
-23212	Precision
-23213	Encourage
-23214	Elasticity
-23215	Liveliness
-23216	Stimulus
-23217	Treatment
-23218	Elemental Resistance Rate
-23219	Magic shield
-23220	Holding
-23221	Damage reflection
-23222	SP additional attack power
-23223	Range
-23224	Enhances STR
-23225	Enhances AGI
-23226	Enhances VIT
-23227	Enhances SPI
-23228	Enhances INT
-23229	Elemental Attack Increase
-23230	Basic Attack Increase
-23231	Basic Defense Increase
-23232	Additional damage
-23233	Fire Damage Increase
-23234	Water Damage Increase
-23235	Wind Damage Increase
-23236	Earth Damage Increase
-23237	Darkness Damage Increase
-23238	Fire Resistance Rate Increase
-23239	Water Resistance Rate Increase
-23240	Wind Resistance Rate Increase
-23241	Earth Resistance Rate Increase
-23242	Darkness Resistance Rate Increase
-23301	Transformation
-23302	Steel
-23303	Invisible
-23304	Fear
-23305	Unable to attack
+23108	Отчаяние
+23109	Оковы
+23110	Замедление
+23111	Обращение
+23113	Снижение телосложения
+23114	Упадок
+23115	Магическая уязвимость
+23116	Поглощение
+23117	Слабость
+23118	Помеха
+23119	Сковывает атакующего
+23120	Замораживает атакующего
+23121	Замедляет атакующего
+23122	Оглушает атакующего
+23123	Пугает атакующего
+23124	Снижение стихийной атаки
+23125	Снижение СИЛ
+23126	Снижение ЛОВ
+23127	Снижение ЖИВ
+23128	Снижение ДУХ
+23129	Снижение ИНТ
+23130	Снижение базовой атаки
+23131	Снижение базовой защиты
+23132	Снижение урона огнём
+23133	Снижение урона водой
+23134	Снижение урона ветром
+23135	Снижение урона землёй
+23136	Снижение урона тьмой
+23137	Снижение сопротивления огню
+23138	Снижение сопротивления воде
+23139	Снижение сопротивления ветру
+23140	Снижение сопротивления земле
+23141	Снижение сопротивления тьме
+23201	Ярость
+23202	Защита
+23203	Покровительство
+23204	Боевой дух
+23205	Равновесие
+23206	Жизненная сила
+23207	Медитация
+23208	Бодрость
+23209	Рывок
+23210	Сосредоточение
+23211	Зоркость
+23212	Точность
+23213	Воодушевление
+23214	Упругость
+23215	Живость
+23216	Стимул
+23217	Исцеление
+23218	Сопротивление стихиям
+23219	Магический щит
+23220	Удержание
+23221	Отражение урона
+23222	Дополнительная атака от SP
+23223	Дальность
+23224	Повышает СИЛ
+23225	Повышает ЛОВ
+23226	Повышает ЖИВ
+23227	Повышает ДУХ
+23228	Повышает ИНТ
+23229	Повышение стихийной атаки
+23230	Повышение базовой атаки
+23231	Повышение базовой защиты
+23232	Дополнительный урон
+23233	Повышение урона огнём
+23234	Повышение урона водой
+23235	Повышение урона ветром
+23236	Повышение урона землёй
+23237	Повышение урона тьмой
+23238	Повышение сопротивления огню
+23239	Повышение сопротивления воде
+23240	Повышение сопротивления ветру
+23241	Повышение сопротивления земле
+23242	Повышение сопротивления тьме
+23301	Превращение
+23302	Сталь
+23303	Невидимость
+23304	Страх
+23305	Невозможность атаковать
 23306	Призыв
-23307	Recharge Sword power
-24001	"Subject is unable to identify friend or foe, so it attacks anyone."
-24002	"Eyesight of the subject is reduced to 1, making it unable to identify things beyond that range."
-24003	"Subject falls to the ground, unable to move."
-24004	"All subject actions will be cancelled, so it will take a specific time until next move."
-24005	Subject cannot use magic-related skill.
-24006	"Subject falls unconscious and is impossible to move, and despite attack by the enemy, such situation will not be released."
-24007	"Subject turns to stone. In this situation, it is impossible to take any action, also the enemy cannot attack the subject."
-24008	"Subject falls asleep for a specific time, and unable to take any action. If attacked by the enemy, such state will be released."
-24009	Frozen. Cannot move.
-24010	"After rising again from the dead, movement will be declined for a specific time."
-24101	Poisoned
-24102	Wounded
-24103	Burnt
-24104	MP/SP will be reduced as the result of mental shock.
-24105	Subject's fighting spirit has declined. Attacking power will be reduced.
-24106	Defense power reduced.
-24107	Attack success rate is reduced.
-24108	Defense Success Rate is reduced.
-24109	Movement speed is slowed.
-24110	Attack speed is slowed.
-24111	HP reduced.
-24112	MP/SP reduced.
-24113	HP Recovery amount reduced.
-24114	MP/SP Recovery amount is reduced.
-24115	Elemental Resistance Rate is reduced.
-24116	Absorb enemy's HP/MP/SP.
-24117	HP Recovery rate will be reduced.
-24118	MP/SP Recovery rate will be reduced.
-24119	The attacker suffers damage and reduced movement speed.
-24120	The attacker suffers damage and gets frozen.
-24121	The attacker suffers damage and reduced attack speed.
+23307	Перезарядка силы меча
+24001	"Цель не различает своих и чужих и атакует любого."
+24002	"Поле зрения цели сокращается до 1, и дальше этого она ничего не различает."
+24003	"Цель падает на землю и не может двигаться."
+24004	"Все действия цели отменяются, и до следующего действия проходит некоторое время."
+24005	Цель не может использовать умения, связанные с магией.
+24006	"Цель теряет сознание и не может двигаться; атаки врага это состояние не снимают."
+24007	"Цель обращается в камень. В этом состоянии она не может действовать, но и враг не может её атаковать."
+24008	"Цель засыпает на некоторое время и не может действовать. Атака врага снимает это состояние."
+24009	Заморожен. Не может двигаться.
+24010	"После воскрешения подвижность снижена на некоторое время."
+24101	Отравлен
+24102	Ранен
+24103	Обожжён
+24104	MP/SP снижаются от душевного потрясения.
+24105	Боевой дух цели упал. Сила атаки снижена.
+24106	Защита снижена.
+24107	Точность атаки снижена.
+24108	Шанс успешной защиты снижен.
+24109	Скорость передвижения снижена.
+24110	Скорость атаки снижена.
+24111	HP снижены.
+24112	MP/SP снижены.
+24113	Восстановление HP снижено.
+24114	Восстановление MP/SP снижено.
+24115	Сопротивление стихиям снижено.
+24116	Поглощает HP/MP/SP врага.
+24117	Скорость восстановления HP снижена.
+24118	Скорость восстановления MP/SP снижена.
+24119	Атакующий получает урон, и его скорость передвижения снижается.
+24120	Атакующий получает урон и замораживается.
+24121	Атакующий получает урон, и его скорость атаки снижается.
 24122	The attacker suffers damage and gets stunned.
 24123	The attacker gets terrified and runs away.
 24124	Elemental Damage is reduced.
@@ -1921,7 +1921,7 @@ start
 25151	Hughes' Guard Breaker
 25152	Hexter's Knockback
 25153	Roland's Knockdown
-25201	Taunt
+25201	Насмешка
 25202	Stung Kick
 25203	Thorn-Skin
 25204	Slash
@@ -1977,7 +1977,7 @@ start
 25715	Blade Fury
 25801	Assault
 25802	Stunning Blow
-25803	Fear
+25803	Страх
 25804	Mark of Recovery
 25805	Dragon's Eye
 25806	Dragon Transform
@@ -1993,7 +1993,7 @@ start
 26302	Ether Weapon Mastery
 26303	Accuracy Training
 26304	Dodge Training
-26305	Range
+26305	Дальность
 26306	Pierce
 26401	Fast Shot
 26402	Sniping
@@ -2016,7 +2016,7 @@ start
 26503	Mark of Symphony
 26504	Life Spirit
 26505	Patience
-26506	Heal
+26506	Лечение
 26508	War-Battler
 26509	Battle Barrier
 26510	Battler's Horn
@@ -2100,29 +2100,29 @@ start
 4502	Character Info
 4503	Event Inventory
 4504	Inventory
-4505	Skills
-4507	Store
-4510	Key Mapping
-4511	Private Shop
+4505	Умения
+4507	Лавка
+4510	Настройка клавиш
+4511	Личная лавка
 4512	Mission/Quest Dialogue
 4513	Transfer among villages
-4514	Storage
+4514	Хранилище
 4515	B A T T L E  Z O N E  -  L O B B Y
 4516	B A T T L E  Z O N E  -  C R E A T E
 4517	B A T T L E  Z O N E  -  W A I T I N G
-4518	Enter password
+4518	Введите пароль
 4519	Player VS Player
 4520	BATTLEZONE Relay
 4521	Friend
 4523	Enchant Item
-4524	Rank-up
-4525	Item Crystallization
-4526	Item Creation
+4524	Повышение ранга
+4525	Кристаллизация предмета
+4526	Создание предмета
 4527	Player Trade
 4528	Input quantity
 4529	Guild Menu
-4530	Create Guild
-4531	Guild
+4530	Создать гильдию
+4531	Гильдия
 4532	System Menu
 4533	WARNING!
 4534	Enter
@@ -2134,7 +2134,7 @@ start
 180902	What is that? 
 180903	"Now, this forest belongs to us!"
 180904	None can pass through the forest!
-180906	Take this!
+180906	Получай!
 180907	Silly!
 180908	Arrgh!
 180909	Never think this is the end...
@@ -2314,7 +2314,7 @@ start
 180111	Why am I always beaten...why..?
 180204	"There you are. Somehow, I have smelled a skunk!"
 180305	I protect this place. I will kill you! 
-180307	Take this!
+180307	Получай!
 180311	 Ў¦Did I ? Lose?...
 170102	There you are! I will get your soul and dedicate it to my master! 
 170107	"Very well, I can kill you now."
@@ -2384,13 +2384,13 @@ start
 12006	Range: %d meters
 12007	MP consumption:
 12008	SP consumption:
-12009	Additional effect(s):
+12009	Дополнительные эффекты:
 12011	Уровень %d
 12012	Equipped weapon required
 12013	Cast Time: Instant
 12100	Weapon
-12101	Ring
-12102	Necklace
+12101	Кольцо
+12102	Ожерелье
 12103	Wing
 12104	Crest
 12105	Cape
@@ -2508,13 +2508,13 @@ start
 8293	Restore Defaults
 8294	Defaults
 8295	Category
-8296	Spear
+8296	Копьё
 8297	Бой
-8298	System
+8298	Система
 8299	Miscellaneous
 8300	Shortcut key setup
 8301	%s
-8302	Help
+8302	Справка
 11259	Ручная атака
 11260	Stop
 11263	Cancel summoning
@@ -2542,13 +2542,13 @@ start
 9007	%d
 9009	Selectable Reward
 9010	Accept
-9011	Refuse
+9011	Отказ
 9012	Quest
-9014	Description
+9014	Описание
 9015	Available goods to choose from
 9016	Select Mission Map
-9017	First Reward
-9018	Second Reward
+9017	Первая награда
+9018	Вторая награда
 9019	Mission points
 9020	Please choose a hidden mission map.
 9021	%s
@@ -2593,19 +2593,19 @@ start
 9513	The following are required for crafting.
 9701	Find Party
 9702	Character Name
-9703	Level
-9704	Class
+9703	Уровень
+9704	Класс
 9705	Invite Party
 9706	Whisper
-9707	Search
+9707	Поиск
 9708	~
-9721	Add Friend
+9721	Добавить в друзья
 9722	Request Trade
-9723	Search
+9723	Поиск
 9724	Request Duel
-9725	Follow
+9725	Следовать
 9726	Voice Chat
-9727	Kick
+9727	Исключить
 9728	Change Party Leader
 9729	//Whisper %s
 8332	%s
@@ -2618,12 +2618,12 @@ start
 9519	Craft Low Grade Soul Eye
 9520	Craft Low Grade Soul Armlet
 9521	Result
-9523	Add Socket
-9524	Remove Socket
+9523	Добавить гнездо
+9524	Удалить гнездо
 9525	%s
 9526	Register Item 
-9527	Materials
-9528	Remove option
+9527	Материалы
+9528	Убрать свойство
 9529	%s
 9901	%s
 9902	Top Record   None
@@ -2640,8 +2640,8 @@ start
 9956	Party No.
 9957	Time Record
 9958	Имя
-9959	Sub Mission 
-9960	Area
+9959	Побочная миссия
+9960	Область
 9961	%s
 9962	%s
 9963	Weekly Ranking
@@ -3487,7 +3487,7 @@ start
 202704	"Good-bye, I hope to see you again."
 202705	"To harness the power of Mana, you should constantly train your mind. "
 202706	Ether is false power like deception. You should get rid of it.
-711	Party
+711	Группа
 712	Free for All
 714	Survival
 715	Time Attack
@@ -3523,7 +3523,7 @@ start
 26706	Fire Spear
 26707	Sacred Power
 26708	Ice Bolt
-26709	Thorny Vine
+26709	Колючая лоза
 26710	Fire Pillar
 26711	Pressing Wall
 26712	Wind Bolt
@@ -3539,7 +3539,7 @@ start
 26802	Ice Force
 26803	Curing Hand
 26804	Magic Shield
-26805	Resurrection
+26805	Воскрешение
 26806	Natural Attack
 26807	Magic Force
 26808	Frozen Shield
@@ -3590,7 +3590,7 @@ start
 350503	I feel heavy and stiff. It is probably because I haven't been in battle for a long time.
 350504	"Whenever you need help, look for the mercenary guild."
 350505	Repairing Axes and Swords is like the life of a Berserker.
-350506	Goodbye!
+350506	До свидания!
 350601	"Humans are beyond my understanding, no matter how much I might try."
 350602	I should mention the names of the honorable Dragon tribes once againЎ¦
 350603	I can't believe it. There are so many rude people.
@@ -3619,7 +3619,7 @@ start
 40010	Story Item
 40011	General Item
 40012	Gamble Item
-40013	Guild Item
+40013	Предмет гильдии
 40014	AC Item
 26721	Fire Arrow
 26722	Ice Dagger
@@ -3701,7 +3701,7 @@ start
 5212	You cannot limit your own class.
 4901	Lv. 2 Wind Potion X10
 4902	Lv. 2 Rejuvenation Potion X5
-4903	Maxi Stone
+4903	Макси-камень
 4904	Rough Diamond X3
 4905	Small Mana Potion X5
 4906	Level 3 Evil Mixture X10
@@ -3796,7 +3796,7 @@ start
 250002	Welcome!
 250003	What is it?
 250004	Take care.
-250005	Goodbye.
+250005	До свидания.
 250006	See you again!
 250061	"Hehe, do you have some business with me?"
 250062	Have you anything to say to this old man?
@@ -3807,22 +3807,22 @@ start
 250071	Hello.
 250072	"If you have something to say, make it brief."
 250073	I can spare a moment to hear what you have to say.
-250074	Goodbye.
+250074	До свидания.
 250075	"Don't disturb me, unless you have business of some importance."
 250076	Leave if you're done.
 250081	"Good to see you, young Guidance."
 250082	Do you have some business with me?
 250083	Hello.
-250084	Goodbye.
+250084	До свидания.
 250085	May luck be with you for the rest of your journey.
 250086	Please come again anytime you feel the need.
 250101	Hello.
 250102	Welcome!
 250103	What is it?
 250104	Take care.
-250105	Goodbye.
+250105	До свидания.
 250106	See you again!
-250111	Welcome.
+250111	Добро пожаловать.
 250112	Did you come to see me?
 250113	Nice to see you.
 250114	God bless the path before you.
@@ -3950,10 +3950,10 @@ start
 48706	Page 6 of a Brakion tale that is handed down by word of mouth
 48707	Page 7 of a Brakion tale that is handed down by word of mouth
 48708	Book with names of the leaders of Geist Empire
-41093	Crystal material needed for crafting.
-41094	Crystal material needed for crafting.
-41114	Crystal material needed for crafting.
-41115	Crystal material needed for crafting.
+41093	Кристаллический материал для изготовления.
+41094	Кристаллический материал для изготовления.
+41114	Кристаллический материал для изготовления.
+41115	Кристаллический материал для изготовления.
 203001	"Hey, do you want to invest in equipment?"
 203002	A real warrior does not spare a single penny when it comes to increasing weapon performance.
 203003	Can you even cut a beast's fur with that puny weapon?
@@ -3961,7 +3961,7 @@ start
 203005	What do you want to strengthen?
 203006	Show me the item.
 203007	I hope that you are satisfied.
-203008	Goodbye.
+203008	До свидания.
 203009	Come back again.
 1151	Scale Interface
 40361	Berserk Potion Lv.1
@@ -4013,7 +4013,7 @@ start
 30076	Copper
 30106	Copper
 30136	Copper
-30166	Shadow Weapon
+30166	Теневое оружие
 30226	Copper
 30256	Copper
 30286	Antique
@@ -4034,7 +4034,7 @@ start
 204004	What are you looking for?
 204005	You must have great eyes for things to have come to our store.
 204006	Welcome. Can I help you?
-204007	Goodbye.
+204007	До свидания.
 204008	Come back anytime!
 204009	Have a good journey!
 204101	This is Anton's general store!
@@ -4044,7 +4044,7 @@ start
 204105	Nice to see you.
 204106	Our store only carries the best items.
 204107	Don't forget Anton!
-204108	See you again next time!
+204108	До новой встречи!
 204109	"If you need anything, come see me at anytime."
 204201	I'm tired of plain Potions.
 204202	I need to make some new Potions.
@@ -4054,7 +4054,7 @@ start
 204206	I think merchants need to make new items.
 204207	"Someday, I will make a surprising invention."
 204208	Come back some time. I will have made something really cool by then.
-204209	Goodbye.
+204209	До свидания.
 204301	Welcome to Etherain.
 204302	Etherain is our hope.
 204303	Please rest here.
@@ -4073,7 +4073,7 @@ start
 204504	Please travel with care.
 204505	Beware of attacks by beasts.
 204506	Have a nice trip.
-204601	Greetings.
+204601	Приветствую.
 204602	What brings you here?
 204603	Do you need any assistance?
 204604	Travel always requires extra attention.
@@ -4091,7 +4091,7 @@ start
 91503	Berserk Potion
 91504	Awakening Potion
 91505	Dash Potion
-91506	Maxi Stone
+91506	Макси-камень
 91508	Tartamiya
 91509	Lucky Coin
 91510	Ring of Beasts
@@ -4105,7 +4105,7 @@ start
 91523	Berserk Potion
 91524	Awakening Potion
 91525	Dash Potion
-91526	Over Stone
+91526	Овер-камень
 91528	Tartamiya
 91529	Lucky Coin
 91530	O'Neil's Ring
@@ -4119,7 +4119,7 @@ start
 91543	Berserk Potion
 91544	Awakening Potion
 91545	Dash Potion
-91546	Strength Stone
+91546	Камень силы
 91548	Tartamiya
 91549	Lucky Coin
 91550	Snowflower Ring
@@ -4143,7 +4143,7 @@ start
 5061	You have been muted for spamming.
 5062	Попробуйте позже.
 1000	%s
-887	Move to Village
+887	Переместиться в деревню
 5120	[%s]sold for %d Heim.
 282	AC System (J)
 1081	%I64u
@@ -4235,7 +4235,7 @@ start
 8129	%s
 47618	Revenge Card
 48618	Grants 1 revenge point.
-200001	Welcome.
+200001	Добро пожаловать.
 200002	Have we met before?
 200003	You are always welcome here.
 200004	Come back again.
@@ -4276,10 +4276,10 @@ start
 201064	"Goodbye, friend!"
 201065	Let's have a drink together sometime.
 201066	Let's live until the day that we are victorious.
-202021	Welcome.
+202021	Добро пожаловать.
 202022	Do you have some business with me?
 202023	How long do I have to wait?
-202024	Goodbye.
+202024	До свидания.
 202025	"If we are both alive, we will see each other again sometime."
 202026	We will someday attain real freedom.
 202041	We should never let down our guard.
@@ -4288,7 +4288,7 @@ start
 202044	May luck be with you.
 202045	I hope to see you in good health next time.
 202046	Don't let down your guard.
-400067	Private Shop
+400067	Личная лавка
 400068	News on Etherain
 400069	Unwelcome News
 400070	Enchanting System - Enchanting Materials
@@ -4301,19 +4301,19 @@ start
 203021	"If you're a warrior, then you'll be able to find whatever you need here."
 203022	I sell items for fierce warriors.
 203023	Even a ready tongue yields to fine sword.
-203024	What do you want?
-203025	What do you need?
-203026	Welcome.
-203027	Goodbye.
+203024	Чего тебе?
+203025	Что тебе нужно?
+203026	Добро пожаловать.
+203027	До свидания.
 203028	Take care.
 204021	I only sell items for Dragonkin.
 204022	"If you're of Dragonkin, come here and have a look."
 204023	You won't regret using my items.
 204024	Hi. I only deal with the best.
-204025	Welcome.
-204026	What do you want?
+204025	Добро пожаловать.
+204026	Чего тебе?
 204027	See you again.
-204028	Bye-bye.
+204028	Пока-пока.
 203041	My items will help you in all this chaos.
 203042	Here are some items that will help you.
 203043	This long war is just a brief moment in the cycle of nature.
@@ -4329,9 +4329,9 @@ start
 204043	"Do you have something to say? If so, say it."
 204044	Hmm. What is it? Tell me.
 204045	Is there something you need?
-204046	Welcome.
+204046	Добро пожаловать.
 204047	What can I do for you?
-204048	Goodbye.
+204048	До свидания.
 204049	See you again.
 204050	Take care.
 5009	The world is full and new characters cannot be created. Please use another world.
@@ -4404,7 +4404,7 @@ start
 4544	%s
 9441	Accessory Item
 9442	Special Accessory Item
-9445	Special Item
+9445	Особый предмет
 9446	Materials Item
 42262	Lesser Soul Eye (Fire)
 42263	Lesser Soul Eye (Water)
@@ -4513,8 +4513,8 @@ start
 300083	Library Card E -3
 300084	Library Card E -4
 301081	A card for borrowing books from the library. Collect E-1 to E-4 to receive Class E Library Admission Card.
-9448	Ring
-9449	Necklace
+9448	Кольцо
+9449	Ожерелье
 9450	Soul Shield
 9451	Soul Armlet
 9452	Soul Wing
@@ -4659,10 +4659,10 @@ start
 9731	Info
 9732	Invite
 9733	Invite
-9734	Write Message
+9734	Написать сообщение
 9735	Chat
 9736	Apply
-9737	Cancel
+9737	Отмена
 2020	/guildnotice
 5618	The party leader has removed [%s] from the party.
 5619	[%s] has unexpectedly left the party.
@@ -4678,7 +4678,7 @@ start
 1673	Class : %s
 1674	Guild :%s (%s)
 1675	Guild Leader
-1676	Guild Member
+1676	Член гильдии
 1677	Connected to channel : %d
 1678	Character state : %s
 1679	Lobby
@@ -4865,7 +4865,7 @@ start
 26607	Staff Normal
 26608	Orb Normal
 25154	Fist Strike
-9739	Kick
+9739	Исключить
 5215	Would you like to remove [%s] from the party?
 5098	[%s] acquired item: [%s].
 47991	Lucky Coin
@@ -4878,11 +4878,11 @@ start
 8004	Open/Close AC Chart
 8005	Open/Close Quests
 8006	Open/Close Actions
-8007	Open/Close Friends List
-8008	Open/Close Guild window
+8007	Открыть или закрыть список друзей
+8008	Открыть или закрыть окно гильдии
 8009	Open/Close Revenge List
 8010	Open/Close Private Shop
-8011	Open/Close Map
+8011	Открыть или закрыть карту
 8012	Open/Expand/Close Minimap
 8013	Open/Close Menu
 8014	Open/Close System Message
@@ -4924,13 +4924,13 @@ start
 8053	Target next monster
 8054	Chat start/send
 8055	Examine dropped item
-8056	Pick Up Item
-8057	Screenshot
+8056	Подобрать предмет
+8057	Снимок экрана
 8058	Skill Queuing On/Off
 8059	Auto Target On/Off
 8060	Toggles nearby target prioritization On/Off.
 8061	Toggles front target prioritization On/Off.
-8062	Move to Village
+8062	Переместиться в деревню
 8063	Move forward
 8064	Backwards
 8065	Strafe left
@@ -4939,10 +4939,10 @@ start
 8068	Turn right
 8069	Turn camera to left
 8070	Turn camera to right
-8071	Zoom In
-8072	Zoom Out
+8071	Приблизить
+8072	Отдалить
 8073	Jump
-8074	Sit/Stand
+8074	Сесть или встать
 8075	Auto Run
 8076	Follow Target
 8077	Screenshot Mode
@@ -4984,12 +4984,12 @@ start
 1714	[%s] has left the channel.
 5717	Do you want to create a [%s]?
 5718	You have cancelled item crafting.
-816	Success Rate
+816	Шанс успеха
 817	Required Heim
 818	%d
 819	%d
 820	%s
-300	Zoom Out
+300	Отдалить
 5216	Your party leader has created a Battle Zone.\nDo you wish to join?\nIf not, you will be removed from the party.
 5274	%s has killed you. Do you want to add %s to your Revenge List? If you do, you are allowed to KILL him once.
 5453	Failed to execute emote.
@@ -5062,7 +5062,7 @@ start
 204031	This place is too cold.
 204032	I'm sick of these monsters.
 204033	What do you want? Make it quick -- I'm cold.
-204034	Goodbye.
+204034	До свидания.
 204035	Ah-choo! Sniff.  Sorry, did I get some on you? I have a cold.
 204036	Next time, bring me a hard, stiff drink.
 204011	What brings you here?
@@ -5170,7 +5170,7 @@ start
 5719	This is the maximum enchantment level.
 5132	Dropped item [%s] due to PK.
 5024	Duplicate serial number! You are not able to use the item. Please report this to the game administrator.
-5521	Sleep
+5521	Сон
 5522	Stunned
 5523	Frozen
 5524	Delayed
@@ -5310,7 +5310,7 @@ start
 155015	Functional
 155016	Miscellaneous
 155017	Cart
-155018	Buy
+155018	Купить
 155019	%d
 155020	%d
 155021	%d
@@ -5321,12 +5321,12 @@ start
 155026	Purchase record
 155027	charge record
 155028	Purchase all
-155029	Delete List
+155029	Удалить из списка
 155030	%d 
 155031	%d 
 155032	Heim Held
 155033	Purchase Item
-155034	Purchase Price
+155034	Цена покупки
 155035	Amount Currently Held
 155036	%d
 155037	%d
@@ -5409,27 +5409,27 @@ start
 155114	Send the above item to
 155115	as a gift.
 155116	Message to the Recipient
-155117	OK
-155118	Cancel
+155117	ОК
+155118	Отмена
 155119	Send a Gift
 155120	The above item
-155122	OK
+155122	ОК
 155123	%d
 155124	Confirm Gift 
 155125	Purchase the above item.
-155126	Total
+155126	Всего
 155127	%d
 155128	%d
-155129	Cancel
-155130	OK
+155129	Отмена
+155130	ОК
 155131	The above item has been purchased.
 155132	%d
 155133	%d
-155134	Balance
-155135	OK
+155134	Равновесие
+155135	ОК
 155136	Confirm Purchase
-155137	Delete List
-155138	Purchase
+155137	Удалить из списка
+155138	Купить
 155139	Cart
 155140	Received Gift
 155141	Delete All Lists
@@ -5455,7 +5455,7 @@ start
 155161	%d
 155162	Cart
 155163	Received Gift
-155164	Delete List
+155164	Удалить из списка
 155165	Send Back
 155166	Confirm Gift 
 155167	Heim Held
@@ -5489,11 +5489,11 @@ start
 155195	%d
 155196	%d
 155197	%d
-155198	Delete List
+155198	Удалить из списка
 155199	%d
 155200	Gift sent by:
 155201	%d
-155202	Message
+155202	Сообщение
 155203	Receive Gift
 155204	The above item
 155205	%d
@@ -5503,14 +5503,14 @@ start
 155209	Confirm Gift 
 155210	%d
 155211	is received as a gift.
-155212	OK
+155212	ОК
 155213	Receive Gift
 155214	Send Gift Back
 155215	%d
 155216	was sent back
-155217	OK
+155217	ОК
 155218	Select and Purchase
-155219	Select
+155219	Выбрать
 155220	Sale!  
 155221	%d 
 155222	Cannot purchase because it isn't yet time for a repurchase.
@@ -5746,7 +5746,7 @@ start
 155293	%d
 155294	%d
 155295	%d
-155296	Buy
+155296	Купить
 155297	Heim Held
 155298	Cash Balance
 155299	Package Shop
@@ -5818,7 +5818,7 @@ start
 155301	Нормально
 155303	Affiliated Premium
 5862	Enter account
-5863	Enter password
+5863	Введите пароль
 5864	Select the item from which to delete the socket.
 5865	"You've been reported for overdue payment. If you fail to pay the Premium, you may not be able to play the game."
 5866	You have to exit the private shop first.
@@ -5983,10 +5983,10 @@ start
 91562	Rejuvenation Potion
 91563	Lucky Coin
 91564	Ring Agert
-91565	Strength Stone
+91565	Камень силы
 91566	Mertamiya
 91567	Noblesse Crystal
-91568	Unique Crystal
+91568	Уникальный кристалл
 91569	Orharcon
 47629	Mertamiya
 48629	A mysterious object that the Aukra's Tamiya chieftain endeavors to collect with all his might.
@@ -6053,10 +6053,10 @@ start
 1160	%s
 1161	%s
 1162	%s
-1163	Account
+1163	Учётная запись
 1164	Service Details
 1165	Service Time
-1174	Register
+1174	Регистрация
 23011	Silence 
 24011	Cannot use or remove magic and skill.
 45143	Veil of Darkness
@@ -6094,7 +6094,7 @@ start
 1508	Grant Invite Privilege 
 1509	Form a Party
 1510	Delegate Guidance Leader
-1511	Kick
+1511	Исключить
 1512	Loot
 1513	%s
 1514	Party 1
@@ -6283,13 +6283,13 @@ start
 1731	Manage Title
 1732	Classify Title
 1733	Earn
-1734	Total
+1734	Всего
 1735	Majesty Title
 1736	Master Title
 1737	Free Title
 1738	Majesty
 1739	Master
-1740	Free
+1740	Свободно
 1741	Explain Title
 1742	Can Earn Title
 1743	Cannot Earn Title
@@ -6301,7 +6301,7 @@ start
 1749	%s%d Increase
 1750	No Additional Reward
 5436	"This title represents the capital skill proficiency, and it can be earned according to the proficiency distribution."
-1821	Highest Level
+1821	Наивысший уровень
 1822	Mission Ranker
 1823	Mission Master
 1824	AC Master (Forest of Beasts)
@@ -6311,7 +6311,7 @@ start
 1828	Quest Master
 1829	LORD OF SUN
 1830	Guild Master
-1831	Defender
+1831	Защитник
 1832	Берсерк
 1833	Бой
 1834	Драконий
@@ -6363,11 +6363,11 @@ start
 181082	"To craft things, you must also know about the materials you need."
 181083	We need to get more materials.
 181084	Hello.
-181085	Looking for something?
+181085	Что-то ищешь?
 181086	"You name it, I have it."
 181087	Bye.
 181088	Come and visit us again.
-181089	Thank you.
+181089	Спасибо.
 200081	Meet me if you want to know about agile movement.
 200082	"You can move by using Q, W, E, and S on the keyboard."
 200083	Click the mouse on the bottom to move.
@@ -6408,15 +6408,15 @@ start
 181092	Combining stones with jewels can make more powerful things.
 181093	We can make other stuff by Crystalizing things that have become useless.
 181094	Hello.
-181095	Are you looking for something?
+181095	Ты что-то ищешь?
 181096	"You name it, I have it."
 181097	Bye.
 181098	Come and visit us again.
-181099	Thank you.
+181099	Спасибо.
 200091	Watch out for traps inside.
 200092	You'll be stronger once you complete the last test.
 200093	"If you're afraid, use the [ESC->Move to Village] function to go back."
-200094	Greetings.
+200094	Приветствую.
 200095	You're almost there.
 200096	Now it's time to test your strength.
 200097	Please take care.
@@ -6424,7 +6424,7 @@ start
 200099	Don't lose hope.
 201091	Tell me if you want to go back to the village.
 201092	"Remember, you can't come back once you leave for the village."
-201093	Greetings.
+201093	Приветствую.
 204081	"I have to hurry and deliver this letter. Otherwise, I'll be in big trouble. "
 204082	We have to click everything marked with a lock sign.
 204083	"Clicking everything may bring out some trouble, though."
@@ -6461,7 +6461,7 @@ start
 203073	Where do you want to go?
 203074	Hello.
 203075	Do you want to go back to the village?
-203076	Greetings.
+203076	Приветствую.
 203077	Bye.
 203078	Good luck.
 203079	Take care.
@@ -6590,7 +6590,7 @@ start
 3018	Past Authorization Rank
 3019	Request Siege War
 3020	%s
-3021	Heim
+3021	Хайм
 3022	%s
 3023	UP
 3024	%s
@@ -6599,10 +6599,10 @@ start
 3027	%s
 3028	Score
 3029	Request
-3030	Cancel
+3030	Отмена
 3031	Add Authorization Points
 3032	%s
-3033	Heim
+3033	Хайм
 3034	%s
 3035	UP
 3036	%s
@@ -6614,7 +6614,7 @@ start
 3042	%s
 3043	Score
 3044	Complete Addition
-3045	Cancel
+3045	Отмена
 3046	Register Alliance Guild
 3047	%s
 3048	Current Alliance Guild
@@ -6622,7 +6622,7 @@ start
 3050	Current Registered Guild
 3051	Exclude
 3052	Register Alliance Guild
-3053	Cancel
+3053	Отмена
 3054	Mercenary Captain
 3055	%s
 3056	Siege Defense Guild
@@ -6634,29 +6634,29 @@ start
 3062	Siege Defense Side Request Mercenary 
 3063	Siege Offense Side Request Mercenary
 3064	Cancel Request
-3065	Close
+3065	Закрыть
 3066	Register Mercenary
 3067	%s
 3068	Persons waiting for participation request
 3069	Character Name
-3070	Level
-3071	Class
+3070	Уровень
+3071	Класс
 3072	Register Mercenary
-3073	Cancel
+3073	Отмена
 3074	Authorization Ranking
 3075	Current authorization points ranking.
 3076	Ranking
 3077	Guild name
 3078	Guild Level
 3079	Guild Master
-3080	Close
+3080	Закрыть
 3081	Authorization Ranking
 3082	Past authorization point ranking.
 3083	Ranking
 3084	Guild name
 3085	Guild Level
 3086	Guild Master
-3087	Close
+3087	Закрыть
 3088	"Castle Manager, Adriana Polken"
 3089	%s
 3090	Castle information
@@ -6675,12 +6675,12 @@ start
 3103	Turret upgrade
 3104	Crystal upgrade
 3105	Ether Crystal location
-3106	Close
+3106	Закрыть
 3107	Decide siege date
 3108	Saturday
 3109	Sunday
 3110	Decide date
-3111	Cancel
+3111	Отмена
 3112	Gate upgrade
 3113	Inner gate
 3114	%s
@@ -6691,7 +6691,7 @@ start
 3119	East gate
 3120	%s
 3121	Upgrade
-3122	Cancel
+3122	Отмена
 3123	Central gate upgrade
 3124	Current level: 
 3125	%s
@@ -6733,7 +6733,7 @@ start
 3161	%s
 3162	The turret upgrade applies to all turrets.
 3163	Upgrade
-3164	Cancel
+3164	Отмена
 3165	Crystal upgrade
 3166	Cost
 3167	HP increase rate
@@ -6744,10 +6744,10 @@ start
 3172	The Crystal upgrade applies to all Crystals. 
 3173	"(However, each type of Crystal has a different HP.)"
 3174	Upgrade
-3175	Cancel
+3175	Отмена
 3176	Install Ether Crystal
 3177	Change installation location
-3178	Cancel
+3178	Отмена
 3179	%s
 3180	%s
 3181	Siege War Resurrection window [Defense side]
@@ -6757,8 +6757,8 @@ start
 3185	Resurrect from selected location
 3186	Resurrect from start location
 3187	Alliance chatting
-3188	Level
-3189	Level
+3188	Уровень
+3189	Уровень
 3190	^Platoon
 1232	<color=ffc6b383><font=m212>Please enter the numbers marked in the back of the Ў°Matrix Secured CardЎ± issued to you as they appear.</font></color>
 5034	Failed to recover character.
@@ -6812,7 +6812,7 @@ start
 1452	%d
 3191	Gate level
 3192	HP
-3193	Defense power
+3193	Защита
 3194	Gate type
 3195	%s
 5039	%s character has been deleted. It will be deleted permanently after seven days.
@@ -6828,8 +6828,8 @@ start
 5578	Please specify a password.
 1187	Inventory
 1188	Inventory
-1189	Storage
-1190	Storage
+1189	Хранилище
+1190	Хранилище
 1191	Secondary storage
 1192	Secondary storage
 26609	Barehand Dragon Transform
@@ -7082,7 +7082,7 @@ start
 160138	You shall die anyway.
 160139	I can't stop here . . . .
 160140	Am I dying here . . . .
-1423	Refresh
+1423	Обновить
 709	Change Room Title
 710	Enter the battle zone name to change.
 1424	This function can't be used in the field.
@@ -7126,8 +7126,8 @@ start
 1922	You can't use the service now due to the unstable server.
 1362	"If you have any inquiries, please make an inquiry through IGC."
 1363	Select the classification of your inquiry.
-91507	Shining Crystal
-91527	Shining Crystal
+91507	Сияющий кристалл
+91527	Сияющий кристалл
 91547	Noblesse Crystal
 400148	Wrong theory
 159065	Adds 20 slots by creating one additional slot in the secondary storage. Up to five slots per character can be used.
@@ -7303,7 +7303,7 @@ start
 200231	I am Evangelli.
 200233	I am giving you
 200235	Simply click Receive Reward.
-1204	Item Name
+1204	Название предмета
 1205	Number(s)
 5580	Do you want to change the status of storage to Locked?
 5581	Do you want to change the status of storage to Unlocked?
@@ -7479,8 +7479,8 @@ start
 1218	%s
 1219	%s
 1220	"%d/%d,%d:%d"
-1221	Store
-1222	Withdraw
+1221	Лавка
+1222	Снять
 1223	How to use the guild storage
 1224	Open guild storage
 6190	You are not allowed to withdraw items from the guild storage.
@@ -7527,7 +7527,7 @@ start
 5220	Party loot in a battle zone applies only to specific items.
 155416	%s
 155417	Weapon
-155418	Armor
+155418	Броня
 269	%s
 286	Loot: Free for all
 287	Loot: Roundrobin
@@ -7581,7 +7581,7 @@ start
 11312	(s)
 5871	Slot has been expanded correctly.
 5684	Unable to use Stone of revenge.
-4003	Register
+4003	Регистрация
 45175	Half-Moon Rice Cake
 158074	Alchemist's Hammer
 158075	Additional Cash Slot
@@ -7614,7 +7614,7 @@ start
 11328	Templar
 11329	Bishop
 11330	Капитан сопровождения
-11331	Elite
+11331	Элитный
 11332	Ace
 11333	Guard Captain
 11334	Duke
@@ -7634,7 +7634,7 @@ start
 5240	Disconnected
 1471	Request Siege War
 1472	Request Guild Relationship
-1473	Convert GP
+1473	Обменять GP
 1474	Use UP/GP
 1476	Register guild mark
 1386	%s
@@ -7652,7 +7652,7 @@ start
 1216	%s
 1478	%s
 6215	Alliances
-6217	Cancel
+6217	Отмена
 6218	Form
 6219	Hostility
 6220	Mutual hostility
@@ -7717,7 +7717,7 @@ start
 1193	Guild Mark Cooperative
 1194	Register mark
 1195	Change mark
-1491	Background
+1491	Фон
 1492	Pattern
 1493	%d
 1494	%d
@@ -7743,8 +7743,8 @@ start
 47060	Magic Money Bag
 9948	Event Item
 1388	%d
-1379	Store
-1380	Withdraw
+1379	Лавка
+1380	Снять
 9455	Crystal Crafting (Success Guaranteed)
 1052	Disband Guild
 1012	%s
@@ -7770,13 +7770,13 @@ start
 6247	You can't enter any more guild notices.
 5314	This item has expired.
 5382	Total no assembled: %d; Success: %d; Failed: %d
-1270	Level limit
+1270	Ограничение по уровню
 1271	Reihalt's Authentication Ritual
 1272	Start Ritual
 1273	Show Result Only
 1274	Period Available (Day)
 6323	Wearing isn't allowed yet. Please wear it after the authentication ritual.
-1275	Class
+1275	Класс
 1277	Magical Resistance
 1278	Maximum Durability
 1279	%s
@@ -7817,7 +7817,7 @@ start
 1351	%s
 1495	Switch Corps
 1014	Leave Guild
-1015	Guild Notice
+1015	Объявление гильдии
 1011	Expel from Guild
 1050	Change Rank
 1016	Request Guild Battle
@@ -8218,7 +8218,7 @@ start
 1862	Wait
 1864	I've brought you 10 gift boxes.
 1866	Let me re-register.
-1868	Thank you.
+1868	Спасибо.
 301163	Devil's Eye that contains the infernal flames. Its flame never dies out.
 11372	Standby for usage period extension
 203109	"It's hard to find anyone who's willing to donate for their neighbors. I guess the times are hard, but still it's unfortunate."
@@ -8411,7 +8411,7 @@ start
 159092	Increases character's maximum HP and HP recovery speed (can equip only one item).
 159093	Basic Attack Speed increased (max 1 equipped)
 159094	Increases skill damage (can equip only one item).
-91570	Mega Stone
+91570	Мега-камень
 91571	Ring of Flames
 91572	Necklace of Flames
 91573	Extra Stone
@@ -8578,7 +8578,7 @@ start
 6263	Guild member %s has logged in.
 6264	Guild member %s has logged out.
 6265	The guild leader has changed to %s.
-6266	Guild Mark
+6266	Знак гильдии
 6269	Do you want to move to the %s map?
 6270	Untradable while worn
 6271	You aren't allowed to use this function.
@@ -8739,7 +8739,7 @@ start
 1792	Tour the Store
 1793	Get a Reward
 1794	Trade Fish
-1795	Trade
+1795	Обмен
 6287	The title change has failed. Please try again.
 6289	Guild Corps creation has failed.
 6290	That guild member isn't a member of Corps under direct control.
@@ -8892,7 +8892,7 @@ start
 7205	You are not a guild member.
 //2008-03-26	
 1166	Enter the name for the guild %s %s.
-1498	Animal
+1498	Животное
 6216	Request
 7190	This slot requires that you have a cash item.
 6214	"Once you change the guild leader, you won't be allowed to delegate leadership for 14 days.\nDo you want to delegate %s as the leader? "
@@ -8944,8 +8944,8 @@ start
 6169	Do you want to register the new one or use it to replace the existing one?
 //2008-03-31	
 7186	Your guild level is too low to use the guild storage.
-1448	Close
-171	Close
+1448	Закрыть
+171	Закрыть
 11424	________Additional Bonus________
 11427	________PET Management Data________
 5261	"To view the current status, click on the Quest List while holding down the Shift key."
@@ -9285,14 +9285,14 @@ start
 203160	Being aware of your basic stats will help you in battles.
 203161	View the Full Map by pressing [M].
 203162	I'll teach you about combat and movement.
-203163	Greetings.
+203163	Приветствую.
 203164	Greetings. I'll teach you about combat and movement. Are you ready?
 203165	Pressing [K] opens your Skill Window.
 203166	How is it? Are you warmed up now?
 203167	Is there anything you need?
 203168	Welcome. it's good to see you!
 203169	Make sure to repair your items regularly to prevent them from being totally destroyed.
-203170	Goodbye.
+203170	До свидания.
 203171	Well done for coming all the way here.
 203172	Press F to check your friends list.
 203173	"This place has gotten a lot better. When we first moved here long ago, it was a wild, barren place. In other words, a real wasteland. Our prospects seemed so bleak back then. With Ether in abundance now though, it's become a good place to liveЎ¦ But this land is also coveted by the Imperial Army, it seems."
@@ -9311,7 +9311,7 @@ start
 203186	The Dragon Knights have come out in the world to restore the Dragonkin.
 203187	"Please use the Item Shop if you want to reset your Proficiency, Stats or Passive skills."
 203188	I hope you value your life.
-203189	What do you want?
+203189	Чего тебе?
 203190	Recovery is as important as attacking.
 203191	May you be protected by EtherЎ¦
 203192	May the Ether be with you on the path you wish to walkЎ¦
@@ -9332,11 +9332,11 @@ start
 7240	"Corps-to-corps transfers are not allowed to the selected corps, due to the Guild Member Expulsion penalty."
 6133	You failed to transfer the item.
 //2008-05-26	
-1090	Guild Level up
+1090	Повышение уровня гильдии
 5182	Check the requirements for Guild level ups.
 5188	You're not authorized to level up the Guild.
 5195	The Guild is now at the highest level and can't level up any more.
-1475	Guild Level up
+1475	Повышение уровня гильдии
 1013	Grant Privilege
 6225	You've delegated authority.
 6227	You've been delegated authority.
@@ -9446,7 +9446,7 @@ start
 //2008-06-05	
 203152	Inflicts additional 100% of the damage done. Increases damage by 2 when attacking lucky monster. Available only when ether discharger is mounted.
 23311	Invincible
-23312	Concentration
+23312	Сосредоточение
 23313	Берсерк
 24311	Protects the caster from all attacks.
 24312	Increases damage from skills greatly.
@@ -9455,7 +9455,7 @@ start
 6340	Cannot trade when the character is dead.
 6411	Insufficient admission fee.
 6415	Admission is permitted only in a village or hunting field.
-586	Background
+586	Фон
 11342	Trainee
 //2008-06-10	
 7242	You cannot change rank of the member who is currently using the guild storage.
@@ -9601,7 +9601,7 @@ start
 46232	Bring 5 of them to Ein and receive a reward.
 158205	[Premium] Blessing of the Goddess
 //2008-07-28	
-47274	Poison
+47274	Отравление
 47275	Do
 47276	Dok-
 47277	do
@@ -9700,7 +9700,7 @@ start
 //2008-08-25	
 45242	Soup
 45243	New Year's
-45244	Fast
+45244	Быстро
 45245	Rock
 45246	Border Pleasure
 46246	4 Letters Event Item. Exchange this with Alchemist Ein to receive a reward.
@@ -9712,7 +9712,7 @@ start
 31167	Blood Symphony
 31168	Soul Hunter
 31169	Silent Apocalypse
-31173	Black Iron
+31173	Чёрное железо
 31174	Traitor's
 31175	Scream-cleaving
 31176	Ariadne's Claw
@@ -9801,7 +9801,7 @@ start
 25053	Cursed Spark
 25054	Increase Armor
 25055	Soul Control
-25056	Impotence
+25056	Бессилие
 25057	Vital Suction
 25058	Enchant Poison
 25060	MP Drain
@@ -9867,7 +9867,7 @@ start
 203225	Take your time and look around.
 203226	Take your pick. Let me show you all the goodies.
 203227	Welcome. Are you in need of something in particular?
-203228	Are you looking for something?
+203228	Ты что-то ищешь?
 203229	Will we meet another day?
 203230	We'll meet again.
 203231	Bye.
@@ -9921,11 +9921,11 @@ start
 46280	A device able to detect a hidden location.
 //2008-10-02	
 11261	Attack all
-11262	Defense
+11262	Защита
 8036	Summoned creature_follow
 8037	Summoned creature_attack all
 8038	Summoned creature_defend
-11297	Follow
+11297	Следовать
 8082	Summoned creature_attack monsters only
 //2008-10-06	
 1778	"%d'  %d"""
@@ -9956,7 +9956,7 @@ start
 25092	Dark Pain
 25093	Cancel Buff
 25094	Self-destruction
-25095	Impotence
+25095	Бессилие
 25096	Confusion
 25097	Enhance Curse
 26091	Target suffers from pain due to unknown reasons.
@@ -10128,7 +10128,7 @@ start
 9160	Battle of Mondschein Legend
 5327	You cannot complete the quest while being equipped.
 //2008-11-07	
-302	Cancel
+302	Отмена
 //2008-11-10	
 //2008-11-11	
 400350	Traitor of the Empire
@@ -10188,10 +10188,10 @@ start
 1882	Название комнаты
 1883	Игроки
 1884	Map Name
-31161	Steel
+31161	Сталь
 31162	Mithril
-31163	Black Iron
-31171	Steel
+31163	Чёрное железо
+31171	Сталь
 31172	Mithril
 32411	Destroyer Apollo Armor
 32412	Destroyer Apollo Protector
@@ -10538,7 +10538,7 @@ start
 9170	Chinese New Year Event
 45390	Cow
 45391	Happy
-45392	Bamboo
+45392	Бамбук
 45393	Road
 45394	Lucky Year
 46390	Combine 4 elements of the Chinese New Year Event and exchange the product with Alchemist Ein to receive a reward
@@ -11031,7 +11031,7 @@ start
 400441	Confirmed Evidence
 400442	Letter of a Collector
 400443	Shy Confession
-400444	Refuse
+400444	Отказ
 400445	Retry
 400446	Hmph!
 400447	Newfound Love
@@ -11643,10 +11643,10 @@ start
 400813	Manhunter's Insignia 3
 400814	Manhunter's Insignia 4
 400815	Злой колдун
-400816	Obstacle
+400816	Помеха
 400817	Order
 400818	Вождь Омаду
-400819	Search
+400819	Поиск
 400820	The Spell of Sorcerer
 400821	Deciphering the Spell of Sorcerer
 400822	Cunning Deff
@@ -11794,7 +11794,7 @@ start
 //2009-05-27	
 23252	SD
 23253	Recommendation
-23254	Enhancement
+23254	Усиление
 24252	SD(Shield) exists.
 24253	SD(Shield) is increased.
 24254	SD(Shield) recovery rate is increased.
@@ -11975,7 +11975,7 @@ start
 400785	Are You Serious? (staff)
 400786	Are You Serious? (orb)
 400787	Are You Serious? (orb)
-400788	Item Crystallization
+400788	Кристаллизация предмета
 400789	Textile : Low grade leather (100%)
 400790	Laman's Request
 400791	Dwain's Request
@@ -12022,7 +12022,7 @@ start
 400919	Grave of Ancient Dragon : Shadow Casted on Face of 1st Division Captain.
 400920	Missing Nevi
 400921	Searching for Manhunter Nevi
-400922	Burn
+400922	Ожог
 400923	Delivering News of Nevi's Survival
 400924	Grave of Ancient Dragon : 1st Division Captain Happy Again
 400925	"Healthy Food, Salted Dragon's Egg in Juice"
@@ -12098,8 +12098,8 @@ start
 1891	Apply Lottery
 1892	Carry over
 40076	Photon
-40077	Packing Photon
-40078	Trans Photon
+40077	Упаковочный фотон
+40078	Транс-фотон
 //2009-06-11	
 9113	Compensate enchant jewel
 1885	Lucky Heim
@@ -12137,13 +12137,13 @@ start
 2103	Away team
 2104	Rank
 2105	Character Name
-2106	Class
-2107	Level
+2106	Класс
+2107	Уровень
 2108	Max damage
 2109	Total damage dealt
 2110	Total damage taken
 2111	Total healing
-2113	Deaths
+2113	Смертей
 2115	Winning : %d
 2116	"Press the ""Z"" key to open/close this window."
 //2009-06-23	
@@ -13690,9 +13690,9 @@ start
 155434	%d
 155435	%d
 155436	%d
-155437	Price
+155437	Цена
 155438	W Coin to use
-155439	Balance
+155439	Равновесие
 155440	%d
 155441	%d
 155442	%d
@@ -14068,7 +14068,7 @@ start
 2204	AC Item
 2205	Craft/Enchant Item
 2206	General Item
-2207	Consumable Item
+2207	Расходуемый предмет
 2208	Items to Store
 2209	Acquired items can be sorted and stored according to options.
 //їАИД 6:01 2010-03-29	
@@ -14813,7 +14813,7 @@ start
 158542	Stop
 158543	Quit
 158544	Settings
-158545	OK
+158545	ОК
 158546	Defaults
 158551	Auto-hunting Settings
 158552	Battle Settings
@@ -14876,7 +14876,7 @@ start
 159565	Weapon Item
 159566	Armor Item
 159567	AC Item
-159568	Heim
+159568	Хайм
 159571	HP Recovery Potion
 159572	MP/SP Recovery Potion
 159573	Rejuvenation Potion
@@ -14895,7 +14895,7 @@ start
 159590	10
 159591	11
 159592	12
-159593	Second(s)
+159593	с
 159601	Resurrect on the Spot
 159602	Resurrect in town.
 159603	Waiting to Resurrect
@@ -15421,33 +15421,33 @@ start
 2501	On Sale
 2502	Event
 2503	See all
-2504	Helmet
-2505	Armor
-2506	Gloves
-2507	Pants
-2508	Boots
-2509	Protector
-2510	Belt
-2511	Shirt
+2504	Шлем
+2505	Броня
+2506	Перчатки
+2507	Штаны
+2508	Сапоги
+2509	Протектор
+2510	Пояс
+2511	Рубаха
 2512	Weapon
 2513	See all
-2514	Helmet
-2515	Armor
-2516	Gloves
-2517	Pants
-2518	Boots
-2519	Protector
-2520	Belt
-2521	Shirt
+2514	Шлем
+2515	Броня
+2516	Перчатки
+2517	Штаны
+2518	Сапоги
+2519	Протектор
+2520	Пояс
+2521	Рубаха
 2522	Weapon
 2523	See all
 2524	Hair
-2525	Face
+2525	Лицо
 2526	Miscellaneous
 2527	See all
 2528	Luck
 2529	Material
-2530	Guild
+2530	Гильдия
 2531	Tickets
 2532	Ability Enhancer
 2533	Functional
@@ -15488,7 +15488,7 @@ start
 //їАИД 4:08 2010-10-14	
 2702	Player has blocked the channel invitation. You can't invite him/her.
 //їААь 11:17 2010-10-15	
-302314	Message
+302314	Сообщение
 303314	"On the note it says ""A Great Spell."""
 //їАИД 12:20 2010-10-18	
 47438	Brass - A Skin Set
@@ -16648,7 +16648,7 @@ start
 65014	Up to 2 greater sockets can be given to equipment. Do you want to use a high grade Zard for [%s]?
 65015	Up to 3 medium sockets can be given to equipment. Do you want to use a medium grade Zard for [%s]?
 65016	Do you want to use a low grade Zard for [%s]?
-3418	Reset
+3418	Сбросить
 //їААь 11:23 2011-01-07	
 358	Basic Damage
 364	Basic Defense
@@ -16721,7 +16721,7 @@ start
 370	Critical Chance
 401	Elemental Dama'
 //їАИД 4:00 2011-01-14	
-3442	Total
+3442	Всего
 //їАИД 4:21 2011-01-14	
 90868	Your Forest of Beasts Area Conquest Completion Rate reached 10%. You have earned a reward.
 90869	Your Forest of Beasts Area Conquest Completion Rate reached 20%. You have earned a reward.
@@ -16794,7 +16794,7 @@ start
 90936	Your Green Earth Area Conquest Completion Rate reached 90%. You have earned a reward.
 90937	Your Green Earth Area Conquest Completion Rate reached 100%. You have earned a reward.
 //їАИД 5:50 2011-01-15	
-25007	Dash
+25007	Рывок
 25008	Dragon Bead
 25059	Energy Suction
 //їАИД 3:11 2011-01-18	
@@ -16807,7 +16807,7 @@ start
 5664	You have collected all AC items.
 //їАИД 5:23 2011-01-19	
 402	Elemental Resist.
-587	Elemental Resistance Rate
+587	Сопротивление стихиям
 11002	Elemental Damage
 11206	Light Elemental Resistance
 11279	Add All Elemental Damage
@@ -16981,14 +16981,14 @@ start
 2260	%s
 2261	Change later
 2262	%s is a member of a guild. Leave the guild and try again.
-2263	OK
+2263	ОК
 2264	%s's Friend List is not empty. Remove all friends from the list and try again.
 2265	"Change ""%s""'s name. Enter a new name and check for duplicates."
 2266	Check for duplicates
 2267	%s is not available. Enter a new name.
 2268	"You can use ""%s"". Do you want to use it?"
 2269	Use
-2270	Cancel
+2270	Отмена
 2271	Change another name
 2272	Play game
 2273	The character name has been successfully changed. Do you want to change another duplicate name?
@@ -17028,9 +17028,9 @@ start
 303341	Unhatched Beastman Eggs
 //їААь 1:17 2011-02-17	
 48276	A socket has been created in %s. Congratulations!
-48277	Cancel
+48277	Отмена
 48281	WARNING!
-48283	OK
+48283	ОК
 159022	Removes Zard from weapons and armor. The Zard disappears.
 //їАИД 3:38 2011-02-17	
 302342	Char Leather
@@ -17246,11 +17246,11 @@ start
 11205	Darkness Resistance Rate
 11229	Basic Damage
 11228	Basic Defense
-11213	STR
-11214	AGI
-11215	INT
-11216	VIT
-11217	SPI
+11213	СИЛ
+11214	ЛОВ
+11215	ИНТ
+11216	ЖИВ
+11217	ДУХ
 11266	Max. HP
 11226	Max. MP/SP
 11284	Skill Enhancement
@@ -17282,7 +17282,7 @@ start
 11293	Chance to ignore enemy skill effects
 11294	Buff Duration
 11295	Debuff Duration
-11362	Recovery
+11362	Восстановление
 11361	Skill Casting Time
 11354	Holding Immunity
 11355	Sleep Immunity
@@ -17358,7 +17358,7 @@ start
 158525	Elemental Resistance Rate increased by 10%
 158526	Elemental Resistance Rate increased by 15%
 //їАИД 8:42 2011-02-23	
-2278	Change
+2278	Изменить
 //їАИД 9:23 2011-02-23	
 48275	"You added one more Socket Chance to %s, but no socket was created."
 48280	Sockets cannot be created in the selected item.
@@ -17722,7 +17722,7 @@ start
 203447	Ether is very mysterious. It still has great potential.
 203448	"To use the Flying Vessel, see the Captain."
 203449	Do you want to be part of the crew? You're always welcome!
-203450	See you later!
+203450	До встречи!
 203451	See you again!
 203452	Enjoy your flight!
 203453	"If you want to go to a particular place, see the Captain."
@@ -17734,7 +17734,7 @@ start
 203460	"To go to the Flying Vessel, you have to use the Teleportation Device!"
 203461	Click the Teleportation Device.
 203462	Do you want to go to the Flying Vessel? Use the Teleportation Device.
-203463	See you later!
+203463	До встречи!
 203464	See you again!
 203465	Enjoy your travels!
 203466	Do you want to go to the Flying Vessel? Use the Teleportation Device.
@@ -18587,7 +18587,7 @@ start
 11035	Strengthen the Incomplete Astaroth set.
 11036	Strengthen the Incomplete Arz set.
 //їААь 11:32 2011-04-26	
-2431	Resolution
+2431	Разрешение
 2432	Full Screen
 2433	Window Mode
 2434	Window Mode (All)
@@ -19009,7 +19009,7 @@ start
 92855	"Clear Power Battle, a sub mission."
 //їАИД 12:19 2011-05-23	
 11299	%
-11300	Second(s)
+11300	с
 //їАИД 5:19 2011-05-25	
 47284	Shining Gladiator's Chest
 47290	Corrupt Gladiator's Chest
@@ -19098,7 +19098,7 @@ start
 45625	Elaborate Fake Incomplete Artemis
 45626	Unstable Spirit Stone
 //їАИД 6:38 2011-06-17	
-2290	Guild Management
+2290	Управление гильдией
 2291	Disband Guild
 2292	Select Submaster
 2293	Manage Temple of Blood
@@ -19202,7 +19202,7 @@ start
 48045	A magic scroll that increases stat points by 5 (Right click to use it.).
 //їАИД 7:49 2011-07-13	
 2908	%s
-2909	Change
+2909	Изменить
 //їАИД 3:49 2011-07-14	
 155489	%s
 155490	%s
@@ -19349,7 +19349,7 @@ start
 6578	The Immortal
 6579	Drug Addict
 6580	Gladiator
-6581	Guardian
+6581	Страж
 6583	Raise Fame by completing the Brakion Liberation Army Reputation AC.
 6584	Liberation Army Council
 6588	Этерейн
@@ -19374,7 +19374,7 @@ start
 155519	The gift will be sent to the character entered above.
 155520	Check
 155521	The character name does not exist.
-155522	Friend List
+155522	Список друзей
 155523	Guild List
 155524	%s
 155525	%s 
@@ -19386,13 +19386,13 @@ start
 2916	Loot: Random
 2917	Loot: Random (Class match)
 //їАИД 3:23 2011-07-22	
-155527	Save
+155527	Сохранить
 155528	Preview
 155529	Gift
-155530	Buy
+155530	Купить
 155531	Unequip
 155533	Удалить
-155534	OK
+155534	ОК
 155535	Move
 155975	Storage Box for Expedition
 155976	"Storage Box for Expedition\nA portable storage box distributed by the Expeditionary Force.\nYou need the ""Key of Storage Box for Expedition"" to open it."
@@ -19651,7 +19651,7 @@ start
 155550	Успех
 155551	Неудача
 155553	Available after placed into the inventory
-155554	Message
+155554	Сообщение
 155555	Receive
 155556	Receive All
 155557	View Purchase History
@@ -20052,7 +20052,7 @@ start
 2489	Field
 2490	Battle Zone
 //їАИД 5:33 2011-09-21	
-2566	Buy
+2566	Купить
 //їАИД 3:04 2011-09-22	
 9376	Eighth Avatar Skin Set in Different Color (Berserker)
 9377	Eighth Avatar Skin Set in Different Color (Dragon Knight)
@@ -21187,10 +21187,10 @@ start
 10386	Turn Right
 10387	Jump
 10388	Auto Run
-10389	Sit/Stand
-10390	Pick up Item
+10389	Сесть или встать
+10390	Подобрать предмет
 10391	Open Chat Window/Send Chat
-10392	Screenshot
+10392	Снимок экрана
 10393	Screenshot Mode
 10394	View Drop Item
 10395	Select Closest Target
@@ -21752,8 +21752,8 @@ start
 //їАИД 2:18 2012-01-03	
 2211	This item cannot be used under these circumstances.
 //їАИД 5:48 2012-01-03	
-2298	Deposit
-2299	Withdraw
+2298	Положить
+2299	Снять
 2300	Stored Heim
 2301	Please enter the amount of Heim to deposit or withdraw.
 //їАИД 5:48 2012-01-04	
@@ -21997,7 +21997,7 @@ start
 70701	You cannot put this item in your bag any longer.
 70703	Guild Coins
 70704	%s Coins
-70705	Guild
+70705	Гильдия
 70706	Daily Quest
 70707	Battle Zone
 //їАИД 6:49 2012-01-19	
@@ -22175,7 +22175,7 @@ start
 50362	<FONT=m212>Congratulations. <COLOR=FF99CC00><HERONAME/></FONT></COLOR><FONT=mn12> has </FONT><FONT=mn12>successfully completed </FONT><FONT=m212><COLOR=FFCC99FF>Valentine's Day.</COLOR></FONT>
 //їАИД 6:50 2012-02-02	
 2459	Advanced Settings
-2460	Game Options
+2460	Настройки игры
 2461	Control Settings
 2462	Audio Settings
 2463	Volume Settings
@@ -22217,7 +22217,7 @@ start
 48793	"A box filled with Legendary Weapon which strengthened to the best condition, and its components."
 48794	"A box filled with Legendary Weapon which strengthened to the best condition, and its components."
 //їААь 10:40 2012-02-06	
-4509	Options
+4509	Настройки
 //їАИД 3:47 2012-02-06	
 300718	Crystal of Lilke
 301718	"A Jewel which completed with fragments with Lilke, a Goddess of dream and wish. It is said that even master craftmen in the continent can rarely succeed in creating the item."
@@ -22554,7 +22554,7 @@ start
 6871	Your guild level is not high enough to buy this item.
 6872	Your guild contribution is not high enough to buy this item.
 //їАИД 3:30 2012-03-21	
-1047	Connect
+1047	Подключиться
 //їАИД 4:10 2012-03-23	
 2467	Special-1 (active)
 2468	Special-2 (active)
@@ -22564,7 +22564,7 @@ start
 6901	You cannot accept any more daily guild quests. You can accept more daily guild quests after they reset.
 6902	"You have already accepted the maximum number of daily guild quests for today. If you want to continue this quest, you must abandon one of your daily guild quests."
 //їАИД 3:30 2012-03-30	
-402333	Not enough materials.
+402333	Недостаточно материалов.
 402334	Troublemaker
 402335	The Nuisance
 402336	Galenoa Jungle
@@ -22590,9 +22590,9 @@ start
 30011	Gauntlet
 30012	Ether Scythe
 30473	Copper
-30474	Bronze
+30474	Бронза
 30475	Hematite
-30476	Steel
+30476	Сталь
 30477	Heavy
 30478	Hunter
 30479	Running Jaguar
@@ -22607,9 +22607,9 @@ start
 30488	Dusk
 30494	Incomplete Hecate
 30503	Copper
-30504	Bronze
+30504	Бронза
 30505	Hematite
-30506	Steel
+30506	Сталь
 30507	Lite
 30508	Prophet
 30509	Cautious Leopard
@@ -22624,9 +22624,9 @@ start
 30518	Dusk
 30524	Incomplete Hecate
 35709	Copper
-35710	Bronze
+35710	Бронза
 35711	Hematite
-35712	Steel
+35712	Сталь
 35713	Bellis
 35714	Liatris
 35715	Anemone
@@ -22967,9 +22967,9 @@ start
 //їААь 11:18 2012-06-01
 159072	Adds 24 slots to guild storage (your guild must reach level 3; for guild master only).
 //їАИД 12:24 2012-06-01
-2604	Total
-2605	Blue Team
-2606	Red Team
+2604	Всего
+2605	Синяя команда
+2606	Красная команда
 2607	Remaining time: %s min
 2608	Leave Israphil Land
 //їАИД 12:27 2012-06-01
@@ -24009,7 +24009,7 @@ start
 6500	Time remaining until the guild quest is reset is %s hrs %s min.
 //їАИД 6:14 2012-08-07	
 2578	Add the Winning Team
-2579	Basic
+2579	Базовый
 //їААь 10:44 2012-08-08	
 301828	A toxin contaminating the Nirvelle Swamp.\nThis toxin is destroyed 4 minutes after its acquisition. Deliver it to [Guardian of the Swamp] Arman in Aukra Village as soon as you get it.
 301850	The results of the appraisal of the Suspicious Helron Relics.\nIt looks so fragile that it could crumble at the slightest touch. It must be bogus. Report to Examiner Maedoms in Aukra.
@@ -24035,9 +24035,9 @@ start
 2386	Search by seller ID.
 2387	Item Name 
 2389	Price per unit
-2390	Quantity
-2391	Total
-2392	Buy
+2390	Количество
+2391	Всего
+2392	Купить
 2393	Confirm Purchase
 2394	%s Do you want to buy this item?\n%s Heim will be used.
 2395	You can only buy the selected item in %s Village.
@@ -24179,7 +24179,7 @@ start
 //їАИД 6:11 2012-09-20	
 26967	Phoenix Burst
 //їААь 11:05 2012-09-21	
-6904	Protector
+6904	Протектор
 6905	You can complete this by using the 4 Letters Event items.
 6906	Mayari
 6907	Complete by using the chewy taffy item.
@@ -25208,8 +25208,8 @@ start
 //їАИД 5:10 2013-01-08
 2651	Ranking
 2652	Character Name
-2653	Level
-2654	Class
+2653	Уровень
+2654	Класс
 2655	Kill/Death
 2656	Consecutive kills
 2657	Death count
@@ -25350,15 +25350,15 @@ start
 2683	Options (%s)
 2684	System Menu (%s)
 //їАИД 6:15 2013-01-21	
-2662	Red Team
-2663	Blue Team
+2662	Красная команда
+2663	Синяя команда
 //їААь 11:32 2013-01-23	
 9300	[Return-only]-[Purple Piece] Synthesis
 10300	[Jumping Equipment]-[Purple Piece] Synthesis
 //їАИД 9:08 2013-01-23	
 2686	Leave Battlefield
-2687	Red Team
-2688	Blue Team
+2687	Красная команда
+2688	Синяя команда
 2689	Все
 2690	Time Spent: %s minutes % seconds
 //їААь 11:09 2013-01-24	
@@ -25454,7 +25454,7 @@ start
 2715	Win
 2716	Runner-up
 2717	Third Place
-2718	Basic
+2718	Базовый
 //їАИД 7:58 2013-02-04	
 48343	Lump of Marshmallow [Coliseum 1]
 48344	Lump of Marshmallow [Coliseum 2]
@@ -25999,7 +25999,7 @@ start
 //їАИД 18:32 2013-04-18
 9456	Healing Potion
 9454	Stone
-9471	Crystal
+9471	Хрусталь
 45188	Mayan Metal
 9458	AC Item.
 9462	Best Grade Ingredients
@@ -26144,27 +26144,27 @@ start
 //їААь 11:01 2013-04-23
 2807	Graphics Setup
 2808	Advanced Settings
-2809	Display Settings
+2809	Настройки отображения
 2810	Combat Settings
-2811	General Settings
-2812	Sound Options
+2811	Общие настройки
+2812	Настройки звука
 2813	Volume
 2814	Miscellaneous
-2815	Resolution
+2815	Разрешение
 2816	Resolution Setup
-2817	Texture Quality
-2818	Effect Quality
+2817	Качество текстур
+2818	Качество эффектов
 2819	Level of Detail(LOD)
 2820	Brightness
 2821	Тень
-2822	Glow
-2823	Fog
+2822	Свечение
+2823	Туман
 2824	Tile blending
-2825	Background
+2825	Фон
 2826	Post Effect
 2827	Object Display Range
 2828	Multi-thread
-2829	Show Damage
+2829	Показывать урон
 2830	NPC Name
 2831	Monster Info
 2832	Other Player Names
@@ -26191,7 +26191,7 @@ start
 2856	Invert Mouse
 2857	Move with Camera
 2858	Spring Camera Rotation
-2859	Zoom Out
+2859	Отдалить
 2860	Block Transactions
 2861	Block Whispers
 2862	Select Other Players
@@ -26201,7 +26201,7 @@ start
 2866	Ambient SFX
 2867	System SFX
 2868	Audio Warnings
-2869	NPC Voice
+2869	Голос NPC
 2870	System Volume
 2871	Speaker Volume
 2872	Other Options1
@@ -26588,7 +26588,7 @@ start
 402457	Mission Tree of Knowledge
 //їАИД 5:34 2013-06-12
 28520	[Life Spirit's skill] Restores nearby friendly units' HP by %s.
-26507	Resurrection
+26507	Воскрешение
 48677	Incomplete Armor Box <Mystic>
 //їАИД 12:18 2013-06-14
 29504	Maximum HP, Maximum MP, Basic Attack, Basic Defence, and to summon the Life Spirit strengthened by %s compared with Player's Character for 60 minutes.
@@ -26963,10 +26963,10 @@ start
 30013	Ether Blaster
 10006	Helroid
 46706	[private-period] Osiris
-30571	Black Iron
-30572	Brass
-30573	Bronze
-30574	Steel
+30571	Чёрное железо
+30572	Латунь
+30573	Бронза
+30574	Сталь
 30575	Platinum
 30576	Guardian's
 30577	Destroyer's
@@ -26998,10 +26998,10 @@ start
 30613	Customized Invincible
 30614	Customized Titan
 30615	Customized Immortal's
-35761	Black Iron
-35762	Brass
-35763	Bronze
-35764	Steel
+35761	Чёрное железо
+35762	Латунь
+35763	Бронза
+35764	Сталь
 35765	Vritra
 35766	Yaksa
 35767	Hanuman
@@ -27462,7 +27462,7 @@ start
 //їАИД 6:06 2013-09-02
 25970	Blaster Punch
 25971	Crash Arm
-25972	Repair
+25972	Починить
 25973	Drop kick
 25974	Slow Aurora
 25975	Drill Attack
@@ -27676,7 +27676,7 @@ start
 22115	Clap
 22116	Show respect
 22117	Praise as the best
-22118	Sulk
+22118	Обида
 22119	Act rudely
 22120	Lie down and sleep
 22121	Strike a cool pose
@@ -27746,7 +27746,7 @@ start
 48789	Mysterious Necklace found in the depths of the Serient continent
 //їАИД 4:30 2013-11-12
 10084	Invader
-10085	Guardian
+10085	Страж
 //їАИД 7:07 2013-11-12
 402185	Poor Alchemist 1
 402186	Poor Alchemist 2
@@ -28475,7 +28475,7 @@ start
 2954	Все
 2955	%s
 2956	%s / %s
-2957	Level
+2957	Уровень
 2958	%s
 2959	Grade
 2960	%s
@@ -28483,7 +28483,7 @@ start
 2962	%s
 2963	MP
 2964	%s
-2965	Attack
+2965	Атака
 2966	%s
 2967	Defence
 2968	%s
@@ -29024,7 +29024,7 @@ start
 9079	Potion of Bear (Elemental Resistance)
 9080	Potion of Falcon (Critical)
 9081	Potion of Snake (Skill Cooldown)
-9082	Vigor
+9082	Бодрость
 9083	Spirit
 9084	Soul
 9085	Elixir
@@ -29535,7 +29535,7 @@ start
 42016	General Material
 42017	High-Class Material
 42018	Heim Reward Item
-42019	Special Material
+42019	Особый материал
 42020	Random Box
 42021	Random Box (cannot be traded after checking)
 42022	Reward Box
@@ -31055,7 +31055,7 @@ start
 5854	It will receive all accumulated Rewards.\nDo you want to receive rewards?
 5855	All reward already received.
 //їАИД 3:33 2015-02-11
-3617	Class
+3617	Класс
 3618	Viewing Information
 3619	Request Remaining Time: %s
 3620	SUN Ranking (Shift+R)
@@ -33296,7 +33296,7 @@ start
 3995	Hephasto's Equipment can raise a lot of awakening levels at a time.
 //їАИД 9:12 2015-11-24
 11142	Progress : 
-11143	In progress
+11143	Выполняется
 11144	Ожидание
 11145	Remaining time : %dMin %2dSec
 //їААь 11:12 2015-11-25	
@@ -34525,9 +34525,9 @@ start
 406004	No skill you know can be liberated with this stone.
 406005	-
 406006	Materials Item
-406007	Heim
+406007	Хайм
 406008	Released
-406009	Cancel
+406009	Отмена
 406010	Does not expire
 406011	%d day(s) %d hour(s) remaining
 406012	%d hour(s) %d minute(s) remaining
@@ -34601,7 +34601,7 @@ start
 59033	Crafting %d uses %s
 59034	About %s of %d will succeed. A failure destroys the materials and keeps the fee.
 59035	%s  x%d
-59036	Materials
+59036	Материалы
 59037	%d recipes here  -  %d you can make now
 59038	Yields x%d
 31084	[E-4.5] Authority-stained Blain's
