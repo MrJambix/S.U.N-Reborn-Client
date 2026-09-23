@@ -215,7 +215,7 @@ StrCode	Str
 285	Still here?
 286	<COLOR=FFE36C0A>[Quest End- Fritz]<RETURN=1/></COLOR>Not even worth my time. Tell him I said that.
 287	<COLOR=FFE36C0A>[Quest Start- Humbaba]<RETURN=1/></COLOR>Humbaba... Humbaba!! Humbaba!!! <RETURN=1/>(Indiscernible, but appears to like <NPCNAME=63822/>. ) <RETURN=1/>Hum...baba!! <RETURN=1/>(Still indiscernible, but perhaps it wants to come up with a present...) <RETURN=1/> <RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Eliminate <NPCNAME=1163/> and obtain <ITEMNAME=40327/>.
-288	What is it?
+288	Что такое?
 289	<COLOR=FFE36C0A>[Quest End- Hansel Goldenwurk]<RETURN=1/></COLOR>Wha... What is this? A gift? This head of a monster? <RETURN=1/>Hum... Humbaba loves me? Oh my... Wait, Humbaba is female?
 290	<COLOR=FFE36C0A>[Quest Start- Hansel Goldenwurk]<RETURN=1/></COLOR>Inconceivable! A mere monster harboring feelings for a human being. Tell it what I said before I go kill it! <RETURN=1/> <RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Talk to <NPCNAME=63827/>.
 291	A mere monster... Inconceivable!
@@ -5209,7 +5209,7 @@ StrCode	Str
 9038	How's the task coming along?
 9039	<COLOR=FFE36C0A>[Quest End - Kortoq Expedition Captain Humbolt]<RETURN=1/></COLOR>Good job!<RETURN=1/><RETURN=1/>We may be able to establish a brief strategy if other Scouts give us their information.
 9040	<COLOR=FFE36C0A>[Quest Start - Valkyrie Clan Ludvina]<RETURN=1/></COLOR>Greetings. I'm Ludvina from the Valkyrie Clan.<RETURN=1/><RETURN=1/>I asked <NPCNAME=28101/> for reconnaissance as I have another task to do. So you should supervise him and complete the mission for me. Did you get it? <RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Talk to <NPCNAME=28101/>.
-9041	What is it?
+9041	Что такое?
 9042	<COLOR=FFE36C0A>[Quest End - Mercenary Yansen]<RETURN=1/></COLOR>Hello?<RETURN=1/><RETURN=1/>Remember. I'm a mercenary. I do what you pay me to.
 9043	<COLOR=FFE36C0A>[Quest Start - Mercenary Yansen]<RETURN=1/></COLOR>This is not the amount you promised at first....<RETURN=1/><RETURN=1/>I haven't received half the amount that Valkyrie lady promised to pay. I'm a mercenary. I do what you pay me to. Obstacles must be removed before scouting the area. Eliminating obstacles is not included in the payment. That's not my job. Good luck.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Eliminate <NPCNAME=1894/> and <NPCNAME=1897/>.
 9044	I'm a mercenary. I do what you pay me to.
@@ -5259,7 +5259,7 @@ StrCode	Str
 9089	The samples you brought me are very interesting!
 9090	<COLOR=FFE36C0A>[Quest End - Driesch]<RETURN=1/></COLOR>Thank you!<RETURN=1/><RETURN=1/>I'll let you know the findings of the research.
 9091	<COLOR=FFE36C0A>[Quest Start - Driesch]<RETURN=1/></COLOR>The research is complete, and the results will have been delivered to <NPCNAME=28105/> by now.<RETURN=1/><RETURN=1/>There are many other mysterious plants in Serient. Tell <NPCNAME=28105/> to take more samples.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Talk to <NPCNAME=28105/>.
-9092	What is it?
+9092	Что такое?
 9093	<COLOR=FFE36C0A>[Quest End - Scholar Alkapen]<RETURN=1/></COLOR>Well done!<RETURN=1/><RETURN=1/>The Illustrated Book of Kortoq Coastal Plants is almost complete. It won't take long!
 9094	<COLOR=FFE36C0A>[Quest Start - Captain Grunhilt]<RETURN=1/></COLOR>I gave engineers the task of Flying Vessel maintenance.<RETURN=1/><RETURN=1/>I ordered vessel upgrade work to enhance the Flying Vessel's performance. Help the engineers finish their work.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Complete the subquests and bring me <ITEMNAME=40919/> and <ITEMNAME=40920/>.
 9095	I ordered vessel upgrade work to enhance the Flying Vessel's performance. Help the engineers finish their work.
@@ -5271,7 +5271,7 @@ StrCode	Str
 9104	Please help!
 9105	<COLOR=FFE36C0A>[Quest End - Engineer Gerry]<RETURN=1/></COLOR>Thank you!<RETURN=1/><RETURN=1/>Its performance has improved greatly!
 9106	<COLOR=FFE36C0A>[Quest Start - Engineer Gerry]<RETURN=1/></COLOR>Thank you for helping me with the upgrade work!<RETURN=1/><RETURN=1/>I told the Captain about your great contributions. You'll be given some rewards!<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go to <NPCNAME=28067/>.
-9107	What is it?
+9107	Что такое?
 9108	<COLOR=FFE36C0A>[Quest End - Captain Grunhilt]<RETURN=1/></COLOR>I heard you helped a lot.<RETURN=1/><RETURN=1/>Keep up the good work.
 9110	The engine output needs to be increased! Increased engine output allows easier teleportation between continents.
 9111	<COLOR=FFE36C0A>[Quest End - Chief Engineer Hugin]<RETURN=1/></COLOR>Thank you!<RETURN=1/><RETURN=1/>Its performance has improved greatly!
@@ -5280,7 +5280,7 @@ StrCode	Str
 9116	The engine output needs to be increased! Increased engine output allows easier teleportation between continents.
 9117	<COLOR=FFE36C0A>[Quest End - Chief Engineer Hugin]<RETURN=1/></COLOR>Thank you!<RETURN=1/><RETURN=1/>Its performance has improved greatly!
 9118	<COLOR=FFE36C0A>[Quest Start - Chief Engineer Hugin]<RETURN=1/></COLOR>Thank you for helping me with the upgrade work!<RETURN=1/><RETURN=1/>I told the Captain about your great contributions. You'll be given some rewards!<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go to <NPCNAME=28067/>.
-9119	What is it?
+9119	Что такое?
 9120	<COLOR=FFE36C0A>[Quest End - Captain Grunhilt]<RETURN=1/></COLOR>I heard from Hugin that you helped a lot.<RETURN=1/><RETURN=1/>You've done so much to help lazy Hugin. Keep up the good work.
 9121	<COLOR=FFE36C0A>[Quest Start - Kortoq Expedition Captain Humbolt]<RETURN=1/></COLOR>A shipwrecked person was found while scouting the area.<RETURN=1/><RETURN=1/>Meet him and find out how and why he came here. Be careful. He might be an Ignis spy.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go to <NPCNAME=28106/>.
 9122	Ў¦
@@ -5878,10 +5878,10 @@ StrCode	Str
 9380	To formulate antidotes, we need Galenoa root.
 9381	<COLOR=FFE36C0A>[Quest End - Scholar Mary]<RETURN=1/></COLOR>Thank you.<RETURN=1/><RETURN=1/>Now I can formulate antidotes.
 9382	<COLOR=FFE36C0A>[Quest Start - Scholar Mary]<RETURN=1/></COLOR>The antidote is complete now!<RETURN=1/><RETURN=1/>Take <ITEMNAME=40989/> to <NPCNAME= 28131/>. But antidotes are not sufficient yet. We'd better obtain as many <ITEMNAME=40988/> as possible.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Take <ITEMNAME=40989/> to <NPCNAME= 28131/>.
-9383	What is it?
+9383	Что такое?
 9384	<COLOR=FFE36C0A>[Quest End - Captain Arrhenius]<RETURN=1/></COLOR>Well done!<RETURN=1/><RETURN=1/>But we still need more antidotes. Please get us more antidotes.
 9385	<COLOR=FFE36C0A>[Quest Start - Captain Arrhenius]<RETURN=1/></COLOR>You're very good at your job!<RETURN=1/><RETURN=1/>Go to the chieftain of Kortoq. He'll give you some rewards. Return to the town and have a rest before you come back.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go to <NPCNAME= 1964/>.
-9386	What is it?
+9386	Что такое?
 9387	<COLOR=FFE36C0A>[Quest End - Chieftain Siede]<RETURN=1/></COLOR>You've done a great job!<RETURN=1/><RETURN=1/>All the people in our town greatly appreciate your help with antidotes. We believe that you'll let us know the formula.
 9388	<COLOR=FFE36C0A>[Quest Start - Lambrakis]<RETURN=1/></COLOR>Can you help me for a moment?<RETURN=1/><RETURN=1/>Thank you for helping us reclaim Kortoq. After all the confusion, the town is becoming stable. I can't say it's as prosperous as the old days, but all of us are trying our best to develop our town. To reconstruct the town, we need a large amount of resources. Can you help me restore Kortoq?<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Complete the subquest.
 9389	Can you help me restore Kortoq?
@@ -5899,10 +5899,10 @@ StrCode	Str
 9401	We need more <ITEMNAME=40991/>.
 9402	<COLOR=FFE36C0A>[Quest End - Lambrakis]<RETURN=1/></COLOR>Thank you very much!<RETURN=1/><RETURN=1/>If the town is successfully reconstructed, it's all because of you.
 9403	<COLOR=FFE36C0A>[Quest Start - Lambrakis]<RETURN=1/></COLOR>Thank you for your help.<RETURN=1/><RETURN=1/>We still have long way to go, but you've definitely been a great help. Return to the town and go to <NPCNAME= 1964/>. I prepared a small gift as a token of your gratitude.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go to <NPCNAME= 1964/>.
-9404	What is it?
+9404	Что такое?
 9405	<COLOR=FFE36C0A>[Quest End - Chieftain Siede]<RETURN=1/></COLOR>On behalf of the town, I'd like to thank you.<RETURN=1/><RETURN=1/>We'll give our full support to the Republic.
 9406	<COLOR=FFE36C0A>[Quest Start - Captain Arrhenius]<RETURN=1/></COLOR>We must pass through Galenoa Jungle to chase Ignis.<RETURN=1/><RETURN=1/>But the advance of the Liberation Army has been delayed because of attacks of an unknown enemy. Scout the area to find out about the enemy.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go to <NPCNAME= 28136/>.
-9407	What is it?
+9407	Что такое?
 9408	<COLOR=FFE36C0A>[Quest End - Scout Richard]<RETURN=1/></COLOR>Are you reinforcement?<RETURN=1/><RETURN=1/>We have got nothing from the scout. 
 9409	<COLOR=FFE36C0A>[Quest Start - Scout Richard]<RETURN=1/></COLOR>Other scouts are searching the area as well.<RETURN=1/><RETURN=1/>They're competent soldiers, and I'm sure they'll be back with reliable information. We must clear the surrounding area for the scouts to return safely.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Complete the subquest.
 9410	We must clear the surrounding area for the scouts to return safely.
@@ -5956,7 +5956,7 @@ StrCode	Str
 9458	We need more meat.
 9459	<COLOR=FFE36C0A>[Quest End - Theodorakis]<RETURN=1/></COLOR>Thank you.<RETURN=1/><RETURN=1/>But we need more meat.
 9460	<COLOR=FFE36C0A>[Quest Start - Theodorakis]<RETURN=1/></COLOR>Thank you! We now have enough meat.<RETURN=1/><RETURN=1/>Thank you for bearing my demand. You must be a very good person. Go back to the town and the chieftain will give you rewards. Thank you.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go to <NPCNAME= 1964/>.
-9461	What is it?
+9461	Что такое?
 9462	<COLOR=FFE36C0A>[Quest End - Chieftain Siede]<RETURN=1/></COLOR>Thank you!<RETURN=1/><RETURN=1/>You've worked very hard for my town. I'm impressed. We'll give our full support to the Republic.
 9463	<COLOR=FFE36C0A>[Quest Start - Captain Bergius]<RETURN=1/></COLOR>Find out more about the Golden Lizard Tribe.<RETURN=1/><RETURN=1/>I can't fully trust what the prisoner said. We'll get the truth by interrogating him more. Until then, I want you to join scouts to get accurate information.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go to <NPCNAME= 28142/>.
 9464	Are you reinforcement?
@@ -5968,7 +5968,7 @@ StrCode	Str
 9470	NPCNAME=28155<//>will be able to give us reliable information. 
 9471	<COLOR=FFE36C0A>[Quest End - Scout Kuznets]<RETURN=1/></COLOR>It has been confirmed that the Golden Lizard Tribe is under the control of the Bloody Fang Tribe.<RETURN=1/><RETURN=1/>The Bloody Fang Tribe seem to be stalling for time to prevent the Expedition Army from passing through Galenoa Jungle. Now we know who our enemy is. It's now our turn to take action.
 9472	<COLOR=FFE36C0A>[Quest Start - Scout Kuznets]<RETURN=1/></COLOR>We know who our enemy is.<RETURN=1/><RETURN=1/>It's now our turn to take action. Deliver the document obtained from the enemy to <NPCNAME= 28140/>. <RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Take <ITEMNAME=41000/> to <NPCNAME= 28140/>.
-9473	What is it?
+9473	Что такое?
 9474	<COLOR=FFE36C0A>[Quest End - Captain Bergius]<RETURN=1/></COLOR>Our prisoner lied to us.<RETURN=1/><RETURN=1/>I'll make him pay for it.
 9475	<COLOR=FFE36C0A>[Quest Start - Captain Bergius]<RETURN=1/></COLOR>Our real enemy is the Bloody Fang Tribe.<RETURN=1/><RETURN=1/>They held the Expedition Army up, deceived us, and most unforgivably followed Ignis, traitor of the Republic. We'll have no mercy on them. We'll kill all the Bloody Fang Tribemen.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Complete the subquest.
 9476	We'll have no mercy on them. We'll kill all the Bloody Fang Tribemen.<RETURN=1/>
@@ -5992,13 +5992,13 @@ StrCode	Str
 9494	Eliminate <NPCNAME= 937/>.
 9495	<COLOR=FFE36C0A>[Quest End - Drake Knight Reben]<RETURN=1/></COLOR>Good job.<RETURN=1/><RETURN=1/>Thanks to you eliminating <NPCNAME= 937/>, it was much easier to reclaim the jungle.
 9496	<COLOR=FFE36C0A>[Quest Start - Assault Soldier Frisch]<RETURN=1/></COLOR>Recall that you reclaimed Galenoa Jungle.<RETURN=1/><RETURN=1/>The record of eliminating <NPCNAME= 887/> will remain forever. We have to let everybody know about our victory by making a record of it.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Eliminate <NPCNAME= 887/> in <MAPNAME=34/>.
-9497	What is it?
+9497	Что такое?
 9498	<COLOR=FFE36C0A>[Quest End - Drake Knight Reben]<RETURN=1/></COLOR>Well done.<RETURN=1/><RETURN=1/>The record of the victory has been widely disseminated all over the continent.
 9499	<COLOR=FFE36C0A>[Quest Start - Suttner]<RETURN=1/></COLOR>Recall that you reclaimed Galenoa Jungle.<RETURN=1/><RETURN=1/>The record of eliminating <NPCNAME= 894/> will remain forever. We have to let everybody know about our victory by making a record of it.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/><RETURN=1/></COLOR>Eliminate <NPCNAME= 894/> in <MAPNAME=34/>.
-9500	What is it?
+9500	Что такое?
 9501	<COLOR=FFE36C0A>[Quest End - Drake Knight Reben]<RETURN=1/></COLOR>Well done.<RETURN=1/><RETURN=1/>The record of the victory has been widely disseminated all over the continent.
 9502	<COLOR=FFE36C0A>[Quest Start - Assault Soldier Nata]<RETURN=1/></COLOR>Recall that you reclaimed Galenoa Jungle.<RETURN=1/><RETURN=1/>The record of eliminating <NPCNAME= 937/> will remain forever. We have to let everybody know about our victory by making a record of it.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Eliminate <NPCNAME= 937/> in <MAPNAME=34/>.
-9503	What is it?
+9503	Что такое?
 9504	<COLOR=FFE36C0A>[Quest End - Drake Knight Reben]<RETURN=1/></COLOR>Well done.<RETURN=1/><RETURN=1/>The record of the victory has been widely disseminated all over the continent.
 9505	<COLOR=FFE36C0A>[Quest Start - Lamia]<RETURN=1/></COLOR>Recall that you reclaimed Galenoa Jungle.<RETURN=1/><RETURN=1/>The record of eliminating <NPCNAME= 916/> will remain forever. We have to let everybody know about our victory by making a record of it.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Eliminate <NPCNAME= 916/> in <MAPNAME=34/>.
 9506	Eliminate <NPCNAME= 916/> in <MAPNAME=34/>.
@@ -6529,7 +6529,7 @@ StrCode	Str
 40379	Take 5 <ITEMNAME=6519/>/*Metal Pieces*/ and 5 <ITEMNAME=6521/>/*Silver*/ to <NPCNAME=62030/>/*Kerden*/ of <MAPNAME=10001/>/*Tringel*/.
 40380	Take <ITEMNAME=6519/>/*Metal Piece*/, <ITEMNAME=6520/>/*Copper*/ and <ITEMNAME=6521/>/*Silver*/ to <NPCNAME=62030/>/*Kerden*/.
 //їАИД 6:52 2011-08-08_їЎјТµеЅєЕµјцБ¤	
-135	What is it?
+135	Что такое?
 132	Please do away with those evil <NPCNAME=1005/>/*Blue Clam Sentries*/! I'm begging you! Please!"
 133	<COLOR=FFE36C0A>[Quest End - Fischermann]<RETURN=1/></COLOR>Oh, thank you. Thank you so much.
 //їАИД 4:42 2011-08-16	
@@ -6571,7 +6571,7 @@ StrCode	Str
 10022	The townspeople are not as friendly as before.
 10023	<COLOR=FFE36C0A>[Quest End - Expeditionary Operations Officer Morris]<RETURN=1/></COLOR>We've made much success in the Noble Scarlet Cave. But, I'm worried that we've lost the support of the townspeople. 
 10024	<COLOR=FFE36C0A>[Quest Start - Expeditionary Operations Officer Morris]<RETURN=1/></COLOR>What's going on there?<RETURN=1/><RETURN=1/>We're losing the support of the town. The town gave us the right to exploit the Noble Scarlet Cave for ores. We have to share the profit we make with the town. The town is also supplying labor. We should not make any trouble to keep its support. Deliver my message to <NPCNAME=28159/>.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go talk to Research Leader Albarez.
-10025	What is it?
+10025	Что такое?
 10026	<COLOR=FFE36C0A>[Quest End - Research Leader Albarez]<RETURN=1/></COLOR>I understand. Well, this kind of development project always causes conflicts with local people. The workers ... well, if given more Heim, they will be more cooperative.
 10027	<COLOR=FFE36C0A>[Quest Start - Overseer Asturias] <RETURN=1/></COLOR>Hello.<RETURN=1/><RETURN=1/>I'm glad to help the Expeditionary Force. All of the townspeople are honored to work with them. We will do our best to help the Expeditionary Force.<RETURN=1/><RETURN=1/>However, there are a few lazy workers. Would you encourage them to work harder?<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Complete the subquest.
 10028	I'm glad to help the Expeditionary Force. All of the townspeople are honored to work with them. We will do our best to help the Expeditionary Force.
@@ -6610,10 +6610,10 @@ StrCode	Str
 10061	Did you get the test result?
 10062	<COLOR=FFE36C0A>[Quest End - Research Member Bashevis]<RETURN=1/></COLOR>I hope you understand the gravity of the situation.<RETURN=1/><RETURN=1/>I don't think the leaders of the Expeditionary Force realize it. If things go on like this, we'll lose the support of the Kortoq.
 10063	<COLOR=FFE36C0A>[Quest Start - Overseer Asturias]<RETURN=1/></COLOR>I cannot order the workers to go back to work.<RETURN=1/><RETURN=1/>It is subject to the Chieftain's approval. Go back to the town and talk to the Chieftain.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go talk to <NPCNAME=1964/>.
-10064	What is it?
+10064	Что такое?
 10065	<COLOR=FFE36C0A>[Quest End - Chieftain Siede]<RETURN=1/></COLOR>Give me some more time.<RETURN=1/><RETURN=1/>I'll check the reports of our workers.
 10066	<COLOR=FFE36C0A>[Quest Start - Chieftain Siede]<RETURN=1/></COLOR>I'm sorry, but I've decided to prohibit the Expeditionary Force from entering the cave until it purifies the water source.<RETURN=1/><RETURN=1/>In addition, my town will not cooperate with the Expeditionary Force unless it promises to heal the poisoned workers and gives them better treatment. After careful consideration, I've concluded that the leaders of the Expeditionary Force are unaware of our acquiesces to the high-handedness of the Research. It's time for the Expeditionary Force to prove its sincerity to us. Go to tell it to withdraw the Research.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go talk to <NPCNAME=28159/>.
-10067	What is it?
+10067	Что такое?
 10068	<COLOR=FFE36C0A>[Quest End - Research Leader Albarez]<RETURN=1/></COLOR>Umm, it's embarrassing.<RETURN=1/><RETURN=1/>It seems that some Research members were overambitious. They will be justly punished in due time.
 10069	<COLOR=FFE36C0A>[Quest Start - Research Leader Albarez]<RETURN=1/></COLOR>The Chieftain prohibited us from entering the cave, but ended the restriction under the condition that we find the cause of the pollution and remove it.<RETURN=1/><RETURN=1/>Solve the problem with <NPCNAME=28168/> as we promised.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go talk to <NPCNAME=28168/>.
 10070	I need samples.
@@ -6640,7 +6640,7 @@ StrCode	Str
 10091	We must purify the water source for the town.
 10092	<COLOR=FFE36C0A>[Quest End - Overseer Asturias]<RETURN=1/></COLOR>I see. It is polluted by sorcery.<RETURN=1/><RETURN=1/>Is there anything we can do?
 10093	<COLOR=FFE36C0A>[Quest Start - Overseer Asturias] <RETURN=1/></COLOR>The pollution is caused by sorcery. I never thought about it.<RETURN=1/><RETURN=1/>If it's true, what do we have to do now? If there's anything we can do, just let us know. Deliver our message to <NPCNAME=28159/>.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go talk to <NPCNAME=28159/>.
-10094	What is it?
+10094	Что такое?
 10095	<COLOR=FFE36C0A>[Quest End - Research Leader Albarez]<RETURN=1/></COLOR>Thank you.<RETURN=1/><RETURN=1/>Now that we know the cause, we need to eliminate it.
 10096	<COLOR=FFE36C0A>[Quest Start - Research Leader Albarez] <RETURN=1/></COLOR>The Expeditionary Force formed a special operation unit to solve the problem.<RETURN=1/><RETURN=1/>Join the unit to help it eliminate the cause of the pollution.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Go find <NPCNAME=28171/>.
 10097	We must find this hidden enemy.
@@ -7205,7 +7205,7 @@ StrCode	Str
 125	<COLOR=FFE36C0A>[Quest Start - Suspicious Guard]<RETURN=1/></COLOR>Urk...... I'm caught.... Let me off just this once!!
 //їАИД 7:04 2011-11-25	
 8419	<COLOR=FFE36C0A>[Quest Start - Guard Captain Heinrich]<RETURN=1/></COLOR>We don't have enough information yet. Find more information with <NPCNAME=28265/>.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Find <NPCNAME=28265/>.
-8420	Hello!
+8420	Здравствуй!
 8421	<COLOR=FFE36C0A>[Quest End - Patrolman Aiman]<RETURN=1/></COLOR>Ominous energy is felt in Zapir Lake.
 8422	<COLOR=FFE36C0A>[Quest Start - Patrolman Aiman]<RETURN=1/></COLOR>Beasts are behaving more violently.<RETURN=1/><RETURN=1/>Due to an attack by beasts, the fishers lost their village and the village was devastated. It is not known if the beasts became violent due to contaminated Ether but it is urgent to drive them out of the village.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Eliminate <NPCNAME=1006/> with <NPCNAME=1005/>.
 8423	Beasts are behaving more violently.
@@ -7213,7 +7213,7 @@ StrCode	Str
 8425	<COLOR=FFE36C0A>[Quest Start - Patrolman Aiman]<RETURN=1/></COLOR>Beasts seem to keep coming out of the ship over there.<RETURN=1/><RETURN=1/>I guess the leader of the beasts is aboard the ship. Once their leader is eliminated, they should be just a bunch of sheep.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Eliminate <NPCNAME=1008/> in the ship seen behind Patrolman Aiman.
 8426	Beasts seem to keep coming out of the ship over there.
 8429	The leader of the beasts is aboard the ship behind.
-8432	What brings you here?
+8432	Что привело тебя сюда?
 8433	<COLOR=FFE36C0A>[Quest End - Patrolman Seidt]<RETURN=1/></COLOR>Ominous energy is felt in Zapir Lake.
 8434	<COLOR=FFE36C0A>[Quest Start - Patrolman Seidt]<RETURN=1/></COLOR>Zapir Lake is unstable.<RETURN=1/><RETURN=1/>The increasing number of beasts and their ferocious force are really threatening. Their vigor is really threatening. We need to put a damper on their vigor. Eliminate the enemy leader.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Eliminate <NPCNAME=1032/>.
 8435	Zapir Lake is unstable.
@@ -7222,10 +7222,10 @@ StrCode	Str
 8438	We need to attack the beasts once more.
 8439	<COLOR=FFE36C0A>[Quest End - Patrolman Seidt]<RETURN=1/></COLOR>Great work! But they don't seem to have been discouraged.
 8440	<COLOR=FFE36C0A>[Quest Start - Patrolman Seidt]<RETURN=1/></COLOR>Instability has increased due to the increasing number of beasts in Zapir Lake.<RETURN=1/><RETURN=1/>Now they are too strong to be stopped. We need to find a countermeasure. Find Guard Captain and discuss it with him.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Find <NPCNAME=63821/>.
-8441	What brings you here?
+8441	Что привело тебя сюда?
 8442	<COLOR=FFE36C0A>[Quest End - Guard Captain Heinrich]<RETURN=1/></COLOR>Great work! I hope our soldiers hold out a little longer.
 8443	<COLOR=FFE36C0A>[Quest Start - Guard Captain Heinrich]<RETURN=1/></COLOR>We are studying the beasts which turned violent. We caught one of the aggressive beasts and try to find out what made them violent. Go to the entrance of the forest and find <NPCNAME=65112/>.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR> Find <NPCNAME=65112/>.
-8444	Hello!
+8444	Здравствуй!
 8445	<COLOR=FFE36C0A>[Quest End - Elior]<RETURN=1/></COLOR>We captured beasts. The captured beasts were sent to Waldchen and this is the one I've just captured.
 8446	<COLOR=FFE36C0A>[Quest Start - Elior]<RETURN=1/></COLOR>This captured beast is not a wild one but just a normal one.<RETURN=1/><RETURN=1/>To test the violence of the beasts, I will feed the "thing" that should not be spoken to this beast and see what will happen. Go out and bring me <ITEMNAME=41427/>.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Eliminate beast soldiers and bring me <ITEMNAME=41427/>.
 8447	......
@@ -7237,9 +7237,9 @@ StrCode	Str
 8456	I'm afraid the result of my test has nothing to do with the cause.
 8457	<COLOR=FFE36C0A>[Quest End - Elior]<RETURN=1/></COLOR>Great work! There are still lots of enemies.
 8458	<COLOR=FFE36C0A>[Quest Start - Elior]<RETURN=1/></COLOR>Deliver my message to Guard Captain.<RETURN=1/><RETURN=1/>My experiment seems to be a failure.... Please tell him to wait for the result of the experiment from Waldchen. And tell him to send forces to the Forest Path as well.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Find <NPCNAME=63821/>.
-8459	What brings you here?
+8459	Что привело тебя сюда?
 8460	<COLOR=FFE36C0A>[Quest End - Guard Captain Heinrich]<RETURN=1/></COLOR>The experiment failed..., but it doesn't matter. I've heard from Waldchen.
-8462	What brings you here?
+8462	Что привело тебя сюда?
 8464	<COLOR=FFE36C0A>[Quest Start - Helga]<RETURN=1/></COLOR>Now you have to go on a mission. After accepting the Quest, receive the follow-up Quest.<RETURN=1/><RETURN=1/>Press F11 to load a Battle Zone. You can create a room or enter a created room. You can begin the missions [Sinister Rumor] and [Conspiracy of the Iron Beast Tribe]. You can complete these missions or return to Zapir Lake to perform tasks. The choice is yours. <RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Complete the Quest which occurs when you accept [Forest War].
 8465	Now you have to go on a mission. After accepting the Quest, receive the follow-up Quest.
 8466	<COLOR=FFE36C0A>[Quest End - Helga]<RETURN=1/></COLOR>Great work! Please continue your mission.
@@ -7253,10 +7253,10 @@ StrCode	Str
 8474	Can you help me?
 8475	<COLOR=FFE36C0A>[Quest End - Apprentice Alchemist Wulff]<RETURN=1/></COLOR>Thank you! Thank you so much! I promise I'll be a great alchemist!
 8476	<COLOR=FFE36C0A>[Quest Start - Apprentice Alchemist Wulff]<RETURN=1/></COLOR>Thank you! Now I'm relieved a little.<RETURN=1/><RETURN=1/>Can you tell Master Zernike that I will take the next semester off? I think I need to take a break. I'm thinking about backpacking beyond Aukra Village.~<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Find <NPCNAME=64020/>.
-8477	What brings you here?
+8477	Что привело тебя сюда?
 8478	<COLOR=FFE36C0A>[Quest End - Alchemist Zernike]<RETURN=1/></COLOR>What are you talking about? I don't teach anyone....
 8479	<COLOR=FFE36C0A>[Quest Start - Zernike]<RETURN=1/></COLOR>The phenomenon of beasts going berserk which started in the Forest of Beasts is now spreading to the whole continent.<RETURN=1/><RETURN=1/>We can't stop them only with the forces of Waldchen and Tringel. So, it's time to combine our forces with Etherain. That is the only way for all of us to survive. Now we need to talk with Etherain. Go find them.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Find <NPCNAME=28268/>.
-8480	What brings you here?
+8480	Что привело тебя сюда?
 8481	<COLOR=FFE36C0A>[Quest End - Guard Joschka]<RETURN=1/></COLOR>I'm Joschka, a Guard of Etherain. What brings you here?
 8483	The soldiers of Etherain cherish their honor.
 8484	<COLOR=FFE36C0A>[Quest End - Guard Joschka]<RETURN=1/></COLOR>Oh.... It's a good start..., but this is not enough....
@@ -7273,7 +7273,7 @@ StrCode	Str
 8495	The soldiers of Etherain cherish their honor.
 8496	<COLOR=FFE36C0A>[Quest End - Guard Captain Nobel]<RETURN=1/></COLOR>The soldiers of Etherain cherish their honor. I never believe the saying. People of Etherain are insincere.
 8497	<COLOR=FFE36C0A>[Quest Start - Guard Captain Nobel]<RETURN=1/></COLOR>Return to Waldchen and find <NPCNAME=62168/>.<RETURN=1/><RETURN=1/>Missions are launched again.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Return to Waldchen and find <NPCNAME=62168/>.
-8498	What brings you here?
+8498	Что привело тебя сюда?
 8499	<COLOR=FFE36C0A>[Quest End - Helga]<RETURN=1/></COLOR>I have some missions for you soon.
 8500	<COLOR=FFE36C0A>[Quest Start - Helga]<RETURN=1/></COLOR>Now you have to go on a mission. After accepting the Quest, receive the follow-up Quest.<RETURN=1/><RETURN=1/>Press F11 to load a Battle Zone. You can create a room or enter a created room. You can go on the missions [Foiled Conspiracy] and [Forest of Beasts]. You can go on the missions or return to Zapir Lake to complete the task. The choice is yours. <RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Complete the Quest which occurs when you accept [Forest War].
 8501	Now you have to go on a mission. After accepting the Quest, receive the follow-up Quest.
@@ -7313,7 +7313,7 @@ StrCode	Str
 8536	<COLOR=FFE36C0A>[Quest Start - Guard Captain Von Herling]<RETURN=1/></COLOR>We should resume our mission.<RETURN=1/><RETURN=1/>We should search the Etherain Sewer again. This time we may search even beyond the Incomplete Memorial. Go check your equipment and complete your mission faithfully.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Complete the follow-up Quest that occurs when you accept the Quest [An Order from Von Herling 2] and complete up to the Quest [Missing Scouts].
 8537	We should resume our mission.
 8538	<COLOR=FFE36C0A>[Quest End - Guard Captain Von Herling]<RETURN=1/></COLOR>The Etherain Sewer is always a tough place. You did a good job!
-8540	What brings you here?
+8540	Что привело тебя сюда?
 8541	<COLOR=FFE36C0A>[Quest End - Yibet]<RETURN=1/></COLOR>Now you have to go on a mission.
 8542	<COLOR=FFE36C0A>[Quest Start - Yibet]<RETURN=1/></COLOR>Now you have to go on a mission. After accepting the quest, receive the follow-up quest.<RETURN=1/><RETURN=1/>Press F11 to load a Battle Zone. You can create a room or enter a created room. You can begin the missions [Hidden Passage] and [Access Road to Etherain]. You can complete these missions or return to the Sewer to perform tasks. The choice is yours.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Accept the quest [Sewer War] and complete the follow-up quests.
 8543	Now you have to go on a mission. After accepting the quest, receive the follow-up quest.
@@ -7360,7 +7360,7 @@ StrCode	Str
 8588	The enemies are flooding us.
 8591	The enemies are flooding us.
 8593	<COLOR=FFE36C0A>[Quest Start - Ranthartz]<RETURN=1/></COLOR>Head to the West Sewer of Maze.<RETURN=1/><RETURN=1/>Soon, the path to Etherain will be opened. You will carry out tasks along the West Sewer of Maze. Try hard to open the path to Etherain.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Find <NPCNAME=28269/>.
-8594	What brings you here?
+8594	Что привело тебя сюда?
 8595	<COLOR=FFE36C0A>[Quest End - Watchman Johachim]<RETURN=1/></COLOR>I'm not afraid of the enemies, but ghosts are scary.
 8596	<COLOR=FFE36C0A>[Quest Start - Watchman Johachim]<RETURN=1/></COLOR>I'm not afraid of the enemies.<RETURN=1/><RETURN=1/>Soon, the path to Etherain will be opened. We need to defeat the enemies blocking each stronghold so that the second party can move on. Carry out the task.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Accept the quest and complete the follow-up quests.
 8597	I'm not afraid of the enemies.
@@ -7375,7 +7375,7 @@ StrCode	Str
 8606	I'm not afraid of the enemies.
 8607	<COLOR=FFE36C0A>[Quest End - Watchman Johachim]<RETURN=1/></COLOR>Great work! I'm not afraid of the enemies, but ghosts are scary.
 8608	<COLOR=FFE36C0A>[Quest Start - Watchman Johachim]<RETURN=1/></COLOR>Vindictive sprits, monsters, enemies, or whatever, all you have to do is eliminate them.<RETURN=1/><RETURN=1/>Some may oppose my opinion, but I think all enemies should be eliminated. Exorcism ... I don't believe such a thing. Anyway, continue your task.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Find <NPCNAME=63829/>.
-8609	What brings you here?
+8609	Что привело тебя сюда?
 8610	<COLOR=FFE36C0A>[Quest End - Watchman Polmer]<RETURN=1/></COLOR>There are an awful lot of enemies. Get ready.
 8612	There are an awful lot of enemies.
 8615	There are an awful lot of enemies.
@@ -7384,13 +7384,13 @@ StrCode	Str
 8621	We, Etherain, will join the war as part of the Liberation Army.
 8622	<COLOR=FFE36C0A>[Quest End - Ranthartz]<RETURN=1/></COLOR>Great .... Great. Now we can see a ray of hope.
 8623	<COLOR=FFE36C0A>[Quest Start - Ranthartz]<RETURN=1/></COLOR>Now you have to go on some missions. You have to finish the tasks in the Etherain Sewer. Get ready for the mission.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Find <NPCNAME=62001/>.
-8624	What brings you here?
+8624	Что привело тебя сюда?
 8625	<COLOR=FFE36C0A>[Quest End - Yibet]<RETURN=1/></COLOR>Now you have to go on a mission.
 8626	<COLOR=FFE36C0A>[Quest Start - Yibet]<RETURN=1/></COLOR>Now you have to go on a mission. After accepting the Quest, receive the follow-up quest.<RETURN=1/><RETURN=1/>Press F11 to load a Battle Zone. You can create a room or enter a created room. You can begin the Missions [Grave of the Siegel Knights] and [Etherain Sewer]. You can complete these missions or return to the Sewer to perform tasks. The choice is yours.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Accept the quest [Sewer War 2] and complete the follow-up quests.
 8627	Now you have to go on a mission. After accepting the quest, receive the follow-up quest.
 8628	<COLOR=FFE36C0A>[Quest End - Yibet]<RETURN=1/></COLOR>Great work! Retry the task.
 8629	<COLOR=FFE36C0A>[Quest Start - Ranthartz]<RETURN=1/></COLOR>You will now head to Etherain.<RETURN=1/><RETURN=1/>We will recapture all of our land around Etherain. Move to Etherain. May the grace of the Liberation Army be with you.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Task]<RETURN=1/></COLOR>Move to Etherain and find <NPCNAME=63836/>.
-8630	What brings you here?
+8630	Что привело тебя сюда?
 8631	<COLOR=FFE36C0A>[Quest End - Guard Captain Alkan]<RETURN=1/></COLOR>Welcome. New tasks are waiting for you!
 41867	Find <NPCNAME=28265/>.
 41868	Eliminate <NPCNAME=1005/> and <NPCNAME=1006/>.
@@ -8196,7 +8196,7 @@ StrCode	Str
 11178	Interim
 11179	<COLOR=FFE36C0A>[Quest End - Expeditioner Kumar]<RETURN=1/></COLOR>Welcome! You look like quite a seasoned traveler.  Welcome to Astorea Canyon where relics abound.<RETURN=1/><RETURN=1/>You can't hardly throw a stone without finding some kind of treasure, haha! Don't make no mistake. I'm nothing like some of the other bottom feeders you see out here, sniffing out whatever filthy trinket they can find. No, I'm here to preserve the dignity of our relics and to pass down the greatest legacies of our ancestors. Don't get me wrong though, if there's a decent reward in it, my time is up for sale.
 11180	<COLOR=FFE36C0A>[Quest Start - Expeditioner Kumar]<RETURN=1/></COLOR>Traveler! Welcome to Astorea Canyon where relics abound.<RETURN=1/><RETURN=1/><RETURN=1/>You can't hardly throw a stone without finding some kind of treasure, haha! Don't make no mistake. I'm nothing like some of the other bottom feeders you see out here, sniffing out whatever filthy trinket they can find. There is dignity in preserving our relics and passing down the legacies of our ancestors.<RETURN=1/><RETURN=1/>I just wish I didn't have to work with some of these god awful treasure hunters. A filthy bunch, they are, but it's too hard to excavate those relics without their help. Find the treasure hunter.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Mission]<RETURN=1/></COLOR>Talk to <NPCNAME=28322/>.
-11181	What is it?
+11181	Что такое?
 11182	<COLOR=FFE36C0A>[Quest End - Treasure Hunter Samir]<RETURN=1/></COLOR>Tell me, what's the difference between an explorer and a treasure hunter?<RETURN=1/><RETURN=1/>I'll tell you what. Those explorers are full of conceit! We treasure hunters are a lot more humble than their lot. We're dedicated to our hearts' desires. We discover relics and make a little coin for it in return. What's so bad about that, huh? Capitalism at its finest, I say. 
 11183	<COLOR=FFE36C0A>[Quest Start - Treasure Hunter Samir]<RETURN=1/></COLOR>There's no animal more arrogant than those explorers.<RETURN=1/><RETURN=1/>They've got some nerve ordering us around the way they do. Demands, demands, demands - that's all they've got for us. They never think about the way we risk our necks for them. The Astorea Canyon is filled with noxious insects and bandits. It'd be much easier for us if we weren't constantly worrying about that.<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Mission]<RETURN=1/></COLOR>Eliminate <NPCNAME=4171/>.
 11184	It's exhausting working with those explorers.
@@ -8216,7 +8216,7 @@ StrCode	Str
 11198	<COLOR=FFE36C0A>[Quest Start - Worn Box]<RETURN=1/></COLOR>(That worn box seems to be making some sounds.)<RETURN=1/><RETURN=1/><COLOR=FFE36C0A>[Mission]<RETURN=1/></COLOR>Eliminate the monster summoned after accepting the quest.
 11199	(That worn box seems to be making some sounds.)
 11200	<COLOR=FFE36C0A>[Quest End - Worn Box]<RETURN=1/></COLOR>(You can check the relics inside the worn box.)
-11202	What is it?
+11202	Что такое?
 11205	There's a book with a list of the relics. I need it to do a proper appraisal, but I lost it while playing in the forest.
 11208	So, what are the results of the appraisal?
 11209	<COLOR=FFE36C0A>[Quest End - Treasure Hunter Samir]<RETURN=1/></COLOR>100...H...Heim?
@@ -9928,9 +9928,9 @@ StrCode	Str
 42502	<COLOR=FFE36C0A>[Quest End - Archivist Vela]<RETURN=1/></COLOR>It is holding.<RETURN=1/><RETURN=1/>One node, four hundred square miles, one man, and in Etherain nobody knows and nobody is going to be told, because the Senate would take it apart inside a month and call it treason and they would be, legally, correct.<RETURN=1/><RETURN=1/>So here is where we are. There is a lattice being built at Old Esmara that will work and will be paid for by people who were not asked. There is one node in the worst province on Brakion that is paid for by a volunteer and will not be enough. And there is a wound that has been open for five years and is not getting smaller.<RETURN=1/><RETURN=1/>Somebody is going to have to go to Old Esmara. Not to stop her. I have given up thinking we are owed a version of this where she is simply wrong.<RETURN=1/><RETURN=1/>To make it cost less. That is all that is left to want.<RETURN=1/><RETURN=1/>Go and rest. Halvard's name is on the wall now, third row, under the window, where the light gets in. I put it there myself and I did not ask permission for that either.
 42503	Report to Archivist Vela in Etherain.
 50000	.
-50001	Hello!
-50002	What brings you here?
-50003	Hello!
+50001	Здравствуй!
+50002	Что привело тебя сюда?
+50003	Здравствуй!
 50004	.
 50005	Have you completed your mission?
 50006	My guess is that the "ancient resting place" is a huge "ark" made by the ancients.
@@ -11020,9 +11020,9 @@ StrCode	Str
 51090	<NPCNAME=61303/>ЃA<NPCNAME=61304/>ЃA<NPCNAME=61305/>‚р“|‚µ‚Д‚­‚ѕ‚і‚ўЃB
 51091	<NPCNAME=61306/>ЃA<NPCNAME=61298/>ЃA<NPCNAME=61302/>‚р“|‚µ‚Д‚­‚ѕ‚і‚ўЃB
 51093	.
-51094	Hello!
-51095	What brings you here?
-51096	Hello!
+51094	Здравствуй!
+51095	Что привело тебя сюда?
+51096	Здравствуй!
 51097	.
 51098	Have you completed your mission?
 51099	My guess is that the "ancient resting place" is a huge "ark" made by the ancients.

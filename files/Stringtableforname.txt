@@ -4935,4 +4935,155 @@ start
 19061	Conqueror of Dimensions
 19517	Thanatos, Netherworld Blademaster
 19518	Tatius, Netherworld Fistmaster
+17513	Senior Fellowship Roswell
+17514	Aranda expedition ascetic
+17515	Caves Captain  Jechik
+17516	Auxiliary Charles
+17517	Scared Collector Stringer
+17518	Trainer Maliga
+17519	Monster Plant Researcher Dr. Bln
+17520	Expedition Knight Leader Backstrom
+17521	Expedition Steel Knight Daen
+17522	Expedition Steel Knight Miller
+17523	Monster Plant Researcher Dr. Red
+17524	Senior Purification Man Rian
+17525	Ascetic Conqueror AaronPhillips
+17597	Scout Captain Shambalia
+17598	Scout Member Valeri
+17599	Infiltrator Shaeedo
+17600	Ecological Researcher Valencia
+17601	Researcher Joan
+17602	Professional Herbalist Thorn
+17603	Beast Expert Riandra
+17604	Queer Plant Researcher Dr. Mango
+17605	Monster Plant Researcher Dr. Durian
+17606	Storming Party Captain Raino
+17607	Storm Trooper Gothe
+17608	Storm Trooper Picadore
+17609	Archaeologist Nico
+17721	Desert Guide Hagibon
+17722	Pathfinder Elmusalid
+17723	Pathfinder Assistant Jyaseuuseu
+17724	Branch-Vein Investigator Jyapa
+17725	Patrol Olamis
+17726	Vanguard Mukadima
+17727	Shock Troop Jyujateu
+17728	Shock Troop Allaitida
+17729	Surv4or Alneijin
+17730	Hidden Surv4or Haribeu
+17739	Archaeologist Al Mahary
+17740	Archaeologist John Simpson
+17741	Archaeologist Al Rashid
+17788	distorted wanderer
+17964	North Kalia Guide Leos
+17965	Vanguard Mithrion
+17966	Alchemist Til
+17967	Biologist Mua
+17968	Camp Captain Bear Griz
+17969	Deputy Kiesa
+17970	North Kalia Guard
+17971	Guard officer Robof
+17972	medication expert Ansarov
+17973	Wild Explorer Dracil
+17974	Expedition Collector Gatch
+17975	Combat Instructor Sergio
+17976	Warrior Malone
+17977	Mechanical Engineer Ubanks
+17978	Dimensional Door Manager Irene
+17979	Camping Merchant Arisa
+18334	Guide Gartner
+18335	Defender Captain Auben Forson
+18336	Patrol Duhak Brechen
+18337	Quartermaster Arsion
+18338	Distributor Integer
+18339	Archmage Silvertex
+18340	Aboriginal Pielle
+18351	Guard of the Lost Streak
+18352	Captured Expedition Wizard
+18358	Camp Merchant Ariana
+18522	Volcanic Hammer Warrior
+18523	Volcanic blast furnace warrior
+18524	Volcanic Heart Drok
+18526	Earth Pollution Investigator Tez
+18527	Expeditionary elite research team member
+18545	Isolated signal tower liaison
+18546	Captain Ronan
+18547	Smoke signal adjutant Bota
+18554	Oscar
+18555	Gordon
+18556	Lewis
+18557	Encampment Merchant Sweetfoot
+18558	Withered Plains Guard
+18698	Supply Operations Commander Supender
+18699	Farm manager Te Maria
+18700	Farm Worker Timmy
+18701	Transport Officer Patayo
+18702	Mystery Tracker High Mid
+18703	Supply team guards
+18704	Archaeologist Lucas
+18705	Archaeologist Priman
+18706	Archaeologist Derma
+18707	Expeditionary Merchant Salty Finger
+19204	Wanderer Galian
+19205	Search Party Valter
+19206	Exploration Captain Luke
+19207	Biologist Jay
+19208	Archaeologist Ellis
+19209	Expeditioner Kellya
+19210	Expedition member Barae
+19211	Expedition mercenary
+19223	Failed Mercenary
+19224	Vagrant
+19225	Geologist
+19408	Prince Austin of Moraine
+19411	Moraine Latecomer Karen
+19412	Tribeman Jerry
+19413	Wanderer Sonia
+19414	Mercenary Guard
+19415	Chief Brian
+19416	Moraine Action Squad
+19417	Moraine Quartermaster
+19418	Merchant Eden
+19419	Biologist Benedict
+19420	Guard soldier getting lost
+19421	Fallen Moraine Soldier
+19422	Archaeologist Cowin
+19423	Biologist Bran
+19424	Scared Moraine Residents
+19425	Moraine Guard
+19426	Moraine Priest Taresa
+19427	Moraine Guard Captain Egor
+19428	Moraine Guard Captain Charis
+19429	Moraine Guard Captain Bells
+19430	Moraine Action Leader Bison
+19431	Moraine Quartermaster Palen
+19432	Moraine Advance Captain Chris
+19433	Moraine Late Commander Dwayne
+19801	Battlefield Merchant
+19972	Vanguard Jerry
+19973	Guardian Captain Chronos
+19974	Guardian Aiden
+19975	Guardian Sif
+19976	Battle Officer Rena
+19977	Soldier Cecil
+19978	Soldier Ris
+19979	Alchemist Elia
+19980	Ancient Researcher Barik
+19981	Battle Guard
+19982	Plateau Porter Krum
+19983	Wandering Merchant Kamel
+19984	Lost Soldier Aaron
+19985	Soul Guide Lian
+19986	Purifier Wolf
+19987	Hermit Bana
+19988	Wanderer Mel
+19989	Wanderer Kurz
+19990	Wandering Merchant Beryl
+19991	Scout Bark
+19992	Scout Renil
+19993	Agent Mav
+19994	Scout Zefi
+55067	Tomsen
+55068	Montelius
+55069	Beanford
 end

@@ -6,1024 +6,1024 @@
 		
 //ёЮЅГБц ID	і»їл				
 StrCode	Str	FieldEnd			
-1	Mission cleared.
-2	The bridge is now connected.
-3	The switch starts moving.
-4	You hear the switch operating.
-5	You may now pass.
-6	The wall has come down. You can now get inside!
-7	The seal has been broken. You may now pass through!
-8	First seal of the portal has been broken.
-9	Second seal of the portal has been broken.
-10	Third seal of the portal has been broken.
-11	Fourth seal of the portal has been broken.
-12	Portal has opened. You can now move to the next area.
-13	Portal has opened. You can now go back to the village.
+1	Миссия пройдена.
+2	Мост соединён.
+3	Рычаг приходит в движение.
+4	Вы слышите, как срабатывает рычаг.
+5	Теперь можно пройти.
+6	Стена опустилась. Теперь можно войти!
+7	Печать разрушена. Теперь можно пройти!
+8	Первая печать портала разрушена.
+9	Вторая печать портала разрушена.
+10	Третья печать портала разрушена.
+11	Четвёртая печать портала разрушена.
+12	Портал открылся. Теперь можно перейти в следующую область.
+13	Портал открылся. Теперь можно вернуться в деревню.
 //	
-14	The exit is blocked by a strong mana field!
-15	Guardians of the Magic Seal have appeared! They are protecting the magic seal!
+14	Выход перекрыт мощным полем маны!
+15	Появились хранители магической печати! Они защищают печать!
 //	
-16	Wrong switch! Enemies have detected you!
-17	The door won't open!
-18	Enemy ambush!
-19	The trap has been triggered! Monsters have appeared!
+16	Не тот рычаг! Враги вас обнаружили!
+17	Дверь не открывается!
+18	Засада!
+19	Ловушка сработала! Появились чудовища!
 //ѕЯјцµйАЗ ЅЈ 	
-30	This wall is unmovable. It seems to require special control to open.
-31	The portal is sealed. It may have something to do with stone statues in front of the portal.
-32	The tree is sealed!
-33	The Tree Keeper seems to have something to do with seal on the tree. Once they have been defeated, secret will be revealed.
-34	Strong seal has been laid on the door!
-35	It seems that Temple Guards have sealed the door! Eliminate the Temple Guards to open the door.!
+30	Эту стену не сдвинуть. Похоже, для этого нужен особый механизм.
+31	Портал запечатан. Возможно, дело в каменных статуях перед ним.
+32	Дерево запечатано!
+33	Похоже, Хранитель дерева связан с печатью на нём. Если одолеть его, тайна откроется.
+34	На дверь наложена мощная печать!
+35	Похоже, дверь запечатали храмовые стражи! Одолейте их, чтобы открыть дверь.
 //БцЗПјц·О 	
-36	Cell is locked. Find the switch.
-37	Cell opens with a heavy clanking sound.
-38	Cell closes! This switch seems to serve a special function!
-39	Cell seems to be controlled by two switches. Find the other switch.
-40	Cell is locked.
-41	Passing through these machines would be difficult... .
-42	The wall is being protected. Something seems to hidden on the other side.
-43	Monsters are protecting the wall! You'll need to eliminate the monsters to see what's on the other side of the wall.
-44	Device starts to move with heavy sound.
-45	You hear the sound of a floodgate opening in the distance.
-46	It is an old and rusty floodgate. It seems like some device is installed on it.
-47	The current is too swift for you to cross...
-48	The floodgate is damaged, and cannot be moved.
-49	The floodgate is now closed. Water has been drained out from the Sewer, so you may now pass through.
-50	Portal has opened. You have finally entered Etherain!
+36	Камера заперта. Найдите рычаг.
+37	Камера открывается с тяжёлым лязгом.
+38	Камера закрывается! Похоже, у этого рычага особое назначение!
+39	Похоже, камеру открывают два рычага. Найдите второй.
+40	Камера заперта.
+41	Пройти через эти механизмы будет непросто...
+42	Стена защищена. Похоже, за ней что-то скрыто.
+43	Стену защищают чудовища! Чтобы увидеть, что за ней, придётся их уничтожить.
+44	Устройство приходит в движение с тяжёлым гулом.
+45	Вдалеке слышно, как открывается шлюз.
+46	Это старый ржавый шлюз. Похоже, на нём установлен какой-то механизм.
+47	Течение слишком быстрое, чтобы перебраться...
+48	Шлюз повреждён, и сдвинуть его нельзя.
+49	Шлюз закрыт. Вода ушла из стоков, и теперь можно пройти.
+50	Портал открылся. Вы наконец добрались до Этерейна!
 //ЕёАФ1	
 //·л	
-101	Forest of Beasts#Forest Entrance
-102	Forest of Beasts#Deep Forest Cave
-103	Forest of Beasts#Collapsed Castle Ramparts
-104	Forest of Beasts#Black Rock Cave
-105	Forest of Beasts#Beast Cave
-106	Forest of Beasts#The Desperate Place
-107	Etherain Sewer#Passage of Chaos
-108	Etherain Sewer#Closed Room
-109	Etherain Sewer#Rusty Floodgate Sewer
-110	Etherain Sewer#Old Underground Banquet Hall
-111	Etherain Sewer#Solemn Hallway
-112	Etherain Sewer#King's Chamber
-113	Frozen Palace#Snowy Plains
-114	Frozen Palace#Machinery Room
-115	Frozen Palace#Frozen Garden
-116	Frozen Palace#Snow Castle
-117	Frozen Palace#Ice Crystal Palace
-118	Frozen Palace#Room of the Northern Wind
-119	Valley of the Dragonkin#Red Lava Valley
-120	Valley of the Dragonkin#Wailing Valley
-121	Valley of the Dragonkin#Crater of Blood
-122	Valley of the Dragonkin#Sealed Cave
-123	Valley of the Dragonkin#Hall of Flame
-124	Valley of the Dragonkin#Summit of the Sacred Land
+101	Лес зверей#Вход в лес
+102	Лес зверей#Пещера глухого леса
+103	Лес зверей#Обрушенные стены замка
+104	Лес зверей#Пещера чёрной скалы
+105	Лес зверей#Звериная пещера
+106	Лес зверей#Место отчаяния
+107	Стоки Этерейна#Проход Хаоса
+108	Стоки Этерейна#Запертая комната
+109	Стоки Этерейна#Сток с ржавым шлюзом
+110	Стоки Этерейна#Старый подземный пиршественный зал
+111	Стоки Этерейна#Торжественный коридор
+112	Стоки Этерейна#Палата короля
+113	Замёрзший дворец#Снежные равнины
+114	Замёрзший дворец#Машинный зал
+115	Замёрзший дворец#Замёрзший сад
+116	Замёрзший дворец#Снежный замок
+117	Замёрзший дворец#Дворец ледяных кристаллов
+118	Замёрзший дворец#Зал северного ветра
+119	Долина драконьего рода#Долина красной лавы
+120	Долина драконьего рода#Долина стенаний
+121	Долина драконьего рода#Кратер крови
+122	Долина драконьего рода#Запечатанная пещера
+123	Долина драконьего рода#Зал пламени
+124	Долина драконьего рода#Вершина священной земли
 //ЗКµе	
-150	Forest of Beasts#Zapir Lake
-151	Forest of Beasts#Path of Alchemists
-152	Etherain Sewer#Incomplete Memorial
-153	Etherain Sewer#Sewer of Maze
-154	Frozen Palace#Sanctuary of Fortress
-155	Frozen Palace#Tower of Ruins
+150	Лес зверей#Озеро Запир
+151	Лес зверей#Путь алхимиков
+152	Стоки Этерейна#Незавершённый мемориал
+153	Стоки Этерейна#Сток-лабиринт
+154	Замёрзший дворец#Святилище крепости
+155	Замёрзший дворец#Башня руин
 //060505ГЯ°Ў	
-156	Forest of Beasts#Iron Tribe's Cave
-157	Forest of Beasts#Beast Cave Entrance
-158	Etherain Sewer#Chamber of Trial
-159	Etherain Sewer#Etherain Underground Garden
+156	Лес зверей#Пещера Железного племени
+157	Лес зверей#Вход в звериную пещеру
+158	Стоки Этерейна#Зал испытаний
+159	Стоки Этерейна#Подземный сад Этерейна
 //И­»кЗКµеГЯ°Ў	
-160	Valley of the Dragonkin#Grave of the Ancient Dragon
-161	Valley of the Dragonkin#Karwan's Crater
-162	Valley of the Dragonkin#Mockery of Scorching Outrage
+160	Долина драконьего рода#Могила древнего дракона
+161	Долина драконьего рода#Кратер Карвана
+162	Долина драконьего рода#Насмешка палящего гнева
 //№МґП№МјЗёКЕШЅєЖ®	
-201	Forest of Beasts#Cave of Iron Beast Tribe
-202	Forest of Beasts#Forest of Magic Seal
-203	Etherain Sewer#Grave of the Siegel Knights
-204	Etherain Sewer#Room of Knight 
-205	Forest of Beasts#Black River Bridge
-206	Forest of Beasts#Wolf Cave
-207	Forest of Beasts#Base of Beast Forest Tribes
-208	Forest of Beasts#Beast Forest Wolf Cave
-209	Forest of Beasts#Omadu's Camp
-210	Etherain Sewer#Maze of Gate
-211	Etherain Sewer#Inside of Sternhugel's charnel house
-212	Frozen Palace#Guard Post
-213	Frozen Palace#Frozen Garden
-214	Frozen Palace#Outside the Castle Walls
-215	Frozen Palace#Inside the Castle
-221	Frozen Palace#Road to the Frozen Palace
+201	Лес зверей#Пещера племени Железного зверя
+202	Лес зверей#Лес магической печати
+203	Стоки Этерейна#Могила рыцарей Сигеля
+204	Стоки Этерейна#Зал рыцаря
+205	Лес зверей#Мост через Чёрную реку
+206	Лес зверей#Волчья пещера
+207	Лес зверей#База племён Звериного леса
+208	Лес зверей#Волчья пещера Звериного леса
+209	Лес зверей#Лагерь Омаду
+210	Стоки Этерейна#Лабиринт врат
+211	Стоки Этерейна#Внутри склепа Штернхугеля
+212	Замёрзший дворец#Сторожевой пост
+213	Замёрзший дворец#Замёрзший сад
+214	Замёрзший дворец#Снаружи стен замка
+215	Замёрзший дворец#Внутри замка
+221	Замёрзший дворец#Дорога к Замёрзшему дворцу
 //070325_АъБЦ№ЮАє Еѕ БцїЄён ГЯ°Ў 225~232	
-225	Emerald Sanctuary#Trial of Earth
-226	Emerald Sanctuary#Hall of Wiesbaden
-227	Sapphire Sanctuary#Trial of Water
-228	Sapphire Sanctuary#Hall of Luiren
-229	Ruby  Sanctuary#Trial of Fire
-230	Ruby  Sanctuary#Hall of Mara
-231	Diamond Sanctuary#Trial of Wind
-232	Diamond Sanctuary#Hall of Despinion 
+225	Изумрудное святилище#Испытание земли
+226	Изумрудное святилище#Зал Висбадена
+227	Сапфировое святилище#Испытание воды
+228	Сапфировое святилище#Зал Луирена
+229	Рубиновое святилище#Испытание огня
+230	Рубиновое святилище#Зал Мары
+231	Алмазное святилище#Испытание ветра
+232	Алмазное святилище#Зал Деспиниона
 //їНАМµе open message	
 //ѕЯјцµйАЗ ЅЈ	
-310	They needed a larger assembly area and more resources to fight the huge Empire force.#The leader of Rochel offered to cooperate with Ignis who was looking for a stationing base.
-311	"However, she had to pass through the Forest of Beasts to get in touch with him. And the battles, that arose with beasts under the control of Dark Knights, were unavoidable."
+310	Им нужны были более просторное место сбора и больше сил, чтобы противостоять огромному войску Империи.#Предводитель Рошеля предложил союз Игнис, которая искала место для стоянки.
+311	"Однако, чтобы связаться с ним, ей пришлось пройти через Лес зверей. И сражений со зверями, подвластными Тёмным рыцарям, было не избежать."
 //БцЗПјц·О	
-312	The Rebel Army has emerged victorious from the fierce fights in the Forest of Beasts. #But now they have arrived at another checkpoint to Etherain -- the Sewer.#It is a place where evil spirits and Empire's Undead Legion roam about.#In order to reach Etherain, you must pass through this Sewer.
+312	Мятежная армия вышла победительницей из жестоких боёв в Лесу зверей. #Но теперь перед ней новая преграда на пути в Этерейн — стоки.#Там бродят злые духи и Легион нежити Империи.#Чтобы добраться до Этерейна, нужно пройти эти стоки.
 //јіїш	
 //Mini Mission Open	
 //ѕЯјцµйАЗ ЅЈ	
-401	"The wedges that were formed nearby the Iron Beast Tribe's Village#cast off foul Black Ether, and began polluting the nature.#Guidance recognized that these were having the same effect as the Ether Plant,#hence, dispatched its elite agents to investigate its connection with the Empire."
+401	"Клинья, вбитые близ деревни племени Железного зверя,#источали мерзкий чёрный эфир и отравляли природу.#Ведущие поняли, что действуют они так же, как завод Эфира,#и потому отправили своих лучших бойцов выяснить их связь с Империей."
 //БцЗПјц·О	
-403	They have now become Empire's pawns, and only way to pay respects to them,#is to give them eternal rest.
+403	Теперь они стали пешками Империи, и единственный способ почтить их —#даровать им вечный покой.
 //060502ј­єк№МјЗіЄ·№АМјЗ	
 //ѕЯјцЅЈSM3	
-406	"One calm night, sound of loud explosion came from the town gate.#The Iron Beast Tribe and the Blue Thunder Tribe of the Forest of Beasts had joined forces to attack the village.#Vigilantes and the soldiers of the Liberation Army# were able to drive them out after a bloody battle that lasted until dawn."
-407	The Captain of The Village Guard, commanding both his unit and the Liberation Army,#will attack the frontline of the Beast Forest Tribes with most of his military force,#while launching a risky surprise attack from the rear with only his best men.
+406	"Одной тихой ночью от городских врат донёсся грохот взрыва.#Племя Железного зверя и племя Синей Молнии из Леса зверей объединились и напали на деревню.#Дружинники и бойцы Освободительной армии# сумели отбросить их после кровавой битвы, длившейся до рассвета."
+407	Капитан деревенской стражи, ведя и свой отряд, и Освободительную армию,#ударит по передовым силам племён Звериного леса основными силами,#а сам с лучшими бойцами пойдёт на рискованный удар с тыла.
 //БцЗПјц·ОSM2	
-408	As a part of the operation to seize control of Etherain, a number of arrangements were made from within Etherain.#Te Army Command ordered you to meet#Lady Schupennigel, an Etherain Senator.#The goal was to travel within the underground sewer in utmost secrecy toward an undisclosed rendezvous point.
-409	However, the Sewer is swarming with Undead soldiers.#It is impossible#to pass the Sewer without confronting them.
+408	В рамках операции по взятию Этерейна внутри города многое было подготовлено заранее.#Командование приказало вам встретиться#с госпожой Шупеннигель, сенатором Этерейна.#Нужно было пройти подземными стоками в полной тайне к условленному месту встречи.
+409	Однако стоки кишат солдатами-нежитью.#Пройти их,#не столкнувшись с ними, невозможно.
 //јіїшј­єк3	
-411	"But, as expected,#the Imperial Army is waiting in vast numbers on the road to the Inner Palace.#To the Guidances facing the most severe trial ever,#the beautiful surrounding scenery looked almost cruel."
+411	"Но, как и ожидалось,#на дороге к Внутреннему дворцу имперская армия ждёт в великом множестве.#Ведущим, перед которыми встало тягчайшее испытание,#красота окрестных мест казалась почти жестокой."
 //061024_јіїшSM1_іЄ·№АМјЗАУЅГ	
 //061024_јіїшSM1_іЄ·№АМјЗ	
-412	"Secret documents from Etherain's corrupted nobles#exposed that the Imperial Army is on its way towards us. #Ignis ordered our troops to advance to the Snowy Plains. "
-413	"As the Liberation army advancted towards the Snowy Plains,#an agent had reported that the Empire's messenger is heading towards the Frozen Palace in the Snowy Plains.#As this could cause major problems, Ignis dispatched elite members of the Guidance to intercept the enemy's messengers."
+412	"Тайные документы продажной знати Этерейна#раскрыли, что имперская армия идёт на нас. #Игнис приказала нашим войскам выступить к Снежным равнинам."
+413	"Когда Освободительная армия двинулась к Снежным равнинам,#агент донёс, что имперский гонец направляется к Замёрзшему дворцу на Снежных равнинах.#Это грозило большими бедами, и Игнис отправила лучших Ведущих перехватить вражеских гонцов."
 //061026_БцЗПјц·ОSM3_іЄ·ЎАМјЗ	
-414	"Centuries ago, the nobility fleeing from the confusion of war in the eastern lands used secret sewers to make their escape.#Ignis has decided to use these sewers to attack Etherain.#However, there are unexpected suprises awaiting them in these long deserted sewers."
-415	"Ignis felt a need for a map that could be used for strategy in comparing the old and present forms of the Sewer,#after trackers got lost or died there in their efforts to explore it.#Ignis gave the brave volunteers orders to explore the Sewer, where numerous dangers awaited,#and to complete a new map."
-416	Members of the Guidance, who had eliminated the Empire's messengers, were now advancing towards the Frozen Palace under orders from Ignis.#But the Imperial Army knew that Liberation Army was on its way, #and prepared for battle from inside the castle.
-417	"Members of the Demon Army, the Bloody Frost Demons and Blade Ice Demons,#laid their pride in defending the Frozen Palace. #Subsequently, there was no opening for penetration, and it seemed as though bringing down the castle would be impossible."
-418	But as the Guidance have turned the impossible to possible in many occassions,#they pressed on without any fear, to achieve yet another miraculous victory.
+414	"Века назад знать, бежавшая от смуты войны в восточных землях, уходила тайными стоками.#Игнис решила воспользоваться ими для удара по Этерейну.#Однако в этих давно заброшенных стоках их ждут неожиданности."
+415	"Игнис сочла, что нужна карта, по которой можно сравнить прежний и нынешний вид стоков и строить план,#после того как следопыты там заблудились или погибли, пытаясь их исследовать.#Игнис приказала храбрым добровольцам исследовать стоки, где таилось множество опасностей,#и составить новую карту."
+416	Ведущие, уничтожившие гонцов Империи, по приказу Игнис двинулись к Замёрзшему дворцу.#Но имперская армия знала, что Освободительная армия на подходе, #и готовилась к бою внутри замка.
+417	"Бойцы армии демонов — Кровавые морозные демоны и Демоны ледяного клинка —#положили свою гордость на оборону Замёрзшего дворца. #И бреши для прорыва не было, а взять замок казалось невозможным."
+418	Но Ведущие не раз обращали невозможное в возможное,#и потому шли вперёд без страха — к новой чудесной победе.
 //070126_їлБ·SM1_іЄ·ЎАМјЗ	
 431	The Liberation Army, with a critical mission to collect information on the #Imperial ArmyЎЇs recent route heading to the Volcano and the whereabouts of the Dragonkins, is heading for the Valley of the Dragonkin where tremendous danger awaits.
 //070126_їлБ·SM2_іЄ·ЎАМјЗ	
-435	After the first search operation in the Valley of the Dragonkin,#the suspicion regarding the Valkyrie in the Liberation Army becomes strong.#The Valkyrie Clan tries to identify the origin of the rumor in order to prove its innocence.
-436	A clan member Genesia, with the Guidances to protect her,#is assigned to find out the truth of the fearful words and to trace the spirits.#And Genesia, who feels the great power of the spirits at the foot of a hill of Dragonkins,#requests investigation into the inner part of the valley.
+435	После первой поисковой операции в Долине драконьего рода#подозрения в отношении валькирий в Освободительной армии усилились.#Клан валькирий пытается найти источник слухов, чтобы доказать свою невиновность.
+436	Члену клана Генезии, которую охраняют Ведущие,#поручено выяснить правду об этих пугающих словах и проследить за духами.#И Генезия, чувствуя великую силу духов у подножия холма драконьего рода,#просит исследовать глубины долины.
 //070212_їлБ·SM3_іЄ·ЎАМјЗ	
-440	Guidances found that the old man captured by the Death Dragons was Adrige Diorasis, a senior member of the Dragonkin.#They decided they should rescue him in order to accomplish a meeting between the Liberation Army and the Dragonkin.
-441	"In a further attempt to prove their allegiance to the Liberation Army, a contingent of the Valkyries volunteers to scout the area.#They trace Diorasis to the very depths of the Valley of the Dragonkin."
-442	The Guidances knew well that they were running out of time.#They had to proceed through the Valley to ensure the freedom of all living creatures in the land.
+440	Ведущие выяснили, что старик, захваченный Драконами Смерти, — это Адридж Диорасис, старейшина драконьего рода.#Они решили спасти его, чтобы состоялась встреча Освободительной армии и драконьего рода.
+441	"Чтобы вновь доказать верность Освободительной армии, отряд валькирий вызывается разведать местность.#Они прослеживают путь Диорасиса до самых глубин Долины драконьего рода."
+442	Ведущие хорошо понимали, что времени остаётся мало.#Им нужно было пройти долину, чтобы добыть свободу всему живому на этой земле.
 //061026_БцЗПјц·ОSM4_іЄ·ЎАМјЗ	
-443	The Imperial Army, threatened by a series of victories by the Liberation Army,#planned to establish a stronger unit of the Undead upon the proposal by Helron.
-444	The Imperial Army imprisoned Caradin's clan, who were captured by the Death Dragons#in the secret underground lab of Etherain,#and continued its research in creating invincible Undead.
-445	However, when their research was nearly complete,#a traitor in the Imperial Army tipped off the Liberation Army concerning information on the research lab.#The heads of army then dispatched select soldiers from the Liberation Army#to destroy the research lab and rescue the Dragonkin.
+443	Имперская армия, напуганная чередой побед Освободительной армии,#задумала по предложению Хелрона создать более мощный отряд нежити.
+444	Имперская армия заточила клан Карадина, захваченный Драконами Смерти,#в тайной подземной лаборатории Этерейна#и продолжила опыты по созданию непобедимой нежити.
+445	Однако, когда работы были почти завершены,#предатель в имперской армии сообщил Освободительной армии сведения о лаборатории.#Тогда командование отправило отборных бойцов Освободительной армии#уничтожить лабораторию и спасти драконий род.
 //ј­єк№МјЗ ёЮЅГБц	
 //ѕЯјцЅЈSM1	
-501	The crazy Mage fell down and dropped something.# It looks like a claw of a unknown creature.
-502	Stone statue looks like it's alive.#But it does not show any changes even when it's touched.
-503	A sharp canine tooth is sticking out of the dead monster.
-504	The portal to the forest has opened.
-505	The Iron Beast Tribe's Sorcerer dropped a blood-filled bottle.
-506	You have uncovered identity of the monsters in Forest of Beast, and slain many of their numbers.#Your mission is complete.
+501	Безумный маг пал и что-то выронил.# Похоже на коготь неведомого существа.
+502	Каменная статуя выглядит живой.#Но даже на прикосновение она никак не отзывается.
+503	Из мёртвого чудовища торчит острый клык.
+504	Портал в лес открылся.
+505	Колдун племени Железного зверя выронил бутыль, полную крови.
+506	Вы выяснили, что за чудовища в Лесу зверей, и перебили многих из них.#Миссия выполнена.
 //ѕЯјцЅЈSM2	
-507	The lever is fixed in place.#It is impossible to operate.
-508	Behind the wall is blocked.#There is no way to break through.
-509	The portal suddenly opens!
-510	The Watchman has fallen.#He probably has the key to the cell.
-511	The lock on the cell is remarkably solid, and can't be broken.#You'll have to find the key.
-512	This door has no keyhole. You'll have to find another way to open it.
-513	The surrounding air vibrates and suddenly blows in one direction.#Looks like a portal has been created somewhere.
-514	After touching the closed door, quiet spellcasting sound reverberates from all around, and you get the sense something has been altered.#However, you don't know what.
+507	Рычаг закреплён намертво.#Сдвинуть его невозможно.
+508	За стеной проход закрыт.#Пробиться никак нельзя.
+509	Портал внезапно открывается!
+510	Страж пал.#Ключ от камеры, вероятно, у него.
+511	Замок на камере на редкость прочен, его не сломать.#Придётся найти ключ.
+512	В этой двери нет замочной скважины. Нужно искать другой способ.
+513	Воздух вокруг дрожит и вдруг устремляется в одну сторону.#Похоже, где-то открылся портал.
+514	Вы касаетесь запертой двери, и со всех сторон отзывается тихий напев заклинания — что-то изменилось.#Только вот что, неясно.
 //ѕЯјцЅЈSM2:°б°иАЗЅЈ	
-515	[Thank you! I will eliminate the barrier, so you can go destroy the pillar of Black Ether, and cut off its roots.]
-516	The energy of Black Ether thins out.
-517	[Thank you for your help! I will remove the barrier, so you can destroy the root of Iron Tribe's Black Ether.]
-518	[Free at last.. It seems I still have enough strength to destroy the barrier created by the pillar of Black Ether.]
-519	[How noble of you! I will gladly lend my powers to help you.]
-520	Force of Black Ether, surrounding the forest, has weakened.
-521	The appearance of the last Elementalist begins to distort.
-522	[Not bad for a human. But this is as far as you'll go. Your life ends now!]
-523	You have foiled the Iron Beast Tribe's plan to extract the Black Ether by using the Elementalist. #Your mission is complete!
-524	An alarm begins to ring throughout the forest!
-525	The Pillar is being protected. Find the origin of this Ether and destroy it to remove the Black Ether.
-526	This Pillar is protected by the power of the Ether Pillar enrooted in the forest.#To get rid of it, you will need to destroy the other Ether Pillar first.
+515	[Спасибо! Я сниму барьер, а вы ступайте и разрушьте столп чёрного эфира, отсеките его корни.]
+516	Энергия чёрного эфира слабеет.
+517	[Спасибо за помощь! Я сниму барьер, а вы уничтожьте корень чёрного эфира Железного племени.]
+518	[Наконец-то свободен... Кажется, сил у меня ещё хватит, чтобы разрушить барьер, созданный столпом чёрного эфира.]
+519	[Как благородно! С радостью одолжу вам свою силу.]
+520	Сила чёрного эфира, окутавшая лес, ослабла.
+521	Облик последнего элементалиста начинает искажаться.
+522	[Неплохо для человека. Но дальше ты не пройдёшь. Твоя жизнь кончается здесь!]
+523	Вы сорвали замысел племени Железного зверя добывать чёрный эфир с помощью элементалиста. #Миссия выполнена!
+524	По лесу разносится сигнал тревоги!
+525	Столп защищён. Найдите источник этого эфира и уничтожьте его, чтобы избавиться от чёрного эфира.
+526	Этот столп защищён силой эфирного столпа, укоренившегося в лесу.#Чтобы избавиться от него, сначала придётся уничтожить другой эфирный столп.
 //ѕЯјцЅЈSM3:АЅёрАЗєРјв	
-527	It's not moving.
-528	Looks like the device has been properly operated.
-529	Horn sounds! Enemies will detect this location soon.
+527	Не двигается.
+528	Похоже, устройство сработало как надо.
+529	Звучит рог! Скоро враги узнают об этом месте.
 //ѕЯјцЅЈSM3:ѕЯјцЅЈАФ±ёёЮЅГБц	
-530	These are the bones of those who have fallen prey to the wolves.
-531	Loads are scattered all over the place. Nothing seems useful.
-532	You have foiled the Empire's plan to, invade the village by commanding the tribes from Forest of Beasts.#Your mission is complete.
+530	Это кости тех, кто стал добычей волков.
+531	Поклажа разбросана повсюду. Ничего полезного не видно.
+532	Вы сорвали замысел Империи захватить деревню, подчинив племена Леса зверей.#Миссия выполнена.
 //БцЗПјц·ОSM3:ГЯ°ЎёЮЅГБц	
-533	The portal doesn't work.
-534	You hear a noise as the portal suddenly opens.
-535	The seal has been removed. From the distance comes the sound of a door opening.
-536	Removing this seal has allowed the Siegel Knights to escape their curse and begin their eternal, peaceful slumber. #Your mission is complete.
+533	Портал не работает.
+534	Раздаётся шум, и портал внезапно открывается.
+535	Печать снята. Издалека доносится звук открывающейся двери.
+536	Снятие печати позволило рыцарям Сигеля избавиться от проклятия и обрести вечный мирный сон. #Миссия выполнена.
 //БцИчјц·ОSM2:АМ»зє§°ъАЗБў°Я	
-537	It doesn't open. Some powerful force protects this door.
-538	The Elementalist is totally captivated.# It is useless to tell her anything else.
-539	It is sealed by a powerful force.
-540	You can sense danger on the other side of the door.
-541	The mission is complete.
+537	Не открывается. Дверь защищает некая мощная сила.
+538	Элементалистка полностью зачарована.# Говорить ей что-либо бесполезно.
+539	Запечатано мощной силой.
+540	За дверью чувствуется опасность.
+541	Миссия выполнена.
 //ГЯ°Ў	
-542	Black Ether barrier spreads over the surrounding, and blocks the road!
-543	Wolves' howling grows louder.
-544	A noxious blue cloud begins to gather at your feet. It's a toxic gas!
-545	Poisonous cloud trap has been removed.
-546	It seems that a Sorcerer from the Iron Beast Tribe is using the root of Black Ether to create a magical force field.
-547	A strong spell enshrouds the root.#You must release this spell first in order to remove the magical barrier.
-548	As you yank the door, dark and evil force gushes out from the crack in the door.#Door cannot be opend by physical means.
-549	The corpse comes alive before your eyes!
+542	Барьер чёрного эфира расползается вокруг и перекрывает дорогу!
+543	Волчий вой становится громче.
+544	У ваших ног собирается ядовитое синее облако. Это отравляющий газ!
+545	Ловушка с ядовитым облаком обезврежена.
+546	Похоже, колдун племени Железного зверя создаёт магическое силовое поле с помощью корня чёрного эфира.
+547	Корень окутан мощным заклинанием.#Сначала нужно снять его, чтобы убрать магический барьер.
+548	Вы дёргаете дверь, и из щели вырывается тёмная злая сила.#Дверь не открыть силой.
+549	Труп оживает у вас на глазах!
 //060413ГЯ°Ў	
-550	As the stone statue's lid is opened, it emanates a strange energy.
-551	A Lassare Tribe warrior is released from the  stone statue!#He seems ready for a fight as he stares directly at you.
-552	Wolves contaminated by the Black Ether have been released!
-553	A Beast Forest Tribe's mage has been released, and stares at you with a lunatic's grin.
-554	As the stone statue breaks, magic energy spills out and seems to move toward a specific direction-#to the ground beyond the door!
-555	A portal has been opened.
-556	It is the dwelling place of Ohma, the Vice-Chieftain of the Iron Beast Tribe!
-557	The Black Ether totem at the entrance begins to rumble.# Unless you destroy it, it will summon Ohma's forces to come protect him.
-558	As the Black Ether totem is removed, the alarm goes silent.
-559	An invisible force blocks the entrance to the cave!
-560	The entrance is firmly sealed. You cannot go any further this way.
-561	The door doesn't budge.
-562	When the door is touched, you hear the twang of a spring being released.
-563	The cell has been opened.
-564	As the forces of Black Ether scatters, door at the back of pillar breaks down.
+550	Крышка каменной статуи открывается, и из неё исходит странная энергия.
+551	Из каменной статуи вырвался воин племени Лассар!#Он в упор смотрит на вас и явно готов драться.
+552	Волки, заражённые чёрным эфиром, вырвались на волю!
+553	Маг племени Звериного леса вырвался и смотрит на вас с безумной ухмылкой.
+554	Каменная статуя раскалывается, магическая энергия выплёскивается и устремляется в одну сторону —#к земле за дверью!
+555	Портал открылся.
+556	Это логово Омы, заместителя вождя племени Железного зверя!
+557	Тотем чёрного эфира у входа начинает гудеть.# Если его не уничтожить, он призовёт силы Омы ему на защиту.
+558	Тотем чёрного эфира уничтожен, и тревога смолкла.
+559	Невидимая сила перекрывает вход в пещеру!
+560	Вход наглухо запечатан. Этим путём дальше не пройти.
+561	Дверь не поддаётся.
+562	От прикосновения к двери слышен щелчок отпущенной пружины.
+563	Камера открыта.
+564	Силы чёрного эфира рассеиваются, и дверь за столпом рушится.
 //060415ГЯ°Ў	
-565	Black roots sprung out, and blocked the road!#The sound of the Beast Forest Tribe looking for a prey can be heard!
-566	The root blocking the road has vanished.
-567	The door of Ruins is closed! It seems that you fell into the Beast Forest Tribe's trap.
-568	Door has opened!
-569	Wrong lever.
-570	The pile of logs is falling down!
-571	The force of Black Ether blocks your passage!
-572	It seems that the Iron Beast Tribe's Sorcerer is using the Black Ether to create a magical barrier.
-573	It's an ambush from the Iron Beast Tribe! They're avenging the death of their leader!
+565	Взметнулись чёрные корни и перекрыли дорогу!#Слышно, как племя Звериного леса ищет добычу!
+566	Корень, преграждавший дорогу, исчез.
+567	Дверь руин закрылась! Похоже, вы попали в ловушку племени Звериного леса.
+568	Дверь открылась!
+569	Не тот рычаг.
+570	Штабель брёвен рушится!
+571	Сила чёрного эфира преграждает вам путь!
+572	Похоже, колдун племени Железного зверя создаёт магический барьер с помощью чёрного эфира.
+573	Это засада племени Железного зверя! Они мстят за гибель своего вожака!
 //060416ГЯ°Ў	
-574	The door opens automatically with a creepy sound.#It seems to invite you inside.
-575	The closed door is suddenly thrown open, and the air around you is thick with a dark, ominous presence.
-576	Just as the Mage is removed, the droning chant of a spell can be heard.#Something in the air feels different.
-577	It is a false portal! A strange babble of voices can be heard coming from the entrance!
-578	A portal has been created at the entrance.
-579	Once the Mage is eliminated, the magical energy that was binding the Elementalist disappears.
-580	Door opens!
-581	Door closes!
-582	Door is fixed.
+574	Дверь открывается сама с жутким звуком.#Словно приглашает войти.
+575	Запертая дверь вдруг распахивается, и воздух вокруг густеет от тёмного зловещего присутствия.
+576	Едва маг повержен, слышится монотонный напев заклинания.#Воздух будто изменился.
+577	Это ложный портал! От входа доносится странный гомон голосов!
+578	У входа возник портал.
+579	Как только маг уничтожен, магическая энергия, сковывавшая элементалистку, исчезает.
+580	Дверь открывается!
+581	Дверь закрывается!
+582	Дверь закреплена.
 //060502ГЯ°Ў	
-583	As the stone statue is touched, ball of Ether starts to glow, and the nearby stone statues start to make wolves' howling sound.#Other than that, there seems to be no other change.
+583	От прикосновения к каменной статуе шар эфира начинает светиться, а соседние статуи издают волчий вой.#Больше ничего вроде бы не меняется.
 //060507єёЅє·лјцБ¤	
 //їНАМµе ї¬Гвїл(АМєҐЖ® Ж®ё®°Е »зїл)	
-301	Mage Bayon was sent by the Helron Demons in the East.#You must defeat the evil Mage to open the path in the forest.
-302	"Cerberus, the Beast King Rufus, which has gained an incredible destructive power through the Demon's experiments, has shown itself. #You will soon reach the end of the forest.#The Rebel Army has once again raised their fighting spirit."
-303	"You have finally reached the end of the Forest of Beasts. The Place of Despair.#The Rebel Army decides to sacrifice the Ice Dragon Nivalith for their first victory.#Now there is only advance and victory for the rebels."
-304	Dark creatures lurk in the underground passage waiting to take human lives.#In front of these creatures is the First Captain Bloody Armor Konus.#The Rebel Army advance once again towards freedom.
-305	"Once a magnificent and glorious party room#is now the nesting place of the dark creatures.#In order to find the glorious light again, the Second Captain Dark Knight Kirsh must be defeated."
-306	"Long ago, forgotten now but place where the magnificient King once stood.#For the history that will be written in the future.#Empire Knight Otto will lay victim to the glorious Rebel Army's second victory."
-307	The Frozen Palace's first guard is Captain Hark.#He must be defeated to open the path to the victory.
-308	White Castle, which has lost its dignity and beauty,#craves for the life of all its visitors.#The Rebel Army must pass through the snowy castle,#which is guarded by Priest Baron who has forsaken his god.
-309	"The once kind master of the Snowy Plains, was captivated by the Ether's power,#and became the slave of the castle and Ether.#The Rebel Army fought through the extreme cold, and reached the master of the castle.#Once again, they face death in the name of victory."
+301	Мага Байона прислали демоны Хелрона с востока.#Чтобы открыть путь в лесу, злого мага нужно одолеть.
+302	"Цербер — Король зверей Руфус, обретший невероятную разрушительную силу в опытах демонов, явил себя. #Скоро вы доберётесь до края леса.#Мятежная армия вновь воспряла духом."
+303	"Вы наконец достигли края Леса зверей. Места Отчаяния.#Мятежная армия решает принести в жертву Ледяного дракона Нивалита ради первой победы.#Теперь для мятежников есть лишь путь вперёд и победа."
+304	В подземном проходе таятся тёмные твари, жаждущие человеческих жизней.#Во главе их — Первый капитан Конус в Кровавой броне.#Мятежная армия вновь идёт к свободе.
+305	"Некогда пышный и славный пиршественный зал#ныне стал гнездом тёмных тварей.#Чтобы вновь обрести славный свет, нужно одолеть Второго капитана, Тёмного рыцаря Кирша."
+306	"Давно забытое место, где некогда стоял великолепный Король.#Ради истории, которую напишут в будущем.#Имперский рыцарь Отто падёт жертвой второй победы славной Мятежной армии."
+307	Первый страж Замёрзшего дворца — капитан Харк.#Его нужно одолеть, чтобы открыть путь к победе.
+308	Белый замок, утративший своё достоинство и красоту,#жаждет жизни каждого, кто в него входит.#Мятежной армии нужно пройти снежный замок,#который охраняет жрец Барон, отрёкшийся от своего бога.
+309	"Некогда добрый владыка Снежных равнин был пленён силой эфира#и стал рабом замка и эфира.#Мятежная армия пробилась сквозь лютый холод и добралась до владыки замка.#И вновь они глядят в лицо смерти во имя победы."
 //06519ГЯ°Ў	
-584	A low and threatening voice can be heard.#[Are you from the Empire? You won't get past here!]
-585	The lost spirit of Ermunt appears and blocks your path!
-586	Ermunt has been defeated but it seems he is not finished yet.#His body must be in the underground somewhere.
+584	Слышен низкий угрожающий голос.#[Ты из Империи? Дальше ты не пройдёшь!]
+585	Заблудший дух Эрмунта появляется и преграждает путь!
+586	Эрмунт повержен, но, похоже, это ещё не конец.#Его тело должно быть где-то в подземелье.
 //060521јіїшMF1ГЯ°Ў	
-51	The alarm sounds from the Black Ether Pillar!#Nearby Empire soldiers will hear the alrarm and come soon!
-52	The Woodman's Seal is protecting the lever.#It looks like the Woodman needs to be defeated before the lever can be moved.
-53	The icy path near the cliff is falling down!#We must find another way to cross.
-54	The Woodman has been defeated.#The lever under the log starts to shake. It looks like it can be moved now.
-55	The log falls and creates a bridge.#It looks dangerous but there is no other way.
-56	The bridge starts to move.
-57	The bridge is going back up!
-58	The sound of the pulley moving the bridge alerted the Imperial Army of your position.#The enemy is approaching the snowy passage!
-59	Empire's alarm sounds from the Black Ether pillar!
-60	The Black Ether pillar is destroyed and the alarm sound has stopped.#There should be less enemies that will notice your advance.
-61	It is covered in solid ice.#The ice feels unnatural. There must be another way than melting the ice.
-62	When you touch the ice again, a resonating sound can be heard from across the bridge.
-63	"As you get close to the ice pillar, weird chant like voices can be heard.#[Those who seek the King's audience must meet the cold spirit's breath. Warm blooded creatures can never approach the King's Hall]."
-64	A form can be seen moving in the cold air!#It's the ice spirit!
-65	With the ice spirit gone, the unnatural coldness starts to disappear.#The castle gate lever can be controlled now.
-66	You can see the Empire's demon officer running out from the castle gate!#You must defeat him to enter the castle!
-67	Finally, the castle's inner gate is open.
-68	With the guardian defeated, the portal to the castle's garden is opened.
+51	От столпа чёрного эфира звучит тревога!#Имперские солдаты поблизости услышат её и скоро явятся!
+52	Печать Дровосека защищает рычаг.#Похоже, чтобы сдвинуть рычаг, нужно одолеть Дровосека.
+53	Ледяная тропа у обрыва обрушивается!#Нужно искать другой путь.
+54	Дровосек повержен.#Рычаг под бревном начинает подрагивать. Похоже, теперь его можно сдвинуть.
+55	Бревно падает и образует мост.#Выглядит опасно, но другого пути нет.
+56	Мост приходит в движение.
+57	Мост снова поднимается!
+58	Скрип блока, двигающего мост, выдал ваше положение имперской армии.#Враг приближается к снежному проходу!
+59	От столпа чёрного эфира звучит имперская тревога!
+60	Столп чёрного эфира уничтожен, тревога смолкла.#Теперь меньше врагов заметит ваше продвижение.
+61	Всё покрыто крепким льдом.#Лёд кажется неестественным. Должен быть другой способ, кроме как растопить его.
+62	Стоит снова коснуться льда, как с той стороны моста доносится гулкий отзвук.
+63	"Когда вы подходите к ледяному столпу, слышны странные, похожие на напев голоса.#[Кто ищет встречи с Королём, должен встретить дыхание холодного духа. Теплокровным к Залу Короля не приблизиться]."
+64	В холодном воздухе виднеется движущийся силуэт!#Это дух льда!
+65	С исчезновением духа льда неестественный холод отступает.#Теперь рычагом ворот замка можно управлять.
+66	Видно, как из ворот замка выбегает имперский демон-офицер!#Его нужно одолеть, чтобы войти в замок!
+67	Наконец внутренние ворота замка открыты.
+68	Хранитель повержен, и портал в сад замка открылся.
 //060602јіїшMF2ГЯ°Ў	
-69	The maze's narrow path has been blocked by a wall! It looks like you have fallen into the Empire's trap!
-70	If you put your ear against the wall, faint sound of mechanical device can be heard.#There must be a device to move this somewhere.
-71	The lever is locked and can't be moved.
-72	You can hear the sound of rock moving from somewhere.
-73	An ice pillar shoots out from the ground to block your path!
-74	As the stone gate opens, coldness surrounds.#The snow spirit has appeared!
-75	It doesn't move. Another pulley must be activated before this can be moved.
-76	You hear the sound of iron chains moving.#The other pulley should be activated now.
-77	The sound of iron chains has stopped. The left pulley must be activated first to move the bridge.
-78	Pulleys on both sides of the bridge are moving.
-79	The bridge starts to move.
-80	As you approach the inner gate, angry voices fill your head.#[What kind of filth dares to step on Baron's grounds! I, Behilit will not tolerate this disrespectful deed!]
-81	Behilit's spell is blocking the gate.#You must find and defeat him to continue.
-82	It can't be opened by force. There must be another way to open the door.
-83	You can feel the distortion of energy in front of the door.#Behilit's clone has appeared! The clone must be defeated to get to the real Behilit.
-84	As Behilit's clone dies, sound of a rusty door opening can be heard from far away.
-85	With the second clone destroyed, whirlwind of energy springs up in the center of the garden.#You better prepare for battle.
-86	The door is sealed by a strong magic.#Priest Baron and his followers must be defeated to break the seal.
-87	The seal has been broken!
+69	Узкий проход лабиринта перекрыт стеной! Похоже, вы угодили в ловушку Империи!
+70	Если приложить ухо к стене, слышен слабый звук механизма.#Где-то должно быть устройство, которое её двигает.
+71	Рычаг заперт, сдвинуть его нельзя.
+72	Откуда-то доносится звук движущегося камня.
+73	Из земли вырывается ледяной столп и преграждает путь!
+74	Каменные врата открываются, и всё окутывает холод.#Появился снежный дух!
+75	Не двигается. Сначала нужно привести в действие другой блок.
+76	Слышен звук движущихся железных цепей.#Похоже, второй блок теперь работает.
+77	Звук железных цепей смолк. Чтобы сдвинуть мост, сначала нужно привести в действие левый блок.
+78	Блоки по обе стороны моста пришли в движение.
+79	Мост приходит в движение.
+80	Когда вы подходите к внутренним воротам, голову наполняют гневные голоса.#[Что за мразь смеет ступать на земли Барона! Я, Бехилит, не потерплю такой дерзости!]
+81	Заклинание Бехилита преграждает ворота.#Чтобы идти дальше, его нужно найти и одолеть.
+82	Силой это не открыть. Должен быть другой способ.
+83	Перед дверью чувствуется искажение энергии.#Появился двойник Бехилита! Его нужно одолеть, чтобы добраться до настоящего.
+84	Когда двойник Бехилита гибнет, издалека доносится скрип открывающейся ржавой двери.
+85	Со вторым уничтоженным двойником в центре сада взвивается вихрь энергии.#Лучше приготовиться к бою.
+86	Дверь запечатана мощной магией.#Чтобы сломать печать, нужно одолеть жреца Барона и его последователей.
+87	Печать сломана!
 //060607јіїшMF3ГЯ°Ў	
-88	"No matter how hard you push it, it doesn't budge.#You must find another way."
-89	As you approach the door, you feel a sharp coldness.#A magical device seems to be protecting the door. You must find a way to deactivate it first.
-90	You hear the sound of a door opening.
-91	You see a form appearing with the cold air in the center of the room!
-92	You were spotted by Steward Straugen and Chamberlain Elronsawe.
-93	The Ether Plant covering the body of Erihi has been destroyed with his death.#Your mission has been completed.
-94	"As you step forward, a low and deep voice echoes in the hall!#[This is the Guardian's Hall. You won't get the chance to face me unless you can wake up and defeat the guardians in the statues.]"
-95	Ambush by the Imperial Army!
-96	The Guardians of Schutzwalt appears! You must defeat them to enter the Garden of Inner Castle.
-97	The followers appear to protect the Priest Baron!
-98	Once Baron and his followers are defeated, the door's seal is broken.
-99	A weird force can be felt as if a strong presence has appeared in the hall.#You better prepare for a battle.
-1001	The door to the King's Hall has opened!#You can finally meet the King of the Frozen Palace!
-1002	Sharp icicles fall from the tree!
+88	"Как ни толкай, она не поддаётся.#Нужно искать другой путь."
+89	Когда вы подходите к двери, вас пробирает резкий холод.#Похоже, дверь защищает магическое устройство. Сначала нужно его отключить.
+90	Слышен звук открывающейся двери.
+91	В центре зала в холодном воздухе виднеется возникающий силуэт!
+92	Вас заметили управитель Страуген и камергер Элронсаве.
+93	Завод Эфира, оплётший тело Эрихи, разрушен вместе с его гибелью.#Миссия выполнена.
+94	"Стоит шагнуть вперёд, как в зале раскатывается низкий глубокий голос!#[Это Зал Хранителей. Ты не встретишься со мной, пока не разбудишь и не одолеешь хранителей в статуях.]"
+95	Засада имперской армии!
+96	Появились хранители Шутцвальта! Их нужно одолеть, чтобы войти в Сад внутреннего замка.
+97	Последователи являются на защиту жреца Барона!
+98	Когда Барон и его последователи повержены, печать на двери спадает.
+99	Ощущается странная сила, будто в зале возникло могучее присутствие.#Лучше приготовиться к бою.
+1001	Дверь в Зал Короля открылась!#Наконец-то можно встретиться с Королём Замёрзшего дворца!
+1002	С дерева падают острые сосульки!
 //060615јіїшMГЯ°Ў	
-1003	You knocked over the tree. You can use it as a bridge to cross the cliff.
-1004	You have crossed the cliff safely. Now, you must find a way to bring your friends across.
+1003	Вы повалили дерево. По нему можно перебраться через обрыв.
+1004	Вы благополучно перебрались через обрыв. Теперь нужно помочь перебраться друзьям.
 //060703јіїшM3	
-2001	The watchtowers are protected by the Sentries.
-2002	The boundary of observation post is protected by watchtowers.
-2003	The watchtowers have collapsed, and the alarm has been disabled.
-2004	[Frozen Palace Bridge Guard: No one shall pass through here!]
-2005	The bridge which was protected by the Frozen Palace Bridge Guards has fallen.#The alarm device has been broken!
-2006	The garden's boundary is protected by the Frozen Palace Bridge Guards.
-2007	3 seconds remaining before the automatic security alarm is activated by the watchtower.
-2008	2 seconds remaining before the automatic security alarm is activated by the watchtower.
-2009	1 second remaining before the automatic security alarm is activated by the watchtower.
-2010	[Ether Follower: Vermin! You will not go out here alive!!]
-2011	Bridge can be destroyed now.
-2012	15 seconds remaining before the automatic security alarm is activated by the watchtower.
-2013	10 seconds remaining before the automatic security alarm is activated by the watchtower.
-2014	5 seconds remaining before the automatic security alarm is activated by the watchtower.
-2015	3 seconds remaining before the automatic security alarm is activated by the bridge containing Ether energy.
-2016	[Ether Plant Watchman: We'll kill you all!]
-2017	"[Ether Plant Guardian: Whoever wakes me will regret it!]"
-2018	The force of Ether has weakened.
-2019	[West Garden Gatekeeper: My twin brother! It is time to wake up!]
-2020	[Frozen Palace Commander Misya: You fools! You cannot even take care of such a weakling?]
-2021	A portal has been created.
-2022	[Destruction Commander: People who disturb us......]
-2023	[Destruction Commander: You will come to lament your own stupidity...]
-2024	[Protection Commander: I will not let my friend's death be in vain!]
-2025	[Bow Commander: You'll never dodge my arrows!]
-2026	[Magic Commander: I will show what a real winter chill feels like.]
-2027	[Spear Commander: This is the end for you all!]
-2028	The magic seal is protected by the Ether Plant Guardian.#It is impossibe to penetrate.
-2029	The Ether power has been weakened, and the magic seal which was being protected by the Ether Plant Guardian has been broken!
-2030	The fake Ether Plant has been destroyed.
-2031	The Ether surrounding the area has combined to create a new magic barrier!
-2032	Cracks have been formed on the twin statue.
-2033	The watch tower has been activated.  Destory the tower before the alarm goes off!
-2034	[Twin brothers: If we aren't released, you will feel this same pain of ours!]
-2035	[Twin brothers: Wow! Thanks for saving us from the Ether!]
-2036	[Ether Plant Watchman: Just because you defeated us, don't think it's over!]
-2037	[Ether Plant Watchman: Not bad! I will not hold back this time!]
-2038	Ether's force is encircling the twin statues.
-2039	The alarm has been activated.
-2040	The bridge, containing Ether's energy, has been activated.#If you do not defeat the Frozen Palace Bridge Guards soon, the alarm will be triggered!
-2041	The Ether that has been encircling the twin statues is seeping into the castle.
-2042	The Ether Plant Watchmans have regained power.
-2043	You have been attacked by a cyclone.
-2044	2 seconds until the alarm is activated by the bridge containing Ether's energy.
-2045	1 seconds until the alarm is activated by the bridge containing Ether's energy.
-2046	Protected by the Gatekeeper.
-2047	Cracks begin form on the tree.
+2001	Сторожевые башни охраняются часовыми.
+2002	Границы наблюдательного поста защищены сторожевыми башнями.
+2003	Сторожевые башни рухнули, тревога отключена.
+2004	[Стражник моста Замёрзшего дворца: Здесь никто не пройдёт!]
+2005	Мост, который охраняли стражники моста Замёрзшего дворца, рухнул.#Устройство тревоги сломано!
+2006	Границы сада защищают стражники моста Замёрзшего дворца.
+2007	До включения сторожевой башней автоматической тревоги осталось 3 секунды.
+2008	До включения сторожевой башней автоматической тревоги осталось 2 секунды.
+2009	До включения сторожевой башней автоматической тревоги осталась 1 секунда.
+2010	[Последователь эфира: Мразь! Живым отсюда не выйдешь!!]
+2011	Теперь мост можно разрушить.
+2012	До включения сторожевой башней автоматической тревоги осталось 15 секунд.
+2013	До включения сторожевой башней автоматической тревоги осталось 10 секунд.
+2014	До включения сторожевой башней автоматической тревоги осталось 5 секунд.
+2015	До включения тревоги мостом с энергией эфира осталось 3 секунды.
+2016	[Страж завода Эфира: Мы убьём вас всех!]
+2017	"[Хранитель завода Эфира: Кто меня разбудит, тот пожалеет!]"
+2018	Сила эфира ослабла.
+2019	[Привратник Западного сада: Брат мой близнец! Пора просыпаться!]
+2020	[Командир Замёрзшего дворца Мися: Глупцы! Вы даже с таким слабаком не справились?]
+2021	Возник портал.
+2022	[Командир разрушения: Те, кто нам мешает......]
+2023	[Командир разрушения: Вы ещё оплачете собственную глупость...]
+2024	[Командир защиты: Я не дам гибели друга пропасть даром!]
+2025	[Командир лучников: От моих стрел вам не уйти!]
+2026	[Командир магии: Я покажу, что такое настоящая зимняя стужа.]
+2027	[Командир копейщиков: Вот вам и конец!]
+2028	Магическую печать защищает Хранитель завода Эфира.#Пробиться невозможно.
+2029	Сила эфира ослабла, и магическая печать, которую охранял Хранитель завода Эфира, сломана!
+2030	Поддельный завод Эфира уничтожен.
+2031	Эфир вокруг соединился и создал новый магический барьер!
+2032	На статуе близнецов появились трещины.
+2033	Сторожевая башня включилась. Разрушьте её, пока не сработала тревога!
+2034	[Братья-близнецы: Если нас не освободят, вы почувствуете ту же боль, что и мы!]
+2035	[Братья-близнецы: Ух ты! Спасибо, что спасли нас от эфира!]
+2036	[Страж завода Эфира: Не думайте, что всё кончено, раз вы нас одолели!]
+2037	[Страж завода Эфира: Неплохо! В этот раз я не буду сдерживаться!]
+2038	Сила эфира окружает статуи близнецов.
+2039	Тревога включена.
+2040	Мост, несущий энергию эфира, включён.#Если вы не одолеете стражников моста Замёрзшего дворца, сработает тревога!
+2041	Эфир, окружавший статуи близнецов, просачивается в замок.
+2042	Стражи завода Эфира вновь обрели силу.
+2043	На вас обрушился вихрь.
+2044	До включения тревоги мостом с энергией эфира осталось 2 секунды.
+2045	До включения тревоги мостом с энергией эфира осталась 1 секунда.
+2046	Защищено привратником.
+2047	На дереве начинают появляться трещины.
 2048	[Frozen Palace Priest: Those who chase the Ether PlantЎ¦ Such foolishness... I'll show you the Ether's power!]
-2049	The statue begins to melt.
-2050	5 seconds remaining until the alarm is actived by watchtower.
+2049	Статуя начинает таять.
+2050	До включения сторожевой башней тревоги осталось 5 секунд.
 //061020_јіїшSM1_F1_јцБ¤	
-1005	Surrounded by a chilly draft!
-1006	As Mage Kaila is defeated, the portal device glows and shows a portal to somewhere!
-1007	A portal to somewhere appears!
-1008	It is a temporary portal device of Etherain Mages, but it has been damaged by other Mages.
-1009	This is one of the devices that generate a portal to the Snowy Plains.#It will activate only if everyone connected by the [Life Seal] of the Empire is killed.
-1010	As all the assault troops are defeated, the device glows.#The [Portal Generation Device] has been activated.
-1011	The device seems to get transport magic power.#The device has been activated.
-1012	The [Temporary Portal] of Etherain Mages has been activated!#Now we are able to go to [Snowy Plains].
-1013	The entrance to the [Temporary Portal] is blocked by the life of the [Assault Squad Captain]!
-1014	The path is blocked by a wooden fence and frozen rocks.
+1005	Вас окружает ледяной сквозняк!
+1006	Когда маг Кайла повержен, портальное устройство озаряется и открывает куда-то проход!
+1007	Появился портал неизвестно куда!
+1008	Это временное портальное устройство магов Этерейна, но другие маги его повредили.
+1009	Это одно из устройств, открывающих портал к Снежным равнинам.#Оно заработает, только если убить всех, связанных [Печатью жизни] Империи.
+1010	Когда все штурмовики повержены, устройство озаряется.#[Устройство создания портала] включено.
+1011	Похоже, устройство получает силу переноса.#Устройство включено.
+1012	[Временный портал] магов Этерейна включён!#Теперь можно отправиться на [Снежные равнины].
+1013	Вход во [Временный портал] заперт жизнью [Капитана штурмового отряда]!
+1014	Путь перекрыт деревянной оградой и замёрзшими камнями.
 1015	The area behind the Snowflower Tree ClanЎЇs sentry looks cloudy.#It appears to be some kind of Magic Barrier.
-1016	You feel a swirl of a chilly draft in front of the Magic Barrier!#
+1016	Перед магическим барьером вы чувствуете вихрь ледяного сквозняка!#
 1017	The Snowflower Tree ClanЎЇs High Elementalist has appeared! You can sense the similar force as the Cliff's Magic Barrier from him.
-1018	The path is blocked by a frozen pillar.#This pillar is made of magical material and cannot be destroyed in the common manner.
-1019	As you approach the transport device, hidden enemies appear!
-1020	The frozen pillar falls, and an ice spirit emerges from the pillar!
+1018	Путь перекрыт замёрзшим столпом.#Столп сделан из магического вещества, и обычным образом его не разрушить.
+1019	Когда вы подходите к устройству переноса, появляются затаившиеся враги!
+1020	Замёрзший столп падает, и из него выходит дух льда!
 1021	The frozen pillar rises to block the path! It looks like weЎЇre trapped.
 //060810јіїшSM1_F2	
-1022	The temporary portal has lost power. #Find a way to reactivate the device to go back to the village. 
-1023	The castle gate's pully is frozen, and cannot be moved. 
-1024	"You can see Shutzwalt's [Frozen Palace] in the distance, where Empire's Ether Plant is said to be located.#Soon, we will invade the castle and destroy the Ether Plants inside."
-1025	As you approach the [Transport Device], white figures appear.#It's an Imperial Army ambush!
-1026	It's not been sealed with [Life Seal]. #[Transport Device] has been activated.
-1027	Cold air surrounds the [Transport Device].
-1028	As the last breath escapes from Ungoos's body, the [Life Seal] shatters.
-1029	The [Life Seal] linked to the Imperial [Spearman] has been shattered!
-1030	The [Life Seal] linked to the Imperial [Archer] has been shattered!
-1031	"These are Empire's [Life Seals], which have been frozen in the shape of pillars.#You must find Imperial Army linked to each pillar to release the seals."
-1032	Empire's [Life Seal] hinders the operation of [Transport Device].
-1033	Nothing happened. # There must be some inactive [Transport Device].
-1034	[Transport Device] has been activated.
-1035	You have not eliminated the Empire's messenger.#You cannot return until your mission is complete.
-1036	You have eliminated the Empire's messenger!#Your mission is complete!
-1037	The portal has teleported you to a strange place.
-1038	After killing the Mage in the cave, a return portal has opened.
+1022	Временный портал лишился силы. #Найдите способ снова включить устройство, чтобы вернуться в деревню.
+1023	Блок ворот замка замёрз, и сдвинуть его нельзя.
+1024	"Вдали виден [Замёрзший дворец] Шутцвальта, где, как говорят, находится завод Эфира Империи.#Скоро мы возьмём замок и уничтожим заводы Эфира внутри."
+1025	Когда вы подходите к [Устройству переноса], появляются белые фигуры.#Это засада имперской армии!
+1026	Оно не запечатано [Печатью жизни]. #[Устройство переноса] включено.
+1027	[Устройство переноса] окутывает холодный воздух.
+1028	С последним вздохом Унгуса [Печать жизни] рассыпается.
+1029	[Печать жизни], связанная с имперским [копейщиком], разрушена!
+1030	[Печать жизни], связанная с имперским [лучником], разрушена!
+1031	"Это [Печати жизни] Империи, вмороженные в столпы.#Чтобы снять их, нужно найти имперских воинов, связанных с каждым столпом."
+1032	[Печать жизни] Империи мешает работе [Устройства переноса].
+1033	Ничего не произошло. # Где-то должно быть невключённое [Устройство переноса].
+1034	[Устройство переноса] включено.
+1035	Вы не уничтожили гонца Империи.#Вернуться можно только по завершении миссии.
+1036	Вы уничтожили гонца Империи!#Миссия выполнена!
+1037	Портал перенёс вас в странное место.
+1038	После гибели мага в пещере открылся обратный портал.
 //060817јіїшSM1_ГЯ°Ў	
-1039	The Empire's summoning device appears, and magical barrier blocks the path! Soon enemies will arrive through the device
-1040	Once the summoning device is destroyed, path opens.
-1041	Once the summoning device is destroyed, magical field appears in front and back of the path, and figures start to take shape.#It's the Imperial Army's soldiers and Mages!
-1042	Empire's summoning device has appeared.
-1043	Summoning device has been destroyed.
-1044	The portal is opened but it does not work.#Destroy the root of the [Life Seal] that protects it to activate.
-1045	The portal starts moving! We can now go to the [Snowy Plains]
-1046	The Empire's magic is blocking the portal.#The Etherain Mage's [Temporary Portal Device] need to be activated to teleport to another place!
+1039	Появилось призывающее устройство Империи, и магический барьер перекрыл путь! Скоро через него прибудут враги.
+1040	Когда призывающее устройство уничтожено, путь открывается.
+1041	Когда призывающее устройство уничтожено, спереди и сзади возникают магические поля, и в них проступают фигуры.#Это солдаты и маги имперской армии!
+1042	Появилось призывающее устройство Империи.
+1043	Призывающее устройство уничтожено.
+1044	Портал открыт, но не работает.#Чтобы он заработал, уничтожьте корень [Печати жизни], что его защищает.
+1045	Портал приходит в движение! Теперь можно отправиться на [Снежные равнины].
+1046	Магия Империи блокирует портал.#Чтобы перенестись, нужно включить [Временное портальное устройство] мага Этерейна!
 //061001БцЗПјц·ОSM3	
 3001	YouЎЇve explored the sewer.
-3002	The enemy has located you, and will arrive in 1 minute.
-3003	Enemies are in pursuit!
-3004	You hear a wall falling somewhere. You may go through now.
-3005	30 seconds remaining.
-3006	20 seconds remaining.
-3007	10 seconds remaining.
-3008	The door is about to close.
-3009	The door has been opened.
-3010	5 seconds remaining.
-3011	The door is locked. You see a switch on the wall.
-3012	The alarm has been activated, and the enemies will arrive in 1 minute.
-3013	You find a piece of a map (1/5).
-3014	You find a piece of a map (2/5).
-3015	You find a piece of a map (3/5).
-3016	You find a piece of a map (4/5).
-3017	You find a piece of a map (5/5).
+3002	Враг обнаружил вас и прибудет через минуту.
+3003	Враги в погоне!
+3004	Где-то слышно, как падает стена. Теперь можно пройти.
+3005	Осталось 30 секунд.
+3006	Осталось 20 секунд.
+3007	Осталось 10 секунд.
+3008	Дверь вот-вот закроется.
+3009	Дверь открыта.
+3010	Осталось 5 секунд.
+3011	Дверь заперта. На стене виден рычаг.
+3012	Тревога поднята, враги прибудут через минуту.
+3013	Вы находите обрывок карты (1/5).
+3014	Вы находите обрывок карты (2/5).
+3015	Вы находите обрывок карты (3/5).
+3016	Вы находите обрывок карты (4/5).
+3017	Вы находите обрывок карты (5/5).
 3018	CanЎЇt open the seal to the portal. It seems the seal is related to a torch or a Dark Knight.
-3019	To activate the switch, you must kill the searcher.
-3020	You may activate the switch now.
-3021	The portal's seal has been broken. You may now proceed to the next area.
-3022	The stone pillar was not broken properly.
-3023	The stone pillar is broken.
-3024	Gas slowly seeps into your body.
-3025	Those who were asleep is waking up.
-3026	The door is locked.
-3027	4 seconds remaining.
-3028	3 seconds remaining.
-3029	2 seconds remaining.
-3030	The wall has collapsed. You may go through now.
-3031	1 second remaining.
+3019	Чтобы включить рычаг, нужно убить искателя.
+3020	Теперь рычаг можно включить.
+3021	Печать портала сломана. Теперь можно перейти в следующую область.
+3022	Каменный столп раскололся не до конца.
+3023	Каменный столп разрушен.
+3024	Газ медленно проникает в тело.
+3025	Те, кто спал, пробуждаются.
+3026	Дверь заперта.
+3027	Осталось 4 секунды.
+3028	Осталось 3 секунды.
+3029	Осталось 2 секунды.
+3030	Стена обрушилась. Теперь можно пройти.
+3031	Осталась 1 секунда.
 3032	YouЎЇve explored the sewer. A door has been opened somewhere.
 //20060914_јіїшј­єк№МјЗ2	
-2061	[Frostbitten Demon Gatekeeper: For the glory of the Frostbitten Demon!]
-2062	[Iceblade Demon Gatekeeper: For the glory of the Iceblade Demon!]
-2063	A portal has been created.
-2064	[Kalkan's Follower: Master Kalkan has fallen!!!!]
-2065	[Frostbitten Captain Gunther: Glad to see you again]
-2066	You receive damage from the cyclone.
-2067	Congratulations. Mission is complete.
-2068	[Gunther: Hey, it's been a long time since I've seen anyone around here.]
-2069	[Gunther: I've seen you kill many of the Empire bastards.]
-2070	[Gunther: I am so proud of you all! ]
-2071	[Gunther: I heard what sounds like the Imperial Army within the cave.]
-2072	[Gunther: Think you can do me a favor, and explore the inside of the cave?]
-2073	[Gunther: Inside the cave, there's something that is of value to me...]
-2074	[Gunther: Everyone here?]
-2075	[Gunther: The sound came from inside of each prison cell. You can open them.. but I'm afraid to do so.]
-2076	[Gunther: Think you can open them, and see what is inside?]
-2077	[Cracked Stonefist Assault Soldier: The assault soldier has been killed . . .]
-2078	[Cracked Stonefist Assault Soldier: The assault soldier has been killed . . .]
-2079	[Cracked Stonefist Assault Soldier: The assault soldier has been killed . . .]
-2080	[Cracked Stonefist Assault Soldier: The assault soldier has been killed . . .]
-2081	[Gunther: Yeah! That's the way! Hey, you over there in the corner! Quit playing around!]
-2082	[Gunther: Get a move on! You in the corner, don't tell me that's all you got!]
-2083	[Gunther: Heh, that was not half bad. Touching the stone over there will open up a path to the basement.]
-2084	[Gunther: You need me to explain it again?! You just gotta open the door. Duh... ]
+2061	[Обмороженный демон-привратник: Во славу Обмороженного демона!]
+2062	[Демон-привратник Ледяного клинка: Во славу Демона ледяного клинка!]
+2063	Возник портал.
+2064	[Последователь Калкана: Владыка Калкан пал!!!!]
+2065	[Обмороженный капитан Гюнтер: Рад снова тебя видеть]
+2066	Вихрь наносит вам урон.
+2067	Поздравляем. Миссия выполнена.
+2068	[Гюнтер: Эй, давненько я тут никого не видел.]
+2069	[Гюнтер: Видал я, как вы перебили кучу имперских мерзавцев.]
+2070	[Гюнтер: Я вами горжусь!]
+2071	[Гюнтер: Мне послышалось, будто в пещере имперская армия.]
+2072	[Гюнтер: Может, окажете услугу и осмотрите пещеру изнутри?]
+2073	[Гюнтер: Там, в пещере, есть кое-что мне дорогое...]
+2074	[Гюнтер: Все здесь?]
+2075	[Гюнтер: Звук шёл из тюремных камер. Открыть их можно... да боязно мне.]
+2076	[Гюнтер: Может, откроете и поглядите, что внутри?]
+2077	[Треснувший штурмовик Каменного кулака: Штурмовик убит...]
+2078	[Треснувший штурмовик Каменного кулака: Штурмовик убит...]
+2079	[Треснувший штурмовик Каменного кулака: Штурмовик убит...]
+2080	[Треснувший штурмовик Каменного кулака: Штурмовик убит...]
+2081	[Гюнтер: Да! Вот так! Эй, ты там, в углу! Хватит валять дурака!]
+2082	[Гюнтер: Шевелись! Ты, в углу, не говори, что это всё, на что ты способен!]
+2083	[Гюнтер: Хех, а неплохо. Тронь вон тот камень — откроется путь в подвал.]
+2084	[Гюнтер: Ещё раз объяснить?! Просто открой дверь, вот и всё...]
 2085	[Gunther: Heh, thanks for helping me check out this place. Maybe we'll see each other again, if you are alive until then that isЎ¦ Hehehe]
-2086	[The assault soldier has fallen!!!!]
-2087	[Demon Slave Soldier: Intruder!!]
-2088	[Iceblade Captain Kirjen: None shall pass through this gate.]
-2089	A magical barrier has been created.
-2090	[Iceblade Captain Kirjen: Come! Worthless Rebels! ]
-2091	[Frostbitten Captain Gunther: This time, I'll show you thing or two about fighting!]
-2092	[Frostbitten Captain Gunther: Your battles from before were rather entertaining.]
+2086	[Штурмовик пал!!!!]
+2087	[Солдат-раб демонов: Чужак!!]
+2088	[Капитан Ледяного клинка Кирьен: Через эти врата никто не пройдёт.]
+2089	Возник магический барьер.
+2090	[Капитан Ледяного клинка Кирьен: Ну же! Жалкие мятежники!]
+2091	[Обмороженный капитан Гюнтер: На этот раз я покажу вам, как надо драться!]
+2092	[Обмороженный капитан Гюнтер: Ваши прошлые бои были довольно занятны.]
 //070209_Ж©ЕНё®ѕу№МјЗ°ь·ГёЮЅГБц	
 2093	Listen. #Among the four gates, only one will lead you out.#If you choose the wrong gate, youЎЇll be caught by a horrible monster. Good luck.
-2094	It's a trap.
+2094	Это ловушка.
 2095	Congratulations! YouЎЇve found a way out.#You can get out through the portal.#Mission completed.
-2096	The bridge is now connected.
+2096	Мост соединён.
 //061024_јіїшSM1_F1_ГЯ°Ў	
-1047	The icy pillar has shattered. You may go through now.
-1048	You can't get past the road ahead. It is blocked with icy stones and pillars.
-1049	A cold gale sweeps through the tree branches! 
+1047	Ледяной столп раскололся. Теперь можно пройти.
+1048	Дальше по дороге не пройти. Путь завален ледяными камнями и столпами.
+1049	Холодный ветер проносится сквозь ветви деревьев!
 //070126_їлБ·АЗ°и°оS1	
 1551	"I am Vashahart, a Mage of the Liberation Army. The recent activities of Volcano Imperial Army appear suspicious.#So, go and get information on them. YouЎЇd better be careful, because security here is very tight."
 1552	Our mission is to get secret information on the Volcano Imperial Army!#You have to get it, because you canЎЇt go back if you donЎЇt complete the mission.
 1553	YouЎЇll have to meet Vashahart first in order to move to the Volcano area.
-1554	Pully makes a noise as it starts turning, and the bridge at the entrance begins to rise.
-1555	Crossing the bridge, you feel something evil.
-1556	The bridge is now connected.
-1557	A paper scroll with the seal of the Empire. It's sealed with the life of [Drake Knight Messenger].
-1558	[Guardian Warrior of the Drake Knights], protecting the bridge, appears.
-1559	The blood of [Drake Knight Messenger] has broken the seal of the stamp.
-1561	":As the rebels in the East seems to be heading for Lava Valley,#the [Drake Knights] are dispatched. The troops in the Volcano area must be on standby, and ready to obey their orders:#The information on the Volcano Imperial Army has been obtained."
-1562	Pulling down the lever causes the bridge on the other side to move.#However, it seems this lever will be released shortly, hence, the lever should be pulled again.
-1563	Too much time has passed, and the bridge goes up again.
-1564	The bridge has been fixed.
+1554	Блок с шумом начинает вращаться, и мост у входа поднимается.
+1555	Переходя мост, вы чувствуете что-то злое.
+1556	Мост соединён.
+1557	Бумажный свиток с печатью Империи. Он запечатан жизнью [Гонца рыцарей-дрейков].
+1558	Появляется [Воин-хранитель рыцарей-дрейков], охраняющий мост.
+1559	Кровь [Гонца рыцарей-дрейков] сломала печать на свитке.
+1561	":Похоже, мятежники с востока направляются в Лавовую долину,#потому туда посланы [рыцари-дрейки]. Войскам в области вулкана быть наготове и исполнять их приказы:#Сведения об имперской армии вулкана получены."
+1562	Если опустить рычаг, мост на той стороне придёт в движение.#Однако рычаг, похоже, вскоре вернётся, и его придётся опустить снова.
+1563	Прошло слишком много времени, и мост снова поднимается.
+1564	Мост закреплён.
 1565	You canЎЇt go farther because of the dark smoke and unknown Magic Barrier.#You feel something evil over the hill right next to you.
-1566	You sense a suspicious movement in the dark smoke.
-1567	As [Lava Valley Guards] are killed, the enemies appear at the  entrance that was previously blocked.
-1568	As the [Guardian Knight of the Drake Knights] is killed, the dark smoke and the Magic Barrier disappear to reveal a road.
-1569	When you touch the paper scroll, the Imperial Army charges forward.# It is sealed with the life of the [Drake Knight Messenger].
-1571	Dark smoke is obstructing the way again.
-1572	The bridge starts to move.
-1573	Drakes approaches!! Due to obstructed sight, it's dangerous.
+1566	В тёмном дыму чувствуется подозрительное движение.
+1567	Когда [Стражники Лавовой долины] убиты, у прежде закрытого входа появляются враги.
+1568	Когда [Рыцарь-хранитель рыцарей-дрейков] убит, тёмный дым и магический барьер исчезают, открывая дорогу.
+1569	Стоит коснуться бумажного свитка, как имперская армия бросается вперёд.# Он запечатан жизнью [Гонца рыцарей-дрейков].
+1571	Тёмный дым снова преграждает путь.
+1572	Мост приходит в движение.
+1573	Приближаются дрейки!! Из-за плохой видимости это опасно.
 1574	The pillar made of Dragon bone is blocking the road, and you canЎЇt go back.
-1575	The pillar made of Dragon bone is related to the Dragonkin and the life seal.#There is no alternative way to kill them.
-1576	As the [Lava Valley Dragonkin] is killed, the pillar made of dragon bone collapses.
-1577	I can see that you guys are not from around here.#I was captured for turning my back against the Death Dragons, and was about to be sent off to the Empire. Thanks.
+1575	Столп из драконьей кости связан с драконьим родом и печатью жизни.#Другого способа, кроме как убить их, нет.
+1576	Когда [Драконий род Лавовой долины] убит, столп из драконьей кости рушится.
+1577	Вижу, вы не из здешних.#Меня схватили за то, что я отвернулся от Драконов Смерти, и уже собирались отправить в Империю. Спасибо.
 1578	I am Rotools. I was a member of the Death Dragons,#but I couldnЎЇt stand the EmpireЎЇs vicious behavior against our tribe and so betrayed the Empire...#There's no need for the hostility.
 1579	I can eliminate that dragon-bone pillar over there now that the Dragonkin guard is gone.#Still, be careful since itЎЇs certain that the security outside has become tighter.
 1580	And IЎЇll tell you one thing in return for your help.#ThereЎЇs a rumor that the [Valkyrie] have recently contacted the [Death Dragon]. Of course, itЎЇs not confirmed yet...#The rumor says the [Valkyrie] know about the power of the [Spirits of the Valley of the Dragonkin].
-1581	This is all I know. The rest is for you to find out on your own. Please take care.
+1581	Это всё, что я знаю. Остальное выясняйте сами. Берегите себя.
 1582	The bridge isnЎЇt moving, and you feel something evil foreboding.
-1583	You feel something evil foreboding.
+1583	Вы чувствуете недоброе предзнаменование.
 1584	While you were collecting information, the Magic Barrier of the Volcano has been formed.#This is why the previous explorers were locked in. We canЎЇt all get out of here this way.
 1585	I feel the power of the Magic Barrier somewhere.#There should be a mage that created the Magic Barrier in the inner valley.#YouЎЇll have to find a way to kill him and get out of here.#I feel the power of the Magic Barrier on the northbound road. Please be careful.
-1586	The area across the northern bridge appears distorted.#Vashahart has created a transport space.
-1587	You must inform Vashahart of the information that has been collected so far.
-1588	The enemies have attacked us with the [Vice-Gatekeeper of Lava Valley].
-1589	As the enemies approach, the gate is closed.
-1590	As the enemies are killed, the gate opens.
-1591	Suddenly, the [Stone Statue of the Dragon] appears.
-1592	Touching the [Stone Statue of the Dragon] causes the the dark Magic Barrier to vanish into the sky.
-1593	The enemies guarding the [Dragon's Stone Statue of Magic Barrier] have appeared.
-1594	You feel the power of the dark Magic Barrier, like this stone statue, when you touch the [Dragon's Stone Statue of Magic Barrier].#It seems there is another unrevealed [Stone Statue of the Dragon] near you.
+1586	Местность за северным мостом кажется искажённой.#Вашахарт создал пространство переноса.
+1587	Нужно передать Вашахарту собранные сведения.
+1588	Враги напали на нас во главе с [Помощником привратника Лавовой долины].
+1589	Когда враги приближаются, ворота закрываются.
+1590	Когда враги убиты, ворота открываются.
+1591	Внезапно появляется [Каменная статуя дракона].
+1592	От прикосновения к [Каменной статуе дракона] тёмный магический барьер исчезает в небе.
+1593	Появились враги, охраняющие [Каменную статую дракона с магическим барьером].
+1594	Касаясь [Каменной статуи дракона с магическим барьером], вы чувствуете силу тёмного барьера, как и от этой статуи.#Похоже, поблизости есть ещё одна нераскрытая [Каменная статуя дракона].
 1595	YouЎЇve found the [Dragon's Stone Statue of Magic Barrier].
-1596	As all the dark Magic Barriers are broken, the bridge is connected.
-1597	The stone bridge moves strangely.
-1598	As the seal is broken, you can feel the power of the dark magic more intensely.
-1599	Foolish humans...  You had it coming.
-1600	You feel something different from this [Dragon's Stone Statue of Magic Barrier].
+1596	Когда все тёмные магические барьеры сломаны, мост соединяется.
+1597	Каменный мост движется странно.
+1598	Когда печать сломана, сила тёмной магии ощущается ещё сильнее.
+1599	Глупые люди... Вы сами напросились.
+1600	От этой [Каменной статуи дракона с магическим барьером] вы чувствуете что-то иное.
 //070126_їлБ·АЗ°и°оS1_ГЯ°Ў1	
-1751	Touching the [Dragon's Stone Statue of Magic Barrier] causes the dark Magic Barrier to vanish into the sky.#But, you feel something different this time.
-1752	The [Dragon's Stone Statue of Magic Barrier] has appeared.#You must break the seal quickly.
-1753	Too late. [Dragon's Stone Statue of Magic Barrier] has summoned a monster.
-1754	As the Mage is killed, the power of the Magic Barrier is gone.
+1751	От прикосновения к [Каменной статуе дракона с магическим барьером] тёмный барьер исчезает в небе.#Но на этот раз что-то не так.
+1752	Появилась [Каменная статуя дракона с магическим барьером].#Печать нужно сломать быстро.
+1753	Слишком поздно. [Каменная статуя дракона с магическим барьером] призвала чудовище.
+1754	Когда маг убит, сила магического барьера исчезает.
 1755	Good job. Now youЎЇre ready to go home, but you must leave now before the enemies arrive.
-1756	Cerberus has arrived.
-1757	Killing the [Drake Knight Vice-Messenger] reveals a scroll next to the skull of the Dragon.
-1758	The scroll says that everything is ready to punish the traitor of the Death Dragons as an example.#The third piece of information has been obtained.
-1759	You feel the dark energy more intensely.
-1760	Too quiet.
-1761	You sense there are more Magic Barriers than the number of [Stone Statues of the Dragon] around you.#You have to find the hidden [Stone Statue of the Dragon] and destroy it to break the Magic Barrier.#The spot with the [Drake Knight Member] looks suspicious.
-1762	Another stone statue has appeared. You must break the seal quickly.
-1763	After pulling a lever, another lever and enemies appeared.
-1764	As the enemies are killed, the stone bridge is connected.
-1765	The lever has been casted with the Magic Barrier so that only the [Drake Knight Messenger] can use it.#You must find and kill two [Drake Knight Messengers], because two different Magic Barriers are casted.
-1766	You feel something strange around you.
+1756	Прибыл цербер.
+1757	После гибели [Помощника гонца рыцарей-дрейков] рядом с черепом дракона обнаруживается свиток.
+1758	В свитке сказано, что всё готово, чтобы покарать предателя Драконов Смерти в назидание другим.#Третья часть сведений получена.
+1759	Тёмная энергия ощущается сильнее.
+1760	Слишком тихо.
+1761	Вы чувствуете, что магических барьеров больше, чем [Каменных статуй дракона] вокруг.#Нужно найти скрытую [Каменную статую дракона] и уничтожить её, чтобы сломать барьер.#Место, где стоит [Боец рыцарей-дрейков], выглядит подозрительно.
+1762	Появилась ещё одна каменная статуя. Печать нужно сломать быстро.
+1763	После того как рычаг опущен, появились другой рычаг и враги.
+1764	Когда враги убиты, каменный мост соединяется.
+1765	На рычаг наложен магический барьер, так что им может пользоваться лишь [Гонец рыцарей-дрейков].#Нужно найти и убить двух [Гонцов рыцарей-дрейков], ведь барьеров наложено два.
+1766	Вокруг чувствуется что-то странное.
 1767	YouЎЇve found the [Dragon's Stone Statue of Magic Barrier], and from it you can feel the power of the Magic Barrier.
-1768	Killing the [Guardian Warrior of the Drake Knights] has connected the bridge.
-1769	[Drake Knight Messenger] has appeared.
-1770	Some moments after killing all the [Drake Knight Messengers], the seal over the lever vanishes.
-1771	[Lava Valley Guards] approached.
+1768	Гибель [Воина-хранителя рыцарей-дрейков] соединила мост.
+1769	Появился [Гонец рыцарей-дрейков].
+1770	Через некоторое время после гибели всех [Гонцов рыцарей-дрейков] печать с рычага спадает.
+1771	Приблизились [Стражники Лавовой долины].
 1772	The enemyЎЇs backups have arrived.
 1774	Due to the time delay, the enemyЎЇs backup has arrived.
-1775	Killing [Flame Cerberus] removed all the dark smoke and revealed a road.
-1776	The bridge is collapsing. It looks like a trap.
-1777	Cerberus has arrived.
-1778	The [Drake Knight Gatekeeper] has appeared. You have to kill them first in order to connect the bridge.
-1779	Killing the [Drake Knight Gatekeeper] has connected the bridge.
-1780	The entrance has shut down due to some unknown power.
-1781	The [Lava Valley Spearmen] seem to be guarding the bridge.
-1782	Killing the [Vice-Gatekeeper of Lava Valley] has connected the bridge.
-1783	The [Drake Knight Gatekeeper] has approached.
-1784	The enemies have disconnected the bridge in order to block the path of retreat. You must hurry to find Vashahart.
-1785	The enemies have attacked us!#You must hurry, before the security gets too tight.
+1775	Гибель [Огненного цербера] развеяла весь тёмный дым и открыла дорогу.
+1776	Мост рушится. Похоже на ловушку.
+1777	Прибыл цербер.
+1778	Появился [Привратник рыцарей-дрейков]. Чтобы соединить мост, сначала нужно убить его.
+1779	Гибель [Привратника рыцарей-дрейков] соединила мост.
+1780	Вход закрылся из-за неведомой силы.
+1781	Похоже, [Копейщики Лавовой долины] охраняют мост.
+1782	Гибель [Помощника привратника Лавовой долины] соединила мост.
+1783	Приблизился [Привратник рыцарей-дрейков].
+1784	Враги разъединили мост, чтобы отрезать путь к отступлению. Нужно спешить и найти Вашахарта.
+1785	Враги напали на нас!#Нужно спешить, пока охрану не усилили.
 1786	It appears that the enemyЎЇs backup is soon to arrive. You must kill the [Drake Knight Vice-Messenger] now.
-1787	Killing the [Vice-Gatekeeper of Lava Valley] opens the gate.
-1788	You feel the dark power of the Magic Barrier throughout the area. You must find the source of the Magic Barrier.
-1789	The enemies have arrived, seemingly from out of nowhere.
-1790	Killing all the [Lava Valley Guard] opens the gate.
-1791	Security has been reinforced with a greater number of guards. You must be careful.
-1792	[Drake Knight Member] guarding the [Stone Statue of the Dragon] has arrived. You must kill all of them in order to break the seal.
-1793	Killing all the [Drake Knight Member] has connected the stone bridge.
-1794	The stone bridge disappears and the [Drake Knight Shield Warrior] appears.
-1795	As you kill the [Drake Knight Shield Warrior], you feel the strong power of the Magic Barrier.
-1796	The enemies are recalled from the unknown [Dragon's Stone Statue of Magic Barrier].#It seems you have failed to break the seal of the [Dragon's Stone Statue of Magic Barrier] that was hidden within the road you traveled upon.
-1797	The enemies have attacked us with [Flame Cerberus] in the front.#You must kill [Flame Cerberus] in order to move forward.
-1798	After the lever was pulled, enemies appeared. However, the bridge is not moving at all.
-1799	Enemies with tremendous power are expected shortly. You have to leave this place, right now.
+1787	Гибель [Помощника привратника Лавовой долины] открывает ворота.
+1788	По всей округе чувствуется тёмная сила магического барьера. Нужно найти его источник.
+1789	Враги явились словно из ниоткуда.
+1790	Гибель всех [Стражников Лавовой долины] открывает ворота.
+1791	Охрану усилили, стражников стало больше. Будьте осторожны.
+1792	Прибыли [Бойцы рыцарей-дрейков], охраняющие [Каменную статую дракона]. Чтобы сломать печать, нужно убить их всех.
+1793	Гибель всех [Бойцов рыцарей-дрейков] соединила каменный мост.
+1794	Каменный мост исчезает, и появляется [Щитоносец рыцарей-дрейков].
+1795	Когда вы убиваете [Щитоносца рыцарей-дрейков], чувствуется мощная сила магического барьера.
+1796	Враги призваны из неведомой [Каменной статуи дракона с магическим барьером].#Похоже, вы не сломали печать той статуи, что была скрыта на пройденном пути.
+1797	Враги напали на нас, а впереди — [Огненный цербер].#Чтобы идти дальше, нужно убить [Огненного цербера].
+1798	После того как рычаг опущен, появились враги. Но мост совсем не двигается.
+1799	Скоро здесь будут враги невероятной силы. Нужно уходить отсюда немедленно.
 1800	[Drake Knight Chasers] appeared. Since there is no chance of defeating them, youЎЇll have to run . . . and hurry.
 //070126_їлБ·АЗ°и°оS1ГЯ°Ў2	
-1801	As you approach the lever, the warriors that guard the lever appear.
-1802	It seems too quiet on the other side of the bridge. Something is suspicious.
+1801	Когда вы подходите к рычагу, появляются воины, что его охраняют.
+1802	По ту сторону моста слишком тихо. Что-то подозрительно.
 1803	The enemies awaiting in ambush have shown up. YouЎЇll have to maintain your position.
-1804	Attack from the Drakes!
-1805	You see a lever across the bridge. It looks like a lever that causes this bridge to connect.
-1806	The security has been reinforced.
-1807	[Drake Knight Vice-Messenger] is blocking the road. You must kill the [Drake Knight Vice-Messenger].
+1804	Нападение дрейков!
+1805	За мостом виден рычаг. Похоже, именно он соединяет мост.
+1806	Охрана усилена.
+1807	[Помощник гонца рыцарей-дрейков] преграждает дорогу. Его нужно убить.
 //їлБ·АЗ°и°оSM3 (1651~1700)	
-1651	Enemy ambush. It seems to have something to do with the stone bridge.
-1652	The bars have disappeared. You can pass through now.
-1653	Rocks fall down from the cliff, making thunderous noises.
+1651	Засада врага. Похоже, она связана с каменным мостом.
+1652	Решётка исчезла. Теперь можно пройти.
+1653	С обрыва с оглушительным грохотом падают камни.
 1654	You canЎЇt cross the bridge. There must be a switch around here, somewhere.
-1655	The bridge is moving. You can cross it now.
+1655	Мост движется. Теперь его можно перейти.
 1656	You see stone statues of the DragonЎЇs head around you.
-1657	You feel something strange from the other stone statue.
-1658	Nothing has happened.
-1659	You can vaguely sense the Death Dragon.
-1660	You hear a door opening somewhere.
-1661	You have to recall the watchman of the Death Dragon. It seems to have something to do with them.
-1662	The watchman of the Death Dragon has appeared.
-1663	You hear a strange sound from behind the door.
+1657	От другой каменной статуи вы чувствуете что-то странное.
+1658	Ничего не произошло.
+1659	Вы смутно ощущаете Дракона Смерти.
+1660	Где-то слышно, как открывается дверь.
+1661	Нужно призвать стража Дракона Смерти. Похоже, дело в них.
+1662	Появился страж Дракона Смерти.
+1663	За дверью слышен странный звук.
 1664	You canЎЇt cross the bridge, because it's collapsed. It seems to be fixed due to power of the Death Dragon.
 1665	The bridge is collapsing. You canЎЇt cross it.
-1666	Enemy ambush.
-1667	You can sense that a dimension gate leading somewhere is being formed.
-1668	Heat is coming out. You see a switch on the wall.
+1666	Засада врага.
+1667	Вы чувствуете, как образуются врата измерения, ведущие куда-то.
+1668	Наружу идёт жар. На стене виден рычаг.
 1669	You feel something dangerous. YouЎЇd better watch out.
-1670	It's a trap.
-1671	The first switch worked.
-1672	The second switch worked.
-1673	The third switch worked.
-1674	The fourth switch worked.
-1675	The fifth switch worked.
-1676	The sixth switch worked. You hear a door opening.
-1677	The order in which the switches were used is wrong.
-1678	The door opens. You can go through now.
-1679	You see something in the distant corner.
-1680	You have to find the switch.
-1681	A path has been found.
-1682	It worked well. You have to find another switch.
-1683	You sense the spirit.
-1684	A portal is open.
-1685	As you approach the head of the Dragonkin, the Death Dragons show up.
-1686	The Death Dragons are after us.
-1687	You must kill the Death Dragon Volcano Knight.
+1670	Это ловушка.
+1671	Первый рычаг сработал.
+1672	Второй рычаг сработал.
+1673	Третий рычаг сработал.
+1674	Четвёртый рычаг сработал.
+1675	Пятый рычаг сработал.
+1676	Шестой рычаг сработал. Слышно, как открывается дверь.
+1677	Порядок, в котором вы нажимали рычаги, неверен.
+1678	Дверь открывается. Теперь можно пройти.
+1679	В дальнем углу виднеется что-то.
+1680	Нужно найти рычаг.
+1681	Найден проход.
+1682	Сработало как надо. Нужно найти следующий рычаг.
+1683	Вы ощущаете дух.
+1684	Портал открыт.
+1685	Когда вы подходите к старейшине драконьего рода, появляются Драконы Смерти.
+1686	Драконы Смерти идут за нами.
+1687	Нужно убить Вулканического рыцаря Дракона Смерти.
 1688	You canЎЇt cross it. The faint, unidentifiable sound is getting closer.
 1689	YouЎЇre surrounded by the dark smoke of the volcano.
-1690	Lava has erupted.
-1691	Something has come out of it.
+1690	Извергается лава.
+1691	Из неё что-то вышло.
 //°жАпЗеЖГёКГЯ°ЎБцїЄён	
-163	Frozen Palace#Hall of Emptiness
+163	Замёрзший дворец#Зал пустоты
 //070302_ЅГ°Ц±в»зґЬ_јцБ¤_1151~1200	
-1151	Groups of spirits have created a misty curtain. You have to scatter them in order to pass through.
-1152	Touching the skull in the altar makes a strange echo inside the door through which you have just passed.#It seems there is something related to the altar in there.
-1153	You sense a hint of corrupted Ether and something evil behind the door.
-1154	As you touch the skull in the cave, the force of the scattered Ether awakens the dead heading out through the door.#It seems there is a significant change in the altar behind the door.
-1155	As you touch the skull in the altar, the force of Ether scatters, waking the dead
-1156	Ghoul, by the power of the altar, stands up in the bright beam of light!
-1157	The door is closed tightly by powerful force. You may have to investigate the altar.
-1158	As Ghoul of Altar is killed, a strange sound emanates from the corridor where the curtain of spirits is.
+1151	Скопления духов создали туманную завесу. Чтобы пройти, их нужно рассеять.
+1152	От прикосновения к черепу на алтаре за дверью, через которую вы только что прошли, раздаётся странное эхо.#Похоже, там есть что-то связанное с алтарём.
+1153	За дверью чувствуются следы осквернённого эфира и нечто злое.
+1154	Когда вы касаетесь черепа в пещере, сила рассеянного эфира пробуждает мертвецов, идущих к двери.#Похоже, у алтаря за дверью что-то серьёзно изменилось.
+1155	Когда вы касаетесь черепа на алтаре, сила эфира рассеивается и пробуждает мертвецов
+1156	Гуль силой алтаря поднимается в ярком столпе света!
+1157	Дверь наглухо заперта мощной силой. Возможно, стоит осмотреть алтарь.
+1158	Когда Гуль алтаря убит, из коридора с завесой духов доносится странный звук.
 1159	As you remove the spiritsЎЇ grudge, the curtain disappears to reveal a way out.
-1160	Room of the Dead#Evil light is calling forth the dead.
-1161	The dead are awakening through the power of the Magic Barrier!#You must get rid of them in order to eliminate the power of the Magic Barrier.
-1162	As you take some of the Deads of Bone, one of the Magic Barriers that called the dead is eliminated.
-1163	All the Magic Barriers are gone!#The Bone Seal is broken, and the force of Ether spreads throughout the room.
-1164	As you remove the Dead of Bone, the force of Ether that had filled the room suddenly disappears.#The door of the room is now open.
-1165	Hot light is coming out from the Magic Barrier!#It seems to have been attempted in the wrong order.
-1166	Room of Seal#Not all the seals are real.
-1167	Two seals that lead to the genuine Blood Seal have been destroyed!#The Blood Seal is being destroyed.
-1168	It seems that the false blood seal has been destroyed! The room is being filled with poisonous gas!
-1169	It seems that the false blood seal has been destroyed! The Prisoners of Blood are rising all around you!
-1170	It seems that the false blood seal has been destroyed! The strong Prisoners of Blood are rising!
-1171	As the Dead of Blood is killed, the door that was closed tightly begins to open slowly.
-1172	"Room of Time#Three pillars, chance is three times of clicking sound."
-1173	The sound of a clock is coming from the three pillars.#It seems there is a certain device related to time.
-1174	A clicking sound has come out of the pillar.
-1175	The second clicking sound has come out of the pillar. Soon there will be a third clicking sound.
-1176	With the last clicking sound out of the pillar, the seal is broken!#You sense something frightening behind the door.
-1177	The clicking sound from the pillar has stopped! The seal in the middle of the room is being destroyed.
-1178	As you remove the Dead of Flesh, the force of Ether that had filled the room disappears.#The door of the room is opened.
-1179	As you leave the room, the doors close all at once! You have to find a skull altar from which the force of Ether arose.
-1180	Touching the skull in the altar, from which the force of Ether arose, awakens the dead around the altar!
-1181	As you eliminate the Summoned Ghouls recalled by the power of the altar, the force of Ether moves to another altar.#You have to find the altar from which the force of Ether had risen.
-1182	You feel the evil force of Ether from this skull. As you touch it, a spooky sound echoes through the place.
-1183	A bright beam of light has come from the front of the altar in the room! Ghoul, by the power of the altar, is standing up!
-1184	As Ghoul of Altar is killed, the power that held the door closed vanishes.#The door opens now.
-1185	The poisonous gas is coming from the bottom of the sewer!
-1186	The Path of the Knight#Broken seal and the altar are awakening the knights.
-1187	As you reach the end of the path, an outrageous voice spreads#[Is it you who has broken the seal and interrupted my research?!]
+1160	Зал мёртвых#Злой свет призывает мертвецов.
+1161	Мертвецы пробуждаются силой магического барьера!#Чтобы уничтожить силу барьера, нужно от них избавиться.
+1162	Когда вы забираете часть Мертвецов кости, один из барьеров, призывавших мертвецов, исчезает.
+1163	Все магические барьеры исчезли!#Печать кости сломана, и сила эфира разливается по залу.
+1164	Когда вы убираете Мертвеца кости, сила эфира, наполнявшая зал, внезапно исчезает.#Дверь зала теперь открыта.
+1165	Из магического барьера бьёт жаркий свет!#Похоже, порядок был неверным.
+1166	Зал печати#Не все печати настоящие.
+1167	Две печати, ведущие к подлинной Печати крови, уничтожены!#Печать крови разрушается.
+1168	Похоже, уничтожена ложная печать крови! Зал наполняется ядовитым газом!
+1169	Похоже, уничтожена ложная печать крови! Вокруг поднимаются Узники крови!
+1170	Похоже, уничтожена ложная печать крови! Поднимаются могучие Узники крови!
+1171	Когда Мертвец крови убит, наглухо запертая дверь медленно начинает открываться.
+1172	"Зал времени#Три столпа, и три щелчка — весь ваш шанс."
+1173	От трёх столпов доносится тиканье часов.#Похоже, здесь есть устройство, связанное со временем.
+1174	Из столпа донёсся щелчок.
+1175	Из столпа донёсся второй щелчок. Скоро будет третий.
+1176	С последним щелчком из столпа печать сломана!#За дверью чувствуется нечто пугающее.
+1177	Щелчки из столпа прекратились! Печать в середине зала разрушается.
+1178	Когда вы убираете Мертвеца плоти, сила эфира, наполнявшая зал, исчезает.#Дверь зала открыта.
+1179	Стоит выйти из зала, как двери разом закрываются! Нужно найти алтарь с черепом, откуда шла сила эфира.
+1180	От прикосновения к черепу на алтаре, откуда шла сила эфира, вокруг него пробуждаются мертвецы!
+1181	Когда вы уничтожаете Призванных гулей, вызванных силой алтаря, сила эфира переходит к другому алтарю.#Нужно найти алтарь, откуда она поднялась.
+1182	От этого черепа веет злой силой эфира. Стоит коснуться его, как по залу разносится жуткий звук.
+1183	Перед алтарём в зале вспыхнул яркий столп света! Гуль силой алтаря поднимается!
+1184	Когда Гуль алтаря убит, сила, державшая дверь закрытой, исчезает.#Теперь дверь открыта.
+1185	Со дна стоков поднимается ядовитый газ!
+1186	Путь рыцаря#Сломанная печать и алтарь пробуждают рыцарей.
+1187	Когда вы доходите до конца пути, разносится возмущённый голос#[Это ты сломал печать и помешал моим изысканиям?!]
 1188	"[IЎЇll kill you and make you into one of my death slaves!]"
-1189	[You're stronger than I expected, But not even the mighty Siegel Knights could beat my Ether of death.]
-1190	[If you dare, beat the knights of the stone statue, and come after me.]
-1191	After you killed the knights, there appears a portal.
-1192	Etherain Sewer#Room of Revival 
-1193	[You! Did you break my illusion? ...]#As you kill the Ether Mage of Death, the force of Ether begins to collect at the center of the room!
+1189	[Ты сильнее, чем я ожидал. Но даже могучие рыцари Сигеля не одолели мой эфир смерти.]
+1190	[Если посмеешь — одолей рыцарей из каменных статуй и приходи за мной.]
+1191	После гибели рыцарей появляется портал.
+1192	Стоки Этерейна#Зал воскрешения
+1193	[Ты! Ты разрушил мою иллюзию?...]#Когда вы убиваете Мага эфира смерти, сила эфира начинает стекаться к центру зала!
 1194	[Do you have any idea how long it took for me to finally obtain the Siegel Knights? You canЎЇt stop me now!]
 1195	[...The last seal is guarded by the strongest guard. You can never beat him...#HeЎЇll bring you to me, even when I die...]
-1196	As you remove the pillar of revival, the dead who took the power start to rise!
-1197	As you kill the revived Ghoul, two other Ghouls rise!
-1198	When you touch the altar, the force of Ether vanishes, revealing a portal.
-1199	"As Ermunt, the leader of Siegel Knights, is killed, the Soul Seal is broken!"
-1200	The force of Ether from the broken seal begins to awaken all the dead in the hall!#You must prepare for battle!
-4001	There is power that blocks the portal in this room. You must eliminate it in order to get out of here.
-4002	This altar is protected by the power of the Black Ether. You must eliminate its source in order to manipulate it. 
+1196	Когда вы убираете столп воскрешения, мертвецы, принявшие его силу, начинают подниматься!
+1197	Когда вы убиваете воскрешённого Гуля, поднимаются ещё двое!
+1198	От прикосновения к алтарю сила эфира исчезает, открывая портал.
+1199	"Когда Эрмунт, предводитель рыцарей Сигеля, убит, Печать души сломана!"
+1200	Сила эфира из сломанной печати начинает пробуждать всех мертвецов в зале!#Готовьтесь к бою!
+4001	В этом зале есть сила, что блокирует портал. Чтобы выбраться, её нужно уничтожить.
+4002	Этот алтарь защищён силой чёрного эфира. Чтобы им управлять, нужно уничтожить её источник.
 //070312_µе·Ў°піЄАМЖ®ДщЅєЖ®№МјЗ_ГЯ°Ў_3033~3038	
 3033	You hear aggressive words in the language of the Dragonkin. You canЎЇt approach it.
-3034	You must go back.
-3035	The wall collapses, and you see something.
-3036	You can feel the strong power disappear.
-3037	The stone pillar is shaking.
+3034	Нужно вернуться.
+3035	Стена рушится, и вы что-то видите.
+3036	Вы чувствуете, как могучая сила исчезает.
+3037	Каменный столп дрожит.
 3038	YouЎЇre surrounded by chilly air.
-3039	You sense something wriggling.
-3040	The monster in front of you is not making any noise, but your body shakes and mind fills with fear!
-3041	Finally, the long journey of the Dragonkin has come to an end.
-3042	You may approach if you have a sacred victim.
-3043	The egg is cracking.
-3044	The egg is broken, and something has emerged from it.
+3039	Вы чувствуете, как что-то шевелится.
+3040	Чудовище перед вами не издаёт ни звука, но тело дрожит, а разум наполняет страх!
+3041	Наконец долгий путь драконьего рода подошёл к концу.
+3042	Подойти можно, если у вас есть священная жертва.
+3043	Яйцо трескается.
+3044	Яйцо разбилось, и из него что-то вышло.
 //070316_АъБЦ№ЮАє Еѕ ГЯ°Ў 3501~3514	
-3501	The poisonous gas is filling the tower.#To remove the gas, you must break something near the stairway at the other side.
-3502	The lid of the pillar is tightly sealed and it doesn't even budge.#You need to give more effort.
-3503	The lid of the pillar begins to shake.
-3504	The lid of the pillar has been broken.#The source of the poisonous gas is destroyed now.
-3505	The enemies seem to have noticed that the source of the poisonous gas has been destroyed.#The enemies will arrive shortly.
-3506	Due to the time delay, more chasers will come after you.
-3507	The Commander of the Beast Unit has arrived.
-3508	The Commander of the Beast Unit One is eliminated.#The path to the village has opened.
-3509	You must set fire on eight pots.
-3510	The Commander of the Death Dragon Elite Soldiers has arrived.
-3511	There seems to be a hidden Magic Barrier.#You have to kill the monsters that are keeping the barrier first.
-3512	The hidden Magic Barrier has disappeared.#You can proceed now.
-3513	The Commander of the Death Dragon Elite Soldier Unit Four has been eliminated.#Shortly the path to the village will open.
-3514	Portal transport will be available in five seconds.
+3501	Башню наполняет ядовитый газ.#Чтобы его убрать, нужно сломать что-то у лестницы на той стороне.
+3502	Крышка столпа наглухо запечатана и не поддаётся ни на волос.#Нужно приложить больше усилий.
+3503	Крышка столпа начинает дрожать.
+3504	Крышка столпа сломана.#Источник ядовитого газа уничтожен.
+3505	Похоже, враги заметили, что источник ядовитого газа уничтожен.#Скоро они прибудут.
+3506	Из-за задержки за вами придёт больше преследователей.
+3507	Прибыл командир звериного отряда.
+3508	Командир первого звериного отряда уничтожен.#Путь в деревню открыт.
+3509	Нужно зажечь восемь чаш.
+3510	Прибыл командир элитных солдат Дракона Смерти.
+3511	Похоже, здесь есть скрытый магический барьер.#Сначала нужно убить чудовищ, что его удерживают.
+3512	Скрытый магический барьер исчез.#Теперь можно идти дальше.
+3513	Командир четвёртого отряда элитных солдат Дракона Смерти уничтожен.#Скоро откроется путь в деревню.
+3514	Перенос порталом будет доступен через пять секунд.
 //070319_БцЗПјц·О4№ш№МјЗ ГЯ°Ў	
-1057	Etherain Sewer#Passage of Chaos
-1058	What you hear is the painful scream of the Dragonkin from afar.#Some unknown conspiracy seems to be underway.
-1059	The Black Ether energy is flowing out from the door in front of you.
-1060	The door is opening.
-1061	A red-colored, evil aura is pouring out!  
-1062	As the magic power weakens, the door opens.
-1063	The scream of pain from the Dragonkin is growing louder.
+1057	Стоки Этерейна#Проход Хаоса
+1058	Вдалеке слышен мучительный крик драконьего рода.#Похоже, затевается какой-то заговор.
+1059	Из двери перед вами вытекает энергия чёрного эфира.
+1060	Дверь открывается.
+1061	Наружу хлещет злая аура красного цвета!
+1062	Когда магическая сила слабеет, дверь открывается.
+1063	Крики боли драконьего рода становятся громче.
 1064	The door is sealed with the Magic Barrier, so you canЎЇt open it.#YouЎЇll have to remove the Magic Stones that comprise the Magic Barrier.
-1065	You see a stone and sense the power of the Magic Barrier that emanates from it.#You may need it in order to open the door.
-1066	An unpleasant, ominous energy is all around you.#A a rush of bad feeling swells. 
-1067	You hear the Dragonkin's scream from right behind the wall.#You might find it just beyond the door. 
-1068	Etherain Sewer#Dragonkin Room of Magic Barrier
-1069	Caradin, of the Dragonkin, is tied up with magic chains and is being drained of his blood and power.
-1070	To rescue Caradin, you must destroy the Magic Chains that bind him.#If you don't hurry, he will die.
-1071	[Caradin](A sigh of pain)These magic chains are killing me.
-1072	[Caradin](Out of breath)Thank you.
-1073	[Caradin]I can't take this any longer.
-1074	[Caradin]Be careful, or you'll spring a trap.
-1075	This is a Magic Barrier made of the Dragonkin's blood.#Set him free, and the barrier will be broken.
-1076	[Caradin]Finally I'm free. Now I can truly rest.
-1077	[Caradin]This is the end of my life.#Let me break the Magic Barrier with whatever energy I have left.
-1078	[Caradin]There are other Dragonkin who are being taken as prisoners. I beg you, rescue them from the evil powers.
-1079	It seems that the power of the Magic Barrier has been weakened.
-1080	This is the Magic Barrier of the Ether Plant.#You must eliminate the Ether Plant, which is sucking the energy from the Dragonkin eggs.
-1081	The wriggling Ether Plant is sucking up the energy of life.#The energy of the eggs is weakening.
-1082	If the Dragonkin's eggs are completely drained of energy, they'll explode.#You must eliminate the Ether Plant before they're completely devoid of energy.
-1083	The eggs could not resist the dark force of Ether and have begun to crack.
-1084	Three seconds left before the explosion of the Dragonkin eggs . . . .
-1085	Two seconds left before the explosion of the Dragonkin eggs . . . .
-1086	One second left before the explosion of the Dragonkin eggs . . . .
-1087	You have failed to save the eggs.#The Dragonkin eggs will explode.
-1088	You sense the energy of the Dragonkin eggs and the Ether Plant somewhere else.#The energy of the Dragonkin eggs is becoming weaker. You must save the eggs before they break.
-1089	The eggs of the Dragonkin have been saved.#However, you can still sense the presence of the Ether Plant.
-1090	This is the Magic Barrier of the Ether Plant.#You must eliminate the Ether Plant, which is sucking the energy from the Dragonkin eggs.
-1091	You have successfully eliminated the Ether Plant and saved the Dragonkin's eggs.
-1092	The Magic Barrier of the Ether Plant has disappeared, making a booming sound.
-1093	A number of Dragonkin are screaming in front of you.#This is the prison that holds the captured Dragonkin.
-1094	Etherain Sewer#Dragonkin Prison
-1095	[Lark]Here! Get me out of here!
-1096	[Lark]Thank you for saving me. This is the prison that holds the captured Dragonkin.
-1097	[Lark]They have strengthened the forces of the Ether Plant# in order to use the Dragonkin energy for the creation of powerful monsters.
-1098	[Lark]I'll break the Magic Barrier and set us all free.
-1099	"[Lark]Leave this place to me, and go save the other Dragonkin and their eggs."
-1100	This is the Magic Barrier of the Ether Plant.#The Mage of the Dragonkin held here can remove this barrier.
-1101	You feel the power of the Great Mage of the Dragonkin Lark.#If you rescue him, you'll be privy to the Empire's conspiracy.
-1102	Etherain Sewer#The Dragonkin Torture Room
-1103	You feel the same energy from the Ether Plant and the Dragonkin eggs.#It's probably sucking the energy from the eggs.
-1104	The Dragonkin's Councilor Tasif has been summoned.
-1105	When Tasif was defeated, a portal leading to another place opened up.#You need to further investigate the Empire's conspiracy.
-1106	Etherain Sewer#Passageway of Pain
-1107	The screams of the Dragonkin sound much louder now.
-1108	The eggs of the Dragonkin have been saved.#However, you can still sense the presence of the Ether Plant.
-1109	You hear a door opening somewhere.
-1110	The eggs of the Dragonkin have been saved. #You have to tell all the Guidances about the conspiracy that is taking place here.
+1065	Вы видите камень и чувствуете исходящую от него силу магического барьера.#Возможно, он нужен, чтобы открыть дверь.
+1066	Вокруг стоит мерзкая, зловещая энергия.#Накатывает дурное предчувствие.
+1067	Прямо за стеной слышен крик драконьего рода.#Возможно, вы найдёте его сразу за дверью.
+1068	Стоки Этерейна#Зал магического барьера драконьего рода
+1069	Карадин из драконьего рода скован магическими цепями, и из него вытягивают кровь и силу.
+1070	Чтобы спасти Карадина, нужно разрушить магические цепи, что его держат.#Если не поспешить, он погибнет.
+1071	[Карадин](стон боли)Эти магические цепи убивают меня.
+1072	[Карадин](задыхаясь)Спасибо.
+1073	[Карадин]Я больше не выдержу.
+1074	[Карадин]Осторожно, не то угодите в ловушку.
+1075	Это магический барьер из крови драконьего рода.#Освободите его, и барьер спадёт.
+1076	[Карадин]Наконец-то я свободен. Теперь я смогу по-настоящему отдохнуть.
+1077	[Карадин]Это конец моей жизни.#Позвольте мне разрушить магический барьер тем, что осталось от моих сил.
+1078	[Карадин]Есть и другие пленники из драконьего рода. Прошу, спасите их от злых сил.
+1079	Похоже, сила магического барьера ослабла.
+1080	Это магический барьер завода Эфира.#Нужно уничтожить завод Эфира, который вытягивает силу из яиц драконьего рода.
+1081	Извивающийся завод Эфира вытягивает жизненную силу.#Сила яиц слабеет.
+1082	Если яйца драконьего рода лишатся силы полностью, они взорвутся.#Нужно уничтожить завод Эфира, пока этого не случилось.
+1083	Яйца не выдержали тёмной силы эфира и начали трескаться.
+1084	До взрыва яиц драконьего рода три секунды...
+1085	До взрыва яиц драконьего рода две секунды...
+1086	До взрыва яиц драконьего рода одна секунда...
+1087	Вам не удалось спасти яйца.#Яйца драконьего рода взорвутся.
+1088	Вы чувствуете силу яиц драконьего рода и завода Эфира в другом месте.#Сила яиц слабеет. Нужно спасти их, пока они не разбились.
+1089	Яйца драконьего рода спасены.#Однако присутствие завода Эфира всё ещё ощущается.
+1090	Это магический барьер завода Эфира.#Нужно уничтожить завод Эфира, который вытягивает силу из яиц драконьего рода.
+1091	Вы уничтожили завод Эфира и спасли яйца драконьего рода.
+1092	Магический барьер завода Эфира исчез с гулким звуком.
+1093	Перед вами кричат несколько представителей драконьего рода.#Это темница, где держат пленников.
+1094	Стоки Этерейна#Темница драконьего рода
+1095	[Ларк]Сюда! Вытащите меня отсюда!
+1096	[Ларк]Спасибо, что спасли меня. Это темница, где держат пленников из драконьего рода.
+1097	[Ларк]Они усилили мощь заводов Эфира,# чтобы силой драконьего рода создавать могучих чудовищ.
+1098	[Ларк]Я сломаю магический барьер и освобожу нас всех.
+1099	"[Ларк]Оставьте это место мне, а сами спасайте остальных из драконьего рода и их яйца."
+1100	Это магический барьер завода Эфира.#Снять его может маг драконьего рода, которого держат здесь.
+1101	Вы чувствуете силу великого мага драконьего рода Ларка.#Если спасти его, вы узнаете о заговоре Империи.
+1102	Стоки Этерейна#Пыточная драконьего рода
+1103	От завода Эфира и яиц драконьего рода исходит одна и та же сила.#Вероятно, он вытягивает силу из яиц.
+1104	Призван советник драконьего рода Тасиф.
+1105	Когда Тасиф повержен, открылся портал в другое место.#Нужно и дальше расследовать заговор Империи.
+1106	Стоки Этерейна#Проход боли
+1107	Крики драконьего рода теперь звучат куда громче.
+1108	Яйца драконьего рода спасены.#Однако присутствие завода Эфира всё ещё ощущается.
+1109	Где-то слышно, как открывается дверь.
+1110	Яйца драконьего рода спасены. #Нужно рассказать всем Ведущим о заговоре, что творится здесь.
 1111	You see a portal to the village at the other side of the room.#Someone has to get out of here and tell the others about the risk to the Dragonkin and the EmpireЎЇs conspiracy.
-1112	There seems to be some sort of device here.#You can feel the sudden rush of terror. You must get out of here, quickly!
-1113	A magic bomb has been installed here!!#You have to get out, now!!
-1114	The bomb has exploded.
+1112	Похоже, здесь какое-то устройство.#Вас охватывает внезапный ужас. Нужно убираться отсюда, быстро!
+1113	Здесь установлена магическая бомба!!#Нужно уходить, немедленно!!
+1114	Бомба взорвалась.
 1115	The wriggling Ether Plant is making warriors from the DragonЎЇs bones.
 1116	Warriors made of DragonЎЇs bones grow in numbers.
-1117	The tomb is about to explode due to the power of the Ether Plant.
-1118	Finally, the tomb has exploded.
-1119	"[Thank you for finding peace to my soul...#Please kill Meniche. He tortured his own people and dug their tombs.]"
-1120	Iron spikes are falling from the ceiling.#You have to kill Meniche before they come down.
-1121	[Room of Sacrifice]
-1122	You can see Praya concentrating his power.#You can return to your peers if you destroy the magic stone and Praya.
-1123	A portal that will take you back to your peers has been generated at the fountain#.
+1117	Гробница вот-вот взорвётся от силы завода Эфира.
+1118	Наконец гробница взорвалась.
+1119	"[Спасибо, что даровали покой моей душе...#Прошу, убейте Мениче. Он мучил своих же сородичей и рыл им могилы.]"
+1120	С потолка падают железные шипы.#Нужно убить Мениче, пока они не опустились.
+1121	[Зал жертвоприношения]
+1122	Видно, как Прайя сосредотачивает силу.#Если уничтожить магический камень и Прайю, можно вернуться к своим.
+1123	У фонтана возник портал, который вернёт вас к своим#.
 1124	You sense the energy of the DragonkinЎЇs eggs and the Ether Plant somewhere nearby.#The energy of the DragonkinЎЇs eggs is growing weaker, little by little. You have to save the eggs before theyЎЇre broken.
-1125	The magic bomb in the Ether Plant has been activated!#You have one minute to dismantle the bomb.
-1126	You must kill Warden Helfred in order to rescue Lark.
-1127	You have successfully rescued Lark.
-1128	A portal has been created.
-1129	[Etherain Sewer]#Passage of Chaos
-1130	As the light of the Magic Barrier is turned off, a Magic Barrier on the door disappears.
-1131	You have defeated Praya.
-1132	A magic bomb has been installed in the Ether Plant!! # The bomb will explode unless you destroy all the Ether Plants.
-1133	Etherain Sewer#Room of Pain
-1134	You have successfully rescued the Dragonkin.
-1135	Praya has been resurrected somewhere else and is replenishing his energy.#You must destroy her.
-1136	Only three people can go through the stone statue in the middle and eliminate Praya. 
-1137	You must hurry and inform all Guidances about this conspiracy. Do it as quickly as possible.
-1138	Etherain Sewer#Dragonkin Room of Magic Barrier
-1139	You feel the magic power from the captive Dragonkin.#There is probably a bomb ticking down.
-1140	You feel the energy of the Ether Plant from Praya.#It appears to be the primer for the Magic Barrier bomb.
+1125	Магическая бомба на заводе Эфира активирована!#У вас минута, чтобы её обезвредить.
+1126	Чтобы спасти Ларка, нужно убить надзирателя Хельфреда.
+1127	Вы успешно спасли Ларка.
+1128	Возник портал.
+1129	[Стоки Этерейна]#Проход Хаоса
+1130	Когда свет магического барьера гаснет, барьер на двери исчезает.
+1131	Вы одолели Прайю.
+1132	На заводе Эфира установлена магическая бомба!! # Она взорвётся, если не уничтожить все заводы Эфира.
+1133	Стоки Этерейна#Зал боли
+1134	Вы успешно спасли драконий род.
+1135	Прайя воскресла в другом месте и восполняет силы.#Её нужно уничтожить.
+1136	Пройти через каменную статую в центре и уничтожить Прайю могут лишь трое.
+1137	Нужно поспешить и сообщить всем Ведущим об этом заговоре. Как можно скорее.
+1138	Стоки Этерейна#Зал магического барьера драконьего рода
+1139	Вы чувствуете магическую силу от пленника драконьего рода.#Вероятно, где-то тикает бомба.
+1140	Вы чувствуете силу завода Эфира, исходящую от Прайи.#Похоже, это запал магической бомбы барьера.
 //їлБ·АЗ°и°оSM2	
-1601	This place used to be called Spirit Cave, but the Death Dragons have made a safe haven of it.#And after the Ancient Dragon Diorasis has gone missing, whereabouts of the Death Dragons has also become a mystery.
+1601	Это место звали Пещерой духов, но Драконы Смерти сделали из него убежище.#А после исчезновения древнего дракона Диорасиса местонахождение Драконов Смерти тоже стало загадкой.
 1602	IЎЇll eliminate the Magic Barrier of dark smoke.#And now you must locate and kill the Death Dragon in order to prove the innocence of our Valkyrie Clan.
-1603	The dark smoke has cleared. You can pass through now.
-1604	The stone statue collapses as it emanates an unidentifiable power.
+1603	Тёмный дым рассеялся. Теперь можно пройти.
+1604	Каменная статуя рушится, источая неведомую силу.
 1605	A stone statue that emanates an unidentifiable power is blocking the path. YouЎЇll have to find an alternative route.
-1606	You feel a very slight shaking and sense that a change is about to take place somewhere.
-1607	Because all the stone statues have been broken, with light shining, the stone statue that was blocking the road has collapsed.
-1608	As you approach the huge stone statue, you feel a strange and intense energy emanating from it.
-1609	The Death Dragon has appeared.
+1606	Вы чувствуете лёгкую дрожь и понимаете, что где-то вот-вот что-то изменится.
+1607	Когда все каменные статуи разбиты и вспыхнул свет, статуя, преграждавшая дорогу, рухнула.
+1608	Когда вы подходите к огромной каменной статуе, от неё веет странной мощной силой.
+1609	Появился Дракон Смерти.
 1610	YouЎЇve killed the Death Dragons, which had been missing.
-1611	What was that?!
+1611	Что это было?!
 1612	N.. N..o,  m..o..r..e: You hear a voice from somewhere, but itЎЇs unclear.
-1613	The enemies guarding the entrance have arrived.
-1614	The enemies guarding the bridge have arrived.
-1615	Backup of the enemies, [Lava Valley Spearmen], have arrived. You must kill them in order to cross the bridge.
-1616	Killing the [Lava Valley Spearmen] has caused the bridge to connect.
-1617	You can't go in any further.
-1618	I'm deeply grateful for deterring the ambush of the [Death Dragon] #You may pass the road leading to the valley, so please go ahead and pursue the [Death Dragon].
-1619	You may not enter here without the permission of [Pabel] of the Valkyrie Scouts.
-1620	You see a suspicious old man among the enemies before the bridge.
-1621	The suspicious old man has disappeared, along with the enemies.
-1622	The enemies who had vanished have now returned.
-1623	As you killed the [Guardian Warrior of the Drake Knights], bridge got connected.
-1624	The enemies who had been lying in ambush have shown up.
-1625	Because the [Death Dragon Blood Gladiator] has been killed, you may move to the next area.
+1613	Прибыли враги, охраняющие вход.
+1614	Прибыли враги, охраняющие мост.
+1615	Прибыло подкрепление врага — [Копейщики Лавовой долины]. Чтобы перейти мост, их нужно убить.
+1616	Гибель [Копейщиков Лавовой долины] соединила мост.
+1617	Дальше пройти нельзя.
+1618	Я глубоко благодарен за то, что вы сорвали засаду [Дракона Смерти]. #Дорога в долину для вас открыта, ступайте и преследуйте [Дракона Смерти].
+1619	Сюда нельзя войти без разрешения [Пабель] из разведки валькирий.
+1620	Среди врагов перед мостом виден подозрительный старик.
+1621	Подозрительный старик исчез вместе с врагами.
+1622	Исчезнувшие враги вернулись.
+1623	Когда вы убили [Воина-хранителя рыцарей-дрейков], мост соединился.
+1624	Враги, сидевшие в засаде, показались.
+1625	Поскольку [Кровавый гладиатор Дракона Смерти] убит, можно перейти в следующую область.
 1626	The gate is tightly closed. YouЎЇll have to find another way to open it.
-1627	Uncertain damage has occurred around the lever, and the enemies have arrived.
-1628	As time passes, the gate that was tightly closed slowly opens.
+1627	У рычага возникло неясное повреждение, и прибыли враги.
+1628	Со временем наглухо закрытые ворота медленно открываются.
 1629	YouЎЇre trapped.
-1630	As you touch the stone statue of the Drakes, the power of the Black Ether grows stronger.
-1631	The [Leaders of Drakes] have arrived. You have to kill all of them in order to escape the trap.
-1632	As you killed all the [Leaders of Drakes], the stone statue falls and opens the gate that was tightly closed.
-1633	As you touch the [Stone Statue of Spirit], you were damaged by some unknown energy. But, nothing has changed.
-1634	As all the [Stone Statues of Spirit] get destroyed, you sense an unidentifiable energy.
+1630	От прикосновения к каменной статуе дрейков сила чёрного эфира крепнет.
+1631	Прибыли [Вожаки дрейков]. Чтобы выбраться из ловушки, нужно убить их всех.
+1632	Когда вы убили всех [Вожаков дрейков], каменная статуя падает и открывает наглухо закрытые ворота.
+1633	От прикосновения к [Каменной статуе духа] вас ранила неведомая сила. Но ничего не изменилось.
+1634	Когда все [Каменные статуи духа] уничтожены, вы ощущаете неведомую силу.
 1635	ItЎЇs a trap.
-1636	You must find the real stone statue from which you can sense the force of Black Ether. It seems there is some hidden trap.
-1637	The [Forgotten Spirits] have appeared. You have to kill them in order to learn how to cross the bridge.
-1638	After you have killed all the [Forgotten Spirits], a [Stone Statue of Spirit] has appeared near the bridge.
-1639	After all the [Stone Statue of Spirit] gets destroyed, the bridge has been connected.
-1640	The energy of the Black Ether came out of the [Stone Statue of the Spirit].
+1636	Нужно найти настоящую каменную статую, от которой веет силой чёрного эфира. Похоже, здесь скрытая ловушка.
+1637	Появились [Забытые духи]. Чтобы узнать, как перейти мост, их нужно убить.
+1638	После гибели всех [Забытых духов] у моста появилась [Каменная статуя духа].
+1639	Когда все [Каменные статуи духа] уничтожены, мост соединился.
+1640	Из [Каменной статуи духа] вышла энергия чёрного эфира.
 1641	Kill.. theЎ¦ Dark... Ether... : You hear that unclear voice again.
-1642	The stone bridge has been connected by some unknown power.
+1642	Каменный мост соединён неведомой силой.
 1643	ItЎЇs an ambush by the [Death Dragon].
-1644	Killing all the [Death Dragon Sorcerers] has connected the stone bridge.
-1645	As you approach the [Stone Statue of the Spirit], you feel the intense power of the Black Ether.
-1646	The spirits guarding the [Stone Statue of Spirit] have appeared.
+1644	Гибель всех [Колдунов Дракона Смерти] соединила каменный мост.
+1645	Когда вы подходите к [Каменной статуе духа], вы чувствуете мощную силу чёрного эфира.
+1646	Появились духи, охраняющие [Каменную статую духа].
 1647	Soul of the Spirit: Once the Death Dragon took the Ancient Dragon, Diorasis, we, the spirits#, were enslaved by the power of the Black Ether. IЎЇll never forget the help you gave.#I will open the closed door of the Death Dragon for you. I will repay you for thisЎ¦
-1648	Soul of the Spirit: Go over the space over there if you want to hurry through the closed door.#Go straight to the Death Dragon if you want to kill the remaining Death Dragon in the valley.
+1648	Душа духа: Если спешите к закрытой двери — ступайте через тот проход.#Если хотите убить оставшегося в долине Дракона Смерти — идите прямо к нему.
 1649	You canЎЇt go any farther due to the lava. YouЎЇll have to find an alternative route.
-1650	Thank you, humans.
+1650	Спасибо вам, люди.
 //їлБ·АЗ°и°оSM2ГЯ°Ў	
-1811	You see the [Ancient Dragon Dioasis] behind the soaring lava.
+1811	За взметнувшейся лавой виден [Древний дракон Диорасис].
 1812	ItЎЇs an amush by the [Death Dragon]. You have to kill all of them  in order to pass.
-1813	Due to the time delay, the [Ancient Dragon Diorasis] has gone with the enemies.
-1814	The [Death Dragon Monarch] has appeared.
-1815	The force of the Black Ether is emanating from within the cave.
-1816	The door that was tightly closed is now open.
-1817	[Leader of Drakes] has been recalled. You have to kill all of them in order to pass along this road.
-1818	"You did good for a human. Your foolishness will be your death."
-1819	As you approach the bridge, you feel the strong force of death.
-1820	You have been attacked by the [Death Dragons] that were after you.
-1821	Oh, you're here! The right passage door ahead looks supicious, but I can't seem to open it.#Somewhere there must be something I can use to open it . . . .
-1822	An unknown object disappearing: take care . . . of . . . me through the long . . . darkness.
-1823	When all the enemies are defeated, the lava disappears and a path emerges.
-1824	Now that the lurking [Death Dragon] is gone, it'll be safe for reconnaisance. You must hurry and let [Pabel] know about this.
-1825	I'm [Pabel], a member of the Valkyrie Scouts.#We've received a report of suspicious activities near a bridge far from here.#I want you to go there and check it, since we have an important strategy meeting.
-1826	The order was wrong, and you are now trapped.
+1813	Из-за задержки [Древний дракон Диорасис] ушёл вместе с врагами.
+1814	Появился [Монарх Дракона Смерти].
+1815	Из глубины пещеры исходит сила чёрного эфира.
+1816	Наглухо закрытая дверь теперь открыта.
+1817	Призван [Вожак дрейков]. Чтобы пройти по этой дороге, нужно убить их всех.
+1818	"Неплохо для человека. Но твоя глупость тебя погубит."
+1819	Когда вы подходите к мосту, вы чувствуете мощную силу смерти.
+1820	На вас напали [Драконы Смерти], что шли по вашему следу.
+1821	О, вы здесь! Дверь прохода справа выглядит подозрительно, но открыть её мне не удаётся.#Где-то должно быть то, чем её открыть...
+1822	Нечто неведомое исчезает: позаботься... обо мне... в долгой... тьме.
+1823	Когда все враги побеждены, лава исчезает и открывается проход.
+1824	Теперь, когда затаившийся [Дракон Смерти] исчез, разведка будет безопасной. Поспешите и сообщите [Пабель].
+1825	Я [Пабель] из разведки валькирий.#Нам донесли о подозрительном движении у моста далеко отсюда.#Прошу вас сходить и проверить: у нас важный военный совет.
+1826	Порядок был неверным, и теперь вы в западне.
 //070325_АъБЦ№ЮАє Еѕ ёЮЅГБц ГЯ°Ў 3515~3523	
-3515	The entire room is filled with a cold breeze.#You must find a device that is hidden somewhere.
-3516	You got the wrong device.#The enemies who were lying in ambush have appeared.
-3517	There is no reaction in the switch.#You must find another device first.
-3518	The device has been activated.#You have to find another device.
-3519	The cold breeze in the room vanishes gradually.#The [Master of the Castle] has appeared.
-3520	An unpleasant green mist begins to spread over the ground.#You sense an evil energy emanating from the stone statue of the lion before you.
-3521	The enemies that have been sealed within the stone statue start to appear.#The enemies seem to have something to do with the mist.
-3522	The mist that had filled the space has disappeared.#The [Ruler of Flame] guarding the sanctuary has appeared!
-3523	A portal that will lead you back to the village has been created.
+3515	Весь зал наполняет холодный ветер.#Нужно найти устройство, спрятанное где-то здесь.
+3516	Вы взяли не то устройство.#Появились враги, сидевшие в засаде.
+3517	Рычаг не отзывается.#Сначала нужно найти другое устройство.
+3518	Устройство включено.#Нужно найти следующее.
+3519	Холодный ветер в зале постепенно стихает.#Появился [Владыка замка].
+3520	По земле начинает расползаться мерзкий зелёный туман.#От каменной статуи льва перед вами веет злой силой.
+3521	Враги, запечатанные в каменной статуе, начинают появляться.#Похоже, они как-то связаны с туманом.
+3522	Туман, наполнявший зал, исчез.#Появился [Владыка пламени], охраняющий святилище!
+3523	Возник портал, который вернёт вас в деревню.
 //070403_И­»кёЮАОГЯ°Ў	
 //И­»кёЮАОіЄ·№АМјЗ_321~325	
-323	A place where the first Empire's follower who guards the Magic Barrier of the Valley of the Dragonkin has settled.#Through the haze of heat from the lava you see a dragon with a strange-looking body.#The Helrons carved out portions of his skin to turn his body into the seal for a Magic Barrier.
-324	He was in the Guidances' way but was merely a part of the Magic Barrier, which must be destroyed.#He was no longer a member of the proud Dragonkin.#The pain from the magic spell carved onto his body by the Demons has turned him into a creature with a corrupted soul.
-325	The location of the second Magic Barrier; the place is filled with Black Ether and heat that makes breathing a struggle.#You hear the chilling sound of laughter emerge through the soaring columns of lava.
-327	The deepest part of the Dragonkin's sacred place. This is where the Captain of the Drake Knights was buried.#The Guidances were taking their first steps into this place, into which no one has dared to enter for the past five centuries.#Unbearable heat and blinding lava greeted them.
-328	And over that place was the corrupted soul of the Captain of the Drake Knights, staring at them and emitting powerful energy of the Black Ether.#The Guidances had to keep moving forward to free the soul of the poor man, who had died a tragic death.
+323	Место, где обосновался первый слуга Империи, охраняющий магический барьер Долины драконьего рода.#Сквозь знойное марево над лавой виден дракон со странным телом.#
+324	Он стоял на пути Ведущих, но был лишь частью магического барьера, который следовало разрушить.#Он больше не принадлежал к гордому драконьему роду.#Боль от заклятия, вырезанного на его теле, свела его с ума.
+325	Место второго магического барьера; здесь полно чёрного эфира и жара, от которого трудно дышать.#Сквозь взметнувшиеся столпы лавы слышен леденящий смех.
+327	Глубочайшая часть священного места драконьего рода. Здесь был погребён капитан рыцарей-дрейков.#Ведущие делали первые шаги туда, куда никто не смел ступить.
+328	А над тем местом была растленная душа капитана рыцарей-дрейков: она глядела на них и источала мощную энергию чёрного эфира.#Ведущим приходилось идти вперёд, чтобы освободить душу.
 //И­»кёЮАОёЮЅГБц_1501~1550	
-1501	The path is blocked with gooey slime.
-1502	The sound of eggs breaking in the back! 
-1503	When you kill the Drake Youngling, you hear a loud flapping sound from in front of the slime!#That must be the one who made this slime that blocks the path.
-1504	The slime disappears when the Leader of Drakes is killed.
-1505	Those loud noises tell us the bridge is starting to collapse! It'll alert the enemies!
-1506	It's the sound of the enemies rushing to the bridge! Prepare for battle!
-1507	Ambush by the Imperial Army!
-1508	When you get close, the bridge crumbles.
-1509	The Patrol Captain had a key to open the bridge pulley somewhere!#You have aquired the [Patrol Captain's Key].
-1510	The Vice Captain had a key to open the bridge pulley somewhere!#You have aquired the [Vice Captain's Key].
-1511	You found a key in one of the guards. It can open a bridge pulley somewhere.#You have aquired the [Guard's Key].
-1512	You removed the chain tying up the pulley using the key you've taken from the guard.#The [Guard's Key] shatters.
-1513	You cannot move the pulley because it's tightly secured with a lock and chain.#You must find the key that opens the lock.
-1514	The chain on the east bridge has been removed. The pulley is starting to operate.
-1515	When you remove the chain from the pulley, the bridge begins to operate.
-1516	The chain on the west bridge has been removed. The pulley starts operating.
-1517	The cave leading to the sacred place is blocked with the seal of a Death Dragon.#You must figure out how to remove that seal.
-1518	A blazing light is blocking the bridge.
-1519	As the flames of the pillar disappear, a strong force envelops the altar!
-1520	When you kill the Seal Mage, the force of the altar weakens.
-1521	The power of the seal is gone.
-1522	The dragon is being held by a certain force.#[I'm Arpe, a Valley Dragonkin. Please, kill the beast so that I can be set free!]
-1523	The beast that was guarding the seal was killed, and a portal appeared in the empty lot!#You'd better prepare for a battle!
-1524	The dragon speaks in a barely audible voice. [The Death Dragon's magic is going to kill me. Please pass this on to my colleagues.]#You'll glimpse of a pile of documents under the dragon's body.
-1525	The dragon is still. He must be dead.
-1526	The altar begins to emit bright light.
-1527	The path is blocked with the seal of a Death Dragon.
-1528	When you step into the vacant lot, suddenly enemies emerge from everywhere!
-1529	The Death Dragon's seal has been broken! A portal leading to the entrance to the sacred land has been opened.
-1530	Six minutes have passed!
-1531	The torch is cold and does not respond.
-1532	When you touch the torch, suddenly you hear noises everywhere!#The creatures of the Lava Valley are appearing!
-1533	With the death of the last of the Drakes that had appeared from the seal of the torch, the stone bridge begins to come up with a clicking sound.#Now you can cross the pool of lava.
-1534	The drake blocking the path begins to howl in a loud, shrill voice.
-1535	A strange sound is coming from the stone statue! You must have touched the horns in the wrong order.
-1536	When you touch the horns, the eyes of the stone statue light up. You must have used them in the correct order.
-1537	The flame seal of the torch is broken. The legs begin to move.
-1538	Across the path is a pool of cold magic. Somebody must be controlling the beasts of the volcano using magical powers.
-1539	Over the coldness of magic, there is an excited man.#[Help! That damnable thing is about to eat me alive! Hurry!!]
-1540	When you turn away, the man gets angry and stamps his feet.#[You bastard! You'd turn away from a person in danger? You cold-blooded bastard!]
-1541	"As you go a bit further, the man begins to beg.#[Hey! Yo! I'm a travelling merchant. Help me, and I'll give you a good deal. Hey, hello? Come on!]"
-1542	"After you killed the last of the beasts in the vicinity, the man finally withdraws the coldness of magic.#[Phew! I was a chicken waiting to be boiled because of the lost ring, and then I was nearly eaten alive!]"
-1543	"[Hey, you did a good job. As promised, I'll give you a good deal. Consider yourself lucky.]"
-1544	"From the mouth of the dragon's-head statue comes the deep voice of something not human.#[I am the keeper of the sacred land. No one is allowed to pass this door without the proof of a dragon.]"
-1545	You've obtained Drake's essence, and can use it open the gate of protection.#You have the [Drake's Essence].
-1546	The essence has been inserted into the dragon's-head statue.#Bright light appears, and you hear the door opening.
-1547	The voice of a frail woman comes from the blue globe.#[Help me. I'm trapped in this globe because of the Death Dragon's magic spell.#Break this Magic Barrier in front to let me out, and I'll give you the Break Seal Scroll as a token of my gratitute.]
-1548	[Thank you, but I can't yet use my power because of the seals along the path.#Could you please take me out of the path? I'll hide in your bag until we're away from this path of seals.]
-1549	[I'll give you this magic scroll if you take me out of that barrier.#If you break this Seal of Flame, I'll hide in your bag and escape.] 
-1550	As the seal of flame breaks, the globe flies toward you and securely tucks itself in your bag.
+1501	Путь перекрыт липкой слизью.
+1502	Сзади слышен треск разбивающихся яиц!
+1503	Когда вы убиваете детёныша дрейка, перед слизью слышен громкий хлопок крыльев!#Видимо, это тот, кто создал слизь, перекрывшую путь.
+1504	Слизь исчезает, когда Вожак дрейков убит.
+1505	Этот грохот говорит, что мост начинает рушиться! Он насторожит врагов!
+1506	Это враги бегут к мосту! Готовьтесь к бою!
+1507	Засада имперской армии!
+1508	Когда вы подходите ближе, мост обрушивается.
+1509	У капитана патруля был ключ, открывающий где-то блок моста!#Вы получили [Ключ капитана патруля].
+1510	У заместителя капитана был ключ, открывающий где-то блок моста!#Вы получили [Ключ заместителя капитана].
+1511	У одного из стражников нашёлся ключ. Он открывает где-то блок моста.#Вы получили [Ключ стражника].
+1512	Ключом, взятым у стражника, вы сняли цепь с блока.#[Ключ стражника] рассыпается.
+1513	Блок не сдвинуть: он накрепко скован замком и цепью.#Нужно найти ключ от замка.
+1514	Цепь с восточного моста снята. Блок приходит в движение.
+1515	Когда вы снимаете цепь с блока, мост приходит в движение.
+1516	Цепь с западного моста снята. Блок приходит в движение.
+1517	Пещера, ведущая к священному месту, перекрыта печатью Дракона Смерти.#Нужно понять, как снять эту печать.
+1518	Мост перекрыт слепящим светом.
+1519	Когда пламя столпа гаснет, алтарь окутывает мощная сила!
+1520	Когда вы убиваете Мага печати, сила алтаря слабеет.
+1521	Сила печати исчезла.
+1522	Дракона удерживает некая сила.#[Я Арпе из драконьего рода долины. Прошу, убейте зверя, чтобы я мог освободиться!]
+1523	Зверь, охранявший печать, убит, и на пустыре возник портал!#Лучше приготовиться к бою!
+1524	Дракон говорит еле слышно. [Магия Дракона Смерти убьёт меня. Прошу, передайте это моим сородичам.]#Под телом дракона виднеется стопка документов.
+1525	Дракон неподвижен. Должно быть, он мёртв.
+1526	Алтарь начинает источать яркий свет.
+1527	Путь перекрыт печатью Дракона Смерти.
+1528	Стоит выйти на пустырь, как отовсюду появляются враги!
+1529	Печать Дракона Смерти сломана! Открылся портал ко входу в священную землю.
+1530	Прошло шесть минут!
+1531	Факел холоден и не отзывается.
+1532	Стоит коснуться факела, как отовсюду слышится шум!#Появляются твари Лавовой долины!
+1533	С гибелью последнего дрейка, вышедшего из печати факела, каменный мост со щелчком начинает подниматься.#Теперь можно перейти лавовое озеро.
+1534	Дрейк, преграждающий путь, начинает громко и пронзительно выть.
+1535	От каменной статуи идёт странный звук! Похоже, вы коснулись рогов не в том порядке.
+1536	Когда вы касаетесь рогов, глаза каменной статуи загораются. Похоже, порядок верный.
+1537	Огненная печать факела сломана. Опоры приходят в движение.
+1538	За проходом — озеро холодной магии. Кто-то управляет зверями вулкана магической силой.
+1539	Над холодом магии слышен взволнованный человек.#[Помогите! Эта тварь сейчас сожрёт меня живьём! Скорее!!]
+1540	Когда вы отворачиваетесь, человек злится и топает ногами.#[Ах ты мерзавец! Отвернуться от человека в беде? Бессердечная тварь!]
+1541	"Стоит отойти чуть дальше, как человек начинает умолять.#[Эй! Эй! Я странствующий торговец. Помоги, и я хорошо с тобой рассчитаюсь. Эй, ну же!]"
+1542	"После гибели последнего зверя поблизости человек наконец убирает холод магии.#[Уф! Я был как курица в ожидании котла из-за потерянного кольца, а потом меня чуть не съели заживо!]"
+1543	"[Эй, ты славно поработал. Как и обещал, рассчитаюсь хорошо. Считай, тебе повезло.]"
+1544	"Из пасти статуи с драконьей головой доносится глубокий нечеловеческий голос.#[Я хранитель священной земли. Никто не пройдёт в эту дверь без доказательства дракона.]"
+1545	Вы добыли эссенцию дрейка и можете открыть ею врата покровительства.#У вас есть [Эссенция дрейка].
+1546	Эссенция вставлена в статую с драконьей головой.#Вспыхивает яркий свет, и слышно, как открывается дверь.
+1547	Из синего шара доносится голос слабой женщины.#[Помогите. Я заперта в этом шаре магией Дракона Смерти.#Сломайте магический барьер впереди, чтобы выпустить меня, и я отдам вам Свиток снятия печати в благодарность.]
+1548	[Спасибо, но я пока не могу пользоваться силой из-за печатей вдоль пути.#Не могли бы вы вынести меня отсюда? Я спрячусь в вашей сумке, пока мы не уйдём с этого пути печатей.]
+1549	[Я отдам вам этот магический свиток, если вы вынесете меня из барьера.#Сломайте эту Печать пламени, и я спрячусь в вашей сумке и сбегу.]
+1550	Когда печать пламени ломается, шар подлетает к вам и надёжно прячется в сумке.
 //И­»кёЮАОГЯ°ЎёЮЅГБц_4003~4050	
-4003	The entrance is blocked with magic powers!#[It's a magic wall created by the Pillars of the Seal! You must remove the pillars to dissipate the power.]
-4004	The magic power that was bloking the entrance is gone. Now you can leave the path.
-4005	[Freedom at last! Oh, how I have yearned for this day!#I'll burn the lot of them who trapped me in this silly, miserable globe!]
-4006	[I didn't expect anything more than these low-class scum. Just right to be the first victims of my revenge!]
-4007	You've obtained the Blue Break Seal Scroll from the one who was sealed.#You have the [Blue Break Seal Scroll].
-4008	A deep voice comes from the Drake's stone statue.#[You look slightly different than the other corrupted ones here.]
-4009	[Somewhere around here is a man sealed with a Break Seal Scroll.#Go to him and get the magic scroll. Then I'll be freed from this chunk of rock and you'll be able to proceed with your journey.#Go look for the magic scroll.]
-4010	[I can't move an inch until I get the stolen magic scroll back.#Go find the magic scroll, if you want to cross the bridge.]
-4011	[It has been far too long, and at last I'm free from this chunk of rock.#As a token of my gratitude, I'll give you my magic scroll.#Thank you!]
-4012	The Drake's stone statue gave you the Red Break Seal Scroll!#You got the [Red Break Seal Scroll].
-4013	A loud voice resonates throughout the valley!#[The keeper's statue is gone! The worms of the rebel army are finally here! Get them!]
-4014	You've obtained the Yellow Break Seal Scroll from the Seal Mage!#You have the [Yellow Break Seal Scroll].
-4015	The seal on the entrance to the sacred land is broken!
-4016	When you're ready, put your hand on the Torch of Protection.#A seer will greet you.
-4017	You light one of the Torches of Protection.#From somewhere you hear the sound of a cell door slamming shut.
-4018	When you're ready, place your hand on the Torch of Protection.#The Life of Flame will greet you.
-4019	You can't light the torches until the two gates are open.#Be patient.
-4020	As you touch the torch in the middle, the Dragonkin's totems appear around the torches on the left and right!
-4021	"Throughout the hall resonates the deep voice of something not human.#[You, who have lighted three fires, will now face the last test.]"
-4022	"[You, who passed the Dragon's test, are entitled to step into the sacred land]#A portal opens up at the entrance! You can enter the sacred land now."
-4023	It is blocked with Drake's mucus.
-4024	You see the light-emitting device but can't go any closer because the bridge is broken. You must find another way.
-4025	The cries of the Drakes must be stimulating the egg at the center!
-4026	The egg broke, and the Queen Drake awoke from her slumber!
-4027	The mucus at the entrance is gone. Now you can escape from the cave of the Drake.
-4028	You hear the sound of Drake's wings flapping! Quick! Break the stone and get out of the cave!
-4029	The device seems to be under the spell of the Demons. This must be the Magic Barrier binding the Dragonkin of the Volcano.
-4030	You've succeeded in stopping one of the Magic Barriers of the volcano.
-4031	When the Magic Barrier is broken, magical vibrations begin to resonate throughout the sacred place!#The energy is emanating from the last Magic Barrier!
-4032	One minute has passed.
-4033	Three minutes have passed.
-4034	Five minutes have passed.
-4035	Seven minutes have passed.
-4036	Eight minutes have passed.
-4037	Nine minutes have passed.
-4038	Two minutes have passed.
-4039	Four minutes have passed.
-4040	Ten minutes have passed.#The last Magic Barrier seems to have lost all its energy.#You can break the Magic Barrier once it's completely drained of its energy.
-4041	All the magic barrier devices have stopped moving!
-4042	A portal that was blocked by the Magic Barrier has revealed itself. Now you can go to the summit of the sacred place, the location of the last Magic Barrier.
-4043	As you remove the Captain of the Drake Knights and the energy from the Magic Stones, strong forces begin to swirl through the hall! 
-4044	[I'm stronger again, thanks to the powers of the Magic Barrier! Now I'll show you the true powers of the Dragonkin!]
-4045	You have successfully destroyed all the magic barriers in the valley.#Your mission is complete.
-4046	Moaning, the dragon says,#[Kill the beasts to unlock the seal. I have an important mission, and I need your help.]
-4047	This is a magic torch that moves the bridge. You must operate some device in order to free the torch from the magic spell.
-4048	The torch is cold and doesn't respond. There has to be some other way to operate it.
-4049	The cold torch is lit!
-4050	The surrounding air is being filled with the energy of the Magic Barrier!
+4003	Вход перекрыт магической силой!#[Это магическая стена, созданная Столпами печати! Уберите столпы, чтобы рассеять силу.]
+4004	Магическая сила, перекрывавшая вход, исчезла. Теперь можно покинуть этот путь.
+4005	[Наконец-то свобода! О, как я ждала этого дня!#Я сожгу всех, кто запер меня в этом жалком дурацком шаре!]
+4006	[От этого низкого сброда я большего и не ждала. В самый раз стать первыми жертвами моей мести!]
+4007	Вы получили Синий свиток снятия печати от запечатанной.#У вас есть [Синий свиток снятия печати].
+4008	От каменной статуи дрейка доносится глубокий голос.#[Ты выглядишь немного иначе, чем прочие здешние растленные.]
+4009	[Где-то здесь есть человек, запечатанный Свитком снятия печати.#Ступай к нему и добудь магический свиток. Тогда я освобожусь из этой каменной глыбы, а ты сможешь продолжить путь.#Ступай, ищи свиток.]
+4010	[Я не сдвинусь ни на дюйм, пока не верну украденный магический свиток.#Найди его, если хочешь перейти мост.]
+4011	[Прошло слишком много времени, и наконец я свободен от этой каменной глыбы.#В знак благодарности отдам тебе свой магический свиток.#Спасибо!]
+4012	Каменная статуя дрейка отдала вам Красный свиток снятия печати!#Вы получили [Красный свиток снятия печати].
+4013	По долине раскатывается громкий голос!#[Статуя хранителя исчезла! Черви из мятежной армии наконец здесь! Взять их!]
+4014	Вы получили Жёлтый свиток снятия печати от Мага печати!#У вас есть [Жёлтый свиток снятия печати].
+4015	Печать на входе в священную землю сломана!
+4016	Когда будете готовы, положите руку на Факел покровительства.#Вас встретит провидец.
+4017	Вы зажигаете один из Факелов покровительства.#Откуда-то слышно, как захлопывается дверь камеры.
+4018	Когда будете готовы, положите руку на Факел покровительства.#Вас встретит Жизнь пламени.
+4019	Зажигать факелы нельзя, пока не открыты обе двери.#Наберитесь терпения.
+4020	От прикосновения к среднему факелу вокруг левого и правого факелов появляются тотемы драконьего рода!
+4021	"По залу раскатывается глубокий нечеловеческий голос.#[Вы, зажёгшие три огня, теперь пройдёте последнее испытание.]"
+4022	"[Вы, прошедшие испытание Дракона, вправе ступить в священную землю]#У входа открывается портал! Теперь можно войти в священную землю."
+4023	Перекрыто слизью дрейка.
+4024	Вы видите устройство, испускающее свет, но подойти ближе нельзя: мост сломан. Нужно искать другой путь.
+4025	Похоже, крики дрейков будоражат яйцо в центре!
+4026	Яйцо треснуло, и Королева дрейков пробудилась ото сна!
+4027	Слизь у входа исчезла. Теперь можно выбраться из пещеры дрейка.
+4028	Слышен хлопот крыльев дрейка! Быстрее! Разбейте камень и выбирайтесь из пещеры!
+4029	Похоже, устройство под заклятием демонов. Должно быть, это магический барьер, сковывающий драконий род вулкана.
+4030	Вам удалось остановить один из магических барьеров вулкана.
+4031	Когда магический барьер сломан, по священному месту расходятся магические колебания!#Энергия исходит от последнего барьера!
+4032	Прошла одна минута.
+4033	Прошло три минуты.
+4034	Прошло пять минут.
+4035	Прошло семь минут.
+4036	Прошло восемь минут.
+4037	Прошло девять минут.
+4038	Прошло две минуты.
+4039	Прошло четыре минуты.
+4040	Прошло десять минут.#Похоже, последний магический барьер лишился всей энергии.#Барьер можно сломать, когда он полностью её исчерпает.
+4041	Все устройства магического барьера остановились!
+4042	Портал, закрытый магическим барьером, открылся. Теперь можно подняться на вершину священного места, где стоит последний барьер.
+4043	Когда вы убираете капитана рыцарей-дрейков и энергию Магических камней, по залу начинают кружить мощные силы!
+4044	[Я снова силён благодаря мощи магического барьера! Теперь я покажу вам истинную силу драконьего рода!]
+4045	Вы уничтожили все магические барьеры в долине.#Миссия выполнена.
+4046	Дракон со стоном говорит:#[Убейте зверей, чтобы снять печать. У меня важное дело, и мне нужна ваша помощь.]
+4047	Это магический факел, двигающий мост. Чтобы снять с него заклятие, нужно привести в действие какое-то устройство.
+4048	Факел холоден и не отзывается. Должен быть другой способ его зажечь.
+4049	Холодный факел зажёгся!
+4050	Воздух вокруг наполняется энергией магического барьера!
 //071112_їлБ·SM1_іЄ·ЎАМјЗ јцБ¤	
-432	The Liberation Army faced unexpected danger in scouting the Valley of the Dragonkin. Leaving the information unverified that the rebels of the Dragonkin are in touch with the Valkyries, they head into the Valley of the Dragonkin where the power of dark magic is felt, in order to find and obliterate the root of the magic barrier.
-433	Can The Liberation Army make it through the dangers that await?
+432	Освободительная армия столкнулась с неожиданной опасностью при разведке Долины драконьего рода. Так и не проверив сведения о том, что мятежники из драконьего рода связаны с валькириями, они входят в Долину драконьего рода, где чувствуется сила тёмной магии, чтобы найти и уничтожить корень магического барьера.
+433	Сумеет ли Освободительная армия пройти сквозь поджидающие опасности?
 //071115_1ѕЖАМїГЖ® ј­єк3_БцїЄён216~219	
-216	Aiort Graveyard#Aiort Underground Graveyard
-217	Aiort Graveyard#Hidden Catacomb
-218	Aiort Graveyard#Grand Hall of Darkness
-219	Aiort Graveyard#Altar of Great Priest
-220	Aiort Graveyard#Grave Area
-235	Aiort Graveyard#Mage's Private Grave
-236	Aiort Graveyard#Altar of the Wardead
-237	Aiort Graveyard#Underground Forge of Aiort Castle
-238	Aiort Graveyard#Wine Cellar of Aiort Castle
-239	Aiort Graveyard#Memorial Altar
+216	Кладбище Айорт#Подземное кладбище Айорта
+217	Кладбище Айорт#Скрытые катакомбы
+218	Кладбище Айорт#Великий зал тьмы
+219	Кладбище Айорт#Алтарь верховного жреца
+220	Кладбище Айорт#Могильная область
+235	Кладбище Айорт#Личная могила мага
+236	Кладбище Айорт#Алтарь павших на войне
+237	Кладбище Айорт#Подземная кузница замка Айорт
+238	Кладбище Айорт#Винный погреб замка Айорт
+239	Кладбище Айорт#Поминальный алтарь
 //071115_2ѕЖАМїГЖ® ј­єк3_іЄ·№АМјЗ315~316	
 //071115_3ѕЖАМїГЖ® ј­єк3_ёЮЅГБц2651~2700	
-2651	The carved letters on the plate are so worn that it was almost impossible to read them.
-2652	The plate looks particularly old. The letters are illegible, except for the deeply carved crest of the Heidel Family.
-2653	"[The dead who died from the plague of darkness were buried here.]"
-2654	"[The last resting place of Valon, the Knight of Stars, the follower of Sternen.#'Although the sword and body are broken, your noble name will last forever. Now I leave to deliver this blade to you - Valon.]"
-2655	"[Patrick, you lived and died as a loyal follower of the Knight of Stars.#I'm sending this blade of the Knight's to honor your legacy. Please deliver it safely to the Knight.#So fully devoted to the Knight, you never had the time for me, but I was happy because I loved you' - Your wife, Rachel.]  "
+2651	Резные буквы на плите так стёрлись, что прочесть их почти невозможно.
+2652	Плита выглядит особенно старой. Буквы неразборчивы, кроме глубоко вырезанного герба семьи Хайдель.
+2653	"[Здесь погребены умершие от чумы тьмы.]"
+2654	"[Последнее пристанище Валона, Звёздного рыцаря, последователя Штернена.#«Пусть меч и тело сломлены, твоё благородное имя пребудет вовек. Ныне я ухожу, чтобы доставить тебе этот клинок» — Валон.]"
+2655	"[Патрик, ты жил и умер верным последователем Звёздного рыцаря.#Посылаю этот клинок Рыцаря в честь твоей памяти. Прошу, доставь его Рыцарю в целости.#Ты был так предан Рыцарю, что для меня времени не оставалось, но я была счастлива, потому что любила тебя» — твоя жена Рэйчел.]  "
 2656	"[Kitty, who wandered all her life in search of her real name, believing she had lost it, finally stopped here.#'You may not like your name, but you are Kitty because your mother gave you the name. Do you believe it now?' - Your uncle.]"
 2657	"Goltmor Heidel, the master of the Heidel Family, the great warriors who ruled the continent under their swords, finally rests his sword here.#His body is no longer, but his soul will live forever in the name of his family.]"
 2658	"Sternen Richt, the Knight of Stars. Finished a life of 32 years like a morning star, and is now resting by the grace of God.#'Oh, the precious, I offer my sword to you, who will remain on this land.#May the power of protection remaining with the sword keep you safe from the war your lives are.' - Sternen.] "
@@ -1107,7 +1107,7 @@ StrCode	Str	FieldEnd
 4089	The knights who protect the blade piece are here!
 //080131_4ѕЖАМїГЖ® ј­єк2_БцїЄёнјцБ¤	
 222	Aiort Graveyard#The Hall of Crystal
-223	Aiort Graveyard#Heretical Basement Altar
+223	Кладбище Айорт#Еретический подземный алтарь
 //080131_4ѕЖАМїГЖ® ј­єк2_јцБ¤	
 2601	Words are scratched into the tombstone. [Darkness to light. Light wakes up the cursed.]
 2602	It's the crystal that sucks up the Ether. It's being protected by the forces seeping up from underground.#To break it, you should look *down* first.
@@ -2702,7 +2702,7 @@ StrCode	Str	FieldEnd
 5687	Be gone from this land now!
 5688	Promise me to kill... Ignis....
 5689	Earth Guardian is now free from the magic spell casted by Ignis.
-5690	A portal has been created.
+5690	Возник портал.
 5691	Please free our tribesman located in two places in the north. # We'll be able to help you.
 5692	You can enter the village if you destroy the two Sealing Stones protected by hostile tribes.
 5693	Their defense has been weakened. Golden Lizard Tribe is very strong. Be careful.
@@ -2771,7 +2771,7 @@ StrCode	Str	FieldEnd
 5751	Uh! Hey! Hey you!
 5752	You're trapped! I've been waiting! Ardor Expedition!#By order of Ignis, I'll take your lives!
 5753	Children are bound by the Magic Barrier. You'll have to find who controls the magic barrier and eliminate him.
-5754	You feel something evil foreboding.
+5754	Вы чувствуете недоброе предзнаменование.
 5755	Dirty traitors...
 5756	Whew. Now where should we go? 
 5757	After 10 minutes, the magic barrier that had bound the kids exploded.
@@ -2784,42 +2784,42 @@ StrCode	Str	FieldEnd
 5764	Oh, you're alive! Now, hurry and leave this place!#The Portal leading to the town is created.
 5765	With strong dark force, the Pale Deinos turned up.
 //ё®ґєѕу_їлБ·АЗ°и°оёЮАО№МјЗ_5800~5850	
-5800	The path is blocked with gooey slime.
-5801	The sound of eggs breaking in the back! 
-5802	When you kill the Drake Youngling, you hear a loud flapping sound from in front of the slime!#That must be the one who made this slime that blocks the path.
-5803	The slime disappears when the Leader of Drakes is killed.
+5800	Путь перекрыт липкой слизью.
+5801	Сзади слышен треск разбивающихся яиц!
+5802	Когда вы убиваете детёныша дрейка, перед слизью слышен громкий хлопок крыльев!#Видимо, это тот, кто создал слизь, перекрывшую путь.
+5803	Слизь исчезает, когда Вожак дрейков убит.
 5804	I hear the sound of the enemies rushing to the bridge! Prepare for battle.
 5805	A trap has been activated. A sudden attack by the enemy!
-5806	When you get close, the bridge crumbles.
+5806	Когда вы подходите ближе, мост обрушивается.
 5807	The Patrol Captain had a key to open the bridge pulley somewhere!#You have acquired the [Patrol Captain's Key].
 5808	When Watchmen were eliminated, the trap was removed.
-5809	You cannot move the pulley because it's tightly secured with a lock and chain.#You must find the key that opens the lock.
+5809	Блок не сдвинуть: он накрепко скован замком и цепью.#Нужно найти ключ от замка.
 5810	This bridge looks unusable as it doesn't have special devices.
-5811	When you remove the chain from the pulley, the bridge begins to operate.
-5812	The cave leading to the sacred place is blocked with the seal of a Death Dragon.#You must figure out how to remove that seal.
-5813	A blazing light is blocking the bridge.
+5811	Когда вы снимаете цепь с блока, мост приходит в движение.
+5812	Пещера, ведущая к священному месту, перекрыта печатью Дракона Смерти.#Нужно понять, как снять эту печать.
+5813	Мост перекрыт слепящим светом.
 5814	As you approach the pillar, a strong force envelops the altar!
-5815	When you kill the Seal Mage, the force of the altar weakens.
+5815	Когда вы убиваете Мага печати, сила алтаря слабеет.
 5816	The power of the seal blocking the Portal is gone.
 5817	You, worms of the rebel army! Get out of here!
 5818	The light blocking the path is gone.
-5819	The altar begins to emit bright light.
-5820	The path is blocked with the seal of a Death Dragon.
-5821	When you step into the vacant lot, suddenly enemies emerge from everywhere!
+5819	Алтарь начинает источать яркий свет.
+5820	Путь перекрыт печатью Дракона Смерти.
+5821	Стоит выйти на пустырь, как отовсюду появляются враги!
 5822	The seal of Death Dragon has been broken! The portal leading to the entrance of the Holly Place is now open.
 5823	You succeeded in eliminating Berdio and obtained the [Blue Scroll of Unsealment].
 5824	You succeeded in eliminating Neglo and obtained the [Red Scroll of Unsealment].
 5825	You succeeded in obtaining the Yellow Scroll of Unsealment.
-5826	The seal on the entrance to the sacred land is broken!
+5826	Печать на входе в священную землю сломана!
 5827	Drake Knight Soldiers are blocking the path.
 5828	When you approach the Stone Statue, the Death Dragon Guardian appears under a bright light.
-5829	It is blocked with Drake's mucus.
+5829	Перекрыто слизью дрейка.
 5830	When you use the Scroll of Unsealment, the flames of the pillar disappear.
 5831	The mucus at the exit is gone. You can enter the cave now.
 5832	You hear the sound of Drake's wings flapping.#Hurry and break the stone at the exit and get out of the cave.
 5833	The Portal is sealed with strong magic power. It seems to have something to do with the two Stone Statues at the center of the Crater.
-5834	You've succeeded in stopping one of the Magic Barriers of the volcano.
-5835	When the Magic Barrier is broken, magical vibrations begin to resonate throughout the sacred place!#The energy is emanating from the last Magic Barrier!
+5834	Вам удалось остановить один из магических барьеров вулкана.
+5835	Когда магический барьер сломан, по священному месту расходятся магические колебания!#Энергия исходит от последнего барьера!
 5836	You're little insects! I'll show you my power!
 5837	The Captain of the Drake Knights absorbed the Magic Seal Energy to come back to life.#[Ha ha ha! I am immortal. You little insects!]
 5838	The Captain of the Drake Knights revived to be yet more powerful by absorbing the Magic Seal Energy.
@@ -2828,10 +2828,10 @@ StrCode	Str	FieldEnd
 5841	The energy of Magic Barrier makes me stronger! Look at the power of the real Dragonkin!
 5842	As the Captain of the Drake Knights was defeated, the Force of Fire protecting the Magic Stones disappeared!#This is a lifetime chance to destroy the Magic Stones!
 5843	A portal shows up as you eliminate the Captain of the Drake Knights.
-5844	Ten minutes have passed.#The last Magic Barrier seems to have lost all its energy.#You can break the Magic Barrier once it's completely drained of its energy.
-5845	All the magic barrier devices have stopped moving!
+5844	Прошло десять минут.#Похоже, последний магический барьер лишился всей энергии.#Барьер можно сломать, когда он полностью её исчерпает.
+5845	Все устройства магического барьера остановились!
 5846	A portal that was blocked by the Magic Barrier disappeared.#Now you can go to the summit of the holy place, where the Magic Barrier of the Volcano is.
-5847	As you remove the Captain of the Drake Knights and the energy from the Magic Stones, strong forces begin to swirl through the hall! 
+5847	Когда вы убираете капитана рыцарей-дрейков и энергию Магических камней, по залу начинают кружить мощные силы!
 5848	You gained 50,000 EXP by destroying the Pile of Rocks.
 //ілєнЅєД®·їµї±ј
 344	An epidemic that swept through Kortoq Village.#It turns out that the disease was deliberately spread by the Beast tribes that have joined forces with Ignis.#The Expedition heads to the Noble Scarlet Cave to purify contaminated water and to foil the enemy's vicious plan, without knowing that an unexpected, more serious threat awaits it.
@@ -2866,7 +2866,7 @@ StrCode	Str	FieldEnd
 5880	This area is eerily quiet. You'd better be careful.
 5881	Kak! Kak ... kkkk. You fools will never understand what Lord Ignis intends to do.#This is only the beginning. You won't even step on his shadow.
 //2011Е©ё®Ѕєё¶ЅєАМєҐЖ®	
-5882	Snowy Waldchen
+5882	Снежный Вальдхен
 5883	Uh... Ungh... If you're honest people, you can't ignore reality for a single moment of profit...
 5884	Rudolph takes one last breath before collapsing.
 5885	A portal appears at the entrance to the village.
@@ -2974,7 +2974,7 @@ StrCode	Str	FieldEnd
 5987	You obtained the ammo for the catapult.
 5988	You obtained the ammo for the catapult.
 5989	You need to attack once more to destroy the guard post.
-5990	A portal has been created.
+5990	Возник портал.
 5991	You can't open the door because of the guard post.
 5992	The enemy guard has found you. The enemies are storming toward you.
 5993	The reinforcement has arrived at the guard post.
@@ -3073,7 +3073,7 @@ StrCode	Str	FieldEnd
 6079	The monster controlling the barrier was removed and the door has opened.	
 6080	This is no hot spring... Hurry up...	
 6081	Actually... the ceiling isn't going to collapse. I lied because I wanted the code solved quickly... Sorry.	
-6082	A portal has been created.	
+6082	Возник портал.	
 6083	The green summoning circle has been destroyed.	
 6084	The red summoning circle has been destroyed.	
 6085	The blue summoning circle has been destroyed.	
@@ -3508,8 +3508,8 @@ StrCode	Str	FieldEnd
 6474	4 minutes remaining.					
 6475	3 minutes remaining.					
 6476	1 minute remaining.					
-6477	30 seconds remaining.					
-6478	10 seconds remaining.					
+6477	Осталось 30 секунд.					
+6478	Осталось 10 секунд.					
 6479	The full moon rises high and guides you.# The remaining enemies lose their strength and fall.					
 6480	Thanks to you we made it here safely! #The Half-Moon Rice Cakes we've been looking for must be in that building ahead!					
 6481	Tiramisu : How dare you!! Every Dream Rice Cake here is mine!!					
@@ -3670,7 +3670,7 @@ StrCode	Str	FieldEnd
 //їВГµ	
 6702	Spa Guide : You need to buy a ticket to go into the spa.
 6703	Spa Guide : Please buy a [Spa Ticket] from the ticket seller, or a [Premium Spa Ticket] from the Item Shop (\).
-6704	Serient Spa
+6704	Источники Сериента
 6705	Spa Guide : You need to buy a [Premium Spa Ticket] to enter the premium bath.
 6706	Spa Guide : The [Premium Spa Ticket] can be bought at the Item Shop (\).
 //їлБ·ёЮАОГЯ°ЎёЮЅГБц	
@@ -3682,7 +3682,7 @@ StrCode	Str	FieldEnd
 6710	The Captain of the Drake Knights' magic forced you out. The mission has failed.
 6711	All the power of the seal has been removed and the transfer portal is running. #You will move to the next area shortly.
 //їАИД 3:40 2015-07-01
-6712	Serient Beach
+6712	Пляж Сериента
 6713	Welcome to Serient Beach!!
 6714	The more accessories you bring along, such as soft drinks, sunglasses, sunscreen, floats and beach towels, the more EXP you can earn.
 6715	You need to buy a [Main Stage Ticket] to go up on the Main Stage.

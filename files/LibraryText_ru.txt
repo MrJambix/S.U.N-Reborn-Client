@@ -94,7 +94,7 @@ StrCode	Str	FieldEnd
 15018	Elements	
 15019	Custom Passives	
 15020	Enhancement Elixirs	
-15021	Crystal Pillar	
+15021	Кристальный столп	
 15022	Monster Camps	
 15023	Battle Zone	
 15024	Battle Zone	
@@ -103,12 +103,12 @@ StrCode	Str	FieldEnd
 15027	Mission Progress Info	
 15028	Conflict Zones and PK	
 15029	Crystallization	
-15030	Crafting	
+15030	Изготовление	
 15031	Jump Portals	
 15032	Mounts	
 15033	Flying Vessel (1)	
 15034	Flying Vessel (2)	
-15035	Esod	
+15035	Эсод	
 15036	Вальдхен	
 15037	Лес зверей	
 15038	Трингель	
@@ -117,20 +117,20 @@ StrCode	Str	FieldEnd
 15041	Дворец ледяных кристаллов	
 15042	Долина драконьего рода	
 15043	Кладбище Айорт	
-15044	Aukra	
+15044	Аукра	
 15045	Castle Helron	
-15046	Cursed Tower	
-15047	Corrupted Temple	
+15046	Проклятая башня	
+15047	Осквернённый храм	
 15048	Castle Montshine	
 15049	Temple of Blood	
-15050	Flying Vessel	
-15051	Kortoq	
-15052	Green Earth	
+15050	Летучее судно	
+15051	Корток	
+15052	Зелёная земля	
 15053	Guidance Liberation Army	
 15054	Geist Empire	
 15055	Rochel Republic	
-15056	Ardor Expedition	
-15057	Karnatus Army	
+15056	Экспедиция Ардор	
+15057	Армия Карнатуса	
 15058	Игнис	
 15059	Schwertz Prammes	
 15060	Otto von Roshfelt	
@@ -140,7 +140,7 @@ StrCode	Str	FieldEnd
 15064	Долина драконьего рода	
 15065	Кладбище Айорт	
 15066	Castle Helron	
-15067	Green Earth	
+15067	Зелёная земля	
 15068	Greetings	
 15069	Basic Shortcut Keys	
 15070	Rotnem's Private Lessons (2)	
@@ -155,7 +155,7 @@ StrCode	Str	FieldEnd
 20006	Basic Controls - Quick Slots	
 20007	Basic Controls - Talking (Players)	
 20008	Normal Chat	
-20009	Shout	
+20009	Крик	
 20010	Party Chat	
 20011	Guild Chat	
 20012	Channel Chat	
@@ -229,7 +229,7 @@ StrCode	Str	FieldEnd
 20081	Western Continent, the Ancient Temple	
 20082	Soulless Fighters, an Endless Battle	
 20083	Earthquakes and Collapse	
-20084	Lightning	
+20084	Молния	
 20085	The Central Barrier	
 20086	Memoirs of the Federal Council Chairman	
 20087	Strife within the Guidance Liberation Army	
@@ -361,7 +361,7 @@ StrCode	Str	FieldEnd
 // 10:48 2011-11-30
 71	How has your year been, <heroname/>? It is already <COLOR=FFE46D0A>the Christmas season</COLOR>!<RETURN=1/>This continent has no change of season, but Christmas is a festival everyone looks forward to.<RETURN=1/>Oh, and <COLOR=FFE46D0A>Brandon the Groom</COLOR> of <COLOR=FF0070C0>Waldchen</COLOR> is looking for you. He says it is important, so would you please go and see him?	
 10500	Event Information	
-15073	Christmas Event	
+15073	Рождественское событие	
 // 11:28 2012-07-05
 30074	It is said that <COLOR=FFE46D0A>a single item can have 1 to 5 sockets</COLOR>.<RETURN=1/>To protect the gear, however, <COLOR=FFE46D0A>the number of high grade Zards that can be mounted is limited</COLOR>.<RETURN=1/>The number of Zards of each grade that can be mounted in one item is as follows.<RETURN=1/><COLOR=FFE46D0A>- Highest grade: 1<RETURN=1/>- High grade: 2<RETURN=1/>- Medium grade: 3<RETURN=1/>- Low grade: 5</COLOR>	
 // 8:56 2012-11-09
