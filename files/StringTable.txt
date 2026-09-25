@@ -34771,6 +34771,10 @@ start
 405103	Torn from a battle zone boss. A crafter can combine them into rare rewards.
 59106	The Cash Vault is full.
 59107	The Cash Vault is not available right now.
+59108	Enhanced Lighting (restart required)
+59109	Lighting Strength
+59110	Sky Light
+59111	Rim Light
 406098	Second Sun
 406099	The Second Sun
 406100	A Page That Does Not Match
@@ -34799,6 +34803,10 @@ start
 406123	The Hand on the Lever
 406124	Node Seven
 406125	The Grass Begins to Die
+11452	Luck
+405041	Luck %d  (class %d, bonus %d)
+405042	Lucky Chance %d.%d%%   Crit +%d   Crit Damage +%d%%
+405043	Rare Drop Re-roll %d%%   Heim +%d%%
 end
 405110	The Spear of Dawn
 405111	Complete your class change-up. The Order of the Dawn will take you, and you may create a Paladin.

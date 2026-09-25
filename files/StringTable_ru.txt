@@ -34771,6 +34771,10 @@ start
 405103	Torn from a battle zone boss. A crafter can combine them into rare rewards.
 59106	The Cash Vault is full.
 59107	The Cash Vault is not available right now.
+59108	Enhanced Lighting (restart required)
+59109	Lighting Strength
+59110	Sky Light
+59111	Rim Light
 406098	Second Sun
 406099	The Second Sun
 406100	A Page That Does Not Match
@@ -34811,4 +34815,8 @@ start
 4687	This player's combat power is far higher than yours.\nCombat Power sums a character's overall strength; a fight can still go either way.
 4688	Combat Power
 406204	Boss Invasion
+11452	Удача
+405041	Удача %d  (класс %d, бонус %d)
+405042	Шанс удачи %d.%d%%   Крит +%d   Крит. урон +%d%%
+405043	Повторный бросок редкой добычи %d%%   Хейм +%d%%
 end

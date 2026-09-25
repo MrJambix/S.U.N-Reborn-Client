@@ -64,6 +64,10 @@ OptionID	PageIndex	CategoryName	DisplayName	ItemType	ItemData	Comment
 245	1	2811	59085	COMBO	2936	설명입니다.	//Equipment Details panel
 246	1	2811	59086	COMBO	2936	설명입니다.	//Auto Confirm
 251	0	2807	59091	COMBO	59092	설명입니다.	//Shadow detail: 0 standard, 1 self-shadow, 2 self-shadow + 2x map
+252	0	2807	59108	COMBO	2936	설명입니다.	//Enhanced lighting (d3d9 wrapper [Render] Lighting; restart)
+253	0	2807	59109	GAUGE	2937	설명입니다.	//Lighting strength 0-100 ([Lighting] Mix)
+254	0	2807	59110	GAUGE	2937	설명입니다.	//Sky light 0-100 ([Lighting] Ambient)
+255	0	2807	59111	GAUGE	2937	설명입니다.	//Rim light 0-100 ([Lighting] Rim)
 300	2	2812	2865	GAUGE	2937	설명입니다.	//배경음
 301	2	2812	2866	GAUGE	2937	설명입니다.	//환경 효과음
 302	2	2812	2867	GAUGE	2937	설명입니다.	//시스템 효과음
