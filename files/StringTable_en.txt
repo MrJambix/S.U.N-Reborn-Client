@@ -34801,7 +34801,6 @@ start
 405041	Luck %d  (class %d, bonus %d)
 405042	Lucky Chance %d.%d%%   Crit +%d   Crit Damage +%d%%
 405043	Rare Drop Re-roll %d%%   Heim +%d%%
-end
 405110	The Spear of Dawn
 405111	Complete your class change-up. The Order of the Dawn will take you, and you may create a Paladin.
 406200	The Battle Zone opens in 5 minutes.
@@ -34814,3 +34813,36 @@ end
 4687	This player's combat power is far higher than yours.\nCombat Power sums a character's overall strength; a fight can still go either way.
 4688	Combat Power
 406204	Boss Invasion
+405050	Costume Exchange Ticket
+405051	Trade it to the Costumes Exchanger in Waldchen for a Mystery Costume Box for the class of your choice.
+405052	Mystery Costume Box: Berserker (Male)
+405053	Opens to a random 30-day Berserker costume for male characters. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405054	Mystery Costume Box: Berserker (Female)
+405055	Opens to a random 30-day Berserker costume for female characters. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405056	Mystery Costume Box: Dragon Knight (Male)
+405057	Opens to a random 30-day Dragon Knight costume for male characters. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405058	Mystery Costume Box: Dragon Knight (Female)
+405059	Opens to a random 30-day Dragon Knight costume for female characters. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405060	Mystery Costume Box: Shadow (Male)
+405061	Opens to a random 30-day Shadow costume for male characters. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405062	Mystery Costume Box: Shadow (Female)
+405063	Opens to a random 30-day Shadow costume for female characters. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405064	Mystery Costume Box: Valkyrie (Male)
+405065	Opens to a random 30-day Valkyrie costume for male characters. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405066	Mystery Costume Box: Valkyrie (Female)
+405067	Opens to a random 30-day Valkyrie costume for female characters. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405068	Mystery Costume Box: Elementalist (Male)
+405069	Opens to a random 30-day Elementalist costume for male characters. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405070	Mystery Costume Box: Elementalist (Female)
+405071	Opens to a random 30-day Elementalist costume for female characters. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405072	Mystery Costume Box: Mystic
+405073	Opens to a random 30-day Mystic costume. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405074	Mystery Costume Box: Hellroid
+405075	Opens to a random 30-day Hellroid costume. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405076	Mystery Costume Box: Witchblade
+405077	Opens to a random 30-day Witchblade costume. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405078	Mystery Costume Box: Paladin
+405079	Opens to a random 30-day Paladin costume. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
+405080	Paladin Swimsuit Costume (30 Days)
+405081	Paladin Hot Spring Costume (30 Days)
+end

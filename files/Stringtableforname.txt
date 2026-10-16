@@ -4748,7 +4748,7 @@ start
 17379	Beast Slayer Jacob
 //오전 12:09 2015-06-24	
 17324	Costumes Exchanger
-50772	SUMMER FESTIVAL
+50772	FESTIVAL
 //오후 12:25 2015-06-25	
 53000	[Mission] Sealed Rage
 //오후 12:25 2015-06-25	
