@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-10-18] fix | Fixed quests that sometimes could not be accepted: clicking Accept did nothing until you restarted the game.
+
 [2026-10-16] event | Autumn Festival: the Costumes Exchanger is back in Waldchen, next to Cronous. Trade a Costume Exchange Ticket there for a Mystery Costume Box for the class you play -- it opens to a random 30-day costume, and every costume in a box gives the same bonuses. Paladins get a box too. Also fixed a few in-game messages that showed as "ID Not Found".
 
 [2026-09-25] update | Luck arrives: a new stat for every class (Mystics start with the most). Luck raises critical chance and damage, finds more rare drops and Heim, and gives item stat rolls a Lucky Chance to roll twice. Rings and necklaces can roll Luck, the Lizzard pet grants +30, and you can spend stat points on Luck in the character window.
