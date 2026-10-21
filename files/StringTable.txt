@@ -12572,7 +12572,7 @@ start
 45448	Shuzet's High Grade Soul Eye
 //2009-08-04	
 7032	%s wishes to enlist you as a member of their group. Do you want to accept?
-401174	To Room of the Northern Wind
+401174	To the Room of the Northern Wind
 7056	That player has group invitations blocked.
 7057	You must first disband the group to delete your character.
 1928	In %d minutes
@@ -21625,7 +21625,7 @@ start
 6194	"1. Any guild member can place items in the guild storage, but only the guild master, submaster, and elite members can withdraw items.<RETURN=1/>2. The guild storage can only be used by members of level 2 or higher. <RETURN=1/>3. Click the OK button below to open the storage."
 //오후 19:18 2011-12-26	
 7272	New Guild Requirements
-7257	Please tell me the guild name you wish to use.\n\n※ Maximum of 16 characters\n(letters and numbers).
+7257	Please tell me the guild name you wish to use.\n\n* Maximum of 16 characters\n(letters and numbers).
 //오전 11:36 2011-12-29	
 300690	Lilke's Fragment
 47741	Dream Ring
@@ -25756,7 +25756,7 @@ start
 //오후 6:38 2013-03-13
 5735	Definite
 //오후 12:00 2013-03-19	
-2760	※ Items in the Storage Box can be used for 1 year from the date of purchase.
+2760	* Items must be claimed from the Storage Box within 1 year of purchase.
 2761	Go to Terms and Conditions
 2762	Go to Terms and Conditions of SUN Cash (At the lower side of our website, click Terms and Conditions > Cash Terms and Conditions)
 47667	Replicated Crimson Trigger (Fire)
@@ -25773,8 +25773,8 @@ start
 11909	You must eliminate Montrose.
 //오전 10:47 2013-03-21
 2763	I read the SUN Cash Terms and Conditions and Warnings,\nand I agree to proceed with the purchase.
-155502	※ If you click the Purchase button below, the above item will be purchased.\n ※ Items in the Storage Box can be used for 1 year from the date of purchase.\n ※ You can cancel purchase on unused items in the Storage Box.\n(However, purchase of some items and items given as gifts cannot be cancelled)\n ※ SUN Cash Terms and Conditions can be seen by clicking the button\non the lower part of the Item Shop, and be sure to check your purchase before payment.
-155503	※ If you click the Gift button below, the above item will be sent as a gift.\n ※ Items in the Storage Box can be used for 1 year from the date of purchase.\n ※ You can cancel purchase on unused items in the Storage Box.\n(However, purchase of some items and items given as gifts cannot be cancelled)\n ※ SUN Cash Terms and Conditions can be seen by clicking the button\non the lower part of the Item Shop, and be sure to check your purchase before payment.
+155502	* Click the Purchase button below to buy the item above.\n* Items must be claimed from the Storage Box within 1 year of purchase.\n* Unused items in the Storage Box can have their purchase cancelled.\n(Some items, and items sent as gifts, cannot be cancelled.)\n* The W Coin Terms and Conditions can be viewed with the button\nat the bottom of the Item Shop. Please check them before you buy.
+155503	* Click the Gift button below to send the item above as a gift.\n* Items must be claimed from the Storage Box within 1 year of purchase.\n* Unused items in the Storage Box can have their purchase cancelled.\n(Some items, and items sent as gifts, cannot be cancelled.)\n* The W Coin Terms and Conditions can be viewed with the button\nat the bottom of the Item Shop. Please check them before you buy.
 //오전 11:34 2013-03-21	
 4563	Costume Box <Black Samurai>
 4564	Costume Box <right-click>
@@ -25790,7 +25790,7 @@ start
 4574	Priest Costume Box (Elementalist)
 4575	Priest Costume Box (Valkyrie)
 //오후 3:54 2013-03-21
-155455	<font=st11><color=ffe80000>The purchase of items sent as gifts cannot be<return=1/>cancelled.<return=1/></color><color=ffffffff>※ Customer Support (Call Center: 1566-3003)<return=1/>※ Please use the Contact menu for lunch time (1PM-2PM)<return=1/>and official holidays.<return=1/>※ The Contact menu (SUN Homepage > Customer Support > Contact)</color></font>
+155455	<font=st11><color=ffe80000>The purchase of items sent as gifts cannot be<return=1/>cancelled.<return=1/></color><color=ffffffff>* For help, please contact the S.U.N Reborn team.</color></font>
 //오후 9:42 2013-03-22	
 155620	Blue Dragon
 155626	Summons the Blue Dragon (Bonus is offered when summoned; additional bonus is offered when its loyalty is 60% & 100%.).
@@ -26926,7 +26926,7 @@ start
 28314	Creates giant axe by using energy and throws it towards the enemy to inflict %s damage and their movement speed with a %s chance decreased to %s  for a certain period of time. Increases threat by %s.
 28206	Converts %s of the damage received from the enemy into HP for the duration.
 26084	Summon evil spirits and Strike fear into nearby enemies by %s chance, the movement-speed with a %s chance decreased to %s. 
-159875	Grants an extra effect when equipped with [High-grade] Ring of Onslaught, [High-grade] Ring of Protection, [High-grade] Ring of Rage, Ring of Storms.\n\n※If "Ring of Harmony and Balance" is moved to the inventory in the Storage Box, it mounted regardless of whether the expiration time is granted, the transaction is impossible Items.\nWhen purchasing, please careful !!
+159875	Grants an extra effect when equipped with [High-grade] Ring of Onslaught, [High-grade] Ring of Protection, [High-grade] Ring of Rage, Ring of Storms.\n\n* If "Ring of Harmony and Balance" is moved to the inventory in the Storage Box, it mounted regardless of whether the expiration time is granted, the transaction is impossible Items.\nWhen purchasing, please careful !!
 //오전 10:38 2013-07-19
 2777	This function cannot be used for 1 minute after an expulsion vote ends.
 //오후 6:46 2013-07-19
@@ -31225,8 +31225,8 @@ start
 //오후 10:45 2015-03-17	
 48106	Premium Spa Ticket
 //오후 2:06 2015-03-23
-2398	The Attendance Reward will be paid according to attendance accumulated, regardless of date.<return=1/><return=1/>※ Attendance Reward can be received all at once, when they want.<return=1/>※ Go over to the following month, you can not receive Attendance Reward.
-2399	You can get the appropriate compensation to attend fixed dates.<return=1/><return=1/>※ Attendance Reward can be received all at once, when they want.<return=1/>※ Go over to the following month, you can not receive Attendance Reward.
+2398	The Attendance Reward will be paid according to attendance accumulated, regardless of date.<return=1/><return=1/>* Attendance Reward can be received all at once, when they want.<return=1/>* Go over to the following month, you can not receive Attendance Reward.
+2399	You can get the appropriate compensation to attend fixed dates.<return=1/><return=1/>* Attendance Reward can be received all at once, when they want.<return=1/>* Go over to the following month, you can not receive Attendance Reward.
 40343	General Potion Box(2Lv)
 40344	General Potion Box(3Lv)
 40345	General Potion Box(4Lv)
@@ -33047,7 +33047,7 @@ start
 41968	Basic Elemental Damage Increase\n(max 1 equipped)\nGrants an extra effect when equipped with [High-grade] Ring of Protection(Supply), [High-grade] Ring of Rage(Supply), Ring of Storms(Supply), Ring of Harmony and Balance(Supply).
 41969	Skill Damage Increase\n(max 1 equipped)\nGrants an extra effect when equipped with [High-grade] Ring of Onslaught(Supply), [High-grade] Ring of Protection(Supply), Ring of Storms(Supply), Ring of Harmony and Balance(Supply).
 41970	Basic Attack Speed Increase\n(max 1 equipped)\nGrants an extra effect when equipped with [High-grade] Ring of Onslaught(Supply), [High-grade] Ring of Protection(Supply), [High-grade] Ring of Rage(Supply), Ring of Harmony and Balance(Supply).
-41971	Grants an extra effect when equipped with [High-grade] Ring of Onslaught(Supply), [High-grade] Ring of Protection(Supply), [High-grade] Ring of Rage(Supply), Ring of Storms(Supply).\n\n※If "Ring of Harmony and Balance(Supply)" is moved to the inventory in the Storage Box, it mounted regardless of whether the expiration time is granted, the transaction is impossible Items.\nWhen purchasing, please careful !!
+41971	Grants an extra effect when equipped with [High-grade] Ring of Onslaught(Supply), [High-grade] Ring of Protection(Supply), [High-grade] Ring of Rage(Supply), Ring of Storms(Supply).\n\n* If "Ring of Harmony and Balance(Supply)" is moved to the inventory in the Storage Box, it mounted regardless of whether the expiration time is granted, the transaction is impossible Items.\nWhen purchasing, please careful !!
 //오후 6:22 2015-10-15	
 43579	Awakening Box Lv2(Low-Grade)
 43580	Awakening Box Lv2(Mid-Grade)
