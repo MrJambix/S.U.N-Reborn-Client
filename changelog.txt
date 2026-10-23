@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-10-22] update | New login screen: all nine classes stand together beneath the sun over the capital, and the sun is alive -- its rays slowly turn, its light swells and fades, and embers drift up past the heroes.
+
 [2026-10-21] fix | Fixed text in the Frozen Palace quests: Tablian's name now shows properly and several typos are corrected. The Item Shop notices no longer start with garbled symbols, and the Storage Box note now says what it always meant: items must be claimed from the Storage Box within a year of purchase.
 
 [2026-10-18] fix | Fixed quests that sometimes could not be accepted: clicking Accept did nothing until you restarted the game.
