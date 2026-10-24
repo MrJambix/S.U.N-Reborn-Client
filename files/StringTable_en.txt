@@ -34845,4 +34845,22 @@ start
 405079	Opens to a random 30-day Paladin costume. Every costume in the box gives the same bonuses; only the look is a surprise. The 30 days start the first time it is worn. <Right-click to open>
 405080	Paladin Swimsuit Costume (30 Days)
 405081	Paladin Hot Spring Costume (30 Days)
+406300	Stat Reroll Stone
+406301	Holds a moment of fate. Bring it to Israfil in Waldchen to reroll the stats on a piece of gear. Locking stats costs more stones and Heim.
+406303	I want to reroll the stats on my gear.
+406304	Stat Reroll
+406305	Right-click a piece of gear in your inventory.
+406306	%s cannot be rerolled.
+406307	Lock
+406308	Reroll
+406309	Cost
+406310	%s x%d (you have %d)
+406311	%s Heim (you have %s)
+406312	(no stat)
+406313	%s to %s
+406314	random stat
+406315	Locked stats keep their value. Every lock raises the cost.
+406316	Leave at least one stat unlocked.
+406317	The stats on %s have been rerolled.
+406318	Locked
 end

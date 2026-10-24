@@ -5086,4 +5086,5 @@ start
 55067	Tomsen
 55068	Montelius
 55069	Beanford
+406302	[Stat Reroll] Israfil
 end
