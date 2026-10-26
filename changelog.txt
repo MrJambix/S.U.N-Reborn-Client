@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-10-25] update | Skills used while running: quick spell casts such as Pain now play their animation from the waist up while you keep running. Skills that use the legs or the ground - kicks, jumps, lunges, casting circles and ground-targeted spells - stop you for their full animation, then you run on. The status bar across the top of the screen has been removed.
+
 [2026-10-25] update | Skills can now be used while running: quick skills are cast on the move without stopping, longer ones stop you only for the cast and you run on afterwards. Skill animations also play faster.
 
 [2026-10-23] update | New NPC: Israfil on the Waldchen enchant terrace rerolls the random stats on a piece of gear, Elite gear included. Lock the lines you want to keep. Each reroll costs Stat Reroll Stones (W-Coin shop) and Heim, and locking more lines costs more.
