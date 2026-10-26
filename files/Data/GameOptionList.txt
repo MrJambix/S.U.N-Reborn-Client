@@ -63,6 +63,9 @@ OptionID	PageIndex	CategoryName	DisplayName	ItemType	ItemData	Comment
 244	1	2811	59029	COMBO	2936	설명입니다.	//Click to move
 245	1	2811	59085	COMBO	2936	설명입니다.	//Equipment Details panel
 246	1	2811	59086	COMBO	2936	설명입니다.	//Auto Confirm
+256	1	2811	59112	COMBO	2936	설명입니다.	//Chat Timestamps
+257	1	2811	59113	COMBO	2936	설명입니다.	//Show Local Clock
+258	1	2811	59114	COMBO	2936	설명입니다.	//12-Hour Clock (both clocks and chat stamps)
 251	0	2807	59091	COMBO	59092	설명입니다.	//Shadow detail: 0 standard, 1 self-shadow, 2 self-shadow + 2x map
 252	0	2807	59108	COMBO	2936	설명입니다.	//Enhanced lighting (d3d9 wrapper [Render] Lighting; restart)
 253	0	2807	59109	GAUGE	2937	설명입니다.	//Lighting strength 0-100 ([Lighting] Mix)

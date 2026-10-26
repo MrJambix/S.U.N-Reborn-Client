@@ -33767,6 +33767,7 @@ start
 405038	Eternal Lightbringer
 405039	Hand of Mercy
 405040	Oathkeeper of Life
+405044	[DEV]
 12900	Penetration
 24194	Weakens the enemy's damage reduction and deals damage.
 404629	Empowered
@@ -34769,6 +34770,12 @@ start
 59109	Lighting Strength
 59110	Sky Light
 59111	Rim Light
+59112	Chat Timestamps
+59113	Show Local Clock
+59114	12-Hour Clock
+59115	Local Time  %s
+59116	Enter a name for this location. Enter - to show the map name again.
+59117	\n\nRight-click a saved location to rename it.
 406098	Second Sun
 406099	The Second Sun
 406100	A Page That Does Not Match

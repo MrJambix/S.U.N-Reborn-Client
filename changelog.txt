@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-10-26] update | New options in General Settings: Chat Timestamps puts the time in front of every chat message, Show Local Clock adds your own time under the server clock by the minimap, and 12-Hour Clock switches both clocks (and the chat times) to AM/PM. Runestone saved locations can now be renamed: right-click one in the list and type a name.
+
 [2026-10-26] update | Campfires: when you sit close enough to a campfire, a Warming Up buff now appears with a one-minute countdown, so you know you are in range. When it runs out it is replaced by the five campfire blessings. If it does not appear, move closer to the fire and sit again.
 
 [2026-10-25] update | Campfires: sit down beside any lit campfire for one minute to rest and receive five blessings for 60 minutes - more EXP and Heim from monsters, higher max HP and max MP, and more defense. The more players resting at the same fire, the stronger every blessing becomes, up to 5 players. Each blessing shows its own icon and strength in your buff bar.

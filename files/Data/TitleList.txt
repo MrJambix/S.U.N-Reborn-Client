@@ -93,3 +93,4 @@
 	90	405039	1	0	0	0	0	0	0	0	0	0		//	Hand of Mercy	SUN Ranking MasterOfHeal rank 2
 	91	405040	1	0	0	0	0	0	0	0	0	0		//	Oathkeeper of Life	SUN Ranking MasterOfHeal rank 3
 	92	406098	1	78	1	5	28	1	500	45	5	15		//	Second Sun	The Second Sun questline completion
+	93	405044	1	0	0	0	0	0	0	0	0	0		//	[DEV]	Staff

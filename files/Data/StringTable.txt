@@ -33177,6 +33177,7 @@ start
 405038	Eternal Lightbringer
 405039	Hand of Mercy
 405040	Oathkeeper of Life
+405044	[DEV]
 12900	Penetration
 24194	Weakens the enemy's damage reduction and deals damage.
 404629	Empowered
