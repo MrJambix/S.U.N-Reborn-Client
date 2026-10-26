@@ -34913,4 +34913,6 @@ start
 406397	You rested by a campfire with 3 players. Defense +6%.
 406398	You rested by a campfire with 4 players. Defense +8%.
 406399	You rested by a campfire with 5 or more players. Defense +10%.
+406400	Warming Up
+406401	You are resting by a campfire. Stay seated until this runs out to receive the campfire blessings.
 end
