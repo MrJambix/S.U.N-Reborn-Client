@@ -1,0 +1,7 @@
+//									
+//	1:온천	1:앉기 아이들 애니메이션 변경							
+//	2:비치	2:앉기 애니메이션 변경		앉는모션	앉아있는모션	앉기아이들모션	일어나기모션	코스튬기본복장아이템코드	
+	Index	MapCode	Type	AnimationCode1	AnimationCode2	AnimationCode3	AnimationCode4	CostumeItem	FieldEnd
+//	1	64508	1	N021	N022	N024	N023	7254	//온천맵
+	1	64508	2	N025	NULL	NULL	NULL	7254	//할로윈맵
+	2	64509	2	N025	NULL	NULL	NULL	7328	//세리엔트비치

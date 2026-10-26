@@ -1,0 +1,439 @@
+// 맵필드 			** 수정 내용 : 헌팅용 임시 필드 추가 91~96				
+// 최초 작업: 2005-06-24	** 안쓰이거나 없는 필드는 // 해 줄것						
+// 최종 작업:   	오후 4:13 2008-07-21						
+// 최종 작업자:	강경란						
+//Version	0.0.2.0			// 1 :공성전 맵 			
+ //1.2 							
+//필드(맵 파일)		"//필드 1 : (마을,필드) 배틀 2: (경쟁헌팅,미션) 둘다 : 3"					
+FieldCode	FieldMapDir	BySeverType	UseNewPathEngine	IsWarCastleMap	FieldEnd		
+1	Map\Object\Map01\Map01_F01.map	2	0	0			
+2	Map\Object\Map01\Map01_F02.map	2	0	0			
+3	Map\Object\Map01\Map01_F03.map	2	0	0			
+4	Map\Object\Map02\Map02_F01.map	2	0	0			
+5	Map\Object\Map02\Map02_F02.map	2	0	0			
+6	Map\Object\Map02\Map02_F03.map	2	0	0			
+7	Map\Object\Map03\Map03_F01.map	2	0	0			
+8	Map\Object\Map03\Map03_F02.map	2	0	0			
+9	Map\Object\Map03\Map03_F03.map	2	0	0			
+10	Map\Object\Map04\Map04_F01.map	2	0	0			
+11	Map\Object\Map04\Map04_F02.map	2	0	0			
+12	Map\Object\Map04\Map04_F03.map	2	0	0			
+//13	Map\Object\Map05\Map05_F01.map	2	0	0			
+14	Map\Object\Map05\Map05_F02.map	2	0	0			
+//15	Map\Object\Map05\Map05_F03.map	2	0	0			
+//16	Map\Object\Map06\Map06_F01.map	2	0	0			
+//17	Map\Object\Map06\Map06_F02.map	2	0	0			
+//18	Map\Object\Map06\Map06_F03.map	2	0	0			
+19	Map\Object\Map02\Map02_F01.map	2	0	0			
+20	Map\Object\Map03\Map03_F01.map	2	0	0			
+21	Map\Object\Map02\Map02_F05_S4.map	2	0	0			
+22	Map\Object\Map02\Map02_F05_S5.map	2	0	0			
+23	Map\Object\Map04\Map04_F01_Boss.map	2	0	0			
+24	Map\Object\Map02\Map02_F03.map	2	0	0			
+25	Map\Object\Map02\Map02_F03.map	2	0	0			
+//잿빛던젼							
+26	Map\Object\Map05\map05_F03_A.map	2	0	0			
+//미션필드							
+101	Map\Object\Map03\Map03_F01_S3.map	2	0	0			
+//102	Map\Object\Map01\Map01_F01_T1.map	2	0	0			
+103	Map\Object\Map05\Map05_F05.map	2	0	0			
+//104	Map\Object\Map05\Map05_F03_B.map	2	0	0			
+105	Map\Object\Map05\Map05_F06.map	2	0	0			
+//아이올트 서브1							
+106	Map\Object\Map05\map05_F01.map	2	0	0			
+107	Map\Object\Map05\map05_F03_B.map	2	0	0			
+//아이올트 서브4							
+108	Map\Object\Map05\map05_F03_A.map	2	0	0			
+109	Map\Object\Map05\Map05_F01_Boss.map	2	0	0			
+110	Map\Object\Map05\Map05_F01_Boss.map	2	0	0			
+111	Map\Object\Map05\map05_F02.map	2	0	0			
+112	Map\Object\Map05\Map05_F03_boss.map	2	0	0			
+//아이올트 메인							
+113	Map\Object\Map05\Map05_F06.map	2	0	0			
+114	Map\Object\Map05\Map05_F02_Boss.map	2	0	0			
+115	Map\Object\Map05\map05_F03_B.map	2	0	0			
+116	Map\Object\Map05\Map05_F03_boss.map	2	0	0			
+117	Map\Object\map_battle01\map_battle01_F02.map	2	0	0			
+//헬론의성 서브1							
+118	Map\Object\Map06\Map06_F04.map	2	0	0			
+//헬론의성서브2_검은에테르의정체							
+119	Map\Object\Map06\Map06_F01.map	2	0	0			
+//헬론의성 서브3							
+120	Map\Object\Map06\Map06_F02_A.map	2	0	0			
+121	Map\Object\Map06\Map06_F02_B.map	2	0	0			
+//헬론의성 메인							
+122	Map\Object\Map06\Map06_F03.map	2	0	0			
+123	Map\Object\Map06\Map06_F03_C.map	2	0	0			
+124	Map\Object\Map06\Map06_F03_C.map	2	0	0			
+125	Map\Object\Map06\Map06_F03_C.map	2	0	0			
+126	Map\Object\Map06\Map06_F03_C.map	2	0	0			
+127	Map\Object\Map06\Map06_F03_C3_A.map	2	0	0			
+128	Map\Object\Map06\Map06_F03_C3_B.map	2	0	0			
+129	Map\Object\Map06\Map06_F03_C.map	2	0	0			
+130	Map\Object\Map06\Map06_F03_C.map	2	0	0			
+//EP2_녹음의대지							
+131	Map\Object\Map201\Map201.map	2	0	0		//코르토크해안선_미션	
+132	Map\Object\Map202\Map202.map	2	0	0		//갈레노아정글_미션	
+133	Map\Object\Map203\Map203.map	2	0	0		//노블스칼렛동굴_미션	
+//EP2_정령들의쉼터							
+134	Map\Object\Map204\Map204.map	2	0	0		//영원성의지대_미션	
+135	Map\Object\Map205\Map205.map	2	0	0		//아스토레아협곡_미션	
+136	Map\Object\Map206\Map206.map	2	0	0		//고대인의안식처_미션	
+//EP2_보레아스산맥							
+137	Map\Object\Map207\Map207.map	2	0	0		//올드에스마라_미션	
+138	Map\Object\Map208\map208_Grassland.map	2	0	0		//하늘길의언덕_미션_초원	
+139	Map\Object\Map208\map208_Snowyland.map	2	0	0		//하늘길의언덕_미션_설원	
+140	Map\Object\Map208\map208_BOSS.map	2	0	0		//하늘길의언덕_미션_보스	
+141	Map\Object\Map209\Map209_S3.map	2	0	0		//에테르안개의고개_미션	
+142	Map\Object\Map209\Map209_BOSS.map	2	0	0		//에테르안개의고개_보스	
+143	Map\Object\Map03\Map210_Heaven_Door.map	2	0	0		//천국의문_미션	
+//EP2_생명의골짜기							
+//144	Map\Object\Map01\Map211_anAscetic.map	2	0	0		//고행자를위한길_미션	
+//145		2	0	0		//몽환의사막_미션	
+//146		2	0	0		//세상의배꼽오아시스_미션	
+//147		2	0	0		//노스칼리아야영지_미션	
+//148		2	0	0		//잃어버린성흔_미션	
+//보스방							
+501	Map\Object\Map01\Map01_F01_Boss.map	2	0	0			
+502	Map\Object\Map01\Map01_F02_Boss.map	2	0	0			
+503	Map\Object\Map01\Map01_F03_Boss.map	2	0	0			
+504	Map\Object\Map02\Map02_F01_Boss.map	2	0	0			
+505	Map\Object\Map02\Map02_F02_Boss.map	2	0	0			
+506	Map\Object\Map02\Map02_F03_Boss.map	2	0	0			
+507	Map\Object\Map03\Map03_F01_Boss.map	2	0	0			
+508	Map\Object\Map03\Map03_F02_Boss.map	2	0	0			
+509	Map\Object\Map03\Map03_F03_Boss.map	2	0	0			
+510	Map\Object\Map04\Map04_F01_Boss.map	2	0	0			
+511	Map\Object\Map04\Map04_F02_Boss.map	2	0	0			
+512	Map\Object\Map04\Map04_F03_Boss.map	2	0	0			
+513	Map\Object\Map05\Map05_F01_Boss.map	2	0	0			
+//514	Map\Object\Map05\Map05_F02_Boss.map	2	0	0			
+515	Map\Object\Map05\Map05_F03_Boss.map	2	0	0			
+//516	Map\Object\Map06\Map06_F01_Boss.map	2	0	0			
+//517	Map\Object\Map06\Map06_F02_Boss.map	2	0	0			
+//518	Map\Object\Map06\Map06_F03_Boss.map	2	0	0			
+519	Map\Object\Map04\Map04_F03_Boss.map	2	0	0			
+520	Map\Object\Map04\Map04_F03_Boss.map	2	0	0			
+521	Map\Object\Map04\Map04_F03_Boss.map	2	0	0			
+522	Map\Object\Map04\Map04_F01_Boss.map	2	0	0			
+523	Map\Object\Map04\Map04_F01_Boss.map	2	0	0			
+524	Map\Object\Map05\map05_F02_Boss.map	2	0	0			
+//아이올트 서브1 보스방							
+525	Map\Object\Map05\map05_F03_boss.map	2	0	0			
+//미니미션추가보스방							
+601	Map\Object\Map01\Map01_F01_Boss.map	2	0	0			
+602	Map\Object\Map01\Map01_F01_Boss.map	2	0	0			
+603	Map\Object\Map01\Map01_z03_Boss2.map	2	0	0			
+604	Map\Object\Map01\Map01_z03_Boss2.map	2	0	0			
+605	Map\Object\Map03\Map03_F01_Boss.map	2	0	0			
+606	Map\Object\Map01\Map01_z03_Boss2.map	2	0	0			
+607	Map\Object\Map05\Map05_F01_Boss.map	2	0	0			
+//튜토리얼							
+//608	Map\Object\Map_Esode\map_Esode_A.map	2	0	0			
+//609	Map\Object\Map_Esode\map_Esode_B.map	2	0	0			
+//610	Map\Object\Map_Esode\Map_Esode_M.map	2	0	0			
+//611	Map\Object\Map02\Map02_F02_Boss.map	2	0	0			
+609	Map\Object\Map_Esode\map_Esode_B.map	2	0	0			
+610	Map\Object\Map_Esode\Map_Esode_M.map	2	0	0			
+//헌팅맵							
+//1003	Map\Object\Map01\Map01_F03_H.map	2	0	0			
+1006	Map\Object\Map02\Map02_F03_HF.map	2	0	0			
+//마을							
+10001	Map\Object\Map_Tringel\Map_Tringel.map	1	0	0			
+10002	Map\Object\Map_Tringel\Map_Waldchen.map	1	0	0			
+10003	Map\Object\Map_Etherain\Map_Etherain.map	1	0	0			
+10004	Map\Object\Map_Aukra\Map_Aukra.map	1	0	0			
+10006	Map\Object\Map201\Map_Qortoq.map	1	0	0			
+10007	Map\Object\Map207\Map207_Asmara.map	1	0	0			
+//비공정							
+10010	Map\Object\map_Airvessels\map_Airvessels_01.map	1	0	0			
+10011	Map\Object\map_Airvessels\map_Airvessels_02.map	1	0	0			
+//로그인 맵							
+//11001	Map\Object\Map01\Map_login.map	0	0	0			
+//11001	Map\Object\map_50top\Map_50top_login.map	0	0	0			
+//11001	Map\object\map05\map05_login_01.map	0	0	0			
+//11001	map\object\map_battle01\map_battle01_z01_login_01.map	0	0	0			
+//11001	map\object\map_battle02\map_battle02_login.map	0	0	0			
+//11001	map\Object\map_Airvessels\map_Airvessels_login.map	0	0	0			
+//11001	map\Object\Map206\Map206_Server_Select.map	0	0	0			
+11001	map\object\map_CSelect\Server_Select.map	0	0	0			
+//캐릭터 선택맵							
+//11000	Map\Object\Map_tringel\Map_Cselect_01.map	0	0	0			
+//11000	Map\Object\Map_Etherain\Map_Cselect_01.map	0	0	0			
+//11000	Map\object\Map05\Map05_CSelect_01.map	0	0	0			
+//11000	map\object\map_battle01\map_battle01_z03_CSelect_01.map	0	0	0			
+//11000	map\object\map_battle02\map_battle02_CSelect.map	0	0	0			
+11000	map\Object\map_Airvessels\map_Airvessels_CSelect.map	0	0	0			
+11002	map\Object\map_Cselect\Character_Select.map	0	0	0			
+//필드							
+20001	Map\Object\Map01\Map01_F01.map	3	0	0			
+20002	Map\Object\Map01\Map01_F02.map	3	0	0			
+20003	Map\Object\Map01\Map01_F03_HF.map	3	0	0			
+20004	Map\Object\Map01\Map01_F04.map	1	0	0			
+20005	Map\Object\Map01\Map01_F05.map	1	0	0			
+20101	Map\Object\Map02\Map02_F01_HF.map	3	0	0			
+20102	Map\Object\Map02\Map02_F02.map	3	0	0			
+20103	Map\Object\Map02\Map02_F03_HF.map	3	0	0			
+20104	Map\Object\Map02\Map02_F04_HF.map	1	0	0			
+20105	Map\Object\Map02\Map02_F05N_HF.map	1	0	0			
+20106	Map\Object\Map02\Map02_F06N_HF.map	1	0	0			
+20201	Map\Object\Map03\Map03_F01.map	3	0	0			
+20202	Map\Object\Map03\Map03_F02_HF.map	3	0	0			
+20203	Map\Object\Map03\Map03_F03.map	3	0	0			
+20204	Map\Object\Map03\Map03_F04.map	1	0	0			
+20205	Map\Object\Map03\Map03_F05.map	1	0	0			
+//20206	Map\Object\Map03\Map03_F05.map	2	0	0			
+//20206	Map\Object\Map01\Map01_F03_Boss.map	1	0	0			
+20206	Map\Object\Map_Esode\map_Esode_A.map	1	0	0			
+20207	Map\Object\Map_Esode\map_Esode_A.map	1	0	0			
+20208	Map\Object\Map_Esode\map_Esode_A.map	1	0	0			
+20209	Map\Object\Map_Esode\map_Esode_A.map	1	0	0			
+20210	Map\Object\Map_Esode\map_Esode_A.map	1	0	0			
+//경쟁헌팅맵							
+40001	Map\Object\Map01\Map01_F01.map	3	0	0			
+40002	Map\Object\Map01\Map01_F02.map	3	0	0			
+40003	Map\Object\Map01\Map01_F03_HF.map	3	0	0			
+40004	Map\Object\Map02\Map01_F04_NHF.map	2	0	0			
+40005	Map\Object\Map01\Map01_F05_NHF.map	2	0	0			
+40006	Map\Object\Map02\Map02_F01_HF.map	3	0	0			
+40007	Map\Object\Map02\Map02_F02.map	3	0	0			
+40008	Map\Object\Map02\Map02_F03_HF.map	3	0	0			
+40009	Map\Object\Map02\Map02_F04_NHF.map	2	0	0			
+40010	Map\Object\Map02\Map02_F05_NHF.map	2	0	0			
+40011	MAP\Object\Map03\Map03_F03_Boss.map	3	0	0			
+40012	Map\Object\Map03\Map03_F01.map	3	0	0			
+40013	Map\Object\Map03\Map03_F02.map	3	0	0			
+40014	Map\Object\Map03\Map03_F03.map	3	0	0			
+40301	Map\Object\Map04\Map04_F01.map	3	0	0			
+40302	Map\Object\Map04\Map04_F02.map	3	0	0			
+40303	Map\Object\Map04\Map04_F03.map	3	0	0			
+40304	Map\Object\Map04\Map04_F02_Boss.map	3	0	0			
+40021	Map\Object\Map05\Map05_F01.map	3	0	0			
+40022	Map\Object\Map05\Map05_F03_A.map	3	0	0			
+40023	Map\Object\Map05\Map05_F05.map	3	0	0			
+40024	Map\Object\Map05\Map05_F06.map	3	0	0			
+40025	Map\Object\Map06\Map06_F03.map	3	0	0			
+40026	Map\Object\Map06\Map06_F04.map	3	0	0			
+40027	Map\Object\Map06\Map06_F05.map	3	0	0			
+40028	Map\Object\Map06\Map06_F06.map	3	0	0			
+//화산맵							
+54001	Map\Object\Map04\Map04_F01.map	3	0	0			
+54021	Map\Object\Map04\Map04_F02.map	3	0	0			
+54041	Map\Object\Map04\Map04_F03.map	3	0	0			
+54061	Map\Object\Map04\Map04_F04.map	3	0	0			
+54081	Map\Object\Map04\Map04_F05.map	3	0	0			
+//54101	Map\Object\Map04\Map04_F01_Boss.map	2	0	0			
+54121	Map\Object\Map04\Map04_F02_Boss.map	2	0	0			
+//54141	Map\Object\Map04\Map04_F03_Boss.map	2	0	0			
+//아이올트							
+55001	Map\Object\Map05\Map05_F01.map	3	0	0			
+55021	Map\Object\Map05\Map05_F02.map	3	0	0			
+55041	Map\Object\Map05\Map05_F03_A.map	3	0	0			
+55061	Map\Object\Map05\Map05_F04.map	3	0	0			
+55081	Map\Object\Map05\Map05_F05.map	3	0	0			
+//55101	Map\Object\Map05\Map05_F01_Boss.map	2	0	0			
+//55121	Map\Object\Map05\Map05_F02_Boss.map	2	0	0			
+//55141	Map\Object\Map05\Map05_F03_Boss.map	2	0	0			
+55101	Map\Object\Map05\Map05_F03_B.map	2	0	0			
+55121	Map\Object\Map05\Map05_F06.map	2	0	0			
+//헬론의성							
+56001	Map\Object\Map06\Map06_F04.map	1	0	0			
+56021	Map\Object\Map06\Map06_F05.map	1	0	0			
+56041	Map\Object\Map06\Map06_F01.map	1	0	0			
+56061	Map\Object\Map06\Map06_F02_A.map	1	0	0			
+56081	Map\Object\Map06\Map06_F02_B.map	1	0	0			
+56101	Map\Object\Map06\Map06_F03.map	1	0	0			
+//EP2_필드맵							
+58001	Map\Object\Map201\Map201.map	1	0	0	//코르토크해안		
+58021	Map\Object\Map202\Map202_F.map	1	0	0	//갈레노아정글		
+58041	Map\Object\Map203\Map203.map	1	0	0	//노블스칼렛동굴		
+58101	Map\Object\Map204\Map204.map	1	0	0	//영원성의지대		
+58121	Map\Object\Map205\Map205.map	1	0	0	//아스토레아협곡		
+58141	Map\Object\Map206\Map206.map	1	0	0	//고대인의안식처		
+58201	Map\Object\Map207\Map207.map	1	0	0	//올드에스마라		
+58221	Map\Object\Map208\map208_Grassland.map	1	0	0	//하늘길의언덕_초원		
+58222	Map\Object\Map208\map208_Snowyland.map	1	0	0	//하늘길의언덕_설원		
+//58223	Map\Object\Map208\map208_BOSS.map	1	0	0	//하늘길의언덕_보스		
+58241	Map\Object\Map209\Map209_F.map	1	0	0	//에테르안개의고개		
+58301	Map\Object\Map03\Map210_Heaven_Door.map	1	0	0	//천국의문		
+//58321	Map\Object\Map01\Map211_anAscetic.map	1	0	0	//고행자를위한길		
+//58341		1	0	0	//몽환의사막		
+//58361		1	0	0	//세상의배꼽오아시스		
+//58381		1	0	0	//노스칼리아야영지		
+//58401		1	0	0	//잃어버린성흔		
+//칼버스							
+60001	Map\Object\Map_50top\Map_50top_1to3.map	2	0	0			
+60002	Map\Object\Map_50top\Map_50top_4to6.map	2	0	0			
+60003	Map\Object\Map_50top\Map_50top_4to6.map	2	0	0			
+60004	Map\Object\Map_50top\Map_50top_10boss.map	2	0	0			
+60005	Map\Object\Map_50top\Map_50top_1to3.map	2	0	0			
+60006	Map\Object\Map_50top\Map_50top_4to6.map	2	0	0			
+60007	Map\Object\Map_50top\Map_50top_4to6.map	2	0	0			
+60008	Map\Object\Map_50top\Map_50top_10boss.map	2	0	0			
+60009	Map\Object\Map_50top\Map_50top_11to13.map	2	0	0			
+60010	Map\Object\Map_50top\Map_50top_11to13.map	2	0	0			
+60011	Map\Object\Map_50top\Map_50top_11to13.map	2	0	0			
+60012	Map\Object\Map_50top\Map_50top_20boss.map	2	0	0			
+60013	Map\Object\Map_50top\Map_50top_1to3.map	2	0	0			
+60014	Map\Object\Map_50top\Map_50top_4to6.map	2	0	0			
+60015	Map\Object\Map_50top\Map_50top_4to6.map	2	0	0			
+60016	Map\Object\Map_50top\Map_50top_10boss.map	2	0	0			
+60017	Map\Object\Map_50top\Map_50top_11to13.map	2	0	0			
+60018	Map\Object\Map_50top\Map_50top_11to13.map	2	0	0			
+60019	Map\Object\Map_50top\Map_50top_11to13.map	2	0	0			
+60020	Map\Object\Map_50top\Map_50top_20boss.map	2	0	0			
+60021	Map\Object\Map_50top\Map_50top_21to23.map	2	0	0			
+60022	Map\Object\Map_50top\Map_50top_21to23.map	2	0	0			
+60023	Map\Object\Map_50top\Map_50top_21to23.map	2	0	0			
+60024	Map\Object\Map_50top\Map_50top_30boss.map	2	0	0			
+60025	Map\Object\Map_50top\Map_50top_1to3.map	2	0	0			
+60026	Map\Object\Map_50top\Map_50top_4to6.map	2	0	0			
+60027	Map\Object\Map_50top\Map_50top_4to6.map	2	0	0			
+60028	Map\Object\Map_50top\Map_50top_10boss.map	2	0	0			
+60029	Map\Object\Map_50top\Map_50top_21to23.map	2	0	0			
+60030	Map\Object\Map_50top\Map_50top_21to23.map	2	0	0			
+60031	Map\Object\Map_50top\Map_50top_21to23.map	2	0	0			
+60032	Map\Object\Map_50top\Map_50top_30boss.map	2	0	0			
+60033	Map\Object\Map_50top\Map_50top_41to43.map	2	0	0			
+60034	Map\Object\Map_50top\Map_50top_41to43.map	2	0	0			
+60035	Map\Object\Map_50top\Map_50top_41to43.map	2	0	0			
+60036	Map\Object\Map_50top\Map_50top_50boss.map	2	0	0			
+//60037	Map\Object\Map_50top\Map_50top_31to33.map	2	0	0			
+//60038	Map\Object\Map_50top\Map_50top_31to33.map	2	0	0			
+//60039	Map\Object\Map_50top\Map_50top_31to33.map	2	0	0			
+//60040	Map\Object\Map_50top\Map_50top_40boss.map	2	0	0			
+//60041	Map\Object\Map_50top\Map_50top_41to43.map	2	0	0			
+//60042	Map\Object\Map_50top\Map_50top_41to43.map	2	0	0			
+//60043	Map\Object\Map_50top\Map_50top_41to43.map	2	0	0			
+//60044	Map\Object\Map_50top\Map_50top_50boss.map	2	0	0			
+//저주의탑 5등급							
+60045	Map\Object\Map_50top\Map_50top_31to33.map	2	0	0		//5등급 1~3층	
+60046	Map\Object\Map_50top\Map_50top_21to23.map	2	0	0		//5등급 4~6층	
+60047	Map\Object\Map_50top\Map_50top_11to13.map	2	0	0		//5등급 7~9층	
+60048	Map\Object\Map_50top\Map_50top_41to43.map	2	0	0		//5등급 10~12층	
+60049	Map\Object\Map_50top\Map_50top_4to6.map	2	0	0		//5등급 13~15층	
+60050	Map\Object\Map_50top\Map_50top_05_50boss.map	2	0	0		//5등급 보스1층	
+60051	Map\Object\Map_50top\Map_50top_05_50boss.map	2	0	0		//5등급 보스2층	
+60052	Map\Object\Map_50top\Map_50top_05_50boss.map	2	0	0		//5등급 보스3층	
+60053	Map\Object\Map_50top\Map_50top_05_50boss.map	2	0	0		//5등급 보스4층	
+//저주의탑 6등급							
+60054	Map\Object\Map_50top\Map_50top_06_01.map	2	0	0		//6등급 1층	
+60055	Map\Object\Map_50top\Map_50top_06_02.map	2	0	0		//6등급 2층	
+60056	Map\Object\Map_50top\Map_50top_06_03.map	2	0	0		//6등급 3층	
+60057	Map\Object\Map_50top\Map_50top_06_04.map	2	0	0		//6등급 4층	
+60058	Map\Object\Map_50top\Map_50top_06_05.map	2	0	0		//6등급 5층	
+60059	Map\Object\Map_50top\Map_50top_06_06.map	2	0	0		//6등급 6층	
+60060	Map\Object\Map_50top\Map_50top_06_07.map	2	0	0		//6등급 7층	
+60061	Map\Object\Map_50top\Map_50top_06_boss.map	2	0	0		//6등급 보스	
+//익스트림던전							
+//야수의숲							
+//41111							
+//지하수로							
+//41121	map02_f05n_hf	익스트림던전2_1					
+//41122	map02_f06n_hf	익스트림던전2_2					
+//41123	map01_f02_boss	익스트림던전2_3					
+//41124	map02_f01_boss	익스트림던전2_4					
+//41125	map02_f02_boss	익스트림던전2_5					
+//설원							
+//41131	Map03_F01_Boss_FD.map	익스트림던전3_1					
+//41132	Map03_F03_Boss_FD.map	익스트림던전3_2					
+//41133	Map03_F02_FD.map	익스트림던전3_3					
+//41134	Map03_F02_Boss_FD.map	익스트림던전3_4					
+//41135	Map03_F03_FD.map	익스트림던전3_5					
+//GM맵							
+10005	Map\Object\Map03\Map03_F04.map	1	0	0			
+//북경 올림픽 이벤트							
+27	Map\Object\map_battle01\map_battle01_F03.map	2	0	0			
+//수성 이벤트							
+28	Map\Object\map_battle01\map_battle01.map	2	0	1		//몬트샤인	
+//38	Map\Object\map_battle01\map_battle01.map	2	0	1		//몬트샤인	
+//08년 크리스마스 이벤트							
+29	Map\Object\Map03\Map03_F03.map	2	0	0		//크리스마스 이벤트	
+//타락한사원							
+61001	Map\Object\map_event01\map_event01.map	2	0	0		//타락한사원	
+//09년구정이벤트							
+30	Map\Object\map_event01\map_event01_A.map	2	0	0		//몬스터콜로세움1레벨	
+31	Map\Object\map_event01\map_event01_A.map	2	0	0		//몬스터콜로세움2레벨	
+32	Map\Object\map_event01\map_event01_A.map	2	0	0		//몬스터콜로세움3레벨	
+33	Map\Object\map_event01\map_event01_A.map	2	0	0		//몬스터콜로세움4레벨	
+37	Map\Object\map_event01\map_event01_A.map	2	0	0		//몬스터콜로세움5레벨	
+//북경 올림픽 이벤트							
+39	Map\Object\map_battle01\map_battle01_F03.map	2	0	0		//만월의 습격(추석이벤트)	
+40	Map\Object\map_battle01\map_battle01_F03.map	2	0	0		//꿈에서본송편(추석이벤트)	
+//2014크리스마스							
+41	Map\Object\map_event01\map_event01_rudolph.map	2	0	0		//루돌프총파업	
+42	Map\Object\map03\map03_santa.map	2	0	0		//산타의비밀	
+//길드미션							
+43	Map\Object\map_battle01\map_battle01_G.map	2	0	0		//소넨샤인길드전	
+46	Map\Object\map02\Map02_F03_Boss_Rush.map	2	0	0		//시간의교차공간	
+//지역점령전							
+64001	Map\Object\map_battle02\map_battle02.map	1	0	0		//지역점령전	
+64002	Map\Object\map_battle02\map_battle02.map	1	0	0			
+64003	Map\Object\map_battle02\map_battle02.map	1	0	0			
+64004	Map\Object\map_battle02\map_battle02.map	1	0	0			
+64005	Map\Object\map_battle02\map_battle02.map	1	0	0			
+64101	Map\Object\map_battle02\map_battle02_02.map	1	0	0			
+64102	Map\Object\map_battle02\map_battle02_02.map	1	0	0			
+64103	Map\Object\map_battle02\map_battle02_02.map	1	0	0			
+64104	Map\Object\map_battle02\map_battle02_02.map	1	0	0			
+64105	Map\Object\map_battle02\map_battle02_02.map	1	0	0			
+64106	Map\Object\map_battle02\map_battle02_02.map	1	0	0			
+64201	Map\Object\map_battle02\map_battle02_03.map	1	0	0			
+64202	Map\Object\map_battle02\map_battle02_03.map	1	0	0			
+64203	Map\Object\map_battle02\map_battle02_03.map	1	0	0			
+64204	Map\Object\map_battle02\map_battle02_03.map	1	0	0			
+64205	Map\Object\map_battle02\map_battle02_03.map	1	0	0			
+64301	Map\Object\map_battle02\map_battle02_04.map	1	0	0			
+64302	Map\Object\map_battle02\map_battle02_04.map	1	0	0			
+64303	Map\Object\map_battle02\map_battle02_04.map	1	0	0			
+64304	Map\Object\map_battle02\map_battle02_04.map	1	0	0			
+64305	Map\Object\map_battle02\map_battle02_04.map	1	0	0			
+64401	Map\Object\map_battle02\map_battle02_05.map	1	0	0			
+64402	Map\Object\map_battle02\map_battle02_05.map	1	0	0			
+64403	Map\Object\map_battle02\map_battle02_05.map	1	0	0			
+64404	Map\Object\map_battle02\map_battle02_05.map	1	0	0			
+64405	Map\Object\map_battle02\map_battle02_05.map	1	0	0			
+64406	Map\Object\map_battle02\map_battle02_05.map	1	0	0			
+64407	Map\Object\map_battle02\map_battle02_05.map	1	0	0			
+64501	Map\Object\map_battle02\map_battle02_06.map	1	0	0			
+64502	Map\Object\map_battle02\map_battle02_06.map	1	0	0			
+64503	Map\Object\map_battle02\map_battle02_06.map	1	0	0			
+64504	Map\Object\map_battle02\map_battle02_06.map	1	0	0			
+64505	Map\Object\map_battle02\map_battle02_06.map	1	0	0			
+64506	Map\Object\map_battle02\map_battle02_06.map	1	0	0			
+64507	Map\Object\map_battle01\map_battle01_mont.map	1	0	0		//몬트샤인리뉴얼	
+//세리엔트온천							
+//64508	Map\Object\map_Spa\map_Spa.map	1	0	0		//세리엔트온천	
+64508	Map\Object\map_Spa\map_Spa_halloween_Day.map	1	0	0		//온천맵(할로윈)	
+64509	Map\Object\map_Spa\map_Spa_SummerFestival.map	1	0	0		//세리엔트비치	
+64601	Map\Object\map_battle02\map_battle02_04.map	1	0	0			
+64602	Map\Object\map_battle02\map_battle02_04.map	1	0	0			
+64603	Map\Object\map_battle02\map_battle02_04.map	1	0	0			
+64604	Map\Object\map_battle02\map_battle02_04.map	1	0	0			
+64605	Map\Object\map_battle02\map_battle02_04.map	1	0	0			
+//붕괴된에텔레인							
+34	Map\Object\Map_Etherain\map_etherain_ignis.map	2	0	0			
+35	Map\Object\Map_Etherain\map_etherain_d.map	2	0	0			
+//2011크리스마스이벤트							
+36	Map\Object\Map_Tringel\Map_waldchen_Xmas.map	2	0	0			
+//전장맵							
+40050	Map\Object\Map01\map01_z04_battle10vs10.map	2	0	0		//자피르격전지_야숲지역 전장맵 (10:10)	
+40051	Map\Object\map_event01\map_event01_FreedomFighter.map	2	0	0		//자유전투실	
+40052	Map\Object\Map01\map01_z04_battle10vs10.map	2	0	0		//자피르격전지_야숲지역 전장맵 (10:10)	
+40053	Map\Object\Map01\map01_z04_battle10vs10.map	2	0	0		//자피르격전지_야숲지역 전장맵 (10:10)	
+40060	Map\Object\Map03\map03_z02_battle10vs10.map	2	0	0		//서리격전지	
+40061	Map\Object\Map03\map03_z02_battle10vs10.map	2	0	0		//서리격전지	
+40062	Map\Object\Map03\map03_z02_battle10vs10.map	2	0	0		//서리격전지	
+40063	Map\Object\Map05\map05_GoldRush.map	2	0	0		//골드러시6vs6	
+40064	Map\Object\Map05\map05_GoldRush.map	2	0	0		//골드러시3vs3	
+40065	Map\Object\Map05\map05_GoldRush.map	2	0	0		//골드러시1vs1	
+//비밀의방							
+60100	Map\Object\map206\map_event02_A_SR.map	2	0	0		//비밀의방1번구역	
+60101	Map\Object\map206\map_event02_B_SR.map	2	0	0		//비밀의방2번구역	
+60102	Map\Object\map206\map_event02_C_SR.map	2	0	0		//비밀의방3번구역	
+//보스레이드_암흑의데스드래곤							
+60103	Map\Object\Map04\map04_RaidBoss_DeathDragon.map	2	0	0		//데스드레곤_야프판	
+60104	Map\Object\Map04\map04_RaidBoss_DeathDragon_S1.map	2	0	0		//데스드레곤_쥬다스	
+//2015조난당한눈사람							
+44	Map\Object\map03\map03_Snow.map	2	0	0		//조난당한눈사람	
+45	Map\Object\map03\map03_SnowChance.map	2	0	0		//조난당한눈사람(찬스타임)	

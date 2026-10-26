@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-10-26] event | Halloween has come to S.U.N Reborn: pumpkins and lanterns in six towns, costumed festival-goers in Waldchen, Tringel, Tria and Qortoq, and the Hot Spring has become the Halloween Banquet Hall. Every night at 20:00 server time until Halloween, monsters invade Tria in three waves - and the invaders sometimes carry a Halloween Pumpking pet.
+
 [2026-10-26] update | New options in General Settings: Chat Timestamps puts the time in front of every chat message, Show Local Clock adds your own time under the server clock by the minimap, and 12-Hour Clock switches both clocks (and the chat times) to AM/PM. Runestone saved locations can now be renamed: right-click one in the list and type a name.
 
 [2026-10-26] update | Campfires: when you sit close enough to a campfire, a Warming Up buff now appears with a one-minute countdown, so you know you are in range. When it runs out it is replaced by the five campfire blessings. If it does not appear, move closer to the fire and sit again.
