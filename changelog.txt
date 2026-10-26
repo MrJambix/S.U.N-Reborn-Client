@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-10-25] update | Campfires: sit down beside any lit campfire for one minute to rest and receive five blessings for 60 minutes - more EXP and Heim from monsters, higher max HP and max MP, and more defense. The more players resting at the same fire, the stronger every blessing becomes, up to 5 players. Each blessing shows its own icon and strength in your buff bar.
+
 [2026-10-25] update | Skills used while running: quick spell casts such as Pain now play their animation from the waist up while you keep running. Skills that use the legs or the ground - kicks, jumps, lunges, casting circles and ground-targeted spells - stop you for their full animation, then you run on. The status bar across the top of the screen has been removed.
 
 [2026-10-25] update | Skills can now be used while running: quick skills are cast on the move without stopping, longer ones stop you only for the cast and you run on afterwards. Skill animations also play faster.

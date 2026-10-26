@@ -34869,4 +34869,54 @@ start
 406316	Leave at least one stat unlocked.
 406317	The stats on %s have been rerolled.
 406318	Locked
+406350	Campfire Warmth I
+406351	Campfire Warmth II
+406352	Campfire Warmth III
+406353	Campfire Warmth IV
+406354	Campfire Warmth V
+406355	You rested by a campfire. EXP from monsters +3%. Rest with others for a stronger effect (up to 5 players).
+406356	You rested by a campfire with 2 players. EXP from monsters +5%.
+406357	You rested by a campfire with 3 players. EXP from monsters +7%.
+406358	You rested by a campfire with 4 players. EXP from monsters +9%.
+406359	You rested by a campfire with 5 or more players. EXP from monsters +12%.
+406360	Fireside Vigor I
+406361	Fireside Vigor II
+406362	Fireside Vigor III
+406363	Fireside Vigor IV
+406364	Fireside Vigor V
+406365	You rested by a campfire. Max HP +2%. Rest with others for a stronger effect (up to 5 players).
+406366	You rested by a campfire with 2 players. Max HP +3%.
+406367	You rested by a campfire with 3 players. Max HP +4%.
+406368	You rested by a campfire with 4 players. Max HP +5%.
+406369	You rested by a campfire with 5 or more players. Max HP +6%.
+406370	Campfire Fortune I
+406371	Campfire Fortune II
+406372	Campfire Fortune III
+406373	Campfire Fortune IV
+406374	Campfire Fortune V
+406375	You rested by a campfire. Heim from monsters +4%. Rest with others for a stronger effect (up to 5 players).
+406376	You rested by a campfire with 2 players. Heim from monsters +6%.
+406377	You rested by a campfire with 3 players. Heim from monsters +8%.
+406378	You rested by a campfire with 4 players. Heim from monsters +10%.
+406379	You rested by a campfire with 5 or more players. Heim from monsters +15%.
+406380	Fireside Clarity I
+406381	Fireside Clarity II
+406382	Fireside Clarity III
+406383	Fireside Clarity IV
+406384	Fireside Clarity V
+406385	You rested by a campfire. Max MP +2%. Rest with others for a stronger effect (up to 5 players).
+406386	You rested by a campfire with 2 players. Max MP +3%.
+406387	You rested by a campfire with 3 players. Max MP +4%.
+406388	You rested by a campfire with 4 players. Max MP +5%.
+406389	You rested by a campfire with 5 or more players. Max MP +6%.
+406390	Fireside Resolve I
+406391	Fireside Resolve II
+406392	Fireside Resolve III
+406393	Fireside Resolve IV
+406394	Fireside Resolve V
+406395	You rested by a campfire. Defense +2%. Rest with others for a stronger effect (up to 5 players).
+406396	You rested by a campfire with 2 players. Defense +4%.
+406397	You rested by a campfire with 3 players. Defense +6%.
+406398	You rested by a campfire with 4 players. Defense +8%.
+406399	You rested by a campfire with 5 or more players. Defense +10%.
 end
