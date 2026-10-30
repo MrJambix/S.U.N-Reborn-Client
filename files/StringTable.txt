@@ -35257,4 +35257,9 @@ start
 59506	Permanent Costume Box: Valkyrie
 59507	Permanent Costume Box: Elementalist
 59508	Permanent Costume Box: Mystic
+59509	Permanent Costume Box: Hellroid
+59510	Permanent Costume Box: Witchblade
+59511	Permanent Costume Box: Paladin
+59512	Paladin Swimsuit Costume
+59513	Paladin Hot Spring Costume
 end
