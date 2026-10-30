@@ -21207,48 +21207,48 @@ start
 10406	Select Party Member 8
 10407	Select Party Member 9
 10408	Attack Target
-10409	Expand Quickslot
-10410	Reverse Quickslot
-10411	Use Quickslot 1
-10412	Use Quickslot 2
-10413	Use Quickslot 3
-10414	Use Quickslot 4
-10415	Use Quickslot 5
-10416	Use Quickslot 6
-10417	Use Quickslot 7
-10418	Use Quickslot 8
-10419	Use Quickslot 9
-10420	Use Quickslot 10
-10421	Use Quickslot 11
-10422	Use Quickslot 12
-10423	Use Quickslot 13
-10424	Use Quickslot 14
-10425	Use Quickslot 15
-10426	Use Quickslot 16
-10427	Use Quickslot 17
-10428	Use Quickslot 18
-10429	Use Quickslot 19
-10430	Use Quickslot 20
-10431	Use Quickslot 21
-10432	Use Quickslot 22
-10433	Use Quickslot 23
-10434	Use Quickslot 24
-10435	Use Quickslot 25
-10436	Use Quickslot 26
-10437	Use Quickslot 27
-10438	Use Quickslot 28
-10439	Use Quickslot 29
-10440	Use Quickslot 30
-10441	Use Quickslot 31
-10442	Use Quickslot 32
-10443	Use Quickslot 33
-10444	Use Quickslot 34
-10445	Use Quickslot 35
-10446	Use Quickslot 36
-10447	Use Quickslot 37
-10448	Use Quickslot 38
-10449	Use Quickslot 39
-10450	Use Quickslot 40
+10409	Action Bar - Change Rows
+10410	Action Bar - Swap Page 1/2
+10411	Action Bar 1 - Slot 1
+10412	Action Bar 1 - Slot 2
+10413	Action Bar 1 - Slot 3
+10414	Action Bar 1 - Slot 4
+10415	Action Bar 1 - Slot 5
+10416	Action Bar 1 - Slot 6
+10417	Action Bar 1 - Slot 7
+10418	Action Bar 1 - Slot 8
+10419	Action Bar 1 - Slot 9
+10420	Action Bar 1 - Slot 10
+10421	Action Bar 1 - Slot 11
+10422	Action Bar 1 - Slot 12
+10423	Action Bar 1 - Slot 13
+10424	Action Bar 1 - Slot 14
+10425	Action Bar 1 - Slot 15
+10426	Action Bar 1 - Slot 16
+10427	Action Bar 1 - Slot 17
+10428	Action Bar 1 - Slot 18
+10429	Action Bar 1 - Slot 19
+10430	Action Bar 1 - Slot 20
+10431	Action Bar 2 - Slot 1
+10432	Action Bar 2 - Slot 2
+10433	Action Bar 2 - Slot 3
+10434	Action Bar 2 - Slot 4
+10435	Action Bar 2 - Slot 5
+10436	Action Bar 2 - Slot 6
+10437	Action Bar 2 - Slot 7
+10438	Action Bar 2 - Slot 8
+10439	Action Bar 2 - Slot 9
+10440	Action Bar 2 - Slot 10
+10441	Action Bar 2 - Slot 11
+10442	Action Bar 2 - Slot 12
+10443	Action Bar 2 - Slot 13
+10444	Action Bar 2 - Slot 14
+10445	Action Bar 2 - Slot 15
+10446	Action Bar 2 - Slot 16
+10447	Action Bar 2 - Slot 17
+10448	Action Bar 2 - Slot 18
+10449	Action Bar 2 - Slot 19
+10450	Action Bar 2 - Slot 20
 10451	Select Summoned Creature
 10452	Use Summoned Creature Skill 1
 10453	Use Summoned Creature Skill 2
@@ -34554,46 +34554,46 @@ start
 59042	Most you can craft now: %d
 59043	You have %s Heim
 59044	A failure destroys the materials and keeps the fee.
-59045	Use Quickslot 41
-59046	Use Quickslot 42
-59047	Use Quickslot 43
-59048	Use Quickslot 44
-59049	Use Quickslot 45
-59050	Use Quickslot 46
-59051	Use Quickslot 47
-59052	Use Quickslot 48
-59053	Use Quickslot 49
-59054	Use Quickslot 50
-59055	Use Quickslot 51
-59056	Use Quickslot 52
-59057	Use Quickslot 53
-59058	Use Quickslot 54
-59059	Use Quickslot 55
-59060	Use Quickslot 56
-59061	Use Quickslot 57
-59062	Use Quickslot 58
-59063	Use Quickslot 59
-59064	Use Quickslot 60
-59065	Use Quickslot 61
-59066	Use Quickslot 62
-59067	Use Quickslot 63
-59068	Use Quickslot 64
-59069	Use Quickslot 65
-59070	Use Quickslot 66
-59071	Use Quickslot 67
-59072	Use Quickslot 68
-59073	Use Quickslot 69
-59074	Use Quickslot 70
-59075	Use Quickslot 71
-59076	Use Quickslot 72
-59077	Use Quickslot 73
-59078	Use Quickslot 74
-59079	Use Quickslot 75
-59080	Use Quickslot 76
-59081	Use Quickslot 77
-59082	Use Quickslot 78
-59083	Use Quickslot 79
-59084	Use Quickslot 80
+59045	Action Bar 3 - Slot 1
+59046	Action Bar 3 - Slot 2
+59047	Action Bar 3 - Slot 3
+59048	Action Bar 3 - Slot 4
+59049	Action Bar 3 - Slot 5
+59050	Action Bar 3 - Slot 6
+59051	Action Bar 3 - Slot 7
+59052	Action Bar 3 - Slot 8
+59053	Action Bar 3 - Slot 9
+59054	Action Bar 3 - Slot 10
+59055	Action Bar 3 - Slot 11
+59056	Action Bar 3 - Slot 12
+59057	Action Bar 3 - Slot 13
+59058	Action Bar 3 - Slot 14
+59059	Action Bar 3 - Slot 15
+59060	Action Bar 3 - Slot 16
+59061	Action Bar 3 - Slot 17
+59062	Action Bar 3 - Slot 18
+59063	Action Bar 3 - Slot 19
+59064	Action Bar 3 - Slot 20
+59065	Action Bar 4 - Slot 1
+59066	Action Bar 4 - Slot 2
+59067	Action Bar 4 - Slot 3
+59068	Action Bar 4 - Slot 4
+59069	Action Bar 4 - Slot 5
+59070	Action Bar 4 - Slot 6
+59071	Action Bar 4 - Slot 7
+59072	Action Bar 4 - Slot 8
+59073	Action Bar 4 - Slot 9
+59074	Action Bar 4 - Slot 10
+59075	Action Bar 4 - Slot 11
+59076	Action Bar 4 - Slot 12
+59077	Action Bar 4 - Slot 13
+59078	Action Bar 4 - Slot 14
+59079	Action Bar 4 - Slot 15
+59080	Action Bar 4 - Slot 16
+59081	Action Bar 4 - Slot 17
+59082	Action Bar 4 - Slot 18
+59083	Action Bar 4 - Slot 19
+59084	Action Bar 4 - Slot 20
 59030	Max
 59031	Show: All
 59032	Show: Can make
@@ -34922,4 +34922,324 @@ start
 406399	You rested by a campfire with 5 or more players. Defense +10%.
 406400	Warming Up
 406401	You are resting by a campfire. Stay seated until this runs out to receive the campfire blessings.
+59118	Lock Action Bar\n\nStops skills and items being picked up off the bar by accident. Hold Shift to move one while the bar is locked.
+59119	Unlock Action Bar\n\nSkills and items can be picked up off the bar again.
+59120	The action bar is locked. Hold Shift to move a slot, or click the padlock to unlock it.
+59121	Next Page\n\nThe number is the page of quick slots on the bottom row. Each click moves the whole bar along by 20 slots.
+59122	Add Row\n\nAdds a row to the action bar, up to four.
+59123	Remove Row\n\nRemoves the top row of the action bar.
+1878	You cannot save any more locations. Delete one to make room for a new one.
+30453	Legendary Grade 1.5
+30454	Legendary Grade 2.5
+59124	Character & Bag
+59125	Equipment Score
+59126	Bags 1-5
+59127	Bags 6-10
+59128	Bags 11-14
+59129	Sort
+59130	Cash Vault
+59131	Loot Filter
+59132	Waypoints
+59133	Event Items
+59134	Discard
+59135	Lock
+59136	Unlock
+59137	Heim
+59138	Free
+59139	Locked - open this bag with a Bag Extension
+59140	Show helmet
+59141	Drag to turn
+59142	Right-click: use or equip  |  Shift+click: split  |  Ctrl+hover: compare
+59143	Character
+59144	Bonus attack
+59145	Bonus defense
+59146	Defense & Elements
+59147	Titles
+59148	Lv
+59149	Stats
+59150	Details
+59151	Sockets
+59152	Reputation
+59153	Currency
+59154	Apply
+59155	Claim
+59156	Sign in
+59157	Welcome to S.U.N Reborn
+59158	Account
+59159	Password
+59160	Remember account
+59161	Create an account
+59162	Enter
+59163	Signing in...
+59164	Login service online
+59165	Connecting to the login service...
+59166	Caps Lock is on
+59167	Skills
+59168	Skill points
+59169	Skills
+59170	Perks
+59171	Actions
+59172	Apply
+59173	Reset
+59174	Skill Unlock
+59175	Drag a skill onto the action bar to use it
+59176	Spend %d points in this tree to open
+59177	Active perks
+59178	Available perks
+59179	Cash
+59180	Perk effects
+59181	Tracked quests
+59182	Turn in
+59183	Done
+59184	Ready to claim
+59185	Journal
+59186	Objective complete
+59187	Progress
+59188	All
+59189	In progress
+59190	Claim
+59191	%d of %d done
+59192	%d rewards waiting
+59193	Worth %.1f%%
+59194	Nothing to show here
+59195	Claimed
+59196	Characters
+59197	%d / %d
+59198	Create a new character
+59199	Create
+59200	Delete...
+59201	Restore...
+59202	Enter World
+59203	Change World
+59204	Exit
+59205	Location
+59206	Status
+59207	Active
+59208	Deleting in %dd %dh
+59209	Double-click a character to enter  -  right-drag to turn
+59210	To delete %s, type the character's name.
+59211	No characters yet
+59212	Create your first character to begin.
+59213	Lv %d
+59214	Restore Character
+59215	Class
+59216	Choose a Class
+59217	Appearance
+59218	Gender
+59219	Male
+59220	Female
+59221	Face
+59222	Hair
+59223	Height
+59224	Equipment preview
+59225	Only a preview: you start with your class's beginner gear.
+59226	Name
+59227	Back
+59228	Random
+59229	Create Character
+59230	Enter a name
+59231	At least 4 characters
+59232	That name can't be used
+59233	Checking...
+59234	Name is available
+59235	That name is taken
+59236	%d of %d
+59237	Male or female
+59238	Female only
+59239	Male only
+59240	Starting stats
+59241	Strength
+59242	Dexterity
+59243	Vitality
+59244	Intellect
+59245	Spirit
+59246	Right-drag to turn  -  wheel to zoom
+59247	Default look
+59248	That class isn't available with this gender.
+59249	Too long
+59250	Shop
+59251	Usable by me
+59252	Weapons
+59253	Armour
+59254	Goods
+59255	Buy back
+59256	Buy
+59257	Total
+59258	You have
+59259	Sell
+59260	Repair
+59261	Repair all (%s)
+59262	Right-click an item in your bag to sell it.
+59263	Select an item to buy.
+59264	Nothing sold yet. What you sell here can be bought back.
+59265	Lv %d
+59266	Nothing here you can use.
+59267	Sell mode: click items in your bag to sell them.
+59268	Repair mode: click an item to repair it.
+59269	Start
+59270	Stop
+59271	Running
+59272	Paused
+59273	Hunt
+59274	Quest
+59275	Settings
+59276	Premium service active
+59277	Scroll: %dd %dh left
+59278	Scroll: %dh %dm left
+59279	Looking for targets
+59280	Moving
+59281	Fighting
+59282	Resting
+59283	Down - waiting to revive
+59284	Returning to town
+59285	Shopping
+59286	Turning in quests
+59287	Heading back out
+59288	Following the party
+59289	Waiting - nothing to do here
+59290	Ready
+59291	Auto-Hunting Settings
+59292	Hunting
+59293	Skills
+59294	Recovery
+59295	Loot
+59296	Town trips
+59297	Death & party
+59298	Restore defaults
+59299	Cancel
+59300	Save
+59301	Mode
+59302	What the bot does when you press Start
+59303	Free roam
+59304	Stay in area
+59305	Follow party
+59306	Quest
+59307	Area radius
+59308	How far it roams from where you started it
+59309	%d m
+59310	Avoid bosses
+59311	Leave boss monsters alone
+59312	Choose skills automatically
+59313	Uses your strongest skills, area attacks, buffs and heals by itself
+59314	Attack skills
+59315	Buffs and items
+59316	Drag skills from your skill window, or items from your bag, into these slots.
+59317	Found %d attacks, %d buffs and %d heals in your skill book.
+59318	HP potion below
+59319	Emergency potion below
+59320	A big potion when HP drops fast
+59321	MP/SP potion below
+59322	Feed the pet below
+59323	Sit and rest when HP is below
+59324	Sit and rest when MP is below
+59325	%d%%
+59326	Off
+59327	Pick up everything
+59328	Normal items
+59329	Quest items
+59330	Stones and materials
+59331	Weapons
+59332	Armour
+59333	Accessories
+59334	Heim
+59335	Go to town when the bag is full to
+59336	...or potions run down to
+59337	...or pet feed runs down to
+59338	...or durability drops to
+59339	Repair gear in town
+59340	Sell in town
+59341	When I die
+59342	Wait|Revive here|Return to town
+59343	Party invites
+59344	Ask me|Accept|Refuse
+59345	Save chat while away
+59346	Needs the Full Auto-Hunting Scroll
+59350	Sort
+59351	Sorted. (%d items moved, %d stacks merged)
+59352	Already sorted.
+59353	You cannot sort again just yet.
+59354	Right-click a cash item in your bag to store it. Click an item here to take it out.
+59355	Heim in storage
+59400	Options
+59401	Graphics
+59402	Sound
+59403	Interface
+59404	Gameplay
+59405	Chat
+59406	Shortcut keys
+59407	Language
+59408	Restore defaults
+59409	Cancel
+59410	Apply
+59411	Nothing changes until you press Apply.
+59412	Auto
+59413	Display
+59414	Quality
+59415	Effects
+59416	Lighting
+59417	Performance
+59418	Game sound
+59419	Voices
+59420	Master volume
+59421	Names and info
+59422	Characters and items
+59423	Screen layout
+59424	Clock
+59425	Combat
+59426	Movement
+59427	Mouse and camera
+59428	Other players
+59429	Chat window
+59430	Blocking
+59431	Other
+59432	Shortcut keys
+59433	Change which key does what
+59434	Open shortcut keys
+59435	Changes here that you have not applied are dropped when you open it.
+59436	Game language
+59437	Takes effect the next time you start the game
+59438	English
+59439	Russian
+59440	Each chat tab keeps its own filters, in the chat window.
+59441	How the game fills your screen
+59442	Lower resolutions run faster
+59443	Lower this first on an older graphics card
+59444	Spell and skill effects
+59445	How much detail stays at a distance
+59446	Farther costs frame rate in towns
+59447	High adds self-shadowing, Ultra doubles the range
+59448	Sharper ground at shallow angles
+59449	Smoother edges, costs frame rate
+59450	Softens where ground textures meet
+59451	Distant scenery
+59452	Smooths jagged edges at low cost
+59453	Bright things bleed a soft glow
+59454	More detailed light on characters and the world
+59455	How far it moves from the original look
+59456	Contrast between sky and ground light
+59457	Bright edge around characters
+59458	Loads scenery in the background
+59459	Plays when the game starts
+59460	Spoken alerts during play
+59461	Characters speak their lines
+59462	Numbers over your targets in combat
+59463	Details on the monster you point at
+59464	Name plates for every monster in range
+59465	Your own name above your character
+59466	Turn off in crowded towns
+59467	Turn off in crowded markets
+59468	A message when you pick something up
+59469	Gear read-out beside the character window
+59470	Auto follows your resolution
+59471	Lets you drag the frames on your screen
+59472	Your PC time under the server clock
+59473	Both clocks and the chat times
+59474	The next skill waits for the current one
+59475	Attack players without holding the PK key
+59476	Ground skills fire at the cursor
+59477	Answers routine Yes/No prompts with Yes
+59478	Left-click the ground to walk there
+59479	Walk the way the camera faces
+59480	Off stops you clicking on other players
+59481	The time in front of each line
 end

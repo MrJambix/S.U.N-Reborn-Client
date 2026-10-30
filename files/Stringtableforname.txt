@@ -3076,7 +3076,7 @@ start
 17167	Appearance of Arz
 //오후 2:55 2011-03-09
 16414	Berdio
-16415	Negro
+16415	Neglo
 //오후 3:56 2011-03-14	
 16416	[Best Zard Trader] Hora
 16417	[High Grade Zard Trader] Signier
