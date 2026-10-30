@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-10-30] update | The Cash Vault now holds cash items, mounts and pets, and Storage and the Cash Vault can be sorted.
+
 [2026-10-30] event | Trick or Treat Bags: open one for a treat, a Mayan material and a surprise, from rings, pets and mounts to costumes and, very rarely, a Legendary weapon.
 
 [2026-10-30] update | A new look for the whole game: rebuilt character selection and creation, vendor store, storage, Cash Vault, settings menu, bag, character, skill and quest windows. Auto-hunting and auto-questing rebuilt with a new panel above the action bars, a new settings window and smarter skill use.
