@@ -35242,4 +35242,13 @@ start
 59479	Walk the way the camera faces
 59480	Off stops you clicking on other players
 59481	The time in front of each line
+59500	Trick or Treat Bag
+59501	Trick or treat! Open it for a treat, a Mayan material and a surprise. The surprise could be a ring, a pet, a mount, a costume or, very rarely, a Legendary weapon.
+59502	Holds a random permanent costume for this class. This box can be traded, so pass it on if the class is not yours.
+59503	Permanent Costume Box: Berserker
+59504	Permanent Costume Box: Dragon Knight
+59505	Permanent Costume Box: Shadow
+59506	Permanent Costume Box: Valkyrie
+59507	Permanent Costume Box: Elementalist
+59508	Permanent Costume Box: Mystic
 end
