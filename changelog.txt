@@ -20,7 +20,7 @@
 
 FORMAT 1
 
-[2026-10-30] update | A new look for the whole game: rebuilt character selection and creation, vendor store, storage, Cash Vault, settings menu, bag, character, skill and quest windows. Auto-hunting and auto-questing rebuilt with a new panel above the action bars, a new settings window and smarter skill use. The Cash Vault now holds cash items, mounts and pets, and Storage and the Cash Vault can be sorted.
+[2026-10-30] update | A new look for the whole game: rebuilt character selection and creation, vendor store, storage, Cash Vault, settings menu, bag, character, skill and quest windows. Auto-hunting and auto-questing rebuilt with a new panel above the action bars, a new settings window and smarter skill use.
 
 [2026-10-26] fix | Renaming a runestone saved location now sticks: press OK and the new name shows in the list straight away.
 
