@@ -7960,16 +7960,16 @@ start
 1286	%d 일
 6324	이동하시겠습니까?
 1855	%s
-1856	솔로 커플 선택창
+1856	2027 Badge
 1857	%s
 1860	기부 결정창
 1863	산타 대화창
 1865	기부 창
 1867	아이템 지급 팝업창
 1869	%s
-1870	솔로 뱃지 지급 팝업창
+1870	2027 Badge of Valor
 1871	%s
-1872	커플 뱃지 지급 팝업창
+1872	2027 Badge of Fortitude
 1873	선물 전달창
 1874	전달 완료
 203108	내 선물상자를 찾아온 건가?
@@ -8212,8 +8212,8 @@ start
 400203	현자아렌의시험 (미션)
 400206	현자프리츠의시험 (미션)
 5072	더 이상 보상을 받을수 없습니다.
-1858	솔로입니다
-1859	커플입니다
+1858	Valor
+1859	Fortitude
 1861	기부합니다
 1862	자,잠시만요
 1864	선물상자를 가져왔습니다
@@ -8230,7 +8230,7 @@ start
 11387	Ive 
 158085	하임증가아이템
 5587	인벤토리가 잠겨있어 보상을 받으실 수 없습니다.
-203102	우후~ 이 즐거운 성탄절 날 혼자서 방황하고 있는 자네는 누군가?
+203102	Happy New Year, adventurer! From 26 December to 2 January, pick your 2027 badge here. Choose carefully: you only get one.
 203103	올해도 변함없이 크리스마스가 찾아왔네. 해서 내 직접 해방군 전사들을 위한 선물을 준비했네만.. 마을 밖에서 선물 상자들을 수송하던 중에 몬스터들에게 습격을 받아 빼앗기고 말았다네. 괜찮다면 자네가 날 좀 도와주지 않겠나? 몬스터들에게서 선물상자를 되찾아준다면 나도 자네에게 선물을 하나 주겠네.
 301182	솔로는 던젼에서 죽어도 구해주는 사람이 없다!
 301181	던젼은 혼자 돌아야 레벨이 는다!
@@ -8287,9 +8287,9 @@ start
 40505	파멸의엠페러(암흑)
 40514	파멸의엠페러 제작서
 203104	이렇게 행복한 축제 날에도 우리의 이웃들은 추위와 배고픔에 떨고 있다네. 그들을 위해 조금만 베풀지 않겠나? 내 액수는 따지지 않네만.. 그래도 100,000 하임 정도는 기본으로 줘야겠지? (최소 기부금액 100,000하임)
-203106	저런 저런~ 이렇게 좋은 날을 혼자서 보내야할 자네를 생각하니 가슴이 아프군. 힘내고 이거라도 받고가.<RETURN=1/>(주의: 한번 선택하면 다시는 바꿀 수 없습니다.)
-203107	커플이 솔로들 득실거리는 이곳에서 뭐하나? 솔로들 염장 지르는 건가? 됐으니까 얼른 이걸 가지고 떠나게.<RETURN=1/>(주의: 한번 선택하면 다시는 바꿀 수 없습니다.)
-203101	뱃지는 쓸만한가? 큰 맘 먹고 준 선물이니 아껴쓰라구.
+203106	For those who strike first. Wear it with pride all through 2027!<RETURN=1/>(Your choice cannot be changed.)
+203107	For those who stand their ground. May 2027 never knock you down!<RETURN=1/>(Your choice cannot be changed.)
+203101	You already have your 2027 badge. Right-click it in your bag to wear it!
 203105	자네의 기부금 덕에 많은 이들이 굶주림과 추위에서 벗어나게 될걸세. 자네 마음에 대한 보답으로 이걸 주겠네. 어차피 내가 가지고 있어봐야 쓸 곳도 없으니 자네가 옪은 일에 써주게나. 
 41461	강한 집념이 만들어낸 마력의 결정체. 하급 특수 액세서리 제작 아이템 재료.
 41462	정령들의 눈물이 굳어진 결정체. 상급 특수 액세서리 제작 아이템 재료.
@@ -33144,6 +33144,10 @@ start
 405003	Account Item
 405004	Beta Tester Badge
 405005	Awarded to the players who tested S.U.N Reborn before it opened.\nRight-click the badge to show or hide the BETA mark above your head.
+405104	2027 Badge of Valor
+405105	A keepsake from the turn of the year. Right-click it in your bag to wear it, and a golden 2027 shines above your head.
+405106	2027 Badge of Fortitude
+405107	A keepsake from the turn of the year. Right-click it in your bag to wear it, and a golden 2027 shines above your head.
 405006	S.U.N Reborn Beta
 405007	Thank You, Beta Tester
 405008	Hamsalot

@@ -15321,6 +15321,7 @@ dwCode	szFileName	FieldEnd
 90318 Data\Icon\element\Events\Beta_badge.tga		
 90319 Data\Interface\cursor\scrollon_beta.wzu		
 90320 Data\Interface\cursor\documenton_beta.wzu		
+90330 Data\Icon\element\Events\Badge_2027.tga		
 20702 Data\NPC\S010\Pal_Guardian_Lance.wzu		
 20703 Data\NPC\S010\Pal_Sanctuary_Lance.wzu		
 12736 Data\Icon\Commercial\BelialTemple_Paladin1.dds		

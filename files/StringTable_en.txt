@@ -7960,16 +7960,16 @@ start
 1286	%d days
 6324	Do you want to move?
 1855	%s
-1856	Single Couple Selection Window
+1856	2027 Badge
 1857	%s
 1860	Donation Decision Window
 1863	Talk to Santa Window
 1865	Donation Window
 1867	Item Distribution Popup Window
 1869	%s
-1870	Single Badge Distribution Popup Window
+1870	2027 Badge of Valor
 1871	%s
-1872	Couple Badge Distribution Popup Window
+1872	2027 Badge of Fortitude
 1873	Gift Delivery Window
 1874	Delivery Completed
 203108	You've brought 10 gift boxes for me?
@@ -8212,8 +8212,8 @@ start
 400203	Wiseman Aren's Trial (Mission)
 400206	Wiseman Fritz's Trial (Mission)
 5072	A reward is no longer available.
-1858	Single
-1859	Couple
+1858	Valor
+1859	Fortitude
 1861	Donate
 1862	Wait
 1864	I've brought you 10 gift boxes.
@@ -8230,7 +8230,7 @@ start
 11387	Ive
 158085	Heim Boosting Item
 5587	The inventory is locked. A reward isn't available.
-203102	"Hey, there! Who are you, wandering alone on the joyous day of Christmas?"
+203102	Happy New Year, adventurer! From 26 December to 2 January, pick your 2027 badge here. Choose carefully: you only get one.
 203103	"Christmas has arrived this year, as it always does. So, I'd prepared presents for the Liberation Army warriors. Unfortunately, I was attacked by monsters and robbed of the presents while transporting the boxes. Could you help me find them? I'll give you something in return if you get those gift boxes from the monsters."
 301182	Who's gonna save you if you're thrown into a dungeon all alone?
 301181	It's best to hit the dungeon by yourself for level up!
@@ -8287,9 +8287,9 @@ start
 40505	Empress of Ruin (Darkness)
 40514	Emperor of Destruction Scroll
 203104	"On a joyous day of celebration like today, there are people who suffer from hunger and cold. Don't you want to give them a little? The amount isn't an issue, but it has to be at least 100,000 to be of any help. (The minimum donation amount is 100,000 Heim.) "
-203106	Oh…It hurts me to think that you would have to spend a joyous day like this alone. Cheer up and take this.<RETURN=1/>(Caution: Your choice can't be reversed.)
-203107	"What are you doing in a place that's swarming with single people? Do you want to make the single people die of jealousy or something? Enough is enough. Take this, and please leave.<RETURN=1/>(Caution: Your choice can't be reversed.)"
-203101	"Does the badge look okay? I don't give that to just anyone, so use it wisely."
+203106	For those who strike first. Wear it with pride all through 2027!<RETURN=1/>(Your choice cannot be changed.)
+203107	For those who stand their ground. May 2027 never knock you down!<RETURN=1/>(Your choice cannot be changed.)
+203101	You already have your 2027 badge. Right-click it in your bag to wear it!
 203105	"Thanks to your donation, many people will be spared from hunger and cold. As a token of my gratitude, I'll give you this. I have no use for it, so I want you to take it and use it for a good cause."
 41461	Crystal of magical powers made of strong commitment. Material of lesser special accessories.
 41462	Crystal made of solidified tears of spirits. Material of greater special accessories.
@@ -16719,7 +16719,7 @@ start
 372	Defense Rate
 366	Attack Rate
 370	Critical Chance
-401	Elemental Dama'
+401	Elem. Damage
 //오후 4:00 2011-01-14	
 3442	Total
 //오후 4:21 2011-01-14	
@@ -16806,7 +16806,7 @@ start
 //오후 4:46 2011-01-18	
 5664	You have collected all AC items.
 //오후 5:23 2011-01-19	
-402	Elemental Resist.
+402	Elem. Resist
 587	Elemental Resistance Rate
 11002	Elemental Damage
 11206	Light Elemental Resistance
@@ -21755,7 +21755,7 @@ start
 2298	Deposit
 2299	Withdraw
 2300	Stored Heim
-2301	Please enter the amount of Heim to deposit or withdraw.
+2301	Enter the Heim to deposit or withdraw.
 //오후 5:48 2012-01-04	
 45651	Lovely Fireworks
 45652	Genuine Fireworks
@@ -32952,9 +32952,9 @@ start
 3534	Heim/EXP +90% HP/MP +2200
 3535	Heim/EXP +100% HP/MP +2500
 //오후 2:36 2015-09-18
-23188	Critical Attacked Chance
-23189	Increase Critical Damage
-23190	Increase Critical Damage(%)
+23188	Crit Taken Chance
+23189	Bonus Crit Damage
+23190	Bonus Crit Dmg (%)
 23191	Increase Skill Attack(%)
 23192	Increase Buff Time
 23193	Decrease Damage Debuff Time
@@ -33647,6 +33647,10 @@ start
 405003	Account Item
 405004	Beta Tester Badge
 405005	Awarded to the players who tested S.U.N Reborn before it opened.\nRight-click the badge to show or hide the BETA mark above your head.
+405104	2027 Badge of Valor
+405105	A keepsake from the turn of the year. Right-click it in your bag to wear it, and a golden 2027 shines above your head.
+405106	2027 Badge of Fortitude
+405107	A keepsake from the turn of the year. Right-click it in your bag to wear it, and a golden 2027 shines above your head.
 405006	S.U.N Reborn Beta
 405007	Thank You, Beta Tester
 405008	Hamsalot
@@ -34598,7 +34602,7 @@ start
 59031	Show: All
 59032	Show: Can make
 59033	Crafting %d uses %s
-59034	About %s of %d will succeed. A failure destroys the materials and keeps the fee.
+59034	About %s of %d succeed. On failure materials and fee are lost.
 59035	%s  x%d
 59036	Materials
 59037	%d recipes here  -  %d you can make now
@@ -34754,6 +34758,9 @@ start
 302410	Newbie Gift
 302411	Collect a gift on each of your first seven days of play. Days 6 and 7 need level 80.
 302412	Day %s
+302420	Christmas Gifts
+302421	Log in any day until January 7 and open a present. 28 gifts to collect, one a day!
+302422	A Christmas present is waiting for you!
 59100	Cash Vault
 59101	Deposit All
 59102	Stored %d items in the Cash Vault.
@@ -35256,4 +35263,15 @@ start
 59511	Permanent Costume Box: Paladin
 59512	Paladin Swimsuit Costume
 59513	Paladin Hot Spring Costume
+59514	Auto Pickup
+59515	Collects nearby loot. Types you turn off stay on the ground
+59516	Rings, necklaces and similar
+59517	Anything used in a crafting recipe
+59518	Heim, quest items and everything else are always collected while Auto Pickup is on.
+59519	Item filters apply once you have a pet or emblem with Auto Pickup.
+59520	Auto Pickup
+59521	Weapons
+59522	Armor
+59523	Accessories
+59524	Crafting Materials
 end

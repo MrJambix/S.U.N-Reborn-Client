@@ -130,14 +130,14 @@ FieldCode	FieldMapDir	FieldEnd
 //마을							
 10001	Map\Object\Map_Tringel\Map_Tringel.wut						
 10002	Map\Object\Map_Tringel\Map_Waldchen.wut						
-//10003	Map\Object\Map_Etherain\Map_Etherain.wut						
+10003	Map\Object\Map_Etherain\Map_Etherain.wut						
 10004	Map\Object\Map_Aukra\Map_Aukra.wut						
 10006	Map\Object\Map201\Map_Qortoq.wut						
 10007	Map\Object\Map207\Map207_Asmara.wut						
 //마을							
 //10001	Map\Object\Map_Tringel\Map_Tringel_F1.wut						
 //10002	Map\Object\Map_Tringel\Map_Waldchen_F1.wut						
-10003	Map\Object\Map_Etherain\Map_Etherain_F1.wut						
+//10003	Map\Object\Map_Etherain\Map_Etherain_F1.wut						
 //10004	Map\Object\Map_Aukra\Map_Aukra_F1.wut						
 //10006	Map\Object\Map201\Map_Qortoq_F1.wut						
 //10007	Map\Object\Map207\Map207_Asmara_F1.wut						
@@ -474,8 +474,8 @@ FieldCode	FieldMapDir	FieldEnd
 64506	Map\Object\map_battle02\map_battle02_06.wut						
 64507	Map\Object\map_battle01\map_battle01_mont.wut					//몬트샤인리뉴얼	
 //세리엔트온천							
-//64508	Map\Object\map_Spa\map_Spa.wut					//세리엔트온천	
-64508	Map\Object\map_Spa\map_Spa_halloween_Day.wut					//온천맵(할로윈)	
+64508	Map\Object\map_Spa\map_Spa.wut					//세리엔트온천	
+//64508	Map\Object\map_Spa\map_Spa_halloween_Day.wut					//온천맵(할로윈)	
 64509	Map\Object\map_Spa\map_Spa_SummerFestival.wut					//세리엔트비치	
 64601	Map\Object\map_battle02\map_battle02_04.wut						
 64602	Map\Object\map_battle02\map_battle02_04.wut						

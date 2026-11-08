@@ -2038,7 +2038,7 @@ start
 26701	Огненная стрела
 26702	Ледяной кинжал
 374	Скорость атаки
-399	Скорость передвижения
+399	Скорость бега
 436	%d
 201001	Не... не бей меня!
 201002	"Я слуга Драконьего колдуна Хилларуса. Ударишь меня — мой хозяин отомстит!"
@@ -7960,16 +7960,16 @@ start
 1286	%d days
 6324	Do you want to move?
 1855	%s
-1856	Single Couple Selection Window
+1856	Значок 2027
 1857	%s
 1860	Donation Decision Window
 1863	Talk to Santa Window
 1865	Donation Window
 1867	Item Distribution Popup Window
 1869	%s
-1870	Single Badge Distribution Popup Window
+1870	Значок 2027: Доблесть
 1871	%s
-1872	Couple Badge Distribution Popup Window
+1872	Значок 2027: Стойкость
 1873	Gift Delivery Window
 1874	Delivery Completed
 203108	You've brought 10 gift boxes for me?
@@ -8212,8 +8212,8 @@ start
 400203	Wiseman Aren's Trial (Mission)
 400206	Wiseman Fritz's Trial (Mission)
 5072	A reward is no longer available.
-1858	Single
-1859	Couple
+1858	Доблесть
+1859	Стойкость
 1861	Donate
 1862	Wait
 1864	I've brought you 10 gift boxes.
@@ -8230,7 +8230,7 @@ start
 11387	Ive
 158085	Heim Boosting Item
 5587	The inventory is locked. A reward isn't available.
-203102	"Hey, there! Who are you, wandering alone on the joyous day of Christmas?"
+203102	С Новым годом, путник! С 26 декабря по 2 января выберите свой значок 2027. Выбирайте с умом: он только один.
 203103	"Christmas has arrived this year, as it always does. So, I'd prepared presents for the Liberation Army warriors. Unfortunately, I was attacked by monsters and robbed of the presents while transporting the boxes. Could you help me find them? I'll give you something in return if you get those gift boxes from the monsters."
 301182	Who's gonna save you if you're thrown into a dungeon all alone?
 301181	It's best to hit the dungeon by yourself for level up!
@@ -8287,9 +8287,9 @@ start
 40505	Empress of Ruin (Darkness)
 40514	Emperor of Destruction Scroll
 203104	"On a joyous day of celebration like today, there are people who suffer from hunger and cold. Don't you want to give them a little? The amount isn't an issue, but it has to be at least 100,000 to be of any help. (The minimum donation amount is 100,000 Heim.) "
-203106	OhЎ¦It hurts me to think that you would have to spend a joyous day like this alone. Cheer up and take this.<RETURN=1/>(Caution: Your choice can't be reversed.)
-203107	"What are you doing in a place that's swarming with single people? Do you want to make the single people die of jealousy or something? Enough is enough. Take this, and please leave.<RETURN=1/>(Caution: Your choice can't be reversed.)"
-203101	"Does the badge look okay? I don't give that to just anyone, so use it wisely."
+203106	Для тех, кто бьёт первым. Носите его с гордостью весь 2027 год!<RETURN=1/>(Выбор нельзя изменить.)
+203107	Для тех, кто стоит до конца. Пусть 2027 никогда не собьёт вас с ног!<RETURN=1/>(Выбор нельзя изменить.)
+203101	У вас уже есть значок 2027. Нажмите на него правой кнопкой в сумке, чтобы надеть!
 203105	"Thanks to your donation, many people will be spared from hunger and cold. As a token of my gratitude, I'll give you this. I have no use for it, so I want you to take it and use it for a good cause."
 41461	Crystal of magical powers made of strong commitment. Material of lesser special accessories.
 41462	Crystal made of solidified tears of spirits. Material of greater special accessories.
@@ -16719,7 +16719,7 @@ start
 372	Defense Rate
 366	Attack Rate
 370	Critical Chance
-401	Elemental Dama'
+401	Урон стихии
 //їАИД 4:00 2011-01-14	
 3442	Всего
 //їАИД 4:21 2011-01-14	
@@ -16806,7 +16806,7 @@ start
 //їАИД 4:46 2011-01-18	
 5664	You have collected all AC items.
 //їАИД 5:23 2011-01-19	
-402	Elemental Resist.
+402	Сопр. стихии
 587	Сопротивление стихиям
 11002	Elemental Damage
 11206	Light Elemental Resistance
@@ -21755,7 +21755,7 @@ start
 2298	Положить
 2299	Снять
 2300	Stored Heim
-2301	Please enter the amount of Heim to deposit or withdraw.
+2301	Введите сумму: положить или снять.
 //їАИД 5:48 2012-01-04	
 45651	Lovely Fireworks
 45652	Genuine Fireworks
@@ -32952,9 +32952,9 @@ start
 3534	Heim/EXP +90% HP/MP +2200
 3535	Heim/EXP +100% HP/MP +2500
 //їАИД 2:36 2015-09-18
-23188	Critical Attacked Chance
-23189	Increase Critical Damage
-23190	Increase Critical Damage(%)
+23188	Шанс крита по вам
+23189	Доп. крит. урон
+23190	Доп. крит. урон (%)
 23191	Increase Skill Attack(%)
 23192	Increase Buff Time
 23193	Decrease Damage Debuff Time
@@ -33536,6 +33536,10 @@ start
 405003	Account Item
 405004	Beta Tester Badge
 405005	Awarded to the players who tested S.U.N Reborn before it opened.\nRight-click the badge to show or hide the BETA mark above your head.
+405104	Значок 2027: Доблесть
+405105	Памятный знак на смену года. Нажмите на него правой кнопкой в сумке, и над головой засияет золотое 2027.
+405106	Значок 2027: Стойкость
+405107	Памятный знак на смену года. Нажмите на него правой кнопкой в сумке, и над головой засияет золотое 2027.
 405006	S.U.N Reborn Beta
 405007	Thank You, Beta Tester
 405008	Hamsalot
@@ -34600,7 +34604,7 @@ start
 59031	Show: All
 59032	Show: Can make
 59033	Crafting %d uses %s
-59034	About %s of %d will succeed. A failure destroys the materials and keeps the fee.
+59034	Успех: ~%s из %d. Провал: теряются материалы и плата.
 59035	%s  x%d
 59036	Материалы
 59037	%d recipes here  -  %d you can make now
@@ -34760,6 +34764,9 @@ start
 302410	Newbie Gift
 302411	Collect a gift on each of your first seven days of play. Days 6 and 7 need level 80.
 302412	Day %s
+302420	Рождественские подарки
+302421	Заходите каждый день до 7 января и открывайте подарок. Всего 28 подарков!
+302422	Вас ждёт рождественский подарок!
 59100	Cash Vault
 59101	Deposit All
 59102	Stored %d items in the Cash Vault.
@@ -35022,7 +35029,7 @@ start
 59206	Статус
 59207	Активен
 59208	Удаление через %d д %d ч
-59209	Двойной щелчок - войти в игру  -  правая кнопка мыши - повернуть
+59209	Двойной щелчок - войти  -  ПКМ - повернуть
 59210	Чтобы удалить %s, введите имя персонажа.
 59211	Персонажей пока нет
 59212	Создайте первого персонажа, чтобы начать.
@@ -35050,7 +35057,7 @@ start
 59234	Имя свободно
 59235	Имя уже занято
 59236	%d из %d
-59237	Мужской или женский
+59237	Оба пола
 59238	Только женский
 59239	Только мужской
 59240	Начальные характеристики
@@ -35155,7 +35162,7 @@ start
 59339	Чинить снаряжение в городе
 59340	Продавать в городе
 59341	После смерти
-59342	Ждать|Воскреснуть здесь|В город
+59342	Ждать|Воскреснуть|В город
 59343	Приглашения в группу
 59344	Спрашивать|Принимать|Отклонять
 59345	Сохранять чат в отсутствие
@@ -35262,4 +35269,15 @@ start
 59511	Коробка постоянного костюма: Паладин
 59512	Купальный костюм паладина
 59513	Костюм паладина для горячих источников
+59514	Автоподбор
+59515	Собирает добычу рядом. Отключённое остаётся на земле
+59516	Кольца, ожерелья и подобное
+59517	Всё, что используется в рецептах крафта
+59518	Хайм, квестовые предметы и всё остальное собираются всегда, пока автоподбор включён.
+59519	Фильтры предметов работают, когда есть питомец или эмблема с автоподбором.
+59520	Автоподбор
+59521	Оружие
+59522	Броня
+59523	Аксессуары
+59524	Материалы для крафта
 end

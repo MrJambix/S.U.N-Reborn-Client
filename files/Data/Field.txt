@@ -403,8 +403,8 @@ FieldCode	FieldMapDir	BySeverType	UseNewPathEngine	IsWarCastleMap	FieldEnd
 64506	Map\Object\map_battle02\map_battle02_06.map	1	0	0			
 64507	Map\Object\map_battle01\map_battle01_mont.map	1	0	0		//몬트샤인리뉴얼	
 //세리엔트온천							
-//64508	Map\Object\map_Spa\map_Spa.map	1	0	0		//세리엔트온천	
-64508	Map\Object\map_Spa\map_Spa_halloween_Day.map	1	0	0		//온천맵(할로윈)	
+64508	Map\Object\map_Spa\map_Spa.map	1	0	0		//세리엔트온천	
+//64508	Map\Object\map_Spa\map_Spa_halloween_Day.map	1	0	0		//온천맵(할로윈)	
 64509	Map\Object\map_Spa\map_Spa_SummerFestival.map	1	0	0		//세리엔트비치	
 64601	Map\Object\map_battle02\map_battle02_04.map	1	0	0			
 64602	Map\Object\map_battle02\map_battle02_04.map	1	0	0			

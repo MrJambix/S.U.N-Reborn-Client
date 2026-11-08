@@ -20,6 +20,16 @@
 
 FORMAT 1
 
+[2026-11-08] event | Christmas Gifts: log in on any day until 7 January and open a present - 28 to collect, one a day. Click the gift icon in the bottom-right corner of your screen. Snow now falls in six towns, and Christmas trees and presents have replaced the Halloween pumpkins.
+
+[2026-11-08] event | Holiday Lottery from 10 November to 2 January: every hour, on the hour, players who are logged in are drawn for a prize, delivered straight to their bag - up to an Elite 1 armour piece at +7 for your class.
+
+[2026-11-08] update | Auto Pickup can now be switched off, and set to take or leave weapons, armour, accessories and crafting materials (Options, Gameplay).
+
+[2026-11-08] fix | Newbie Gift: your play time is now kept when you log out and carries over to the next day, and you no longer lose your place on the track. Also fixed: the Cash Vault opening, guild emblems on the continent map, cut-off labels and striped on/off switches.
+
+[2026-11-01] event | Christmas comes early to Etherain! Monsters now drop Christmas Secret Boxes with Christmas costumes, pets and a Rudolph mount inside, and EXP and item drops are up 30%.
+
 [2026-10-30] update | The Cash Vault now holds cash items, mounts and pets, and Storage and the Cash Vault can be sorted.
 
 [2026-10-30] event | Trick or Treat Bags: open one for a treat, a Mayan material and a surprise, from rings, pets and mounts to costumes and, very rarely, a Legendary weapon.
