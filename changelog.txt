@@ -20,6 +20,10 @@
 
 FORMAT 1
 
+[2026-11-13] update | Blue and Red Reagents are here. Add one when you enchant: a Blue Reagent stops a failed enchant from weakening the item, and a Red Reagent stops it from being destroyed. They drop from monsters and bosses, and the Seal Keeper sells both for Seals.
+
+[2026-11-13] fix | Christmas Gifts and Newbie Gift progress is now saved properly - for some players it started over every time they logged in. Also fixed: Festival Crates and Trick or Treat costume boxes could open to an item that does not exist; several Arkadia quests gave armour your class cannot wear, and now give crystals you can use instead; a server crash that could happen when entering certain boss rooms; and the bag sort button no longer stops responding while your bag is locked.
+
 [2026-11-10] fix | Christmas Gifts: the window now fits all 28 presents, the Get a Reward and Close buttons are no longer hidden behind them, and the description no longer splits words in half.
 
 [2026-11-08] event | Christmas Gifts: log in on any day until 7 January and open a present - 28 to collect, one a day. Click the gift icon in the bottom-right corner of your screen. Snow now falls in six towns, and Christmas trees and presents have replaced the Halloween pumpkins.
