@@ -34474,7 +34474,7 @@ start
 302411	Collect a gift on each of your first seven days of play. Days 6 and 7 need level 80.
 302412	Day %s
 302420	Christmas Gifts
-302421	Log in any day until January 7 and open a present. 28 gifts to collect, one a day!
+302421	Log in any day until January 7<RETURN=1/>and open a present.<RETURN=2/>28 gifts to collect, one a day!
 302422	A Christmas present is waiting for you!
 405100	Reborn Seal
 405101	Earned by clearing battle zones. Exchange it for rewards at a Seal merchant.

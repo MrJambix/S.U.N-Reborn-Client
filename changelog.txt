@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-11-10] fix | Christmas Gifts: the window now fits all 28 presents, the Get a Reward and Close buttons are no longer hidden behind them, and the description no longer splits words in half.
+
 [2026-11-08] event | Christmas Gifts: log in on any day until 7 January and open a present - 28 to collect, one a day. Click the gift icon in the bottom-right corner of your screen. Snow now falls in six towns, and Christmas trees and presents have replaced the Halloween pumpkins.
 
 [2026-11-08] event | Holiday Lottery from 10 November to 2 January: every hour, on the hour, players who are logged in are drawn for a prize, delivered straight to their bag - up to an Elite 1 armour piece at +7 for your class.
