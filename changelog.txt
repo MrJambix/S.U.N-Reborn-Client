@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-11-21] fix | Fixed the mission reward window sometimes getting stuck after clearing a mission, leaving you unable to close it or leave
+
 [2026-11-20] update | Auto Hunt and Auto Quest now give each character 60 free minutes every 6 hours. Need more? The new Auto Hunt Recharger in Etherain sells extra time: 100 Reborn Seals for 60 minutes, and bought time never expires.
 
 [2026-11-20] update | Potions and most other stackable items now stack up to 255, so they take up far less room in your bag.
