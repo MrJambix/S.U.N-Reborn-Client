@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-11-20] fix | Mounts and some other items no longer disappear from the skill bar on their own; they now stay where you put them.
+
 [2026-11-20] update | Costumes can now be deleted from your inventory.
 
 [2026-11-18] update | 140 brand new pets have arrived, from cute companions to fearsome beasts, each with its own bonuses. Win them as rare prizes in Surprise Events. Also: Cash Boxes can now be deleted from your inventory.
