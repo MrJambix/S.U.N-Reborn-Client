@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-11-20] update | Potions and most other stackable items now stack up to 255, so they take up far less room in your bag.
+
 [2026-11-20] fix | Mounts and some other items no longer disappear from the skill bar on their own; they now stay where you put them.
 
 [2026-11-20] update | Costumes can now be deleted from your inventory.
