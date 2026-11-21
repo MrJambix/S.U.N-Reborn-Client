@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-11-20] update | Costumes can now be deleted from your inventory.
+
 [2026-11-18] update | 140 brand new pets have arrived, from cute companions to fearsome beasts, each with its own bonuses. Win them as rare prizes in Surprise Events. Also: Cash Boxes can now be deleted from your inventory.
 
 [2026-11-13] update | Blue and Red Reagents are here. Add one when you enchant: a Blue Reagent stops a failed enchant from weakening the item, and a Red Reagent stops it from being destroyed. They drop from monsters and bosses, and the Seal Keeper sells both for Seals.
