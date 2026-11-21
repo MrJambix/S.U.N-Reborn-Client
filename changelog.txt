@@ -20,6 +20,8 @@
 
 FORMAT 1
 
+[2026-11-20] update | Auto Hunt and Auto Quest now give each character 60 free minutes every 6 hours. Need more? The new Auto Hunt Recharger in Etherain sells extra time: 100 Reborn Seals for 60 minutes, and bought time never expires.
+
 [2026-11-20] update | Potions and most other stackable items now stack up to 255, so they take up far less room in your bag.
 
 [2026-11-20] fix | Mounts and some other items no longer disappear from the skill bar on their own; they now stay where you put them.

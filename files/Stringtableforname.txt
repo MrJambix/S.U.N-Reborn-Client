@@ -5088,4 +5088,5 @@ start
 55069	Beanford
 406302	[Stat Reroll] Israfil
 405108	Herald of the New Year
+17509	Auto Hunt Recharger
 end
