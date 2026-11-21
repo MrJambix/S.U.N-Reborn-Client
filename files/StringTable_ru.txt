@@ -35636,3 +35636,4 @@ end
 406754	Paladin Holy Knight Costume (Unlimited)
 405120	Auto Hunt Time (60 min)
 405121	Right-click to add 60 minutes of Auto-Hunting time to this character. Added time never expires and is used once your free 60 minutes run out.
+406755	Защита -%d%%   Сопротивления -%d
