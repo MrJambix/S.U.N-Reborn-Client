@@ -35667,4 +35667,5 @@ start
 406758	Rare Drop Bonus
 406759	Wishing You Were Lucky
 406760	Keep it in your inventory and its blessing is always on and never expires. A failed enchant never breaks or downgrades your gear, and every roll lands at its best: gear and weapon stats, the quality of weapons and armour that drop, and Skill Liberation.
+406761	Perfect Rolls
 end

@@ -112,3 +112,4 @@ Index	OptionName	ValueType	ValueType2	Ncode	FieldEnd
 125	위치블레이드에게받는데미지감소	0	0	11520	
 126	RareDrop	1	0	406758	
 127	Luck	0	0	11452	
+128	PerfectRoll	0	0	406761	
