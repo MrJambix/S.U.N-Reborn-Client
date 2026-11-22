@@ -1,8 +1,8 @@
 # S.U.N Reborn patch manifest
-# generated 2026-11-21 14:23:31 by make-patch.ps1 -- do not hand-edit
+# generated 2026-11-22 10:25:42 by make-patch.ps1 -- do not hand-edit
 FORMAT 1
 BASEPATH files
-PATCH 2026-11-21
+PATCH 2026-11-22
 script 903d3d8b6140118e520842b44e2366eddde878cc92d65c314775e692e8e72cbc 23470 Data\Attendance.txt
 script 01a5e4554a8f787fec0df1fcdbdba2a52f3a588d9eea4d651b1b4378a7b25336 566097 Data\RewardInfoList.txt
 loose f73928732dea33a42faf0f07198de415163a50508e60c387f443ffa7eb602856 8800768 Sungame.exe
@@ -3310,7 +3310,7 @@ pack 7b63b984a2be381ad8bd21dab5e094c960a9ac5904eca8be58ebd9be8935e5b6 478 Data\I
 pack 4bfb421149b8866390d16da62316613559bc8ebff8700f65a9e6d66d6b2304ed 3321 Data\Interface\25_Menu.iwz
 pack 4762962a4443fe88f180ae57d104a69b8332f940e23725f1a5752f4f59bd3332 1890 Data\Interface\N110_HUDAutoBattle.iwz
 pack d96d41aed85b62103d655de725a243c9a8e29339a0f562154ca5194b23c3fe5c 2097196 Data\Interface\all_butten5_01.tga
-script 5dd38c6a16ff8b0a90ccd4c031990570ad9d34a1f5fe84ae66dd4bc48624939b 290752 Data\ShopInfo.txt
+script b96470c0c23c8cf7dd6efb59f2a4e41b2bc3cc8db3c1b3f53507ce09fd2d43e3 290757 Data\ShopInfo.txt
 script 81c6a6c03e42667415a966b7a1c6c553c8b86f2977157736fabcfc04c73279fa 32806 Data\MissionRewardInfo.txt
 loose ac3766393383e8cc71df54fa659a17b824f7214f2ee4ca74144f1c519dcfee14 152130 Stringtableforname.txt
 pack 6f5d45970b5eb069a7decdf883efcaaa5151b285f2f882cfb01b932db0672df3 99949 Data\NPC\M2008\A001_BossGigas_Attack1.wza
