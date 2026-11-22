@@ -50,6 +50,7 @@ OptionID	PageIndex	CategoryName	DisplayName	ItemType	ItemData	Comment
 233	1	2811	2862	COMBO	2936	설명입니다.	//다른 플레이어 선택 차단
 234	1	2811	2863	COMBO	2936	설명입니다.	//채널 초대 차단
 237	1	2810	59020	COMBO	2936	설명입니다.	//Fast Cast
+264	1	2810	59557	COMBO	2936	설명입니다.	//Fast Cast on Target (sub-option of 237)
 238	1	2809	59021	COMBO	2936	설명입니다.	//Always show monster names
 239	0	2807	59022	COMBO	2936	설명입니다.	//Anisotropic filtering
 240	0	2807	59023	COMBO	2936	설명입니다.	//Anti-aliasing (needs restart)
