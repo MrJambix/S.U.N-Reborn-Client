@@ -110,4 +110,5 @@ Index	OptionName	ValueType	ValueType2	Ncode	FieldEnd
 123	미스틱에게받는데미지감소	0	0	11518	
 124	헬로이드에게받는데미지감소	0	0	11519	
 125	위치블레이드에게받는데미지감소	0	0	11520	
+126	RareDrop	1	0	406758	
 127	Luck	0	0	11452	

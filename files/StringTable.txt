@@ -35280,7 +35280,6 @@ start
 59522	Armor
 59523	Accessories
 59524	Crafting Materials
-end
 406402	Blue Rapoo I
 406403	Summons Blue Rapoo I, a companion pet.\n\nIts bonuses grow stronger as its loyalty rises.
 406404	Blue Rapoo II
@@ -35637,3 +35636,41 @@ end
 405120	Auto Hunt Time (60 min)
 405121	Right-click to add 60 minutes of Auto-Hunting time to this character. Added time never expires and is used once your free 60 minutes run out.
 406755	Defense -%d%%   Resistances -%d
+59525	Moving interface
+59526	Drag a frame to move it. Right-click a frame to reset it. Hold Shift to place it without snapping.
+59527	Reset all
+59528	Click again to confirm
+59529	Done
+59530	Character
+59531	Clock
+59532	Pet
+59533	Party
+59534	Action bar
+59535	Durability
+59536	Menu
+59537	Shortcuts
+59538	Minimap
+59539	Target
+59540	Aggro list
+59541	Damage meter
+59542	Cast bar
+59543	Styles
+59544	Ammo
+59545	Summon
+59546	Summon skills
+59547	Chat
+59548	System messages
+59549	Quest list
+59550	Quest tracker
+59551	Perks
+59552	Inventory
+59553	Equipment
+59554	Auto-hunting
+59555	Mission objectives
+59556	Mission timer
+406756	Wishing You Were Me
+406757	Keep it in your inventory and its blessing is always on. No need to activate it, and it never expires.
+406758	Rare Drop Bonus
+406759	Wishing You Were Lucky
+406760	Keep it in your inventory and its blessing is always on and never expires. A failed enchant never breaks or downgrades your gear, and every roll lands at its best: gear and weapon stats, the quality of weapons and armour that drop, and Skill Liberation.
+end

@@ -34135,6 +34135,11 @@ start
 406123	The Hand on the Lever
 406124	Node Seven
 406125	The Grass Begins to Die
+406756	Wishing You Were Me
+406757	Keep it in your inventory and its blessing is always on. No need to activate it, and it never expires.
+406758	Rare Drop Bonus
+406759	Wishing You Were Lucky
+406760	Keep it in your inventory and its blessing is always on and never expires. A failed enchant never breaks or downgrades your gear, and every roll lands at its best: gear and weapon stats, the quality of weapons and armour that drop, and Skill Liberation.
 end
 405110	The Spear of Dawn
 405111	Complete your class change-up. The Order of the Dawn will take you, and you may create a Paladin.

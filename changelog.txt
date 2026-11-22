@@ -20,6 +20,16 @@
 
 FORMAT 1
 
+[2026-11-21] update | Moving your interface is much easier. Turn on Unlock HUD Frames in Options > Interface and an editing bar appears with Done and Reset all buttons.
+- Every frame you can move is outlined and named
+- Frames snap to the screen edges, the centre of the screen and each other. Hold Shift to place a frame freely
+- Right-click a frame to put it back where it started
+- Frames can no longer be dragged off the screen, and frames placed on the right or bottom of the screen stay there when you change resolution
+
+[2026-11-21] fix | On laptops and monitors that use Windows display scaling (125%, 150% and higher), the game no longer runs off the edges of the screen or looks blurry
+
+[2026-11-21] fix | Fixed some pet names and item descriptions showing a placeholder instead of their text
+
 [2026-11-21] fix | Fixed the mission reward window sometimes getting stuck after clearing a mission, leaving you unable to close it or leave
 
 [2026-11-20] update | Auto Hunt and Auto Quest now give each character 60 free minutes every 6 hours. Need more? The new Auto Hunt Recharger in Etherain sells extra time: 100 Reborn Seals for 60 minutes, and bought time never expires.

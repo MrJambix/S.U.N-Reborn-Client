@@ -35280,7 +35280,6 @@ start
 59522	Броня
 59523	Аксессуары
 59524	Материалы для крафта
-end
 406402	Blue Rapoo I
 406403	Summons Blue Rapoo I, a companion pet.\n\nIts bonuses grow stronger as its loyalty rises.
 406404	Blue Rapoo II
@@ -35637,3 +35636,41 @@ end
 405120	Auto Hunt Time (60 min)
 405121	Right-click to add 60 minutes of Auto-Hunting time to this character. Added time never expires and is used once your free 60 minutes run out.
 406755	Защита -%d%%   Сопротивления -%d
+59525	Перемещение интерфейса
+59526	Перетащите окно, чтобы переместить его. ПКМ по окну вернёт его на место. Удерживайте Shift, чтобы не привязывать.
+59527	Сбросить всё
+59528	Нажмите ещё раз
+59529	Готово
+59530	Персонаж
+59531	Часы
+59532	Питомец
+59533	Группа
+59534	Панель действий
+59535	Прочность
+59536	Меню
+59537	Ярлыки
+59538	Миникарта
+59539	Цель
+59540	Список угрозы
+59541	Счётчик урона
+59542	Полоса применения
+59543	Стили
+59544	Боезапас
+59545	Призыв
+59546	Умения призыва
+59547	Чат
+59548	Системные сообщения
+59549	Список заданий
+59550	Отслеживание заданий
+59551	Перки
+59552	Инвентарь
+59553	Снаряжение
+59554	Автоохота
+59555	Цели миссии
+59556	Таймер миссии
+406756	Wishing You Were Me
+406757	Keep it in your inventory and its blessing is always on. No need to activate it, and it never expires.
+406758	Rare Drop Bonus
+406759	Wishing You Were Lucky
+406760	Keep it in your inventory and its blessing is always on and never expires. A failed enchant never breaks or downgrades your gear, and every roll lands at its best: gear and weapon stats, the quality of weapons and armour that drop, and Skill Liberation.
+end
