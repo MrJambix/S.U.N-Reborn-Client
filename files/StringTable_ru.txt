@@ -34757,6 +34757,10 @@ start
 59091	Shadow Detail
 59092	Standard,High,Ultra
 59093	High,Medium,Low,Ultra
+59094	Сумки 11-15
+59095	Сумки 16-17
+59096	Нажмите, чтобы открыть Магазин предметов и купить сумку
+59097	Закрыто - нажмите, чтобы купить сумку в Магазине предметов
 11451	Highest Stat
 302400	S.U.N Reborn Special Ring
 302401	Incomplete Armor Box <Hellroid>
@@ -35677,4 +35681,7 @@ start
 406800	Legendary Weapons
 59557	Быстрое применение по цели
 59558	Умения по области срабатывают на выбранной цели
+405090	Vault Expansion
+405091	Unlocks the next tab of your Cash Vault - tabs 6 to 10, one tab per use - for your whole ACCOUNT.\nIf the vault is open, the new tab appears straight away.
+59356	Вкладка %d Cash Vault закрыта. Каждое Vault Expansion из магазина открывает следующую вкладку.
 end

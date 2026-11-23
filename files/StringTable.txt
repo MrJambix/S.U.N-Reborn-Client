@@ -34757,6 +34757,10 @@ start
 59091	Shadow Detail
 59092	Standard,High,Ultra
 59093	High,Medium,Low,Ultra
+59094	Bags 11-15
+59095	Bags 16-17
+59096	Click to open the Item Shop and buy an Expeditionary Bag
+59097	Locked - click to buy an Expeditionary Bag in the Item Shop
 11451	Highest Stat
 302400	S.U.N Reborn Special Ring
 302401	Incomplete Armor Box <Hellroid>
@@ -35677,4 +35681,7 @@ start
 406800	Legendary Weapons
 59557	Fast Cast on Target
 59558	Ground skills land on your selected target
+405090	Vault Expansion
+405091	Unlocks the next tab of your Cash Vault - tabs 6 to 10, one tab per use - for your whole ACCOUNT.\nIf the vault is open, the new tab appears straight away.
+59356	Tab %d of your Cash Vault is locked. Each Vault Expansion from the Item Shop unlocks the next tab.
 end

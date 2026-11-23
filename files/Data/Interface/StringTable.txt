@@ -34442,6 +34442,10 @@ start
 405018	Lizzard
 405019	Summons Lizzard, a golden reptile with a nose for treasure and a habit of helping himself.\n\nWhile he is out he grants +200% experience and +100% Heim from monsters, gathers up every item and coin that drops within reach, drinks a healing potion for you below 70% HP and a mana potion below 50% MP, and makes rare drops far more likely.\n\nHe never needs feeding.
 59085	Equipment Details Panel
+59094	Bags 11-15
+59095	Bags 16-17
+59096	Click to open the Item Shop and buy an Expeditionary Bag
+59097	Locked - click to buy an Expeditionary Bag in the Item Shop
 11451	Highest Stat
 302400	S.U.N Reborn Special Ring
 302401	Incomplete Armor Box <Hellroid>
@@ -34464,6 +34468,7 @@ start
 59105	That item is already in use and cannot be stored.
 59106	The Cash Vault is full.
 59107	The Cash Vault is not available right now.
+59356	Tab %d of your Cash Vault is locked. Each Vault Expansion from the Item Shop unlocks the next tab.
 406098	Second Sun
 406099	The Second Sun
 406100	A Page That Does Not Match
@@ -34498,6 +34503,8 @@ start
 406759	Wishing You Were Lucky
 406760	Keep it in your inventory and its blessing is always on and never expires. A failed enchant never breaks or downgrades your gear, and every roll lands at its best: gear and weapon stats, the quality of weapons and armour that drop, and Skill Liberation.
 406761	Perfect Rolls
+405090	Vault Expansion
+405091	Unlocks the next tab of your Cash Vault - tabs 6 to 10, one tab per use - for your whole ACCOUNT.\nIf the vault is open, the new tab appears straight away.
 end
 405110	The Spear of Dawn
 405111	Complete your class change-up. The Order of the Dawn will take you, and you may create a Paladin.
