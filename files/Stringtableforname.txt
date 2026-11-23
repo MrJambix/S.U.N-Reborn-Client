@@ -5089,4 +5089,7 @@ start
 406302	[Stat Reroll] Israfil
 405108	Herald of the New Year
 17509	Auto Hunt Recharger
+17510	Seal Broker
+17511	Holly
+17512	Christmas Keeper
 end

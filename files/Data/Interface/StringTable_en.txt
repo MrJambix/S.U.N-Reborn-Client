@@ -34529,6 +34529,426 @@ start
 406761	Perfect Rolls
 405090	Vault Expansion
 405091	Unlocks the next tab of your Cash Vault - tabs 6 to 10, one tab per use - for your whole ACCOUNT.\nIf the vault is open, the new tab appears straight away.
+405130	Reborn Christmas Token
+405131	A token of the season, dropped by monsters during the Christmas event. Trade it with Holly, the Christmas Keeper, in Aukra. It cannot be traded with other players.
+407001	Enfeeble Duration +1s
+407002	Enfeeble Duration +2s
+407003	Enfeeble Duration +3s
+407004	Weaken Duration +1s & Wound: 100% chance, Damage 200 for 3s
+407005	Weaken Duration +2s & Wound: 100% chance, Damage 200 for 4s
+407006	Weaken Duration +3s & Wound: 100% chance, Damage 200 for 5s
+407007	Weaken Duration +1s & Shackle: 100% chance, Movement Speed -10% for 3s
+407008	Weaken Duration +2s & Shackle: 100% chance, Movement Speed -10% for 4s
+407009	Weaken Duration +3s & Shackle: 100% chance, Movement Speed -10% for 5s
+407010	Stun Duration +0.1s
+407011	Stun Duration +0.5s
+407012	Skill Damage +10% & Wound: 100% chance, Damage 200 for 3s
+407013	Skill Damage +12% & Wound: 100% chance, Damage 200 for 4s
+407014	Skill Damage +15% & Wound: 100% chance, Damage 200 for 5s
+407015	Range Duration +1s
+407016	Range Duration +2s
+407017	Range Duration +3s
+407018	Range Duration +0.5s
+407019	Range Duration +1.5s
+407020	Range Duration +2.5s
+407021	Down Rate +3%
+407022	Down Rate +6%
+407023	Skill Damage +10% & Down Duration +0.3s
+407024	Skill Damage +12% & Down Duration +0.6s
+407025	Skill Damage +15% & Down Duration +1s
+407026	Holding Duration +0.1s
+407027	Holding Duration +0.5s
+407028	Holding Rate +3%
+407029	Holding Rate +6%
+407030	Holding Rate +10%
+407031	Skill Damage +10% & Holding Duration +0.3s
+407032	Skill Damage +12% & Holding Duration +0.6s
+407033	Skill Damage +15% & Holding Duration +1s
+407034	Skill Damage +10% & Enfeeble Duration +1s
+407035	Skill Damage +12% & Enfeeble Duration +2s
+407036	Skill Damage +15% & Enfeeble Duration +3s
+407037	Defence Increase +3%
+407038	Defence Increase +6%
+407039	Defence Increase +10%
+407040	Defence Duration +5s
+407041	Defence Duration +10s
+407042	Defence Duration +15s
+407043	Defence Duration +5s & Defence Increase +10%
+407044	Defence Duration +10s & Defence Increase +10%
+407045	Defence Duration +15s & Defence Increase +10%
+407046	Defence Duration +5s & Defence Increase +6%
+407047	Defence Duration +10s & Defence Increase +6%
+407048	Defence Duration +15s & Defence Increase +6%
+407049	Defence Duration +0.5s
+407050	Defence Duration +1.5s
+407051	Defence Duration +2.5s
+407052	Additional Damage +10%
+407053	Down Additional Damage +3%
+407054	Down Additional Damage +6%
+407055	Down Additional Damage +10%
+407056	Skill Damage +10% & Down Additional Damage +10%
+407057	Skill Damage +12% & Down Additional Damage +12%
+407058	Skill Damage +15% & Down Additional Damage +15%
+407059	Skill Damage +10% & Shackle Duration +1s
+407060	Skill Damage +12% & Shackle Duration +2s
+407061	Skill Damage +15% & Shackle Duration +3s
+407062	Weaken Reduction -3%
+407063	Weaken Reduction -6%
+407064	Weaken Reduction -10%
+407065	Skill Damage +12% & Weaken Duration +2s
+407066	Skill Damage +15% & Weaken Duration +3s
+407067	Agony Damage +3%
+407068	Agony Damage +6%
+407069	Agony Damage +10%
+407070	Agony Duration +1s
+407071	Agony Duration +2s
+407072	Agony Duration +3s
+407073	Agony Duration +1s & Wound: 100% chance, Damage 200 for 3s
+407074	Agony Duration +2s & Wound: 100% chance, Damage 200 for 4s
+407075	Agony Duration +3s & Wound: 100% chance, Damage 200 for 5s
+407076	Agony Duration +1s & Weaken: 100% chance, Defence -10% for 3s
+407077	Agony Duration +2s & Weaken: 100% chance, Defence -10% for 4s
+407078	Agony Duration +3s & Weaken: 100% chance, Defence -10% for 5s
+407079	Dark Burn Damage +3%
+407080	Dark Burn Damage +6%
+407081	Dark Burn Damage +10%
+407082	Skill Damage +10% & Dark Burn Duration +1s
+407083	Skill Damage +12% & Dark Burn Duration +2s
+407084	Skill Damage +15% & Dark Burn Duration +3s
+407085	Impotent Duration +1s
+407086	Impotent Duration +2s
+407087	Impotent Duration +3s
+407088	Impotent Reduction -5%
+407089	Impotent Reduction -10%
+407090	Impotent Reduction -15%
+407091	Impotent Duration +1s & Wound: 100% chance, Damage 200 for 3s
+407092	Impotent Duration +2s & Wound: 100% chance, Damage 200 for 4s
+407093	Impotent Duration +3s & Wound: 100% chance, Damage 200 for 5s
+407094	Impotent Duration +1s & Weaken: 100% chance, Defence -10% for 3s
+407095	Impotent Duration +2s & Weaken: 100% chance, Defence -10% for 4s
+407096	Impotent Duration +3s & Weaken: 100% chance, Defence -10% for 5s
+407097	Protection Duration +0.5s
+407098	Protection Duration +1.5s
+407099	Protection Duration +2.5s
+407100	Dark Stun Duration +0.1s
+407101	Dark Stun Duration +0.3s
+407102	Dark Stun Duration +0.5s
+407103	Skill Damage +10% & Dark Stun Duration +0.3s
+407104	Skill Damage +12% & Dark Stun Duration +0.6s
+407105	Skill Damage +15% & Dark Stun Duration +1s
+407106	Skill Damage +10% & Additional Damage +10%
+407107	Skill Damage +12% & Additional Damage +12%
+407108	Skill Damage +15% & Additional Damage +15%
+407109	Rush Duration +1s
+407110	Rush Duration +2s
+407111	Rush Duration +3s
+407112	Rush Increase +5%
+407113	Rush Increase +10%
+407114	Rush Increase +15%
+407115	Rush Duration +0.5s
+407116	Rush Duration +1.5s
+407117	Rush Duration +2.5s
+407118	Rush Duration +1s & Rush Increase +15%
+407119	Rush Duration +2s & Rush Increase +15%
+407120	Rush Duration +3s & Rush Increase +15%
+407121	Rush Duration +1s & Rush Increase +10%
+407122	Rush Duration +2s & Rush Increase +10%
+407123	Rush Duration +3s & Rush Increase +10%
+407124	Dark Stun Additional Damage +3%
+407125	Dark Stun Additional Damage +6%
+407126	Dark Stun Additional Damage +10%
+407127	Skill Damage +10% & Dark Stun Additional Damage +10%
+407128	Skill Damage +12% & Dark Stun Additional Damage +12%
+407129	Skill Damage +15% & Dark Stun Additional Damage +15%
+407130	Blind Duration +1s & Wound: 100% chance, Damage 200 for 3s
+407131	Blind Duration +2s & Wound: 100% chance, Damage 200 for 4s
+407132	Blind Duration +3s & Wound: 100% chance, Damage 200 for 5s
+407133	Blind Duration +1s & Weaken: 100% chance, Defence -10% for 3s
+407134	Blind Duration +2s & Weaken: 100% chance, Defence -10% for 4s
+407135	Blind Duration +3s & Weaken: 100% chance, Defence -10% for 5s
+407136	Defence Duration +1s & Defence Increase +10%
+407137	Defence Duration +2s & Defence Increase +10%
+407138	Defence Duration +3s & Defence Increase +10%
+407139	Defence Duration +1s & Defence Increase +6%
+407140	Defence Duration +2s & Defence Increase +6%
+407141	Defence Duration +3s & Defence Increase +6%
+407142	Sight Increase +5%
+407143	Sight Increase +10%
+407144	Sight Increase +15%
+407145	Sight Duration +10s & Sight Increase +15%
+407146	Sight Duration +20s & Sight Increase +15%
+407147	Sight Duration +30s & Sight Increase +15%
+407148	Sight Duration +10s & Sight Increase +10%
+407149	Sight Duration +20s & Sight Increase +10%
+407150	Sight Duration +30s & Sight Increase +10%
+407151	Sight Duration +25s
+407152	Life Spirit Max HP +15%
+407153	Life Spirit Max HP +30%
+407154	Life Spirit Max HP +50%
+407155	Life Spirit Base Defence +15%
+407156	Life Spirit Base Defence +30%
+407157	Life Spirit Base Defence +50%
+407158	Life Spirit Base Attack +15%
+407159	Life Spirit Base Attack +30%
+407160	Life Spirit Base Attack +50%
+407161	Life Spirit Max HP +15% & Base Defence +15%
+407162	Life Spirit Max HP +30% & Base Defence +30%
+407163	Life Spirit Max HP +50% & Base Defence +50%
+407164	Life Spirit Base Attack +15% & Max HP +15%
+407165	Life Spirit Base Attack +30% & Max HP +30%
+407166	Life Spirit Base Attack +50% & Max HP +50%
+407167	Life Spirit Base Attack +15% & Base Defence +15%
+407168	Life Spirit Base Attack +30% & Base Defence +30%
+407169	Life Spirit Base Attack +50% & Base Defence +50%
+407170	Magic Shield Duration +0.5s
+407171	Magic Shield Duration +1.5s
+407172	Magic Shield Duration +2.5s
+407173	Magic Shield Duration +1s & Magic Shield Absorb Amount +15%
+407174	Magic Shield Duration +2s & Magic Shield Absorb Amount +15%
+407175	Magic Shield Duration +3s & Magic Shield Absorb Amount +15%
+407176	Magic Shield Duration +1s & Magic Shield Absorb Amount +10%
+407177	Magic Shield Duration +2s & Magic Shield Absorb Amount +10%
+407178	Magic Shield Duration +3s & Magic Shield Absorb Amount +10%
+407179	Frozen Duration +0.1s
+407180	Frozen Duration +0.3s
+407181	Frozen Duration +0.5s
+407182	Skill Damage +10% & Frozen Duration +0.3s
+407183	Skill Damage +12% & Frozen Duration +0.6s
+407184	Skill Damage +15% & Frozen Duration +1s
+407185	HP Recovery +25%
+407186	HP Recovery +30%
+407187	HP Recovery +40%
+407188	HP Recovery +20% & Magic Shield: Damage 5% Absorb for 3s (removed after 10 hits)
+407189	HP Recovery +40% & Magic Shield: Damage 5% Absorb for 4s (removed after 10 hits)
+407190	HP Recovery +60% & Magic Shield: Damage 5% Absorb for 5s (removed after 10 hits)
+407191	HP Recovery +20% & Magic Shield: Damage 10% Absorb for 3s (removed after 10 hits)
+407192	HP Recovery +40% & Magic Shield: Damage 10% Absorb for 4s (removed after 10 hits)
+407193	HP Recovery +60% & Magic Shield: Damage 10% Absorb for 5s (removed after 10 hits)
+407194	Skill Damage Duration +10s
+407195	Skill Damage Duration +20s
+407196	Skill Damage Duration +30s
+407197	Skill Damage Duration +10s & Skill Damage Increase +15%
+407198	Skill Damage Duration +20s & Skill Damage Increase +15%
+407199	Skill Damage Duration +30s & Skill Damage Increase +15%
+407200	Skill Damage Duration +10s & Skill Damage Increase +10%
+407201	Skill Damage Duration +20s & Skill Damage Increase +10%
+407202	Skill Damage Duration +30s & Skill Damage Increase +10%
+407203	Holding Duration +0.3s & Weaken: 100% chance, Defence -10% for 3s
+407204	Holding Duration +0.6s & Weaken: 100% chance, Defence -10% for 4s
+407205	Holding Duration +1s & Weaken: 100% chance, Defence -10% for 5s
+407206	Holding Duration +0.3s & Enfeeble: 100% chance, Attack Power -10% for 3s
+407207	Holding Duration +0.6s & Enfeeble: 100% chance, Attack Power -10% for 4s
+407208	Holding Duration +1s & Enfeeble: 100% chance, Attack Power -10% for 5s
+407209	Sprint Duration +0.5s
+407210	Sprint Duration +1.5s
+407211	Sprint Duration +2.5s
+407212	Sprint Duration +1s & Sprint Increase +15%
+407213	Sprint Duration +2s & Sprint Increase +15%
+407214	Sprint Duration +3s & Sprint Increase +15%
+407215	Sprint Duration +1s & Sprint Increase +10%
+407216	Sprint Duration +2s & Sprint Increase +10%
+407217	Sprint Duration +3s & Sprint Increase +10%
+407218	Water Attack Increase +3%
+407219	Water Attack Increase +6%
+407220	Water Attack Increase +10%
+407221	Earth Attack Increase +3%
+407222	Earth Attack Increase +6%
+407223	Earth Attack Increase +10%
+407224	Water Attack Increase Duration +5s & Water Attack Increase +10%
+407225	Water Attack Increase Duration +10s & Water Attack Increase +10%
+407226	Water Attack Increase Duration +15s & Water Attack Increase +10%
+407227	Water Attack Increase Duration +5s & Water Attack Increase +6%
+407228	Water Attack Increase Duration +10s & Water Attack Increase +6%
+407229	Water Attack Increase Duration +15s & Water Attack Increase +6%
+407230	Detect Hidden Duration +0.5s
+407231	Detect Hidden Duration +1s
+407232	Detect Hidden Duration +1.5s
+407233	Detect Hidden Duration +2s
+407234	Detect Hidden Duration +2.5s
+407235	Detect Hidden Duration +3s
+407236	Water Attack Increase Duration +5s
+407237	Water Attack Increase Duration +10s
+407238	Water Attack Increase Duration +15s
+407239	Earth Attack Increase Duration +5s
+407240	Earth Attack Increase Duration +10s
+407241	Earth Attack Increase Duration +15s
+407242	Fire Attack Increase +3%
+407243	Fire Attack Increase +6%
+407244	Fire Attack Increase +10%
+407245	Wind Attack Increase +3%
+407246	Wind Attack Increase +6%
+407247	Wind Attack Increase +10%
+407248	Fire Attack Increase Duration +5s & Fire Attack Increase +10%
+407249	Fire Attack Increase Duration +10s & Fire Attack Increase +10%
+407250	Fire Attack Increase Duration +15s & Fire Attack Increase +10%
+407251	Fire Attack Increase Duration +5s & Fire Attack Increase +6%
+407252	Fire Attack Increase Duration +10s & Fire Attack Increase +6%
+407253	Fire Attack Increase Duration +15s & Fire Attack Increase +6%
+407254	Fire Attack Increase Duration +5s
+407255	Fire Attack Increase Duration +10s
+407256	Fire Attack Increase Duration +15s
+407257	Wind Attack Increase Duration +5s
+407258	Wind Attack Increase Duration +10s
+407259	Wind Attack Increase Duration +15s
+407260	Frustration Reduction -3%
+407261	Frustration Reduction -6%
+407262	Frustration Reduction -9%
+407263	Down Duration +0.3s & Wound: 100% chance, Damage 200 for 3s
+407264	Down Duration +0.6s & Wound: 100% chance, Damage 200 for 4s
+407265	Down Duration +1s & Wound: 100% chance, Damage 200 for 5s
+407266	Down Duration +0.3s & Enfeeble: 100% chance, Attack Power -10% for 3s
+407267	Down Duration +0.6s & Enfeeble: 100% chance, Attack Power -10% for 4s
+407268	Down Duration +1s & Enfeeble: 100% chance, Attack Power -10% for 5s
+407269	Base Attack Increase +3%
+407270	Base Attack Increase +6%
+407271	Base Attack Increase +10%
+407272	Shock Damage +3%
+407273	Shock Damage +6%
+407274	Shock Damage +10%
+407275	Shackle Duration +1s & Wound: 100% chance, Damage 200 for 3s
+407276	Shackle Duration +2s & Wound: 100% chance, Damage 200 for 4s
+407277	Shackle Duration +3s & Wound: 100% chance, Damage 200 for 5s
+407278	Shackle Duration +1s & Weaken: 100% chance, Defence -10% for 3s
+407279	Shackle Duration +2s & Weaken: 100% chance, Defence -10% for 4s
+407280	Shackle Duration +3s & Weaken: 100% chance, Defence -10% for 5s
+407281	Skull Jake Max HP +15%
+407282	Skull Jake Max HP +30%
+407283	Skull Jake Max HP +50%
+407284	Skull Jake Base Defence +15%
+407285	Skull Jake Base Defence +30%
+407286	Skull Jake Base Defence +50%
+407287	Skull Jake Base Attack +15%
+407288	Skull Jake Base Attack +30%
+407289	Skull Jake Base Attack +50%
+407290	Skull Jake Max HP +15% & Base Defence +15%
+407291	Skull Jake Max HP +30% & Base Defence +30%
+407292	Skull Jake Max HP +50% & Base Defence +50%
+407293	Skull Jake Base Attack +15% & Max HP +15%
+407294	Skull Jake Base Attack +30% & Max HP +30%
+407295	Skull Jake Base Attack +50% & Max HP +50%
+407296	Skull Jake Base Attack +15% & Base Defence +15%
+407297	Skull Jake Base Attack +30% & Base Defence +30%
+407298	Skull Jake Base Attack +50% & Base Defence +50%
+407299	Titania Max HP +15%
+407300	Titania Max HP +30%
+407301	Titania Max HP +50%
+407302	Titania Base Defence +15%
+407303	Titania Base Defence +30%
+407304	Titania Base Defence +50%
+407305	Titania Base Attack +15%
+407306	Titania Base Attack +30%
+407307	Titania Base Attack +50%
+407308	Titania Max HP +15% & Base Defence +15%
+407309	Titania Max HP +30% & Base Defence +30%
+407310	Titania Max HP +50% & Base Defence +50%
+407311	Titania Base Attack +15% & Max HP +15%
+407312	Titania Base Attack +30% & Max HP +30%
+407313	Titania Base Attack +50% & Max HP +50%
+407314	Titania Base Attack +15% & Base Defence +15%
+407315	Titania Base Attack +30% & Base Defence +30%
+407316	Titania Base Attack +50% & Base Defence +50%
+407317	Cielis Max HP +15%
+407318	Cielis Max HP +30%
+407319	Cielis Max HP +50%
+407320	Cielis Base Defence +15%
+407321	Cielis Base Defence +30%
+407322	Cielis Base Defence +50%
+407323	Cielis Base Attack +15%
+407324	Cielis Base Attack +30%
+407325	Cielis Base Attack +50%
+407326	Cielis Max HP +15% & Base Defence +15%
+407327	Cielis Max HP +30% & Base Defence +30%
+407328	Cielis Max HP +50% & Base Defence +50%
+407329	Cielis Base Attack +15% & Max HP +15%
+407330	Cielis Base Attack +30% & Max HP +30%
+407331	Cielis Base Attack +50% & Max HP +50%
+407332	Cielis Base Attack +15% & Base Defence +15%
+407333	Cielis Base Attack +30% & Base Defence +30%
+407334	Cielis Base Attack +50% & Base Defence +50%
+407335	Magnetic Gravito Max HP +15%
+407336	Magnetic Gravito Max HP +30%
+407337	Magnetic Gravito Max HP +50%
+407338	Magnetic Gravito Base Defence +15%
+407339	Magnetic Gravito Base Defence +30%
+407340	Magnetic Gravito Base Defence +50%
+407341	Magnetic Gravito Base Attack +15%
+407342	Magnetic Gravito Base Attack +30%
+407343	Magnetic Gravito Base Attack +50%
+407344	Magnetic Gravito Max HP +15% & Base Defence +15%
+407345	Magnetic Gravito Max HP +30% & Base Defence +30%
+407346	Magnetic Gravito Max HP +50% & Base Defence +50%
+407347	Magnetic Gravito Base Attack +15% & Max HP +15%
+407348	Magnetic Gravito Base Attack +30% & Max HP +30%
+407349	Magnetic Gravito Base Attack +50% & Max HP +50%
+407350	Magnetic Gravito Base Attack +15% & Base Defence +15%
+407351	Magnetic Gravito Base Attack +30% & Base Defence +30%
+407352	Magnetic Gravito Base Attack +50% & Base Defence +50%
+407353	Heavy Strike Additional Damage +3%
+407354	Heavy Strike Additional Damage +6%
+407355	Heavy Strike Additional Damage +10%
+407356	Attack Power Duration +1s
+407357	Attack Power Duration +2s
+407358	Attack Power Duration +3s
+407359	Attack Power Duration +1s & Attack Power Increase +10%
+407360	Attack Power Duration +2s & Attack Power Increase +10%
+407361	Attack Power Duration +3s & Attack Power Increase +10%
+407362	Attack Power Duration +1s & Attack Power Increase +6%
+407363	Attack Power Duration +2s & Attack Power Increase +6%
+407364	Attack Power Duration +3s & Attack Power Increase +6%
+407365	Stigma Additional Damage +3%
+407366	Stigma Additional Damage +6%
+407367	Stigma Additional Damage +10%
+407368	Cursed Sanctuary Max HP +15%
+407369	Cursed Sanctuary Max HP +30%
+407370	Cursed Sanctuary Max HP +50%
+407371	Cursed Sanctuary Base Defence +15%
+407372	Cursed Sanctuary Base Defence +30%
+407373	Cursed Sanctuary Base Defence +50%
+407374	Cursed Sanctuary Base Attack +15%
+407375	Cursed Sanctuary Base Attack +30%
+407376	Cursed Sanctuary Base Attack +50%
+407377	Cursed Sanctuary Max HP +15% & Base Defence +15%
+407378	Cursed Sanctuary Max HP +30% & Base Defence +30%
+407379	Cursed Sanctuary Max HP +50% & Base Defence +50%
+407380	Cursed Sanctuary Base Attack +15% & Max HP +15%
+407381	Cursed Sanctuary Base Attack +30% & Max HP +30%
+407382	Cursed Sanctuary Base Attack +50% & Max HP +50%
+407383	Cursed Sanctuary Base Attack +15% & Base Defence +15%
+407384	Cursed Sanctuary Base Attack +30% & Base Defence +30%
+407385	Cursed Sanctuary Base Attack +50% & Base Defence +50%
+407386	Warding Sanctuary Max HP +15%
+407387	Warding Sanctuary Max HP +30%
+407388	Warding Sanctuary Max HP +50%
+407389	Warding Sanctuary Base Defence +15%
+407390	Warding Sanctuary Base Defence +30%
+407391	Warding Sanctuary Base Defence +50%
+407392	Warding Sanctuary Base Attack +15%
+407393	Warding Sanctuary Base Attack +30%
+407394	Warding Sanctuary Base Attack +50%
+407395	Warding Sanctuary Max HP +15% & Base Defence +15%
+407396	Warding Sanctuary Max HP +30% & Base Defence +30%
+407397	Warding Sanctuary Max HP +50% & Base Defence +50%
+407398	Warding Sanctuary Base Attack +15% & Max HP +15%
+407399	Warding Sanctuary Base Attack +30% & Max HP +30%
+407400	Warding Sanctuary Base Attack +50% & Max HP +50%
+407401	Warding Sanctuary Base Attack +15% & Base Defence +15%
+407402	Warding Sanctuary Base Attack +30% & Base Defence +30%
+407403	Warding Sanctuary Base Attack +50% & Base Defence +50%
+407404	Concentration Duration +10s
+407405	Concentration Duration +20s
+407406	Concentration Duration +30s
+407407	Concentration Duration +5s
+407408	Concentration Duration +15s
+407409	Concentration Duration +25s
+407410	Fear Duration +1s & Wound: 100% chance, Damage 200 for 3s
+407411	Fear Duration +2s & Wound: 100% chance, Damage 200 for 4s
+407412	Fear Duration +3s & Wound: 100% chance, Damage 200 for 5s
+407413	Fear Duration +1s & Weaken: 100% chance, Defence -10% for 3s
+407414	Fear Duration +2s & Weaken: 100% chance, Defence -10% for 4s
+407415	Fear Duration +3s & Weaken: 100% chance, Defence -10% for 5s
+407416	Weaken Duration +1s & Enfeeble: 100% chance, Attack Power -10% for 3s
+407417	Weaken Duration +2s & Enfeeble: 100% chance, Attack Power -10% for 4s
+407418	Weaken Duration +3s & Enfeeble: 100% chance, Attack Power -10% for 5s
 end
 405110	The Spear of Dawn
 405111	Complete your class change-up. The Order of the Dawn will take you, and you may create a Paladin.
