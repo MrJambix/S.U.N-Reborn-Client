@@ -35683,6 +35683,10 @@ start
 406800	Legendary Weapons
 59557	Fast Cast on Target
 59558	Ground skills land on your selected target
+59559	Block Gear Inspection
+59560	Other players can't open your equipment window. GMs still can.
+59561	This player keeps their equipment private.
+59562	This player's equipment is private. You can see it because you are a GM.
 405090	Vault Expansion
 405091	Unlocks the next tab of your Cash Vault - tabs 6 to 10, one tab per use - for your whole ACCOUNT.\nIf the vault is open, the new tab appears straight away.
 59356	Tab %d of your Cash Vault is locked. Each Vault Expansion from the Item Shop unlocks the next tab.
@@ -36104,4 +36108,14 @@ start
 407416	Weaken Duration +1s & Enfeeble: 100% chance, Attack Power -10% for 3s
 407417	Weaken Duration +2s & Enfeeble: 100% chance, Attack Power -10% for 4s
 407418	Weaken Duration +3s & Enfeeble: 100% chance, Attack Power -10% for 5s
+407420	Penetration: ignores %d%% of the target's defense
+407421	Cleave: %d%% chance for a normal attack to hit nearby enemies
+407422	Double Strike: %d%% chance to deal double damage
+407423	Composure: enemies' critical chance against you -%d
+407424	Toughness: %d%% less damage taken
+407425	Fortitude: %d%% less critical bonus damage taken
+407426	Focus: skill cooldowns -%d%%
+407427	Efficiency: MP cost -%d%%
+407428	Tenacity: %d%% chance to resist stuns, knockdowns and other crowd control
+407429	Spirit Drain: heals you for %d%% of the damage you deal
 end
