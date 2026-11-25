@@ -36112,4 +36112,61 @@ start
 407427	Efficiency: MP cost -%d%%
 407428	Tenacity: %d%% chance to resist stuns, knockdowns and other crowd control
 407429	Spirit Drain: heals you for %d%% of the damage you deal
+407430	The Wandering Atelier
+407431	A Tailor Without Thread
+407432	Dust on the Battlefield
+407433	The Ones Who Lead
+407434	A Last Stand
+407435	The First Commission
+407436	A Festival Without Lanterns
+407437	Lantern-Eaters
+407438	The Swarm's Captains
+407439	Clear the Road
+407440	Festival Thread
+407441	Down to the Water
+407442	Salt and Scales
+407443	Tidewardens
+407444	A Clear Beach
+407445	Sea-Thread
+407446	The Festival, Finally
+407447	Uninvited Guests
+407448	Bouncers
+407449	Last Lantern Lit
+407450	A Night Worth Remembering
+407451	A Postponed Vow
+407452	Thread from the Pilgrim Road
+407453	Guardians of the Grove
+407454	Something Old, Something New
+407455	The Vow Kept
+407456	A Dye Called Ruin
+407457	What the Dark Leaves Behind
+407458	Hearts of the Elite
+407459	The Colour Holds
+407460	Ysolde's Doubt
+407461	The Knight Who Stayed
+407462	Where the Order Fell
+407463	Champions of the Frost
+407464	Ash and Light
+407465	The Costume She Was Sewing
+407466	Arena Commission (1/5)
+407467	Arena Commission (2/5)
+407468	Arena Commission (3/5)
+407469	Arena Commission (4/5)
+407470	Arena Commission (5/5)
+59360	%s (x%d) was sent to your Event Items storage.
+59361	%s (x%d) was moved to your Event Items storage.
+59362	Only event items can be stored in Event Items storage.
+59363	This item has been upgraded, enchanted or has a time limit, so it can't be stored in Event Items storage.
+59364	This item can't be moved right now. Make sure it isn't locked or in use, then try again.
+59365	Event Items storage is busy. Please try again in a moment.
+407500	Recklessness: your physical defense -%d%%
+407501	Wild Swings: your accuracy -%d%%
+407502	Light Frame: your max HP -%d%%
+407503	Restraint: your critical bonus damage -%d%%
+407504	Bulk: your attack speed -%d%%
+407505	Stiffness: your critical chance -%d%%
+407506	Burnout: your MP recovery -%d%%
+407507	Shallow Reserves: your max MP -%d%%
+407508	Rooted: your evasion -%d%%
+407509	Hunger: your natural HP recovery -%d%%
 end

@@ -11522,3 +11522,147 @@ StrCode	Str
 51593	<ITEMNAME=42746/>を<NPCNAME=61309/>に渡してください。
 51594	<NPCNAME=61309/>と会話してください。
 51595	<NPCNAME=61309/>と会話してください。
+42504	<COLOR=FFE36C0A>[Quest Start - Ysolde Vane]<RETURN=1/></COLOR>You there. You have the look of someone who has stood their ground.<RETURN=1/>I am Ysolde Vane. I sew with echo-thread: the Ether that soaks into clothes worn at the moments that matter. A first battle. A festival night. A vow.<RETURN=1/>Monsters that feed on Ether carry it like dust, and I have run out. My apprentice, Pip, is here in the market. He will tell you where to start.
+42505	Speak with Pip Thimble in the Etherain market.
+42506	<COLOR=FFE36C0A>[Quest End - Pip Thimble]<RETURN=1/></COLOR>Madame Vane sent you? Brilliant. She has been sewing thin air for a week.
+42507	Find Ysolde's apprentice, Pip Thimble, in the Etherain market.
+42508	<COLOR=FFE36C0A>[Quest Start - Pip Thimble]<RETURN=1/></COLOR>Echo-thread clings to anything that has fought. You beat it out of them, and it comes off like dust.<RETURN=1/>Forty of them should fill a spool. Anything level 98 or higher will do.
+42509	Defeat 40 monsters of level 98 or higher.
+42510	<COLOR=FFE36C0A>[Quest End - Pip Thimble]<RETURN=1/></COLOR>Look at that shine. That is a soldier's thread, that is.
+42511	Gather echo-thread for Pip from monsters of level 98 or higher.
+42512	<COLOR=FFE36C0A>[Quest Start - Pip Thimble]<RETURN=1/></COLOR>Pack leaders hold more of it. They have seen more fights than the rest.<RETURN=1/>Twelve leaders, level 100 or higher.
+42513	Defeat 12 leader monsters of level 100 or higher.
+42514	<COLOR=FFE36C0A>[Quest End - Pip Thimble]<RETURN=1/></COLOR>Heavy, isn't it? Leader thread always is.
+42515	Bring Pip thread from leader monsters.
+42516	<COLOR=FFE36C0A>[Quest Start - Pip Thimble]<RETURN=1/></COLOR>For a uniform the thread has to remember standing firm while everything else ran.<RETURN=1/>Sixty more. Do not stop at fifty-nine, Madame can tell.
+42517	Defeat 60 monsters of level 104 or higher.
+42518	<COLOR=FFE36C0A>[Quest End - Pip Thimble]<RETURN=1/></COLOR>That is the one. Steady as a wall. Take it to her.
+42519	Gather the last of the uniform thread for Pip.
+42520	<COLOR=FFE36C0A>[Quest Start - Pip Thimble]<RETURN=1/></COLOR>All the spools are full. Take them to Madame Vane before they lose their shine.
+42521	Bring the spools to Ysolde Vane in the Etherain market.
+42522	<COLOR=FFE36C0A>[Quest End - Ysolde Vane]<RETURN=1/></COLOR>A uniform for someone who never ran. It is yours.<RETURN=1/>Wear it well, and come back to me. I have more to make, and less thread than ever.
+42523	Bring Pip's spools to Ysolde Vane.
+42524	<COLOR=FFE36C0A>[Quest Start - Ysolde Vane]<RETURN=1/></COLOR>Coralie Brisk has organised the summer festival for three years, and cancelled it for three years. Something keeps eating the lanterns.<RETURN=1/>Go and hear her out. Festival thread is the brightest kind there is, and I cannot make it without a festival.
+42525	Speak with Coralie Brisk in the Etherain market.
+42526	<COLOR=FFE36C0A>[Quest End - Coralie Brisk]<RETURN=1/></COLOR>Ysolde's friend? Then you are mine too. Sit. Do you know how hard it is to buy lanterns twice?
+42527	Find Coralie Brisk in the Etherain market.
+42528	<COLOR=FFE36C0A>[Quest Start - Coralie Brisk]<RETURN=1/></COLOR>They come out at dusk and eat anything that glows. Forty-five should make them think twice.
+42529	Defeat 45 monsters of level 108 or higher.
+42530	<COLOR=FFE36C0A>[Quest End - Coralie Brisk]<RETURN=1/></COLOR>Not one lantern lost tonight. I could cry.
+42531	Drive off the creatures eating Coralie's lanterns.
+42532	<COLOR=FFE36C0A>[Quest Start - Coralie Brisk]<RETURN=1/></COLOR>There are bigger ones behind them, pushing the rest forward. Twelve of those, please.
+42533	Defeat 12 leader monsters of level 110 or higher.
+42534	<COLOR=FFE36C0A>[Quest End - Coralie Brisk]<RETURN=1/></COLOR>The swarm is lost without them. Good.
+42535	Defeat the leaders driving the swarm.
+42536	<COLOR=FFE36C0A>[Quest Start - Coralie Brisk]<RETURN=1/></COLOR>Guests cannot come if the road eats them. Sixty more, and I will have a festival.
+42537	Defeat 60 monsters of level 114 or higher.
+42538	<COLOR=FFE36C0A>[Quest End - Coralie Brisk]<RETURN=1/></COLOR>The road is open. The lanterns go up tonight.
+42539	Clear the festival road for Coralie.
+42540	<COLOR=FFE36C0A>[Quest Start - Coralie Brisk]<RETURN=1/></COLOR>Ysolde was right about you. Take her this, the thread from the first night of the festival.
+42541	Bring the festival thread to Ysolde Vane in the Etherain market.
+42542	<COLOR=FFE36C0A>[Quest End - Ysolde Vane]<RETURN=1/></COLOR>Listen to it. You can hear the music in it.<RETURN=1/>Here. Something to wear when the lanterns go up next year.
+42543	Bring Coralie's festival thread to Ysolde Vane.
+42544	<COLOR=FFE36C0A>[Quest Start - Ysolde Vane]<RETURN=1/></COLOR>Coralie wants the festival on the shore this year. The shore wants nothing to do with her.<RETURN=1/>Sea-thread is cold and stubborn, and it only remembers good days. Help her make one.
+42545	Speak with Coralie Brisk in the Etherain market.
+42546	<COLOR=FFE36C0A>[Quest End - Coralie Brisk]<RETURN=1/></COLOR>A beach festival. Tell me it is not madness. No, do not.
+42547	Speak with Coralie about the shore festival.
+42548	<COLOR=FFE36C0A>[Quest Start - Coralie Brisk]<RETURN=1/></COLOR>Everything near the water has teeth. Fifty of them, level 118 or higher.
+42549	Defeat 50 monsters of level 118 or higher.
+42550	<COLOR=FFE36C0A>[Quest End - Coralie Brisk]<RETURN=1/></COLOR>You smell of salt. That is a compliment, today.
+42551	Clear the creatures from the shore.
+42552	<COLOR=FFE36C0A>[Quest Start - Coralie Brisk]<RETURN=1/></COLOR>The big ones guard the coves. Fourteen of them, and the beach is ours.
+42553	Defeat 14 leader monsters of level 120 or higher.
+42554	<COLOR=FFE36C0A>[Quest End - Coralie Brisk]<RETURN=1/></COLOR>The coves are quiet. I can hear the waves again.
+42555	Defeat the leaders guarding the coves.
+42556	<COLOR=FFE36C0A>[Quest Start - Coralie Brisk]<RETURN=1/></COLOR>One more sweep before the guests arrive. Sixty, and I will stop asking. Today.
+42557	Defeat 60 monsters of level 124 or higher.
+42558	<COLOR=FFE36C0A>[Quest End - Coralie Brisk]<RETURN=1/></COLOR>Sand, sun, nobody bitten. A festival.
+42559	Make the beach safe for Coralie's guests.
+42560	<COLOR=FFE36C0A>[Quest Start - Coralie Brisk]<RETURN=1/></COLOR>Take Ysolde the thread from the shore. It still feels warm.
+42561	Bring the sea-thread to Ysolde Vane in the Etherain market.
+42562	<COLOR=FFE36C0A>[Quest End - Ysolde Vane]<RETURN=1/></COLOR>Sea-thread, and a happy one. Those are rare.<RETURN=1/>This is for the next warm day. Do not let it be the last.
+42563	Bring Coralie's sea-thread to Ysolde Vane.
+42564	<COLOR=FFE36C0A>[Quest Start - Ysolde Vane]<RETURN=1/></COLOR>Coralie has a date, a beach, a road and lanterns. What she does not have is anyone to keep the uninvited away.<RETURN=1/>Go. Thread from a night everyone remembers is worth more than gold.
+42565	Speak with Coralie Brisk in the Etherain market.
+42566	<COLOR=FFE36C0A>[Quest End - Coralie Brisk]<RETURN=1/></COLOR>You came! Then it is really happening.
+42567	Help Coralie hold the festival at last.
+42568	<COLOR=FFE36C0A>[Quest Start - Coralie Brisk]<RETURN=1/></COLOR>Half the wilds heard the music. Fifty uninvited guests, level 128 or higher.
+42569	Defeat 50 monsters of level 128 or higher.
+42570	<COLOR=FFE36C0A>[Quest End - Coralie Brisk]<RETURN=1/></COLOR>Nobody even noticed. That is how it should be.
+42571	Keep the uninvited away from the festival.
+42572	<COLOR=FFE36C0A>[Quest Start - Coralie Brisk]<RETURN=1/></COLOR>Some of them are big enough to knock the stage over. Fourteen leaders.
+42573	Defeat 14 leader monsters of level 130 or higher.
+42574	<COLOR=FFE36C0A>[Quest End - Coralie Brisk]<RETURN=1/></COLOR>The stage stands. The band has no idea how close it was.
+42575	Stop the leaders before they reach the stage.
+42576	<COLOR=FFE36C0A>[Quest Start - Coralie Brisk]<RETURN=1/></COLOR>We light the last lantern at midnight. Keep the dark away until then. Seventy.
+42577	Defeat 70 monsters of level 134 or higher.
+42578	<COLOR=FFE36C0A>[Quest End - Coralie Brisk]<RETURN=1/></COLOR>Midnight. Every lantern burning. Look at them.
+42579	Guard the festival until the last lantern is lit.
+42580	<COLOR=FFE36C0A>[Quest Start - Coralie Brisk]<RETURN=1/></COLOR>Take Ysolde the thread from tonight. Tell her the festival happened. She will not believe you.
+42581	Bring the festival thread to Ysolde Vane in the Etherain market.
+42582	<COLOR=FFE36C0A>[Quest End - Ysolde Vane]<RETURN=1/></COLOR>She did it. Three years.<RETURN=1/>This thread will never fade, not after a night like that. It is yours.
+42583	Bring the thread from the festival night to Ysolde Vane.
+42584	<COLOR=FFE36C0A>[Quest Start - Ysolde Vane]<RETURN=1/></COLOR>Pip has gone ahead to the Eternal Land. A pilgrim couple there put their wedding off when the war came. Eleven years ago.<RETURN=1/>She still has the dress. It has nothing left in it to remember. Help Pip help them.
+42585	Find Pip Thimble in the Eternal Land.
+42586	<COLOR=FFE36C0A>[Quest End - Pip Thimble]<RETURN=1/></COLOR>You made it! They are lovely. They are also terrible at weddings.
+42587	Join Pip in the Eternal Land.
+42588	<COLOR=FFE36C0A>[Quest Start - Pip Thimble]<RETURN=1/></COLOR>Every pilgrim who walked this road left a little thread behind. The beasts took it. Fifty of them, level 138 or higher.
+42589	Defeat 50 monsters of level 138 or higher.
+42590	<COLOR=FFE36C0A>[Quest End - Pip Thimble]<RETURN=1/></COLOR>Pilgrim thread. Patient stuff. It waited eleven years too.
+42591	Recover pilgrim thread from the beasts of the Eternal Land.
+42592	<COLOR=FFE36C0A>[Quest Start - Pip Thimble]<RETURN=1/></COLOR>They want the ceremony in the grove. The grove has guardians. Fifteen of them.
+42593	Defeat 15 leader monsters of level 140 or higher.
+42594	<COLOR=FFE36C0A>[Quest End - Pip Thimble]<RETURN=1/></COLOR>The grove is ready. So is the bride, she says. The groom is pacing.
+42595	Clear the grove for the ceremony.
+42596	<COLOR=FFE36C0A>[Quest Start - Pip Thimble]<RETURN=1/></COLOR>One more thing for the dress: thread from today, so it remembers this day and not the war. Seventy.
+42597	Defeat 70 monsters of level 144 or higher.
+42598	<COLOR=FFE36C0A>[Quest End - Pip Thimble]<RETURN=1/></COLOR>That is it. Old thread and new. Take it to Madame.
+42599	Gather new thread for the wedding dress.
+42600	<COLOR=FFE36C0A>[Quest Start - Pip Thimble]<RETURN=1/></COLOR>They are married. Eleven years late and nobody minded. Take Madame the thread.
+42601	Bring the wedding thread to Ysolde Vane in Etherain.
+42602	<COLOR=FFE36C0A>[Quest End - Ysolde Vane]<RETURN=1/></COLOR>A vow kept is the strongest thread I know.<RETURN=1/>I made two. One for the bride's sister, who could not afford one. And one for you.
+42603	Bring the wedding thread to Ysolde Vane.
+42604	<COLOR=FFE36C0A>[Quest Start - Ysolde Vane]<RETURN=1/></COLOR>There is a dyer called Vesk out past the research camps. People say his colours never fade, because he takes them from things that should not exist.<RETURN=1/>I need a black that holds. Go to him. Carefully.
+42605	Find Vesk the Dyer beyond the research camps.
+42606	<COLOR=FFE36C0A>[Quest End - Vesk the Dyer]<RETURN=1/></COLOR>Ysolde's errand runner. She wants my black. Everyone does, sooner or later.
+42607	Find Vesk the Dyer for Ysolde.
+42608	<COLOR=FFE36C0A>[Quest Start - Vesk the Dyer]<RETURN=1/></COLOR>Black is not a colour. It is what is left when something burns. Burn sixty of them for me, level 148 or higher.
+42609	Defeat 60 monsters of level 148 or higher.
+42610	<COLOR=FFE36C0A>[Quest End - Vesk the Dyer]<RETURN=1/></COLOR>Ash. Good ash. You do not flinch. I like that.
+42611	Bring Vesk the ash of the dark creatures.
+42612	<COLOR=FFE36C0A>[Quest Start - Vesk the Dyer]<RETURN=1/></COLOR>Ash fades. Hearts do not. The elite ones have hearts worth taking. Six.
+42613	Defeat 6 elite monsters of level 150 or higher.
+42614	<COLOR=FFE36C0A>[Quest End - Vesk the Dyer]<RETURN=1/></COLOR>Feel how it pulls at the light? That is the colour.
+42615	Bring Vesk the hearts of elite monsters.
+42616	<COLOR=FFE36C0A>[Quest Start - Vesk the Dyer]<RETURN=1/></COLOR>Now it needs to hold. Twenty leaders, and it will never come out again. Not ever.
+42617	Defeat 20 leader monsters of level 156 or higher.
+42618	<COLOR=FFE36C0A>[Quest End - Vesk the Dyer]<RETURN=1/></COLOR>Done. Tell Ysolde it is the darkest thing I ever made. She will know what I mean.
+42619	Fix Vesk's dye with the strength of twenty leaders.
+42620	<COLOR=FFE36C0A>[Quest Start - Vesk the Dyer]<RETURN=1/></COLOR>Take her the dye. Tell her I said she should not have asked.
+42621	Bring Vesk's dye to Ysolde Vane in Etherain.
+42622	<COLOR=FFE36C0A>[Quest End - Ysolde Vane]<RETURN=1/></COLOR>It is beautiful. That is what frightens me.<RETURN=1/>I sewed it anyway. It is yours. I will not make another.
+42623	Bring Vesk's dye to Ysolde Vane.
+42624	<COLOR=FFE36C0A>[Quest Start - Ysolde Vane]<RETURN=1/></COLOR>There is a knight with the expedition at the frontier. Hollis Ashgrave.<RETURN=1/>Tell him Ysolde sent you. Tell him nothing else.
+42625	Find Hollis Ashgrave with the expedition at the frontier.
+42626	<COLOR=FFE36C0A>[Quest End - Hollis Ashgrave]<RETURN=1/></COLOR>Ysolde. After all this time she sends a stranger. That is like her.
+42627	Find Hollis Ashgrave at the frontier.
+42628	<COLOR=FFE36C0A>[Quest Start - Hollis Ashgrave]<RETURN=1/></COLOR>My order fell on this frontier. What they wore is still out there, in the beasts that took it. Sixty, level 163 or higher.
+42629	Defeat 60 monsters of level 163 or higher.
+42630	<COLOR=FFE36C0A>[Quest End - Hollis Ashgrave]<RETURN=1/></COLOR>Order thread. I had forgotten what it looked like.
+42631	Recover the fallen order's thread for Hollis.
+42632	<COLOR=FFE36C0A>[Quest Start - Hollis Ashgrave]<RETURN=1/></COLOR>The strongest of them took the most. Eight elites. I would go myself, but I am not what I was.
+42633	Defeat 8 elite monsters of level 165 or higher.
+42634	<COLOR=FFE36C0A>[Quest End - Hollis Ashgrave]<RETURN=1/></COLOR>You fight like we used to. Keep it.
+42635	Defeat the elites who took the order's colours.
+42636	<COLOR=FFE36C0A>[Quest Start - Hollis Ashgrave]<RETURN=1/></COLOR>The last of it is with the leaders. Twenty. Then you will know why she sent you.
+42637	Defeat 20 leader monsters of level 170 or higher.
+42638	<COLOR=FFE36C0A>[Quest End - Hollis Ashgrave]<RETURN=1/></COLOR>That is all of it. Every thread my order left.
+42639	Recover the last of the order's thread.
+42640	<COLOR=FFE36C0A>[Quest Start - Hollis Ashgrave]<RETURN=1/></COLOR>Take it to her. Tell her I kept the colours too.
+42641	Bring the order's thread to Ysolde Vane in Etherain.
+42642	<COLOR=FFE36C0A>[Quest End - Ysolde Vane]<RETURN=1/></COLOR>He kept them. So did I, in a drawer, unfinished, for twenty years.<RETURN=1/>Every costume I made for you was practice for this one. Wear it. Someone should.
+42643	Bring the order's thread to Ysolde Vane.
+42644	<COLOR=FFE36C0A>[Quest Start - Pip Thimble]<RETURN=1/></COLOR>Madame takes arena commissions. The champions of the fifth Colosseum round carry thread you cannot get anywhere else.<RETURN=1/>Clear round five: its champion and its four vengeful captains. Bring me what they drop. Five commissions, one at a time. Each one opens again a day after you hand it in.
+42645	Defeat the champion and the four captains of Colosseum round 5.
+42646	<COLOR=FFE36C0A>[Quest End - Pip Thimble]<RETURN=1/></COLOR>Arena thread, right enough. Madame pays well for it, and so do I.
+42647	Clear Colosseum round 5 for the Atelier.

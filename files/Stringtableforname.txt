@@ -4913,8 +4913,8 @@ start
 17500	Red Monkey evolving [¥´]
 17501	Red Monkey evolving [¥µ]
 17502	Golden Monkey evolving [§Ù]
-405300	Seal Keeper
-405301	Reborn Seal Exchange
+17531	Seal Keeper
+17532	Reborn Seal Exchange
 17503	Archivist Vela
 17504	Warden Iskel
 17505	Specimen No. 4
@@ -5092,4 +5092,9 @@ start
 17510	Seal Broker
 17511	Holly
 17512	Christmas Keeper
+17526	Ysolde Vane
+17527	Pip Thimble
+17528	Coralie Brisk
+17529	Vesk the Dyer
+17530	Hollis Ashgrave
 end

@@ -34949,6 +34949,12 @@ start
 407416	Weaken Duration +1s & Enfeeble: 100% chance, Attack Power -10% for 3s
 407417	Weaken Duration +2s & Enfeeble: 100% chance, Attack Power -10% for 4s
 407418	Weaken Duration +3s & Enfeeble: 100% chance, Attack Power -10% for 5s
+59360	%s (x%d) was sent to your Event Items storage.
+59361	%s (x%d) was moved to your Event Items storage.
+59362	Only event items can be stored in Event Items storage.
+59363	This item has been upgraded, enchanted or has a time limit, so it can't be stored in Event Items storage.
+59364	This item can't be moved right now. Make sure it isn't locked or in use, then try again.
+59365	Event Items storage is busy. Please try again in a moment.
 end
 405110	The Spear of Dawn
 405111	Complete your class change-up. The Order of the Dawn will take you, and you may create a Paladin.
