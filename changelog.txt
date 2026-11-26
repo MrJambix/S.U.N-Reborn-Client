@@ -20,6 +20,10 @@
 
 FORMAT 1
 
+[2026-11-25] fix | Blindness and story scene effects now cover the whole screen again, on every screen size and interface scale
+
+[2026-11-25] fix | Zard tooltips show their stats again, as the range each stat can roll
+
 [2026-11-22] update | The Seal Keeper in Etherain now sells Shining Liberation Stones for 30 Reborn Seals each. Stones bought with Seals cannot be traded. Tradeable stones are also in the cash shop.
 
 [2026-11-21] update | Moving your interface is much easier. Turn on Unlock HUD Frames in Options > Interface and an editing bar appears with Done and Reset all buttons.
