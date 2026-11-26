@@ -11662,7 +11662,7 @@ StrCode	Str
 42641	Bring the order's thread to Ysolde Vane in Etherain.
 42642	<COLOR=FFE36C0A>[Quest End - Ysolde Vane]<RETURN=1/></COLOR>He kept them. So did I, in a drawer, unfinished, for twenty years.<RETURN=1/>Every costume I made for you was practice for this one. Wear it. Someone should.
 42643	Bring the order's thread to Ysolde Vane.
-42644	<COLOR=FFE36C0A>[Quest Start - Pip Thimble]<RETURN=1/></COLOR>Madame takes arena commissions. The champions of the fifth Colosseum round carry thread you cannot get anywhere else.<RETURN=1/>Clear round five: its champion and its four vengeful captains. Bring me what they drop. Five commissions, one at a time. Each one opens again a day after you hand it in.
-42645	Defeat the champion and the four captains of Colosseum round 5.
+42644	<COLOR=FFE36C0A>[Quest Start - Pip Thimble]<RETURN=1/></COLOR>Madame takes arena commissions. The champions of the fifth Colosseum round carry thread you cannot get anywhere else.<RETURN=1/>Clear round five: the bosses of its last four waves, and the Hellfire Emperor himself. Bring me what they drop. Five commissions, one at a time. Each one opens again a day after you hand it in.
+42645	Defeat the bosses of waves 2 to 5 and the Hellfire Emperor in Colosseum round 5.
 42646	<COLOR=FFE36C0A>[Quest End - Pip Thimble]<RETURN=1/></COLOR>Arena thread, right enough. Madame pays well for it, and so do I.
 42647	Clear Colosseum round 5 for the Atelier.
