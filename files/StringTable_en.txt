@@ -36809,4 +36809,54 @@ start
 59629	%d hours left
 59639	Equip a wing to put it here
 59647	Preview
+59700	Zard Bag
+59701	Zard Bag: one store for every Zard, shared by all your characters. Depositing needs Premium.
+59702	All
+59703	Low
+59704	Middle
+59705	High
+59706	Highest
+59707	Deposit All
+59708	Sort
+59709	Withdraw
+59710	Sort: Grade
+59711	Sort: Name
+59712	Sort: Count
+59713	%d kinds, %u Zards stored
+59714	Loading Zard Bag...
+59715	No Zards here yet.
+59716	Press Deposit All to move every Zard from your bag in here.
+59717	Premium required to deposit. You can still withdraw.
+59718	Right-click a Zard here to withdraw a stack, or one in your bag to deposit it.
+59719	Stored: %u
+59720	Take: %d
+59721	%u Zards were moved into your Zard Bag.
+59722	%s x%u was moved to your bag.
+59723	Select a Zard to withdraw.
+59724	Premium
+59725	Shared by all your characters
+59730	OK
+59731	The Zard Bag is not available right now.
+59732	Depositing into the Zard Bag requires Premium.
+59733	Please wait a moment.
+59734	You can't do that right now.
+59735	There are no Zards in your bag that can be deposited.
+59736	Only Zards can go into the Zard Bag.
+59737	Not enough room in your bag.
+59738	The Zard Bag doesn't hold that many.
+59739	The Zard Bag couldn't store them. They were returned to your bag.
+59740	Your Zard Bag can't hold any more kinds of Zard.
+59741	That can't be done.
+59742	The Zard Bag couldn't hand them out. Nothing was changed.
+59743	The Zard Bag couldn't be read. Try again in a moment.
+406050	Wing
+406051	Reroll only this row. Cost: %d liberation stone(s).
+406052	Reroll row %d only? It costs %d x %s and %s Heim. The other rows and the time left stay the same.
+406053	Rerolling a row of this skill takes %d liberation stones of that grade. You have %d.
+406054	Rerolling a row of this skill costs %s Heim.
+406055	The row has been rerolled.
+406056	This liberation has run out or is about to. Liberate the skill again instead.
+406057	That row cannot be rerolled.
+406058	Please wait a moment for the last roll to be saved.
+406059	Use a liberation stone of the same grade this skill was liberated with.
 end
