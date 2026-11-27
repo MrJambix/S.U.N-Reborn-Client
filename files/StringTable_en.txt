@@ -31060,7 +31060,7 @@ start
 3619	Request Remaining Time: %s
 3620	SUN Ranking (Shift+R)
 3610	<font=mn12><color=ffebe0c8>Who is the best of the best? Every board below adds to this one!</font></color>
-3611	<font=mn12><color=ffebe0c8>The PvP champion! Every player you defeat counts, anywhere in the world.</font></color>
+3611	<font=mn12><color=ffebe0c8>Best warrior of PVP recorded the most kills in a Takeover and Siege War!</font></color>
 3612	<font=mn12><color=ffebe0c8>A symbol of passion and patience, Who is the top level of the SUN ?</font></color>
 3613	<font=mn12><color=ffebe0c8>Legendary equipment led to numerous battles to victory</font></color>
 3614	<font=mn12><color=ffebe0c8>Fatal dealers recorded the highest amount of damage in the battle zone!</font></color>
