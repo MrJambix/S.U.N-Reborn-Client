@@ -33100,7 +33100,7 @@ start
 47996	Mysterious crystal that forms when Elite 4 Armor is crystalized.
 47997	Mysterious crystal that forms when Elite 4 Weapon is crystalized.
 30452	Elite Grade 4
-11512	Damage Reduction receive a Monster
+11512	Reduced PvE Damage
 11513	Damage Reduction receive a Berserker
 11514	Damage Reduction receive a Dragon Knight
 11515	Damage Reduction receive a Valkyrie
@@ -35635,6 +35635,8 @@ start
 405121	Right-click to add 60 minutes of Auto-Hunting time to this character. Added time never expires and is used once your free 60 minutes run out.
 405130	Reborn Christmas Token
 405131	A token of the season, dropped by monsters during the Christmas event. Trade it with Holly, the Christmas Keeper, in Aukra. It cannot be traded with other players.
+405140	Endless Harmony and Balance Set
+405141	5 Set Piece ring of endless power. Opens to five permanent rings that never expire: [High-grade] Ring of Protection, [High-grade] Ring of Onslaught, [High-grade] Ring of Rage, Ring of Storms and Ring of Harmony and Balance.\n\nSet Bonus (all 5 worn): Basic Damage +7%, All Elemental Damage +7%, Basic Defense +1.5%, Skill Damage +1.5%.\n\nThe 4th and 5th ring slots open with the Additional Cash Slot. The box and its rings cannot be traded. <Right-click to open>
 406755	Defense -%d%%   Resistances -%d
 59525	Moving interface
 59526	Drag a frame to move it. Right-click a frame to reset it. Hold Shift to place it without snapping.
@@ -35672,8 +35674,11 @@ start
 406757	Keep it in your inventory and its blessing is always on. No need to activate it, and it never expires.
 406758	Rare Drop Bonus
 406759	Wishing You Were Lucky
-406760	Keep it in your inventory and its blessing is always on and never expires. A failed enchant never breaks or downgrades your gear, and every roll lands at its best: gear and weapon stats, the quality of weapons and armour that drop, and Skill Liberation.
+406760	Keep it in your inventory and its blessing is always on and never expires. Every enchant succeeds, and even a failed one could never break or downgrade your gear. Every roll lands at its best: gear and weapon stats, the quality of weapons and armour that drop, and Skill Liberation. A failed craft keeps its materials, and monsters drop eleven times the Heim.
 406761	Perfect Rolls
+407600	Wishing You Were Me: Jackpot
+407601	Keep it in your inventory and its blessing is always on and never expires. Every box you open lands on its rarest prize: event boxes, Cash Shop boxes, random boxes and random reward picks alike. Enchanting, crafting and repairs cost no Heim, and HP and MP potions restore twice as much.
+407602	Lottery Luck
 406800	Legendary Weapons
 59557	Fast Cast on Target
 59558	Ground skills land on your selected target
@@ -36169,4 +36174,575 @@ start
 407507	Shallow Reserves: your max MP -%d%%
 407508	Rooted: your evasion -%d%%
 407509	Hunger: your natural HP recovery -%d%%
+//S.U.N Reborn 2026-11-25 quest titles + chapter headers (were missing: ID(...) Not Found)
+35880	Investigate the Guardian's Traces
+204120	Prince Austin's Request
+204121	To the Forgotten Place
+204122	Signs of Oblivion
+204123	Gather Tainted Plants
+204124	Destroy the Monster Plants 1
+204125	Destroy the Monster Plants 2
+204126	Deliver the Tainted Plants
+204127	Rampaging Hyenas
+204128	An Intact Krawl Fang
+204129	Report the Situation
+204130	What Comes Next
+204131	Toward the Guide of Souls
+204133	Deliver the Letter
+204134	Secure the Rear
+204135	Dream Stalkers
+204136	Trace the Source
+204137	Sealing Mission
+204138	Clear the Surroundings 1
+204139	Clear the Surroundings 2
+204140	Pass On the News
+204141	Highland Creatures 1
+204142	Highland Creatures 2
+204143	Disrupt the Spell
+204144	Share the Scouting Report
+204145	Scout the Infected
+204146	Wipe Out the Infected
+204147	Meet the Spy
+204148	The Unearthed Knights
+204149	Commander Liam
+204150	The Unchanging Shadow of Oblivion
+204151	Plundered Supplies
+204152	Find the Source of Oblivion
+204153	The Final Purge
+204154	Situation Report
+204155	Plateau Patrol
+204156	Veil of Death
+204157	The Unforgiven (Party Recommended/Daily)
+204158	Purge the Knights (Daily)
+204159	Clear the Front Line (Daily)
+204160	Golem Power Source (Daily)
+204161	The Purifier's Request (Daily)
+204162	Fearsome Beast Heads (Daily)
+204163	Purify Oblivion 1 (Daily)
+204164	Purify Oblivion 2 (Daily)
+204167	Ch.12 Land of Origin
+402518	Valley of Life
+402519	Ch.9 Boreas Mountains
+402520	Ch.10 Valley of Life
+402657	Valley of Life
+402658	The Road for Ascetics
+402659	Break the Imps' Spirit
+402660	Imps Who Wield Magic
+402661	Raider Kakiz
+402662	Ascetic Aran
+402663	Swarming Gaki
+402664	Lost Supplies
+402665	Menacing Monster Gaki
+402666	The Cave Expedition
+402667	Novice Cave Explorer
+402668	Animal or Plant?
+402669	Afraid of the Red Flowers
+402670	Venom Claw Chikara
+402671	The Frightened Collector
+402672	Ascetics Turned Monsters
+402673	Stringer's Collection
+402674	Those Who Have Seen Hell
+402675	Forgotten Ascetic Uldara
+402676	Trainer Maliga
+402677	Rampaging Flame Sentinels
+402678	Slay the Lava Sentinels
+402679	Collect Hormone Lumps
+402680	Burning Executioner Hakandes
+402681	Researcher Dr. Bin
+402682	Unidentified Spore Tentacles
+402683	Researcher Dr. Red
+402684	Monster Plants of the Valley
+402685	Knight Leader Backstrom
+402686	Smash the Rockjaws
+402687	Rockjaw Elite Warriors
+402688	Rockjaw Chieftain Grog
+402689	Mission Pit of Trials (Party Recommended/Daily)
+402691	Get Rid of the Pests (Daily)
+402692	Walk the Ascetics' Road (Daily)
+402693	Collect Monster Plant Samples (Daily)
+402695	The Archdemon Revealed
+402713	Settling the Road for Ascetics
+402714	Herald of the Tears of Gaia Oasis
+402715	Sentinels of the Temple of Fire
+402716	Confuse the Sentries
+402717	Sentry Captain Kokol
+402718	Infiltrator Shaeedo
+402719	Bizarre Creatures
+402720	Lost Autopsy Tools
+402721	Strange Structures and Tough Monsters
+402722	Oasis Ecology Research
+402723	Assistant Researcher Joan
+402724	Tainted Food
+402725	Cause of the Taint 1
+402726	Cause of the Taint 2
+402727	The Injured Gathering Expert
+402728	Radical Monks
+402729	Gather Pain-Relieving Herbs
+402730	Keepers of the Rule
+402731	Inquisitor Maiden
+402732	Beast Expert Leandra
+402733	A Giant Spider
+402734	Pick-and-Choose Hooks
+402735	Agonizing Venom
+402736	Mary Jane, Queen of Vermin
+402737	Monster Plant Researcher Dr. Mango
+402738	Stealthy Tentacle Monsters
+402739	Monster Plant Researcher Dr. Durian
+402740	Mana-Eating Plants
+402741	Assault Captain Rhino
+402742	Brown Ogre Slaughterers
+402743	Savage Ogre Elites
+402744	Brown Ogre Chieftain Korok
+402745	Mission Temple of Fire (Party Recommended/Daily)
+402747	Keep the Oasis Safe (Daily)
+402748	Protect the Ruins! (Daily)
+402749	Collect Monster Plant Samples (Daily)
+402771	Preparing to Cross the Desert
+402772	Crossing the Desert of Fantasy
+402773	Giant Worms
+402774	The Smell!
+402775	Boss of the Worms
+402776	Desert Guide
+402777	Spiders of the Barren Land
+402778	Lost Tools
+402779	A Giant Spider
+402780	Another Guide
+402781	The Broken Compass
+402782	Gather Compass Materials
+402783	The Repaired Compass
+402784	An Ambitious Guide
+402785	Dead End
+402786	Scout Olamis
+402787	Big-Mouthed Beasts
+402788	Sunlight Solaka
+402789	Deliver the Supplies
+402790	Get Rid of the Monster Apes
+402791	Manes for Disguise
+402792	Take Down the Boss Ape
+402793	Ace Assault Troopers
+402794	Chimera Jailers
+402795	Head Jailer Kovalev
+402796	Collect Desert Tribe Tokens
+402797	Slay the Underground Orcs
+402798	The Mighty Urk
+402799	Giant Mollu
+402801	Deliver the Enemy Orders
+402802	Slay Georg Baselitz
+402803	Mission Forbidden Experiment (Party Recommended/Daily)
+402804	Desert Wraiths (Daily)
+402805	Desert Spiders (Daily)
+402806	Stinking Bugs (Daily)
+402808	Those Wretched Gaki (Daily)
+402809	Noisy Monster Apes (Daily)
+402810	Neither Orc nor Lizard (Daily)
+402811	Mighty Underground Orcs (Daily)
+402845	Expanding into the Valley of Life
+402846	Noscalia Calls for Aid
+402847	Entering Noscalia
+402848	Trouble on the Approach
+402849	Wipe Out the Spiders
+402850	Alchemist Till
+402851	Hinder the Miners
+402852	Minerals of Noscalia
+402853	Crimson Commanders
+402854	Biologist Mua
+402855	Camp Overrun by Tentacles
+402856	The Vengeful Camp
+402857	The Camp Leader's Summons
+402858	Deputy Kiesa
+402859	Ancient Beings
+402860	Ancient Power
+402861	Warbringer Doug
+402862	Medication Expert Ansarov
+402863	A Flower in Full Red Bloom
+402864	Rare Mana Crystals
+402865	Sun-Soaked Flowers
+402866	Enchanting Tibura
+402867	The Explorers' League
+402868	Noscalia Raptor Research
+402869	I Need Hard Claws
+402870	Hunt the Tyrannus
+402871	Guard Officer Lobov
+402872	Wipe Out the Dark Bandits
+402873	Search for the Hidden Totems
+402874	Stolen Supplies
+402875	Subdue the Masked Agents
+402876	Bandit Leader Thornmask
+402877	Combat Instructor Sergio
+402878	Savage Wendigos
+402879	How Wendigos Fight
+402880	Wendigo Champion Wakinta
+402881	Mechanical Engineering Research
+402882	Destroy the Killer Dolls
+402883	Illegally Modified Killer Dolls
+402884	The Bringer of the End
+402886	Mission Absolute Defense Line (Party Recommended/Daily)
+402888	Weed the Camp
+402889	Noscalia Bounty
+402890	Bandits and Wendigos
+402891	Clear the Area Around the Portal
+402893	Elite Purge Operation
+402899	Elite Special Duty: Slay Zahamu of the End (Daily)
+402900	Elite Special Duty: Slay Georg Baselitz (Daily)
+402901	Elite Special Duty: Slay Gigas (Daily)
+402902	Elite Special Duty: Conquer Absolute Defense Line (Daily)
+402903	Elite Special Duty: Conquer Forbidden Experiment (Daily)
+402904	Elite Special Duty: Conquer Temple of Fire (Daily)
+402905	Elite Special Duty: Conquer Pit of Trials (Daily)
+402910	The Cornered Enemy
+402911	Pursue Ignis
+402912	The Road to the Outpost
+402913	A Conspicuous Disguise
+402914	Pollen Rash
+402915	Seed-Sowing Begonias
+402916	Secure the Outpost
+402917	A Chilling Gaze
+402918	Block Ignis' Sight
+402919	An Eye for an Eye!!
+402920	Open the Gate!
+402921	Interference from the Poison Dart Frogs
+402922	Marking Territory
+402923	Northern Gatekeeper Ukanta
+402924	Quartermaster Arsion
+402926	Clear the Spider Den
+402927	They Took Everything!
+402928	Grilled Spider Legs When Hungry?
+402929	This Time It's Our Turn to Take
+402930	Webfoot Tribe Raid
+402931	The Webfoot Tribe's Treasure!
+402932	What's Theirs Is Ours
+402933	Break the Saw Blades!
+402934	Tainted Drinking Water
+402935	Tree Monster Sap
+402936	Remove the Source of the Taint
+402937	Install the Water Purifier
+402938	Allied Archmage Silvertex
+402939	Secure the Sea Approach
+402940	Deal with the Mutant Moss Tribe Warriors 1
+402941	Deal with the Mutant Moss Tribe Warriors 2
+402943	Recover Battle Gear - Weapons
+402944	Recover Battle Gear - Armor
+402945	Remove the Master of the Harbor
+402946	Traces of the Great Spell
+402947	Brainwashed Natives
+402948	Collect Magic Debris
+402949	Unwavering Hostility
+402950	Ether-Tainted Hogkeratops
+402951	Purify the Tainted Ether
+402952	Return to the Outpost
+402954	Mission The Great Spell (Party Recommended/Daily)
+402956	That Wretched Rash
+402957	Prying Eyes
+402958	Persistent Pests
+402959	Preserve the Great Magic Relics
+402960	There Are Always More Elite Soldiers!
+402961	Cunning Captains
+403145	Magical Aftermath
+403146	Cleaning Up
+403147	Monster Plants Everywhere
+403148	Monster Plant Sap
+403149	Deep-Rooted Hosta
+403150	Rescue the Investigator
+403151	Escape!
+403152	Clear Out the Stragglers
+403153	The Secret Code
+403154	An Alliance in Danger
+403155	Unbearable Rage
+403156	Smash the Gargoyles
+403157	Remove the Transformed Gargoyles
+403158	Tear Apart the Hyenas
+403159	The Leader's Jawbone
+403160	Forgetfulness
+403161	Remove the Raiders
+403162	Hermits Belong in Hiding
+403163	The Missing Messenger
+403164	Stolen Food
+403165	It's Alive!
+403166	Beacon Tower Report
+403167	Strengthen the Alliance!
+403168	Secure the Water Source
+403169	Weaken the Naga
+403170	Slay the Assassins!
+403171	Clean Up the Water Source
+403172	Restore the Homeland
+403174	Demon Flood
+403175	Mighty Demon Golem
+403176	Seal the Demons
+403177	Twisted Beasts
+403178	Fall of the Giant
+403179	Trust Regained
+403180	Punish the Traitors
+403181	Cut Off the Ashpile Tribe's Limbs
+403182	Ashes to Ashes, Dust to Dust
+403183	Power from Another Dimension
+403185	Ember of Death (Party Recommended/Daily)
+403187	Weeding (Daily)
+403188	Clear the Tainted Road 1 (Daily)
+403189	Clear the Tainted Road 2 (Daily)
+403190	Hold the Beacon Tower (Daily)
+403191	Keep the Water Source Clean (Daily)
+403192	Rocks Steeped in Magic Miasma 1 (Daily)
+403193	Rocks Steeped in Magic Miasma 2 (Daily)
+403194	Crush the Seeds of Betrayal (Daily)
+403209	Ch.11 Valley of Death
+403301	Stabilize the Front
+403302	Support for the Salt Desert
+403303	Quality Rock Salt
+403304	The Living Salt Refiner
+403305	Recover the Broken Cart Parts
+403306	Plump Pincers
+403307	Scorpion Venom Is the Best Venom
+403308	Identify the Raiders
+403309	Beat Up the Highwaymen
+403310	Recover the Stolen Parts
+403311	Meet the Farm Manager
+403312	Crabs Gone Wild
+403313	But How Do They Taste?
+403314	Parasite-Infected Crabs
+403315	Rampage of the Thornkin Fanatics
+403316	Stolen Salt Crates
+403317	Troublesome Thornkin
+403318	Punish the Thornkin Fanatics
+403319	Things That Must Not Spread
+403320	Find the Cause of the Stench
+403321	If It's Not Edible, We Don't Need It!
+403322	Remove the Source of the Stench
+403323	The Transport Officer's Troubles
+403324	Tame the Scoparius
+403325	If We Can't Tame Them, Hides and Bones Will Do!
+403326	Scoparius Eggs?
+403327	A Powerful Female's Hormone Gland
+403328	Followers of the Ancient God
+403329	Traces of the Ancient God's Cult
+403330	Clash of Beliefs
+403331	Old Machines
+403332	How Do They Work?
+403333	Loyal Servants of the Ancient God
+403334	Stop the Offering Collection!
+403335	The Offerings They Harvested
+403336	Stop the Descent Ritual
+403337	Fragments of the Failed Ritual
+403338	Water!
+403339	The Past Is in the Past
+403341	Traces of Creation (Party Recommended/Daily)
+403343	Punish the Robbers 1
+403345	Punish the Robbers 2
+403346	Pest Control
+403348	Remove the Fanatics
+403349	Remove the Fanatic Fighters
+403350	One Step Forward for Science!
+403351	Fanatical Leaders
+403352	Water in the Desert!
+403370	Search the Volcanic Zone
+403371	The Wanderer's Request 1
+403372	The Wanderer's Request 2
+403373	The Wanderer's Request 3
+403374	Find the Search Party
+403375	Traces of Ignis
+403376	Follow the Trail
+403377	Take the Highlands
+403378	Extract the Venom Stingers
+403379	Visit the Expedition
+403380	The Biologist's Advice
+403381	The Biologist's Experiment Prep 1
+403382	The Biologist's Experiment Prep 2
+403383	Find the Source of the Power
+403384	Track the Demons' Movements
+403385	The Imps' Suspicious Movements
+403386	Ominous Magic Stones
+403387	Mind Reform
+403388	Rescue the Archaeologist 1
+403389	Rescue the Archaeologist 2
+403390	Check the Tremors
+403391	Contain the Power from Another Dimension
+403392	Disrupt the Sorcery
+403393	Recover the Rift Stones
+403394	Situation Report
+403395	Seal the Rift
+403396	Wipe Out the Wicked Horde
+403397	Slay the Demons
+403398	Check the Dead Fires Twice
+403399	Another Magic Stone
+403400	Clear the Surroundings
+403401	Acquire Research Materials
+403402	Defend the Rift
+403403	Cut It Off at the Source
+403404	The Search Party's Report
+403405	The Flightless Wyverns
+403406	Search the Wyvern Nests
+403407	Weaken Their Forces
+403408	Unstoppable Power
+403410	Magic Stone Maintenance (Daily)
+403413	Sabotage (Party Recommended/Daily)
+403415	Clean Up Around the Rift 1 (Daily)
+403416	Clean Up Around the Rift 2 (Daily)
+403417	Secure the Supply Route (Daily)
+403418	Plague Prevention (Daily)
+403419	Purify the Toxic Zone (Daily)
+403420	Calm the Savage Spickles (Daily)
+403421	Clean Out the Nests (Daily)
+403426	To the Holy City of Moraine
+403427	Karen's Request 1
+403428	Karen's Request 2
+403429	Karen's Request 3
+403430	Find Chief Brian
+403431	Missing Tribesman Jerry
+403432	Spider Attack 1
+403433	Spider Attack 2
+403434	The Only Flower of Its Kind
+403435	Greetings from a Flower
+403436	Dragna Wings
+403437	The Giant Dragna
+403438	A Suspicious Crystal
+403439	Deliver the Letter
+403440	Return to the Main Force
+403442	Clear Out the Spiders
+403443	Fearsome Automatons
+403444	The Archaeologist's Research
+403445	Weaken the Rock Raiders
+403446	Purge the Snakescale Zone
+403447	Another Crystal
+403448	To Moraine Castle
+403449	The Biologist's Troubles
+403450	Accept the Alliance
+403451	Battle in the Holy Arena
+403452	Lock Down the Holy Arena
+403453	An Audience with the Prince
+403454	The Plight of Moraine
+403455	Reinforce Moraine Castle 1
+403456	Reinforce Moraine Castle 2
+403457	The Prince's Summons
+403458	Final Preparations
+403459	Battle Readiness 1
+403460	Battle Readiness 2
+403461	Battle Readiness 3
+403462	The Prince's Last Order
+403464	The Holy Destroyer
+403465	The Fallen Dynasty (Party Recommended/Daily)
+403466	Holy Arena Upkeep (Daily)
+403468	Clean the Altar (Daily)
+403469	Tighten Moraine Castle's Guard (Daily)
+403470	Secure the Supply Route (Daily)
+403471	Discipline the Barbarians (Daily)
+403472	Strip the Rock Raiders' Armor (Daily)
+403473	Sweep the Peacocks (Daily)
+403506	To the Shadow Fortress
+403507	Who Wears the Mask
+403508	Remove the Masked Horde
+403509	Recover the Supplies
+403510	Visit the Outpost
+403511	The Vanguard Captain's Troubles
+403512	Frog Cleanup 1
+403513	Frog Cleanup 2
+403514	Supply the Power
+403515	Cut the Power
+403516	Restock the Thorns
+403517	Punish the Impure Energy
+403518	Deliver the Thorns
+403519	The Scout's Request 1
+403520	The Scout's Request 2
+403521	Secure the Western Bridgehead
+403522	Expand the Equipment 1
+403523	Expand the Equipment 2
+403524	Deliver the Equipment
+403525	Punish the Wicked Horde 1
+403526	Punish the Wicked Horde 2
+403528	Hold the Eastern Front
+403529	Diversion 1
+403530	Diversion 2
+403531	Slay the Leader
+403535	Forward March
+403536	Drive Off the Ogres 1
+403537	Drive Off the Ogres 2
+403539	Encircle and Annihilate
+403540	Assassinate the Shadows
+403541	Fall of the Shadow Fortress
+403542	Retake the Shadow Fortress
+403544	Day of Judgment (Party Recommended/Daily)
+403545	Strengthen the Western Bulwark (Daily)
+403546	Reinforce the Eastern Camp (Daily)
+403548	Cunning Rakuni (Daily)
+403549	Dispose of the Test Subjects (Daily)
+403550	A Solid Outpost (Daily)
+403551	Patrol the Shadow Fortress (Daily)
+406000	Daily Quest
+406762	Berserker New Panda Costume
+406763	Dragon Knight New Panda Costume
+406764	Shadow New Panda Costume
+406765	Valkyrie New Panda Costume
+406766	Elementalist New Panda Costume
+406767	Mystic New Panda Costume
+406768	Helroid New Panda Costume
+406769	Witchblade New Panda Costume
+406770	Cat Axe (Weapon Skin)
+406771	Cat Greatsword (Weapon Skin)
+406772	Cat Sword (Weapon Skin)
+406773	Cat Spear (Weapon Skin)
+406774	Cat Dagger (Weapon Skin)
+406775	Cat Whip-Sword (Weapon Skin)
+406776	Cat Crossbow (Weapon Skin)
+406777	Cat Ether Weapon (Weapon Skin)
+406778	Cat Staff (Weapon Skin)
+406779	Cat Orb (Weapon Skin)
+406780	Cat Gauntlet (Weapon Skin)
+406781	Cat Scythe (Weapon Skin)
+406782	Cat Blaster (Weapon Skin)
+406783	Cat Arcblade (Weapon Skin)
+59600	Fashion Wardrobe
+59601	%s was moved into your Fashion Wardrobe.
+59602	%s has expired and left your Fashion Wardrobe.
+59603	Costumes
+59604	Weapon skins
+59605	Wings
+59606	Show look
+59607	Use stats
+59608	Remove
+59609	Look
+59610	OK
+59611	The Fashion Wardrobe is not available.
+59612	Your wardrobe is still loading. Try again in a moment.
+59613	Only costumes, wings and weapon skins can go into the wardrobe.
+59614	That item is locked or busy right now.
+59615	That item can't be moved.
+59616	You already own that look permanently.
+59617	That costume has expired.
+59618	Your wardrobe is full.
+59619	The wardrobe couldn't store it. The item was returned to your bag.
+59620	You haven't unlocked that look.
+59621	That look is for another class.
+59622	That look doesn't fit that slot.
+59623	Please wait a moment.
+59630	Stats from
+59631	Weapon skin
+59632	Wings
+59633	None
+59634	Same as stats costume
+59635	Right-click a costume in your bag to move it in.
+59636	Move %s into your Fashion Wardrobe? It will be unlocked for your account and can't be taken back out.
+59637	Nothing here yet.
+59638	%d unlocked
+59640	Loading wardrobe...
+59641	Moved costumes are bound to your account.
+59642	Stats
+59643	Worn
+59644	Show skin
+59645	Show wings
+59646	Stop stats
+406784	Berserker Tribal Warrior Costume (Fashion)
+406785	Dragon Knight Red Dress Costume (Fashion)
+406786	Valkyrie Tomboy Cowgirl Costume (Fashion)
+406787	Elementalist Red Dress Costume (Fashion)
+406788	Shadow Assassin Costume (Fashion)
+406789	Mystic Olive Green Dress Costume (Fashion)
+406790	Witchblade Pirate Costume (Fashion)
+406791	Berserker Uniform Costume (Fashion)
+406792	Dragon Knight Uniform Costume (Fashion)
+406793	Valkyrie Uniform Costume (Fashion)
+406794	Elementalist Uniform Costume (Fashion)
+406795	Shadow Uniform Costume (Fashion)
+406796	Mystic Uniform Costume (Fashion)
+406797	Helroid Uniform Costume (Fashion)
+406798	Witchblade Uniform Costume (Fashion)
+406799	Fashion Ticket
+59650	Trade it with Marielle, the Fashion Master in Waldchen, for a costume look that is yours for good. Fashion looks change only how you look.
 end

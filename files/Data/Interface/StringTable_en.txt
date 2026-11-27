@@ -33100,7 +33100,7 @@ start
 47996	Mysterious crystal that forms when Elite 4 Armor is crystalized.
 47997	Mysterious crystal that forms when Elite 4 Weapon is crystalized.
 30452	Elite Grade 4
-11512	Damage Reduction receive a Monster
+11512	Reduced PvE Damage
 11513	Damage Reduction receive a Berserker
 11514	Damage Reduction receive a Dragon Knight
 11515	Damage Reduction receive a Valkyrie
@@ -34525,12 +34525,17 @@ start
 406757	Keep it in your inventory and its blessing is always on. No need to activate it, and it never expires.
 406758	Rare Drop Bonus
 406759	Wishing You Were Lucky
-406760	Keep it in your inventory and its blessing is always on and never expires. A failed enchant never breaks or downgrades your gear, and every roll lands at its best: gear and weapon stats, the quality of weapons and armour that drop, and Skill Liberation.
+406760	Keep it in your inventory and its blessing is always on and never expires. Every enchant succeeds, and even a failed one could never break or downgrade your gear. Every roll lands at its best: gear and weapon stats, the quality of weapons and armour that drop, and Skill Liberation. A failed craft keeps its materials, and monsters drop eleven times the Heim.
 406761	Perfect Rolls
+407600	Wishing You Were Me: Jackpot
+407601	Keep it in your inventory and its blessing is always on and never expires. Every box you open lands on its rarest prize: event boxes, Cash Shop boxes, random boxes and random reward picks alike. Enchanting, crafting and repairs cost no Heim, and HP and MP potions restore twice as much.
+407602	Lottery Luck
 405090	Vault Expansion
 405091	Unlocks the next tab of your Cash Vault - tabs 6 to 10, one tab per use - for your whole ACCOUNT.\nIf the vault is open, the new tab appears straight away.
 405130	Reborn Christmas Token
 405131	A token of the season, dropped by monsters during the Christmas event. Trade it with Holly, the Christmas Keeper, in Aukra. It cannot be traded with other players.
+405140	Endless Harmony and Balance Set
+405141	5 Set Piece ring of endless power. Opens to five permanent rings that never expire: [High-grade] Ring of Protection, [High-grade] Ring of Onslaught, [High-grade] Ring of Rage, Ring of Storms and Ring of Harmony and Balance.\n\nSet Bonus (all 5 worn): Basic Damage +7%, All Elemental Damage +7%, Basic Defense +1.5%, Skill Damage +1.5%.\n\nThe 4th and 5th ring slots open with the Additional Cash Slot. The box and its rings cannot be traded. <Right-click to open>
 407001	Enfeeble Duration +1s
 407002	Enfeeble Duration +2s
 407003	Enfeeble Duration +3s
@@ -34955,6 +34960,85 @@ start
 59363	This item has been upgraded, enchanted or has a time limit, so it can't be stored in Event Items storage.
 59364	This item can't be moved right now. Make sure it isn't locked or in use, then try again.
 59365	Event Items storage is busy. Please try again in a moment.
+406762	Berserker New Panda Costume
+406763	Dragon Knight New Panda Costume
+406764	Shadow New Panda Costume
+406765	Valkyrie New Panda Costume
+406766	Elementalist New Panda Costume
+406767	Mystic New Panda Costume
+406768	Helroid New Panda Costume
+406769	Witchblade New Panda Costume
+406770	Cat Axe (Weapon Skin)
+406771	Cat Greatsword (Weapon Skin)
+406772	Cat Sword (Weapon Skin)
+406773	Cat Spear (Weapon Skin)
+406774	Cat Dagger (Weapon Skin)
+406775	Cat Whip-Sword (Weapon Skin)
+406776	Cat Crossbow (Weapon Skin)
+406777	Cat Ether Weapon (Weapon Skin)
+406778	Cat Staff (Weapon Skin)
+406779	Cat Orb (Weapon Skin)
+406780	Cat Gauntlet (Weapon Skin)
+406781	Cat Scythe (Weapon Skin)
+406782	Cat Blaster (Weapon Skin)
+406783	Cat Arcblade (Weapon Skin)
+59600	Fashion Wardrobe
+59601	%s was moved into your Fashion Wardrobe.
+59602	%s has expired and left your Fashion Wardrobe.
+59603	Costumes
+59604	Weapon skins
+59605	Wings
+59606	Show look
+59607	Use stats
+59608	Remove
+59609	Look
+59610	OK
+59611	The Fashion Wardrobe is not available.
+59612	Your wardrobe is still loading. Try again in a moment.
+59613	Only costumes, wings and weapon skins can go into the wardrobe.
+59614	That item is locked or busy right now.
+59615	That item can't be moved.
+59616	You already own that look permanently.
+59617	That costume has expired.
+59618	Your wardrobe is full.
+59619	The wardrobe couldn't store it. The item was returned to your bag.
+59620	You haven't unlocked that look.
+59621	That look is for another class.
+59622	That look doesn't fit that slot.
+59623	Please wait a moment.
+59630	Stats from
+59631	Weapon skin
+59632	Wings
+59633	None
+59634	Same as stats costume
+59635	Right-click a costume in your bag to move it in.
+59636	Move %s into your Fashion Wardrobe? It will be unlocked for your account and can't be taken back out.
+59637	Nothing here yet.
+59638	%d unlocked
+59640	Loading wardrobe...
+59641	Moved costumes are bound to your account.
+59642	Stats
+59643	Worn
+59644	Show skin
+59645	Show wings
+59646	Stop stats
+406784	Berserker Tribal Warrior Costume (Fashion)
+406785	Dragon Knight Red Dress Costume (Fashion)
+406786	Valkyrie Tomboy Cowgirl Costume (Fashion)
+406787	Elementalist Red Dress Costume (Fashion)
+406788	Shadow Assassin Costume (Fashion)
+406789	Mystic Olive Green Dress Costume (Fashion)
+406790	Witchblade Pirate Costume (Fashion)
+406791	Berserker Uniform Costume (Fashion)
+406792	Dragon Knight Uniform Costume (Fashion)
+406793	Valkyrie Uniform Costume (Fashion)
+406794	Elementalist Uniform Costume (Fashion)
+406795	Shadow Uniform Costume (Fashion)
+406796	Mystic Uniform Costume (Fashion)
+406797	Helroid Uniform Costume (Fashion)
+406798	Witchblade Uniform Costume (Fashion)
+406799	Fashion Ticket
+59650	Trade it with Marielle, the Fashion Master in Waldchen, for a costume look that is yours for good. Fashion looks change only how you look.
 end
 405110	The Spear of Dawn
 405111	Complete your class change-up. The Order of the Dawn will take you, and you may create a Paladin.

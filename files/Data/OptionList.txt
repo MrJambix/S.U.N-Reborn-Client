@@ -113,3 +113,4 @@ Index	OptionName	ValueType	ValueType2	Ncode	FieldEnd
 126	RareDrop	1	0	406758	
 127	Luck	0	0	11452	
 128	PerfectRoll	0	0	406761	
+130	LotteryLuck	0	0	407602	

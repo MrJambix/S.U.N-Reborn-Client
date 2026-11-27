@@ -5091,10 +5091,13 @@ start
 17509	Auto Hunt Recharger
 17510	Seal Broker
 17511	Holly
-17512	Christmas Keeper
+17512	Valley Manager Baclas
+18610	Christmas Keeper
 17526	Ysolde Vane
 17527	Pip Thimble
 17528	Coralie Brisk
 17529	Vesk the Dyer
 17530	Hollis Ashgrave
+59651	Marielle
+59652	Fashion Master
 end
