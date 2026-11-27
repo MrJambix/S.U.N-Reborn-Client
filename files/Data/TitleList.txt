@@ -94,3 +94,12 @@
 	91	405040	1	0	0	0	0	0	0	0	0	0		//	Oathkeeper of Life	SUN Ranking MasterOfHeal rank 3
 	92	406098	1	78	1	5	28	1	500	45	5	15		//	Second Sun	The Second Sun questline completion
 	93	405044	1	0	0	0	0	0	0	0	0	0		//	[DEV]	Staff
+	94	405206	1	0	0	0	0	0	0	0	0	0		//	Summit Walker	SUN Ranking TowerClimber rank 1
+	95	405207	1	0	0	0	0	0	0	0	0	0		//	Spire Breaker	SUN Ranking TowerClimber rank 2
+	96	405208	1	0	0	0	0	0	0	0	0	0		//	Stairwarden	SUN Ranking TowerClimber rank 3
+	97	405209	1	0	0	0	0	0	0	0	0	0		//	The Unbroken	SUN Ranking Unstoppable rank 1
+	98	405210	1	0	0	0	0	0	0	0	0	0		//	Deathless Reaver	SUN Ranking Unstoppable rank 2
+	99	405211	1	0	0	0	0	0	0	0	0	0		//	Relentless	SUN Ranking Unstoppable rank 3
+	100	405212	1	0	0	0	0	0	0	0	0	0		//	Crownslayer	SUN Ranking Headhunter rank 1
+	101	405213	1	0	0	0	0	0	0	0	0	0		//	Kingsbane	SUN Ranking Headhunter rank 2
+	102	405214	1	0	0	0	0	0	0	0	0	0		//	Bounty Stalker	SUN Ranking Headhunter rank 3

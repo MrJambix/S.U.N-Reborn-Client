@@ -31059,13 +31059,13 @@ start
 3618	Viewing Information
 3619	Request Remaining Time: %s
 3620	SUN Ranking (Shift+R)
-3610	<font=mn12><color=ffebe0c8>Who is the best of best expedition warrior?</font></color>
-3611	<font=mn12><color=ffebe0c8>Best warrior of PVP recorded the most kills in a Takeover and Siege War!</font></color>
+3610	<font=mn12><color=ffebe0c8>Who is the best of the best? Every board below adds to this one!</font></color>
+3611	<font=mn12><color=ffebe0c8>The PvP champion! Every player you defeat counts, anywhere in the world.</font></color>
 3612	<font=mn12><color=ffebe0c8>A symbol of passion and patience, Who is the top level of the SUN ?</font></color>
 3613	<font=mn12><color=ffebe0c8>Legendary equipment led to numerous battles to victory</font></color>
 3614	<font=mn12><color=ffebe0c8>Fatal dealers recorded the highest amount of damage in the battle zone!</font></color>
 3615	<font=mn12><color=ffebe0c8>The best striker recorded the highest cumulative amount of damage in the battle zone!</font></color>
-3616	<font=mn12><color=ffebe0c8>"Master of Healing" score does not count the "Best of Best" score</font></color>
+3616	<font=mn12><color=ffebe0c8>Most healing in the battle zones! Healing also counts toward Best of Best.</font></color>
 //오전 11:18 2015-02-24
 9100	February Premium Combination
 //오후 6:09 2015-02-24
@@ -36745,4 +36745,19 @@ start
 406798	Witchblade Uniform Costume (Fashion)
 406799	Fashion Ticket
 59650	Trade it with Marielle, the Fashion Master in Waldchen, for a costume look that is yours for good. Fashion looks change only how you look.
+405200	Tower Climber
+405201	Unstoppable
+405202	Headhunter
+405203	<font=mn12><color=ffebe0c8>Highest floor cleared across the Trials of Earth, Wind and Light!</font></color>
+405204	<font=mn12><color=ffebe0c8>Longest run of PvP kills without dying once. Fall and it starts over!</font></color>
+405205	<font=mn12><color=ffebe0c8>Hunt the champions! PvP kills on anyone holding a top-3 place on a board.</font></color>
+405206	Summit Walker
+405207	Spire Breaker
+405208	Stairwarden
+405209	The Unbroken
+405210	Deathless Reaver
+405211	Relentless
+405212	Crownslayer
+405213	Kingsbane
+405214	Bounty Stalker
 end
