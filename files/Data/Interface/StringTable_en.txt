@@ -35039,6 +35039,8 @@ start
 406798	Witchblade Uniform Costume (Fashion)
 406799	Fashion Ticket
 59650	Trade it with Marielle, the Fashion Master in Waldchen, for a costume look that is yours for good. Fashion looks change only how you look.
+407692	Rebirth
+407693	Rebirth: The Long Road Back
 end
 405110	The Spear of Dawn
 405111	Complete your class change-up. The Order of the Dawn will take you, and you may create a Paladin.

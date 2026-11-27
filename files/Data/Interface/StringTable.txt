@@ -35015,6 +35015,47 @@ start
 406798	Witchblade Uniform Costume (Fashion)
 406799	Fashion Ticket
 59650	Trade it with Marielle, the Fashion Master in Waldchen, for a costume look that is yours for good. Fashion looks change only how you look.
+407419	FP Boost Duration +1s
+407471	FP Boost Duration +2s
+407472	FP Boost Duration +3s
+407473	FP Boost Damage +3%
+407474	FP Boost Damage +5%
+407475	FP Boost Damage +8%
+407476	FP Boost Duration +0.5s
+407477	FP Boost Duration +1.5s
+407478	FP Boost Duration +2.5s
+407479	FP Boost Duration +1s & FP Boost Damage +8%
+407480	FP Boost Duration +2s & FP Boost Damage +8%
+407481	FP Boost Duration +3s & FP Boost Damage +8%
+407482	FP Boost Duration +1s & FP Boost Damage +5%
+407483	FP Boost Duration +2s & FP Boost Damage +5%
+407484	FP Boost Duration +3s & FP Boost Damage +5%
+407485	HP Recovery +10
+407486	HP Recovery +20
+407487	HP Recovery +30
+407488	Vitality Duration +60s
+407489	Vitality Duration +120s
+407490	Vitality Duration +180s
+407491	Vitality Duration +60s & HP Recovery +30
+407492	Vitality Duration +120s & HP Recovery +30
+407493	Vitality Duration +180s & HP Recovery +30
+407494	Vitality Duration +60s & HP Recovery +20
+407495	Vitality Duration +120s & HP Recovery +20
+407496	Vitality Duration +180s & HP Recovery +20
+407497	Vitality Duration +10s
+407498	Vitality Duration +20s
+407499	Vitality Duration +30s
+407510	Vitality Duration +5s
+407511	Vitality Duration +15s
+407512	Vitality Duration +25s
+407513	Vitality Duration +10s & HP Recovery +30
+407514	Vitality Duration +20s & HP Recovery +30
+407515	Vitality Duration +30s & HP Recovery +30
+407516	Vitality Duration +10s & HP Recovery +20
+407517	Vitality Duration +20s & HP Recovery +20
+407518	Vitality Duration +30s & HP Recovery +20
+407692	Rebirth
+407693	Rebirth: The Long Road Back
 end
 405110	The Spear of Dawn
 405111	Complete your class change-up. The Order of the Dawn will take you, and you may create a Paladin.

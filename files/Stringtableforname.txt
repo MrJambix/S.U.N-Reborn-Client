@@ -5100,4 +5100,5 @@ start
 17530	Hollis Ashgrave
 59651	Marielle
 59652	Fashion Master
+17533	Aldric the Twice-Born
 end
