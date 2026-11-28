@@ -36865,4 +36865,6 @@ start
 406057	That row cannot be rerolled.
 406058	Please wait a moment for the last roll to be saved.
 406059	Use a liberation stone of the same grade this skill was liberated with.
+407694	Wishing You Were Relentless
+407695	Keep it in your inventory and its blessing is always on and never expires. Your SD recovers 100 faster, 10% of all damage you take is thrown back at the attacker, and every normal attack, with any weapon, strikes up to three enemies around your target.
 end
